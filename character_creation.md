@@ -35,7 +35,7 @@ Anywhere where you see a "filtered list" of options in a picture below, you can 
 ### Races
 To see allowed Races, set the filters as follows:
 
-![](assets\allowed_races.png)
+![](assets/allowed_races.png)
 
 * When creating your character, think about if the race selection fits within the general lore of Forgotten Realms in 5e. If your character's race is from a different IP that does not exist in the Forgotten Realms in 5e, it will not be allowed.
 * All UA or earlier official content reprinted in future official books must be updated (i.e. Minotaurs, triton and centaurs from VGM to MOT, Dhampir from UA:GL to VRGR). There are no exceptions.
@@ -47,27 +47,27 @@ To see allowed Races, set the filters as follows:
 ### Classes
 
 To see allowed Classes, set the filters as follows:
-![](assets\allowed_backgrounds.png)
+![](assets/allowed_backgrounds.png)
 
 ### Spells
 
 To see allowed Spells, set the filters as follows:
-![](assets\allowed_spells.png)
+![](assets/allowed_spells.png)
 
 ### Backgrounds
 
 To see allowed Backgrounds, set the filters as follows:
-![](assets\allowed_backgrounds.png)
+![](assets/allowed_backgrounds.png)
 
 ### Feats
 
 To see allowed Feats, set the filters as follows:
-![](assets\allowed_feats.png)
+![](assets/allowed_feats.png)
 
 ### Items
 
 To see allowed items, set the filters as follows:
-![](assets\allowed_items.png)
+![](assets/allowed_items.png)
 
 We allow items with the Renaissance tag but not the Futuristic tag. There are no exceptions.
 
@@ -110,7 +110,7 @@ Find your character art and either
 * create a token using [Token Stamp 2](http://rolladvantage.com/tokenstamp/) and pasting a public url (such as imgur) in the token image path of your character's token settings
 * or create it directly in the sheet using the "Roll Advantage" icon next to the image path field. (See image below.)
 
-![](assets\token_creation.png)
+![](assets/token_creation.png)
 
 ### Reworking
 
