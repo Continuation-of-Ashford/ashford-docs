@@ -15,24 +15,22 @@ You can create your sheet through D&D Beyond and then import that sheet onto Fou
 
 (`TODO`: insert image of the button or video of the process.)
 
-## General Character Creation
+# General Character Creation
 
 Anywhere where you see a "filtered list" of options in a picture below, you can recreate that selection on [5e.tools](https://5e.tools), which is an unofficial D&D 5e resource.
-
-### General
 
 * All characters start from level 3 with standard 27-point buy.
 * For HP you can roll or take flat values with one hp re-roll per character.
 * Starting player items are as described in the Player’s Handbook and in Tasha's Cauldron of Everything for Artificer (TCE, pg. 9).
 * Customizing Your Origin (TCE, pg. 7) is not allowed.
 
-#### Notable Changes
+## Notable Changes
 * PC stats can go above 20 through either ASIs (Ability Score Improvements) or items.
 * The maximum amount of attunement slots is increased to 5.
 
-## Core Character Creation
+# Core Character Creation
 
-### Races
+## Races
 To see allowed Races, set the filters as follows:
 
 ![](assets/allowed_races.png)
@@ -40,40 +38,40 @@ To see allowed Races, set the filters as follows:
 * When creating your character, think about if the race selection fits within the general lore of Forgotten Realms in 5e. If your character's race is from a different IP that does not exist in the Forgotten Realms in 5e, it will not be allowed.
 * All UA or earlier official content reprinted in future official books must be updated (i.e. Minotaurs, triton and centaurs from VGM to MOT, Dhampir from UA:GL to VRGR). There are no exceptions.
 
-#### Caveats
+### Caveats
 * If you would like to use Custom Lineage (TCE), approval from `@Big Mans` or `@Dungeon Masters` is required.
 * If you are allowed to use a Custom Lineage, you can pick one race for the purposes of racially locked feats and items. This must be recorded in your sheet.
 
-### Classes
+## Classes
 
 To see allowed Classes, set the filters as follows:
 ![](assets/allowed_backgrounds.png)
 
-### Spells
+## Spells
 
 To see allowed Spells, set the filters as follows:
 ![](assets/allowed_spells.png)
 
-### Backgrounds
+## Backgrounds
 
 To see allowed Backgrounds, set the filters as follows:
 ![](assets/allowed_backgrounds.png)
 
-### Feats
+## Feats
 
 To see allowed Feats, set the filters as follows:
 ![](assets/allowed_feats.png)
 
-### Items
+## Items
 
 To see allowed items, set the filters as follows:
 ![](assets/allowed_items.png)
 
 We allow items with the Renaissance tag but not the Futuristic tag. There are no exceptions.
 
-## Server Specific
+# Server Specific
 
-### Nicknames
+## Nicknames
 
 After creating your character, please change your nickname to show the initial and level and try to keep this updated in one of the following formats.
 
@@ -93,16 +91,16 @@ For example:
 @Firecard (R20,K20,I20,W,D,M,Z)
 ```
 
-### Character Slots
+## Character Slots
 
 * You can make an additional character when the highest in your roster hits level 6, 9 and 12. After 12th level you can make an unlimited amount of characters who all start as described in the character creation rules.
 * You cannot trade or sell items or gold between your own characters in any way ever.
 
-### Character Background
+## Character Background
 
 Once you have created a character, you can optionally put a small background along with a picture in the `#characters` channel on Discord.
 
-### Token Creation
+## Token Creation
 
 Once you have created your character, you will need to create a token. 
 
@@ -112,7 +110,7 @@ Find your character art and either
 
 ![](assets/token_creation.png)
 
-### Reworking
+## Reworking
 
 When a character reaches ***10th, 15th, and 20th level***, it gets a token. These tokens do not have to be spent immediately and can accrue.
 
