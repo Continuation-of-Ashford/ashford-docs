@@ -93,7 +93,8 @@ For example:
 
 ## Character Slots
 
-* You can make an additional character when the highest in your roster hits level 6, 9 and 12. After 12th level you can make an unlimited amount of characters who all start as described in the character creation rules.
+* You can make an additional character when the highest in your roster hits ***`6`, `9` and `12` level***. 
+* After ***`12`th level*** you can make an unlimited number of characters who all start as described in the character creation rules.
 * You cannot trade or sell items or gold between your own characters in any way ever.
 
 ## Character Background
@@ -112,7 +113,7 @@ Find your character art and either
 
 ## Reworking
 
-When a character reaches ***10th, 15th, and 20th level***, it gets a token. These tokens do not have to be spent immediately and can accrue.
+When a character reaches ***`10`th, `15`th, and `20`th level***, it gets a token. These tokens do not have to be spent immediately and can accrue.
 
 You can spend one (`1`) token to change a character's class levels, ability scores, proficiencies, feats, and prestige options as appropriate. (`TODO`: explain more the extent of changes that can be made.)
 
