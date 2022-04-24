@@ -31,7 +31,7 @@ Anywhere where you see a "filtered list" of options in a picture below, you can 
 # Core Character Creation
 
 ## Races
-To see allowed Races, set the filters according to the image below, or use this [link](https://5e.tools/races.html#flstsource:psz=1~uagothicheroes=1~ttp=1~oga=1~lr=1~awm=1~scc=0,flopsource:extend).
+To see allowed Races, set the filters according to the image below, or use this [link](https://5e.tools/races.html#aarakocra_eepc,flstsource:awm=1~lr=1~oga=1~psz=1~scc=0~ttp=1~uagothicheroes=1,flopsource:extend).
 
 ![](assets/allowed_races.png)
 
@@ -44,31 +44,31 @@ To see allowed Races, set the filters according to the image below, or use this 
 
 ## Classes
 
-To see allowed Classes, set the filters according to the image below, or use this [link](https://5e.tools/classes.html#fbmt:sand~b0~b0,flstsource:stream=0~twitter=0~uatherangerrevised=1,flopsource:extend).
+To see allowed Classes, set the filters according to the image below, or use this [link](https://5e.tools/classes.html#artificer_tce,flstsource:psa=1~psk=1~ua2020subclassespt3=1~ua2020subclassespt5=1~uaatrioofsubclasses=1~uagiantsoulsorcerer=1~uagothicheroes=1~uasorcerer=1~uathemysticclass=1~uatherangerrevised=1~uathreesubclasses=1,flopsource:extend).
 
 ![](assets/allowed_classes.png)
 
 ## Spells
 
-To see allowed Spells, set the filters according to the image below, or use this [link](https://5e.tools/spells.html#flstsource:llk=1~scc=0,flopsource:extend).
+To see allowed Spells, set the filters according to the image below, or use this [link](https://5e.tools/spells.html#abi-dalzim's%20horrid%20wilting_xge,flstsource:llk=1~scc=0,flopsource:extend).
 
 ![](assets/allowed_spells.png)
 
 ## Backgrounds
 
-To see allowed Backgrounds, set the filters according to the image below, or use this [link](https://5e.tools/backgrounds.html#flstsource:scc=0,flopsource:extend).
+To see allowed Backgrounds, set the filters according to the image below, or use this [link](https://5e.tools/backgrounds.html#acolyte_phb,flstsource:scc=0,flopsource:extend).
 
 ![](assets/allowed_backgrounds.png)
 
 ## Feats
 
-To see allowed Feats, set the filters according to the image below, or use this [link](https://5e.tools/feats.html#flstsource:scc=0,flopsource:extend).
+To see allowed Feats, set the filters according to the image below, or use this [link](https://5e.tools/feats.html#aberrant%20dragonmark_erlw,flstsource:scc=0,flopsource:extend).
 
 ![](assets/allowed_feats.png)
 
 ## Items
 
-To see allowed items, set the filters according to the image below, or use this [link](https://5e.tools/items.html#flstsource:llk=1~oga=1,flopsource:extend,flsttype:renaissance=0~treasure=0,floptype:extend,flstcategory:specific%20variant=0,flopcategory:extend).
+To see allowed items, set the filters according to the image below, or use this [link](https://5e.tools/items.html#abacus_phb,flstsource:llk=1~oga=1,flopsource:extend,flsttype:renaissance=0~treasure=0,floptype:extend,flstcategory:specific%20variant=0,flopcategory:extend).
 
 ![](assets/allowed_items.png)
 
