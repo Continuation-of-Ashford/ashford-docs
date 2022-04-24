@@ -31,7 +31,7 @@ Anywhere where you see a "filtered list" of options in a picture below, you can 
 # Core Character Creation
 
 ## Races
-To see allowed Races, set the filters as follows:
+To see allowed Races, set the filters according to the image below, or use this [link](https://5e.tools/races.html#flstsource:psz=1~uagothicheroes=1~ttp=1~oga=1~lr=1~awm=1~scc=0,flopsource:extend,sublistselected:%7b%22items%22%3a%5b%5d%2c%22sources%22%3a%5b%5d%7d).
 
 ![](assets/allowed_races.png)
 
@@ -44,27 +44,32 @@ To see allowed Races, set the filters as follows:
 
 ## Classes
 
-To see allowed Classes, set the filters as follows:
-![](assets/allowed_backgrounds.png)
+To see allowed Classes, set the filters according to the image below, or use this [link](https://5e.tools/classes.htmlflstsource:psa=1~psk=1~ua2020subclassespt3=1~ua2020subclassespt5=1~uaatrioofsubclasses=1~uagiantsoulsorcerer=1~uagothicheroes=1~uasorcerer=1~uathemysticclass=1~uatherangerrevised=1~uathreesubclasses=1,flopsource:extend).
+
+![](assets/allowed_classes.png)
 
 ## Spells
 
-To see allowed Spells, set the filters as follows:
+To see allowed Spells, set the filters according to the image below, or use this [link](https://5e.tools/spells.html#flstsource:llk=1~scc=0,flopsource:extend,sublistselected:%7b%22items%22%3a%5b%5d%2c%22sources%22%3a%5b%5d%7d).
+
 ![](assets/allowed_spells.png)
 
 ## Backgrounds
 
-To see allowed Backgrounds, set the filters as follows:
+To see allowed Backgrounds, set the filters according to the image below, or use this [link](https://5e.tools/backgrounds.html#flstsource:scc=0,flopsource:extend,sublistselected:%7b%22items%22%3a%5b%5d%2c%22sources%22%3a%5b%5d%7d).
+
 ![](assets/allowed_backgrounds.png)
 
 ## Feats
 
-To see allowed Feats, set the filters as follows:
+To see allowed Feats, set the filters according to the image below, or use this [link](https://5e.tools/feats.html#flstsource:scc=0,flopsource:extend,sublistselected:%7b%22items%22%3a%5b%5d%2c%22sources%22%3a%5b%5d%7d).
+
 ![](assets/allowed_feats.png)
 
 ## Items
 
-To see allowed items, set the filters as follows:
+To see allowed items, set the filters according to the image below, or use this [link](https://5e.tools/items.html#flstsource:llk=1~oga=1~scc=0~rmbre=0,flopsource:extend,flsttype:renaissance=0~treasure=0,floptype:extend,flstcategory:specific%20variant=0,flopcategory:extend,sublistselected:%7b%22items%22%3a%5b%7b%22h%22%3a%22breastplate_phb%22%2c%22c%22%3a1%7d%2c%7b%22h%22%3a%22chain%2520mail_phb%22%2c%22c%22%3a1%7d%5d%2c%22sources%22%3a%5b%22phb%22%5d%7d).
+
 ![](assets/allowed_items.png)
 
 We allow items with the Renaissance tag but not the Futuristic tag. There are no exceptions.
