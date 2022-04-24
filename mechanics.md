@@ -6,12 +6,14 @@ Continuation of Ashford employs a number of customized mechanics that we believe
 ## Classes
 
 ### Barbarian
-Berserker Barbarian subclass replaces the Frenzy feature at 3rd level with 2 new features, amends one and adds its own.
-They are as follows:
+
+**Berserker**
+
+The level 3 "Frenzy" feature is replaced with the following. It amends one existing feature and adds two new ones.
 
 > **Frenzy**
 > 
->> When you Rage you can choose to Frenzy. While in a Frenzy you gain a Brutal Critical die, this stacks with the number of dice granted by the Brutal Critical feature you gain at 9th level.
+> When you Rage you can choose to Frenzy. While in a Frenzy you gain a Brutal Critical die, this stacks with the number of dice granted by the Brutal Critical feature you gain at 9th level.
 > 
 > **Reckless Frenzy**
 > 
@@ -87,7 +89,7 @@ The Dual Wielder (PHB pg. 165) text is replaced with the following:
 
 ## Skill/Proficiency
 
-Firearms are a weapon type that a character can learn proficiency for. To do so, said character must first have proficiency in martial weapons. Should this requirement be met, learning the proficiency follows the same rules as learning a tool proficiency as outlined in ✦downtimes or Xanathar's Guide to Everything (XGE, pg. 134)
+Firearms are a weapon type that a character can learn proficiency for. To do so, said character must first have proficiency in martial weapons. Should this requirement be met, learning the proficiency follows the same rules as learning a tool proficiency as outlined in [Downtime Actions](downtime_actions.md) or Xanathar's Guide to Everything (XGE, pg. 134)
 
 ## Spells
 
@@ -177,7 +179,7 @@ Amulet of the Devout only increases the spell attack rolls and saving throw DCs 
 Shield Guardian has its rarity increased to very rare.
 
 ## Taming
-(`TODO`: move to Downtime Actions?)
+(`TODO`: move to [Downtime Actions](downtime_actions.md)?)
 
 Players can spend downtime capturing and taming creatures to be their mount. For normal mounts they can be bought as shown in the item table.
 
