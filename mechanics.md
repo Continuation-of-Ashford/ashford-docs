@@ -34,13 +34,13 @@ The level 3 "Frenzy" feature is replaced with the following. It amends one exist
 
 1st-level ranger optional feature, which replaces the Favored Enemy feature and works with the Foe Slayer feature
 
-You can call on your bond with nature to mark a creature as your favored enemy for a time: you know the Hunter's Mark spell, and Wisdom is your spellcasting ability for it. You can use it a certain number of times without expending a spell slot equal to your proficiency bonus (minimum of 1). Once you reach 6 levels in the ranger class, you do not require concentration on Hunter's Mark. You regain all expended uses when you finish a long rest.
+You can call on your bond with nature to mark a creature as your favored enemy for a time: you know the Hunter's Mark spell, and Wisdom is your spellcasting ability for it. You can use it a number of times without expending a spell slot equal to your proficiency bonus (minimum of 1). Once you reach 6th levels in ranger, you do not require concentration on Hunter's Mark. You regain all expended uses when you finish a long rest.
 
-In addition, when you gain the Spellcasting feature at 2nd level, Hunter's Mark doesn't count against the number of ranger spells you know.
+In addition, when you gain the Spellcasting feature at 2nd level, Hunter's Mark does not count against the number of ranger spells you know.
 
-**Ranger: Favored Foe**
+**Ranger: Foe Slayer**
 
-has been amended as follows: "At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack and damage rolls against one of your favored enemies. You can choose to use this feature before or after the roll but before any effects are applied."
+At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll **and** the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied."
 
 ### Fighter 
 
@@ -103,7 +103,7 @@ Teleportation Circle is now a ritual spell.
 
 ### Psionic Disciplines
 
-Usage of Psionic Disciplines from the Mystic Class are considered spellcasting for the purposes of raging.
+Usage of Psionic Disciplines from the Mystic Class are considered spellcasting for the purposes of the barbarian rage feature.
 
 ### Skywrite
 
@@ -141,8 +141,8 @@ A Simulacrum cannot cast the Wish or Simulacrum spells.
 ### Minotaurs
 
 * Must use the most recent printing (currently Mythic Odysseys of Theros). 
-* Now also have the Powerful Build feat. 
-* In addition, you may ignore/exchange their racial origin and alignment set forth in MOT if you so choose.
+* Gain the Goliath's Powerful Build racial feature. 
+* May ignore/exchange their racial origin and alignment set forth in MOT.
 
 ## Attunements
 
@@ -178,16 +178,7 @@ Amulet of the Devout only increases the spell attack rolls and saving throw DCs 
 
 Shield Guardian has its rarity increased to very rare.
 
-## Taming
-(`TODO`: move to [Downtime Actions](downtime_actions.md)?)
 
-Players can spend downtime capturing and taming creatures to be their mount. For normal mounts they can be bought as shown in the item table.
-
-* You must have a stronghold that can accommodate your mount while you tame it.
-* Creatures of 8 intelligence or higher cannot be tamed and named/titled/homebrew creatures are disallowed.
-* This takes 1 downtime per CR of the creature being tamed, each downtime requires an animal handling check of 10 + CR + Creature INT mod.
-* The DM rules which creatures can be trained. Both with regards to having the appropriate anatomy to be comfortably mounted, and with regards whether this creature has instincts that cannot be suppressed. (Things that consume souls for example, like the Hellfire Engine.)
-  
 ## Beyond 20: Prestige
 
 As a character of legendary reputation and renown - be it fame or infamy - your adventures do not stop there. This feature is available only to level 20 characters and these benefits can be taken once every three sessions of an applicable bracket. Any sessions considered 'arena sessions' are exempt from this and as such will not count, nor do your sessions towards a legendary item search. If you were level 20 before this feature was introduced you do not get to use it retroactively, downtime-wise. This is passive - but must be done during a downtime, and only then - and therefore not a downtime activity. Downtimes earned by `@Dungeon Masters` are applicable. You cannot stack boons, blessings or use Alternatives to Epic Boons.
