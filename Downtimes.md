@@ -26,17 +26,18 @@ You receive education at the Aurelian Collegiate for a language or tool to gain 
 You spend a week mingling with those who find thrill or opportunity in games of chance, reading your opponents in tests of luck and skill. A character doing the gambling downtime puts forward a wager of their desired gold amount three checks: Wisdom (Insight), Charisma (Deception), and Charisma (Intimidation) or (Persuasion). If the character has proficiency with a gaming set, one of the checks can be replaced with one using that tool. You can additionally roll a Dexterity (Sleight of Hand) which adds a +5 to the DC at levels 3 to 10 and a +10 at levels 11 to 20.
 
 The DCs are as follows per level bracket, rolled for each check independently by the DM:
-* Levels 3 to 7: DC 2d10+5
-* Levels 8 to 16: DC 2d10+10
-* Levels 17 to 20: DC 2d10+15
+
+	* Levels 3 to 7: DC 2d10+5
+	* Levels 8 to 16: DC 2d10+10
+	* Levels 17 to 20: DC 2d10+15
 
 At 0 successes you lose your wager and gain an equal debt to the casino; at 1 success you lose half your wager; at 2 successes gain 1.5x times your wager; at 3 successes you win twice your wager. If you fail your Dexterity (Sleight of Hand) all successive rolls are automatic fails. It is up to the casino to allow you entry again should you get caught.
 ## Pit Fighting
 You spend a week fighting in Stratton Bay’s arena. You make a series of three checks: (Strength (Athletics), Dexterity (Acrobatics) and a Constitution saving throw, with the option to substitute one with an attack roll using a weapon. The DC is determined by the quality of your opposition, easy, challenging or deadly). You earn gold depending on the number of successes achieved.
 
-* Easy: DC 2d10+5 | 3d10 / 6d10 / 10d10 gp
-* Challenging: DC 2d10+10 | 15d10 / 30d10 / 50d10 gp
-* Deadly: DC 2d10+15 | 30d10 / 60d10 / 100d10 g
+	* Easy: DC 2d10+5 | 3d10 / 6d10 / 10d10 gp
+	* Challenging: DC 2d10+10 | 15d10 / 30d10 / 50d10 gp
+	* Deadly: DC 2d10+15 | 30d10 / 60d10 / 100d10 g
 
 ## Work
 You spend a week using your skills amongst the working class. Roll a skill or tool and multiply it by your level.
@@ -49,16 +50,16 @@ You spend a week aiding an ally in their endeavors by forfeiting your time and s
 You spend a downtime(s) scribing a scroll, or contributing a spell scroll. Scribing a spell scroll takes an amount of time and money related to the level of the spell you want to scribe, as shown below. In addition you must have proficiency in the Arcana skill or Calligraphy tools, provide any material components needed for the casting of the spell, and have the spell prepared - if possible - or among your known spells. If these numbers can be halved in any way such as a class feature, the result is rounded up.
 
 #### Spell Level | Time, Cost
-* Cantrip | 3 per week, 25gp
-* 1st | 2 per week, 50gp
-* 2nd | 2 per week, 250gp
-* 3rd | 1 week, 500gp
-* 4th | 1 week, 1,000gp
-* 5th | 2 weeks, 2,500gp
-* 6th | 2 weeks, 5,000gp
-* 7th | 3 weeks, 15,000gp
-* 8th | 4 weeks, 25,000gp
-* 9th | 5 weeks, 100,000gp
+	* Cantrip | 3 per week, 25gp
+	* 1st | 2 per week, 50gp
+	* 2nd | 2 per week, 250gp
+	* 3rd | 1 week, 500gp
+	* 4th | 1 week, 1,000gp
+	* 5th | 2 weeks, 2,500gp
+	* 6th | 2 weeks, 5,000gp
+	* 7th | 3 weeks, 15,000gp
+	* 8th | 4 weeks, 25,000gp
+	* 9th | 5 weeks, 100,000gp
 
 ## Training Hall
 If you are within 600 xp of the next level, you can spend the downtime training to reach the next level at minimum experience.
@@ -80,7 +81,7 @@ Occasionally, the party may find a magic item they can find no use or buyers for
 ## Hiring an NPC crafter
 Sometimes a character lacks the talent (or the patience) to craft an item by themselves.  In these cases, they may use their downtime to contract others to construct the item for them.  Hiring more competent crafters costs more money.  This functions the same as the **Crafting a Magic Item** downtime, except you substitute the artisan\'s roll for your own.  The quality of artisans available depends on your level bracket.
 
-* @3 - 7 | Novice - Check: 1d20+1 and pay additional 25% of rolled crafting price
-* @8 - 12 | Apprentice - Check: 1d20+5 and pay additional 40% of rolled crafting price
-* @13 - 16 | Journeyman - Check: 1d20+10 and pay additional 60% of rolled crafting price
-* @17 - 20 | Master - Check: 1d20+20 and pay additional 80% of rolled crafting price
+	* 3 - 7 | Novice - Check: 1d20+1 and pay additional 25% of rolled crafting price
+	* 8 - 12 | Apprentice - Check: 1d20+5 and pay additional 40% of rolled crafting price
+	* 13 - 16 | Journeyman - Check: 1d20+10 and pay additional 60% of rolled crafting price
+	* 17 - 20 | Master - Check: 1d20+20 and pay additional 80% of rolled crafting price
