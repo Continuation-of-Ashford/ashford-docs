@@ -17,4 +17,4 @@ You cannot change a character's race, background or inventory.
 
 Each token is specific to the character that earned it via leveling. For example, if you create a new character to replace a retired one, they only get a token if they reach the appropriate level naturally. I.e., if you replace a 13 level character, they have no tokens. If that character levels up to 15th level, they will have 1 token.
 
-## [← Finishing Touches](3_finishing_touches.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Beyond Level 20 →](5_beyond_level_20.md)
+## [← Finishing Touches](3_finishing_touches.md) | [Index](0_creation_index.md) | [Beyond Level 20 →](5_beyond_level_20.md)

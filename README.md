@@ -36,14 +36,14 @@ The first thing you'll need to do after reading the rules is get access to our F
 
 See our [Guide to Sheets and VTT](sheets/sheets_vtt.md) to learn more.
 ## Character Creation
-Now that you've got access and picked your sheet source, head on over to the [Character Creation Guide](character_creation/1_general_character_creation.md) to get started! The guide outlines the customizations that ReCoA has implemented for Player Character options.
+Now that you've got access and picked your sheet source, head on over to the [Character Creation Guide](character_creation/0_creation_guide.md) to get started! The guide outlines the customizations that ReCoA has implemented for Player Character options.
 
 If you've never made a character in D&D 5e before, follow along in the ["Step-by-Step Characters"](https://5etools-mirror-1.github.io/quickreference.html#bookref-quick,0,step-by-step%20characters) section of the Player's Handbook (pg. 11) as you go through each section and make your choices. 
 
 # Modified Rules 
 ReCoA employs a number of customized rules that we believe improve the player experience. These rules are linked from relevant locations in the Character Creation Guide.
 
-See our [Guide to Custom Rules](modified_mechanics/rules.md) to learn more.
+See our [Custom Rules Guide](modified_mechanics/rules.md) to learn more.
 
 # Playing the Game
 With so many DMs, players, characters, and sessions, there are a lot of moving pieces involved. To make things just a little bit easier for our DMs, please take some time to familiarize yourself with our expectations for you as a player in the [Session Flow Guide](playing_the_game/session_flow.md).

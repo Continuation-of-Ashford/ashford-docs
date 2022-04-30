@@ -13,4 +13,4 @@ Anywhere where you see a "filtered list" of options in a picture on the next pag
   * *`Tip:` If you don't know, an attunement slot is the equivalent of an "equipment slot" employed by many video games. In D&D 5e, these slots are only used for magic items, but only for some of them. Look for the `(requires attunement)` property underneath the item name*.
   ![](../assets/attunement_required.png)
 
-## [← Getting Started](../README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Core Character Creation →](2_core_character_creation.md)
+## [← Index](0_creation_index.md) | [Core Character Creation →](2_core_character_creation.md)
