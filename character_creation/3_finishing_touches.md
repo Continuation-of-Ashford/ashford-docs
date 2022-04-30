@@ -3,7 +3,9 @@ Now that you've got a character, let's complete some finishing touches!
 
 ## Nicknames
 
-After creating your character, please change your nickname to show the initial and level and try to keep this updated in one of the following formats.
+After creating your character, please change your nickname to show the name or initial and level of your character. 
+
+Try to keep this updated in one of the following formats so everyone know who you are!
 
 Single Character:
 ```
