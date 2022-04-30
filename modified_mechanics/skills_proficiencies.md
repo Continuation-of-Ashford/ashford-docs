@@ -1,0 +1,3 @@
+# Skill & Proficiencies
+
+Firearms are a weapon type that a character can learn proficiency for. To do so, said character must first have proficiency in martial weapons. Should this requirement be met, learning the proficiency follows the same rules as learning a tool proficiency as outlined in [Downtime Actions](../playing_the_game/downtime_actions.md) or `Xanathar's Guide to Everything (XGE)` (XGE, pg. 134)
