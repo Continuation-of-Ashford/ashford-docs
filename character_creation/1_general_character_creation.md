@@ -8,7 +8,7 @@ Anywhere where you see a "filtered list" of options in a picture on the next pag
 * Customizing Your Origin (TCE, pg. 7) is not allowed.
 
 ## Notable Changes
-* PC stats can go above 20 through either ASIs (Ability Score Improvements) or items.
+
 * The maximum number of attunement slots is increased from `3` to `5`.
   * *`Tip:` If you don't know, an attunement slot is the equivalent of an "equipment slot" employed by many video games. In D&D 5e, these slots are only used for magic items, but only for some of them. Look for the `(requires attunement)` property underneath the item name*.
   ![](../assets/attunement_required.png)
