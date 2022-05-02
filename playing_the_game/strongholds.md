@@ -1,3 +1,4 @@
+# Strongholds
 ## Establishment
 | Level | Cost to build | Downtime to build |
 | ----- | ------------- | ----------------- |
@@ -56,7 +57,7 @@ For a keep this should be a Guards feat. If the Settlement already has a Guards 
 ## Extended Rest: Training (see table below)
 Taking an extended rest at a keep grants you a training benefit. You cannot gain the benefit of training from armor, shields, or weapons you are not proficient in. Taking an extended rest elsewhere causes you to lose your training benefit until you take an extended rest at your keep again.
 
-## Servitor Table
+# Servitor Table
 | d100 Roll | S&F Servitor      | Equivalent |
 | --------- | ----------------- | ---------- |
 | 0-14      | \-                | CR 2       |
@@ -69,7 +70,7 @@ Taking an extended rest at a keep grants you a training benefit. You cannot gain
 | 80-84     | Type V Servitor   | CR 9       |
 | 95+       | Type VI Servitor  | CR 10      |
 
-## Keep Training
+# Keep Training
 |Training      | Benefit                                                                                                                                          |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Light armor  | You have advantage on Dexterity checks while wearing light armor. (that includes initiative checks)                                              |
