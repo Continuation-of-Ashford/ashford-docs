@@ -40,3 +40,11 @@ Magic tattoos have an amendment to their Tattoo Attunement feature:
 Creatures summoned through spells, acquired in sessions, created, or otherwise obtained through class features with an INT of 4 or less may equip/attune to 3 magic items at maximum or 4 magic items with an INT of 6.
 
 Creatures with an INT of 10 or above may attune/equip to items as shown in [Character Creation](character_creation.md). A creature must have the proper anatomy to attune to/equip a magic item, such as creatures with hooves or bird-like talons cannot wear shoes. You cannot give a creature acquired in these ways a piercing, ingest or otherwise rest on or in the item some way to circumvent this. Creatures found these ways may not artificially increase a stat to gain additional attunement slots, such as a headband of intellect, nor have them attune to the item they were summoned from such as a Shield Guardian attuning to a Shield Guardian amulet ad nauseam. Player characters are exempt from this ruling unless their Intelligence score is 6 or lower
+
+## Potions
+Commonly used potions have standard prices, as follows:
+* Potion of Healing:          60 GP
+* Potion of Greater Healing:  150 GP
+* Potion of Superior Healing: 450 GP
+* Potion of Supreme Healing:  1500 GP
+* Potion of X Resistance:     1000 GP
