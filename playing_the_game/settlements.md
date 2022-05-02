@@ -3,6 +3,7 @@ Settlements are built around a capital building, that brings the community toget
 This costs money and downtime, players can pool their money and downtimes together to build faster.
 That investment isn't only the building, it includes paths, roads and other infrastructure.
 The tier of your settlement and its infractructure determines how many buildings with usefull effects it can support.
+If you wish to build a [stronghold](strongholds.md), it must be supported by a settlement.    
 
 | Capital Building | Gold Cost | Downtimes | Building Limit | 
 |:-----------------|:----------|:----------|:---------------|
