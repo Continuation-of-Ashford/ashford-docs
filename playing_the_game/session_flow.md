@@ -3,7 +3,7 @@
 
 ## Downtime Actions
 
-At the start of session, after joining the Foundry and Discord voice channel, privately PM your Downtime Actions to the Dungeon Master for the session. 
+At the start of session, after joining the Foundry and Discord voice channel, privately PM your Downtime Actions to the Dungeon Master for the session.  You must state which settlement you are working in so the DM can account for the required travel. 
 
 If your Downtime Action has consequences for the session gameplay, please also verbally notify the Dungeon Master after messaging it to them. 
 
