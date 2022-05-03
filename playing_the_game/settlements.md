@@ -16,7 +16,7 @@ If you wish to build a [stronghold](strongholds.md), it must be supported by a s
 
 
 ### Outpost Investment 
-You should know that your investment is more than just the building itself. Some types of buildings will also include construction of paths, roads and other infrastructure. 
+Your investment is more than just the building itself. Some types of buildings will also include construction of paths, roads and other infrastructure. 
 
 For example, settlements with a caravansary automatically form roads or trade routes to other settlements, up to a number of miles away (25 per tier of the settlement). Travelling on these roads allows one to ignore the negative penalties of spending their downtime at a settlement other than where the quest begins.
 
@@ -58,8 +58,8 @@ The player controlling the settlement comes up with an additional feat to give t
 Some examples of these feats are as follows:
 | Name | Advantage | Disadvantage |
 |:-----|:----------|:-------------|
-| Pantheon: Mordinsamman (faith feat) | The majority of the town follows the Dwarven pantheon, attracting mostly dwarves to live here and giving it a reputation of fairness and justice | Temples to non-dwarven gods remain empty and unused |
-| Bureaucracy (governance) | The village is a place of rules and bylaws, carefully managing who can do what, preventing villagers from revolting or abandoning the settlement to join bandits | Decisive action cannot be taken as changes happen slowly and needi to be considered and codified on paper first |
+| Pantheon: Mordinsamman (Faith) | The majority of the town follows the Dwarven pantheon, attracting mostly dwarves to live here and giving it a reputation of fairness and justice | Temples to non-dwarven gods remain empty and unused |
+| Bureaucracy (Governance) | The village is a place of rules and bylaws, carefully managing who can do what, preventing villagers from revolting or abandoning the settlement to join bandits | Decisive action cannot be taken as changes happen slowly and needi to be considered and codified on paper first |
 | Make your own | |
 
 
@@ -68,14 +68,14 @@ Once a village grows into a town, the improvements to its infrastructure and def
 
 A town might have squadrons of guards that patrol the roads around it, or it might be a haven for highwaymen that stalk the roads. A town might employ a cadre of elite mercenaries to deter would-be troublemakers, or hire a guild of assassins to strike back at anybody that dares cause problems for the town. Or perhaps something entirely different as the town exudes a divine aura of purity, or seeps corruption into the soil.
 
-Some sample Guard or Anarchy feats are as follows:
+Some samples are as follows:
 | Name | Advantage | Disadvantage |
 |:-----|:----------|:-------------|
 | Commoner Militia (Guard) | Easy to train, easy to replace, there’s a lot of them | Not very brave or good detectives | 
 | Elven Archers (Guard) | Really good lookouts, outrange most threats | Only have a scant few of these | 
 | Momma Myrtle (Guard) | A halfling gossip discovers everything that happens in town within minutes of it happening, and her toughest cousins can wrestle wolves and bullseye birds with the best of them | Myrtle’s boys won’t lift a finger unless Myrtle decides this trouble is worth fighting |
-| Pirate Cove (crime) | Rough and tough sailors can take you anywhere, anytime, no questions asked (as long as it's by sea), and may give you their booty if you invest in them | Item prices skyrocket as legal trade to the settlement grinds to a halt | 
-| Thieves Guild (crime) | You might get information or items of extremely rare (albeit dubious) quality | Crime in the town is a permanent and unbeatable issue |
+| Pirate Cove (Crime) | Rough and tough sailors can take you anywhere, anytime, no questions asked (as long as it's by sea), and may give you their booty if you invest in them | Item prices skyrocket as legal trade to the settlement grinds to a halt | 
+| Thieves Guild (Crime) | You might get information or items of extremely rare (albeit dubious) quality | Crime in the town is a permanent and unbeatable issue |
 | Make your own | |
 
 ## City Feats
@@ -85,7 +85,7 @@ Perhaps your’s is a city state with a fearsome army, making military alliances
 
 | Name | Advantage | Disadvantage |
 |:-----|:----------|:-------------|
-| Undead Horde (Standing Army) | Your fearless and witless army of minor undead marches without supply nor strategy, striking fear into your foes | Your army cannot retreat, surrender, accept surrender or take prisoners. If you deploy it, you either completely wipe out your foes, their cities, and their people, or lose your army |
+| Undead Horde (Army) | Your fearless and witless army of minor undead marches without supply nor strategy, striking fear into your foes | Your army cannot retreat, surrender, accept surrender or take prisoners. If you deploy it, you either completely wipe out your foes, their cities, and their people, or lose your army |
 | Warrior Kings (Nobility) | The lords of this city can hold their own on the battlefield as well as in a courtroom | The noble families hold many grudges between one another, sometimes a civil duel will resolve things, but other times they resort to more troublesome forms of retribution |
 | Wizard's College (Guild) | Magic items may be cheaper due to all the cheap intern labor available | Large scale devastating arcane accidents may occur |
 | Make your own | | 
