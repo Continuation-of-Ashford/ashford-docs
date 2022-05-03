@@ -13,7 +13,6 @@ If you wish to build a [stronghold](strongholds.md), it must be supported by a s
 | City Tier        | 35,000    | 10        | 11             | 
 | Kingdom Tier     | 75,000    | 12        | 14             |
 
-Settlements automatically form roads or trade routes to other settlements, up to a number of miles away (25 per tier of the settlement.  Travelling on these roads allows one to ignore the negative penalties of spending their downtime at a settlement other than where the quest begins.
 
 ## Outpost Feats
 When players found a new outpost, they can pool their resources, but a single player that contributed will be put forward as controlling this outpost.
