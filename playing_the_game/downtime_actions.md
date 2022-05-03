@@ -1,4 +1,6 @@
 # Below you will find the various options you have when using your downtime.
+## Construct a building
+You can either begin constructing a new building, continue building one of your own buildings, or work on someone else's building in progress (with their character's permission).  You can either build [settlement buildings](put that link here) or [strongholds](strongholds.md) if the settlement is of an appropriate level. The first time any building has downtime spent building it, that character must pay the full listed cost of its construction.  No further payment is required to continue construction.
 ## Copying a spell
 You may spend up to two (2) hours per day copying spells into your spellbook without consuming a downtime, up to a maximum of 14 hours per downtime. If your character needs less than 8 hours of sleep, such as a character with Sentry\'s Rest, Trance or Undying Nature, you may add those hours to copying spells for 4 hours and 6 hours respectively, up to 32 hours or 42 hours. You must still find these spells, such as through a session, PC or spell scroll. Spells copied in this way should have written at the bottom of their own descriptions who they were copied by.
 ## Crafting a magic item
