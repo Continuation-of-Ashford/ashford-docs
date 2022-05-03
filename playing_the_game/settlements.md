@@ -1,7 +1,7 @@
 ## Founding an Outpost
 Settlements are built around a capital building, that brings the community together. 
 This costs money and downtime, players can pool their money and downtimes together to build faster.
-That investment isn't only the building, it includes [paths, roads and other infrastructure](settlement_buildings.md).
+That investment isn't only the building, it includes [roads, settlement buildings, and other infrastructure](settlement_buildings.md).
 The tier of your settlement and its infractructure determines how many buildings with usefull effects it can support.
 If you wish to build a [stronghold](strongholds.md), it must be supported by a settlement.    
 
