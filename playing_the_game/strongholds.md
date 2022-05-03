@@ -13,10 +13,15 @@ An Establishment is a place of business of some sort, it could be a shop, an inn
 | 4     | 8,000gp       | 12                |
 
 ### Demesne effect
+
 An establishment doesn’t add a feat to the settlement it is constructed in, it instead enables or changes a downtime of your choice. Usually this is the Work Downtime with 4 skill or tool proficiencies of your choice. However you might instead choose to have your Establishment provide a place players can use the Pit Fighting or Gambling downtimes.
+
 You can choose to allow all players to use your Establishment’s downtimes, or declare that only certain players are allowed to. 
+
 ### Extended Rest: Generate Income
+
 Taking an extended rest at your Establishment allows you to earn gold from the business your establishment conducts. Roll a 2D4 and then add your Establishments level and the Settlement’s level to the result. Then multiply that result by 2d100, to find out how much gold you’ve earned.
+
 ## Temple
 
 While called a temple, the only actual requirement is that this is a gathering place for people or creatures. It might be a church, a monastery, a grove in nature, a mercenary guild, a gladiatorial arena or a stable of exotic creatures.
@@ -30,9 +35,16 @@ While called a temple, the only actual requirement is that this is a gathering p
 | 4     | 18,000gp      | 16                |
 
 ### Demesne effect
-Your Stronghold adds a feat of your design/choice to the settlement it is in or near. For a temple this should be a Faith or Guilds feat. If the Settlement already has a feat of that type, you still add the new feat, but if the controller of the settlement agrees you can replace the existing feat with an Underworld feat. 
+Your Stronghold adds a feat of your design/choice to the settlement it is in or near. 
+
+For a temple this should be a Faith or Guilds feat. If the Settlement already has a feat of that type, you still add the new feat, but if the controller of the settlement agrees you can replace the existing feat with an Underworld feat. 
+
 ### Extended Rest: Recruit Servitor 
-Taking an extended rest at a Temple allows you to recruit a Servitor to be your ally or mount.  Roll a D100 and dd 2 × your level to determine what kind of Servitor you can recruit. Servitors could be envoys sent by a divine or eldritch patron, or they might be mercenaries you pay or monstrosities or beasts you’ve tamed. Determine what is the appropriate type of creature based on how you’ve described your stronghold
+Taking an extended rest at a Temple allows you to recruit a Servitor to be your ally or mount. 
+
+Roll a D100 and add 2 × your level to determine what kind of Servitor you can recruit. Servitors could be envoys sent by a divine or eldritch patron, or they might be mercenaries you pay or monstrosities or beasts you’ve tamed. 
+
+Determine what is the appropriate type of creature based on how you’ve described your stronghold
 
 #### Servitor Table
 | d100 Roll | S&F Servitor      | Equivalent |
@@ -59,10 +71,17 @@ While called a tower, the only actual requirement is that this is a research fac
 | 3     | 12,000gp      | 12                |
 | 4     | 18,000gp      | 16                |
 
-### Demsene Effect
-Your Stronghold adds a feat of your design/choice to the settlement it is in or near.  For a tower this should be a Guilds feat, as your stronghold can house apprentices that function as a Guild. If the Settlement already has a Guilds feat, you still add a new Guilds feat, but if the controller of the settlement agrees you can replace the Guilds feat the settlement previously had with an Underworld feat, or a Terrain feat of your design/choice.
+### Demesne Effect
+Your Stronghold adds a feat of your design/choice to the settlement it is in or near. 
+
+For a tower this should be a Guilds feat, as your stronghold can house apprentices that function as a Guild. If the Settlement already has a Guilds feat, you still add a new Guilds feat, but if the controller of the settlement agrees you can replace the Guilds feat the settlement previously had with an Underworld feat, or a Terrain feat of your design/choice.
+
 ### Extended Rest: Study (Magic School)
-Taking an extended rest at a tower allows you to choose a single spell from the tower’s school. It doesn’t have to be a spell you can cast, nor does it need to be on your class’s spell list. Even non casters can benefit from a tower if they have items they can use to cast spells. When you cast that spell at its lowest level, resolve its effects as if the spell were cast at one level higher. In other words, Magic Missile, produced from a Wand of Magic Missiles, studied at an evocation tower, would cast as a 2nd-level spell, even though you used only one charge from the wand. Taking an extended rest elsewhere causes you to lose the effect of the studied spell. 
+Taking an extended rest at a tower allows you to choose a single spell from the tower’s school. It doesn’t have to be a spell you can cast, nor does it need to be on your class’s spell list. Even non casters can benefit from a tower if they have items they can use to cast spells. 
+
+When you cast that spell at its lowest level, resolve its effects as if the spell were cast at one level higher. In other words, Magic Missile, produced from a Wand of Magic Missiles, studied at an evocation tower, would cast as a 2nd-level spell, even though you used only one charge from the wand. 
+
+Taking an extended rest elsewhere causes you to lose the effect of the studied spell. 
 
 ## Keep
 
@@ -78,9 +97,13 @@ While called a keep, the only actual requirement is that this is a military faci
 
 ### Demesne Effect
 Your Stronghold adds a feat of your design/choice to the settlement it is in or near. 
+
 For a keep this should be a Guards feat. If the Settlement already has a Guards feat, you still add a new Guards feat, but if the controller of the settlement agrees you can replace the Guards feat the settlement previously had with an Underworld feat, or a Standing Army feat of your design/choice.
+
 ### Extended Rest: Training (see table below)
+
 Taking an extended rest at a keep grants you a training benefit. You cannot gain the benefit of training from armor, shields, or weapons you are not proficient in. Taking an extended rest elsewhere causes you to lose your training benefit until you take an extended rest at your keep again.
+
 #### Keep Training
 |Training      | Benefit                                                                                                                                          |
 | ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
