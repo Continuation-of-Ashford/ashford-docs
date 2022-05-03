@@ -4,7 +4,7 @@ These are the strongholds players can build in their [settlements](settlements.m
 
 An Establishment is a place of business of some sort, it could be a shop, an inn, tavern or hotel, a warehouse, a merchant ship or a casino.
 
-| Level | Cost to build | Downtime to build |
+| Level | Cost to Build/Upgrade | Downtimes to Build |
 | ----- | ------------- | ----------------- |
 | 0     | 6,000gp       | 5                 |
 | 1     | 2,000gp       | 3                 |
@@ -21,7 +21,7 @@ Taking an extended rest at your Establishment allows you to earn gold from the b
 
 While called a temple, the only actual requirement is that this is a gathering place for people or creatures. It might be a church, a monastery, a grove in nature, a mercenary guild, a gladiatorial arena or a stable of exotic creatures.
 
-| Level | Cost to build | Downtime to build |
+| Level | Cost to Build/Upgrade | Downtimes to Build |
 | ----- | ------------- | ----------------- |
 | 0     | 8,000gp       | 6                 |
 | 1     | 3,000gp       | 4                 |
@@ -51,7 +51,7 @@ Taking an extended rest at a Temple allows you to recruit a Servitor to be your 
 
 While called a tower, the only actual requirement is that this is a research facility. It might be a tower, a fane, a laboratory, a testing ground or a botanical greenhouse.
 
-| Level | Cost to build | Downtime to build |
+| Level | Cost to Build/Upgrade | Downtimes to Build |
 | ----- | ------------- | ----------------- |
 | 0     | 8,000gp       | 6                 |
 | 1     | 3,000gp       | 4                 |
@@ -68,7 +68,7 @@ Taking an extended rest at a tower allows you to choose a single spell from the 
 
 While called a keep, the only actual requirement is that this is a military facility. It might be a fort, but could just as well be a war ship bristling with cannons or army encampment teeming with orcs.
 
-| Level | Cost to build | Downtime to build |
+| Level | Cost to Build/Upgrade | Downtimes to Build |
 | ----- | ------------- | ----------------- |
 | 0     | 10,000gp      | 8                 |
 | 1     | 5,000gp       | 5                 |
