@@ -31,7 +31,7 @@ Players make up their own feats for settlements. The list below contains some ex
 
 A settlement of the Outpost tier usually has a terrain feat as its first feat. 
 
-Some examples are as follows:
+Some example terrain feats are as follows:
 
 | Name | Advantage | Disadvantage |
 |:-----|:----------|:-------------|
@@ -46,6 +46,52 @@ Some examples are as follows:
 | Flotilla | By being built from sea vessels this settlement can move | Each new building, stronghold or upgrade requires adding a sailing vessel to the flotilla as an additional cost |
 | Cesspit | This settlement mainly eats rats and drinks tainted water, lack of food or water cannot hurt it | Diseases run rampant in this settlement, visitors will often contract them |
 | Make Your Own |  |  |
+
+## Village feats
+Once an outpost grows into a village, the increased number of people living there should be included in the narrative of your village. They need something that brings them together, something they bond over, something that gives them guidance. What do the people of your village have in common? What makes the people of the village look at their neighbors and go “Yep, you belong here. This is our home.”?
+
+Perhaps they are brought together by following a charismatic leader. Perhaps they are brought together following in service to a god. Perhaps they are brought together because they dislike authoritarian leaders and love democracy. Perhaps they are brought together because they hate living near temples and pushy preachers.
+Perhaps they only love money, and all gathered in this town because there is plenty of opportunity for wealth.
+
+The player controlling the settlement comes up with an additional feat to give to their settlement. Consider what kind of feat would best fit your settlement, faith, governance, something in between?
+
+Some examples of these feats are as follows:
+| Name | Advantage | Disadvantage |
+|:-----|:----------|:-------------|
+| Pantheon: Mordinsamman (faith feat) | The majority of the town follows the Dwarven pantheon, attracting mostly dwarves to live here and giving it a reputation of fairness and justice | Temples to non-dwarven gods remain empty and unused |
+| Bureaucracy (governance) | The village is a place of rules and bylaws, carefully managing who can do what, preventing villagers from revolting or abandoning the settlement to join bandits | Decisive action cannot be taken as changes happen slowly and needi to be considered and codified on paper first |
+| Make your own | |
+
+
+## Town feats
+Once a village grows into a town, the improvements to its infrastructure and defenses make it a place to be reckoned with. The influence of the settlement's feats is no longer limited to just the town. The controller of the settlement creates a feat to represent their town effect on the lands around it with an additional feat.
+
+A town might have squadrons of guards that patrol the roads around it, or it might be a haven for highwaymen that stalk the roads. A town might employ a cadre of elite mercenaries to deter would-be troublemakers, or hire a guild of assassins to strike back at anybody that dares cause problems for the town. Or perhaps something entirely different as the town exudes a divine aura of purity, or seeps corruption into the soil.
+
+Some sample Guard or Anarchy feats are as follows:
+| Name | Advantage | Disadvantage |
+|:-----|:----------|:-------------|
+| Commoner Militia (Guard) | Easy to train, easy to replace, there’s a lot of them | Not very brave or good detectives | 
+| Elven Archers (Guard) | Really good lookouts, outrange most threats | Only have a scant few of these | 
+| Momma Myrtle (Guard) | A halfling gossip discovers everything that happens in town within minutes of it happening, and her toughest cousins can wrestle wolves and bullseye birds with the best of them | Myrtle’s boys won’t lift a finger unless Myrtle decides this trouble is worth fighting |
+| Pirate Cove (crime) | Rough and tough sailors can take you anywhere, anytime, no questions asked (as long as it's by sea), and may give you their booty if you invest in them | Item prices skyrocket as legal trade to the settlement grinds to a halt | 
+| Thieves Guild (crime) | You might get information or items of extremely rare (albeit dubious) quality | Crime in the town is a permanent and unbeatable issue |
+| Make your own | |
+
+## City Feats
+Once a town grows into a city, that means its power over the surrounding lands has become hugely impactful. Farming villages pop up in the shadow of the city’s walls, sharing the City’s culture and supplying, as well as benefiting from, the city’s resources. Things at home are now fairly well in hand, and it is time for your settlement to turn it’s attention outwards. The player controlling the city gives it a feat to narratively portray the effect it has beyond its borders. 
+
+Perhaps your’s is a city state with a fearsome army, making military alliances with its neighbors or extorting them for tribute. Perhaps your city is known for wealth and influence, princes and princesses from faraway nations come begging to marry into the ruling class for the prestige alone. Perhaps your city is home to unparalleled innovations, guilds of inventors creating wonders found nowhere else, or powerful mages train future generations of arcane experts to serve the city.
+
+| Name | Advantage | Disadvantage |
+|:-----|:----------|:-------------|
+| Undead Horde (Standing Army) | Your fearless and witless army of minor undead marches without supply nor strategy, striking fear into your foes | Your army cannot retreat, surrender, accept surrender or take prisoners. If you deploy it, you either completely wipe out your foes, their cities, and their people, or lose your army |
+| Warrior Kings (Nobility) | The lords of this city can hold their own on the battlefield as well as in a courtroom | The noble families hold many grudges between one another, sometimes a civil duel will resolve things, but other times they resort to more troublesome forms of retribution |
+| Wizard's College (Guild) | Magic items may be cheaper due to all the cheap intern labor available | Large scale devastating arcane accidents may occur |
+| Make your own | | 
+
+## Kingdom Feats
+Once a city state grows into a kingdom, its influence now goes over that mountain and past that river, no longer hindered by natural obstacles. The culture of a kingdom strongly influences other settlements, even those not allied with it. The controller of the kingdom fills out their culture by adding 1 feat from any of the previous tiers, and if they'd like they can replace 1 feat they have with a feat from any tier.
 
 ### Making your own settlement feats:
 
