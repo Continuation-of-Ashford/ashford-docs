@@ -1,7 +1,7 @@
 # Settlement buildings
 These are the buildings that can be constructed in [settlements](settlements.md).  Buildings can only be constructed if there is a capital building of their tier or above.   
 
-In addition to these buildings, players can build [strongholds](strongholds.md) for stronger personal benefits once the settlement they are located in has reached tier 2.
+In addition to these buildings, players can build some [strongholds](strongholds.md) for stronger personal benefits beginning when the settlement they are located in has reached tier 2.
 
 `Note:` Buildings marked with a `*` are required to begin construction for the capital building of the next tier.  
 ## Tier 1: Outpost
@@ -25,8 +25,13 @@ In addition to these buildings, players can build [strongholds](strongholds.md) 
 | Lumberyard                       | 2,000       |           3 | Reduces cost of building tier 1 buildings by 20% (limit 1/town). Work downtime at this building adds 5 to your roll.                                                        |      1 |                6 | 2                               |
 | Palisades, Guard post`*`           | 3,000       |           3 | Required to upgrade to town tier.                                                                                                                                           |      1 |                6 | 2                               |
 | Stable                           | 2,000       |           2 | Allows mounts of up to CR 3.                                                                                                                                                |      1 |                6 | 2                               |
-| Establishment, level 0           | 6,000       |           5 | See Strongholds and followers buildings tab                                                                                                                                 |      1 |                6 | 2                               |
 | Caravansary | 1,500 | 4 | Builds roads to other settlements with caravansaries within 25 * the settlements tier miles away.  These roads prevent negative effects of traveling directly between these settlements. | 2 | 6 | 2 | 
+
+### Tier 2 Strongholds
+Tier 2 and higher can support [strongholds](strongholds.md) of this type.
+|                                  | Gold Cost   |   Downtimes | Effect                                                                                                                                                                      |   Tier |   Building Limit | Buildings required to upgrade   |
+|:---------------------------------|:------------|------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------:|-----------------:|:--------------------------------|
+| Establishment, level 0           | 6,000       |           5 | See Strongholds and followers buildings tab                                                                                                                                 |      1 |                6 | 2                               |
 
 ## Tier 3: Town
 |                                  | Gold Cost   |   Downtimes | Effect                                                                                                                                                                      |   Tier |   Building Limit | Buildings required to upgrade   |
@@ -35,6 +40,12 @@ In addition to these buildings, players can build [strongholds](strongholds.md) 
 | War stables                      | 5,000       |           4 | Allows ownership of mounts up to CR 6.                                                                                                                                      |      2 |                8 | 4                               |
 | Mine/Quarry`*`                     | 6,000       |           4 | Reduces cost of building tier 2 buildings by 20% (limit 1/town). Work downtime at this building adds 5 to your roll.                                                        |      2 |                8 | 4                               |
 | Docks                            | 7,500       |           4 | Allows import of strategic resources and reduced-risk travel to other islands.  Allows purchase and ownership of boats.                                                     |      2 |                8 | 4                               |
+
+
+### Tier 3 Strongholds
+Tier 3 and higher can support [strongholds](strongholds.md) of this type.
+|                                  | Gold Cost   |   Downtimes | Effect                                                                                                                                                                      |   Tier |   Building Limit | Buildings required to upgrade   |
+|:---------------------------------|:------------|------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------:|-----------------:|:--------------------------------|
 | Monastary, Temple, Grove level 0 | 8,000       |           6 | See Strongholds and followers buildings tab                                                                                                                                 |      2 |                8 | 4                               |
 | Tower, Laboratory level 0        | 8,000       |           6 | See Strongholds and followers buildings tab                                                                                                                                 |      2 |                8 | 4                               |
 | Keep, Fort, Fane level 0         | 10,000      |           8 | See Strongholds and followers buildings tab                                                                                                                                 |      2 |                8 | 4                               |

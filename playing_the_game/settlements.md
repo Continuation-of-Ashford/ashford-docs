@@ -2,23 +2,25 @@
 ## Founding an Outpost
 Settlements are built around a capital building that brings the community together. Of course, this costs money and your characters will need to spend their time between adventures (downtimes) constructing those buildings. Fortunately, players can pool their money and downtimes together to build faster.
 
-You should know that you can invest in more than just buildings. You can also construct [paths, roads and other infrastructure](settlement_buildings.md).
+The tier of your settlement and its infractructure determines how many buildings with useful effects it can support.
 
-The tier of your settlement and its infractructure determines how many buildings with usefull effects it can support.
+If you wish to build a [stronghold](strongholds.md), it must be supported by a settlement of an appropriate tier. Establishments can be built at Tier 2 (Village), while other can begin being built at Tier 3 (Town)
 
-If you wish to build a [stronghold](strongholds.md), it must be supported by a settlement of an appropriate tier.    
+| Tier | Capital Building | Gold Cost | Downtimes | Building Limit | New Strongholds Allowed |
+|:-----|:-----------------|:----------|:----------|:---------------|:------------------------|
+| 1    | Outpost Tier     | 1,000     | 4         | 3              | -                       |
+| 2    | Village Tier     | 5,000     | 6         | 5              | Establishments          |
+| 3    | Town Tier        | 15,000    | 8         | 8              | Temple, Tower, Keep     |
+| 4    | City Tier        | 35,000    | 10        | 11             | -                       |
+| 5    | Kingdom Tier     | 75,000    | 12        | 14             | -                       |
 
-| Capital Building | Gold Cost | Downtimes | Building Limit | 
-|:-----------------|:----------|:----------|:---------------|
-| Outpost Tier     | 1,000     | 4         | 3              |
-| Village Tier     | 5,000     | 6         | 5              | 
-| Town Tier        | 15,000    | 8         | 8              | 
-| City Tier        | 35,000    | 10        | 11             | 
-| Kingdom Tier     | 75,000    | 12        | 14             |
 
-Settlements automatically form roads or trade routes to other settlements, up to a number of miles away (25 per tier of the settlement). 
+### Outpost Investment 
+You should know that your investment is more than just the building itself. Some types of buildings will also include construction of paths, roads and other infrastructure. 
 
-Travelling on these roads allows one to ignore the negative penalties of spending their downtime at a settlement other than where the quest begins.
+For example, settlements with a caravansary automatically form roads or trade routes to other settlements, up to a number of miles away (25 per tier of the settlement). Travelling on these roads allows one to ignore the negative penalties of spending their downtime at a settlement other than where the quest begins.
+
+See [Settlement Buildings](settlement_buildings.md) for more info.
 
 ## Outpost Feats
 When players found a new outpost, they can pool their resources, but a single player that contributed will be put forward as controlling this outpost. They must describe what it is like to live there by giving the outpost a feat. When you upgrade an outpost to a higher tier of settlement the controller of the settlement comes up with an additional feat to give it.

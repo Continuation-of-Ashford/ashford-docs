@@ -1,15 +1,16 @@
 # Strongholds
-These are the strongholds players can build in their [settlements](settlements.md).  Strongholds differ from [regular buildings](settlement_buildings.md) in that a single building will have multiple levels which span multiple tiers of settlements.  You must have a capital building of an appropriate tier to upgrade your stronghold to its next level.
+These are the strongholds players can build in their [settlements](settlements.md).  Strongholds differ from [regular buildings](settlement_buildings.md) in that a single building will have multiple levels which span multiple tiers of settlements. You must have a capital building of an appropriate tier to upgrade your stronghold to its next level.
 ## Establishment
 
 An Establishment is a place of business of some sort, it could be a shop, an inn, tavern or hotel, a warehouse, a merchant ship or a casino.
 
 | Level | Cost to build | Downtime to build |
 | ----- | ------------- | ----------------- |
-| 1     | 2000          | 3                 |
-| 2     | 4000          | 6                 |
-| 3     | 6000          | 9                 |
-| 4     | 8000          | 12                |
+| 0     | 6,000gp       | 5                 |
+| 1     | 2,000gp       | 3                 |
+| 2     | 4,000gp       | 6                 |
+| 3     | 6,000gp       | 9                 |
+| 4     | 8,000gp       | 12                |
 
 ### Demesne effect
 An establishment doesn’t add a feat to the settlement it is constructed in, it instead enables or changes a downtime of your choice. Usually this is the Work Downtime with 4 skill or tool proficiencies of your choice. However you might instead choose to have your Establishment provide a place players can use the Pit Fighting or Gambling downtimes.
@@ -22,10 +23,11 @@ While called a temple, the only actual requirement is that this is a gathering p
 
 | Level | Cost to build | Downtime to build |
 | ----- | ------------- | ----------------- |
-| 1     | 3000          | 4                 |
-| 2     | 6000          | 8                 |
-| 3     | 12000         | 12                |
-| 4     | 18000         | 16                |
+| 0     | 8,000gp       | 6                 |
+| 1     | 3,000gp       | 4                 |
+| 2     | 6,000gp       | 8                 |
+| 3     | 12,000gp      | 12                |
+| 4     | 18,000gp      | 16                |
 
 ### Demesne effect
 Your Stronghold adds a feat of your design/choice to the settlement it is in or near. For a temple this should be a Faith or Guilds feat. If the Settlement already has a feat of that type, you still add the new feat, but if the controller of the settlement agrees you can replace the existing feat with an Underworld feat. 
@@ -43,7 +45,7 @@ Taking an extended rest at a Temple allows you to recruit a Servitor to be your 
 | 65-74     | Type III Servitor | CR 7       |
 | 75-79     | Type IV Servitor  | CR 8       |
 | 80-84     | Type V Servitor   | CR 9       |
-| 95+       | Type VI Servitor  | CR 10      |
+| 95+       | Type VI Servitor  | CR 10gp    |
 
 ## Tower
 
@@ -51,10 +53,11 @@ While called a tower, the only actual requirement is that this is a research fac
 
 | Level | Cost to build | Downtime to build |
 | ----- | ------------- | ----------------- |
-| 1     | 3000          | 4                 |
-| 2     | 6000          | 8                 |
-| 3     | 12000         | 12                |
-| 4     | 18000         | 16                |
+| 0     | 8,000gp       | 6                 |
+| 1     | 3,000gp       | 4                 |
+| 2     | 6,000gp       | 8                 |
+| 3     | 12,000gp      | 12                |
+| 4     | 18,000gp      | 16                |
 
 ### Demsene Effect
 Your Stronghold adds a feat of your design/choice to the settlement it is in or near.  For a tower this should be a Guilds feat, as your stronghold can house apprentices that function as a Guild. If the Settlement already has a Guilds feat, you still add a new Guilds feat, but if the controller of the settlement agrees you can replace the Guilds feat the settlement previously had with an Underworld feat, or a Terrain feat of your design/choice.
@@ -67,10 +70,11 @@ While called a keep, the only actual requirement is that this is a military faci
 
 | Level | Cost to build | Downtime to build |
 | ----- | ------------- | ----------------- |
-| 1     | 5000          | 5                 |
-| 2     | 10000         | 10                |
-| 3     | 15000         | 15                |
-| 4     | 20000         | 20                |
+| 0     | 10,000gp      | 8                 |
+| 1     | 5,000gp       | 5                 |
+| 2     | 10,000gp      | 10                |
+| 3     | 15,000gp      | 15                |
+| 4     | 20,000gp      | 20                |
 
 ### Demesne Effect
 Your Stronghold adds a feat of your design/choice to the settlement it is in or near. 
