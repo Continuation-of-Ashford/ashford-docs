@@ -8,7 +8,7 @@ In addition to these buildings, players can build some [strongholds](strongholds
 |                                  | Gold Cost   |   Downtimes | Effect |
 :----------------------------------|:------------|------------:|:--------|
 | **Trade Post**                   | 1,000       |           4 | Capital building for tier 0. Generates 250 gold/session for quest rewards.      |
-| Alchemist's Shack                | 500         |           2 | Allows purchase of healing potions equal to tier of the settlement.  |
+| Alchemist's Shack                | 500         |           2 | Allows purchase of healing potions equal to tier of the settlement. (i.e., allows you to purchase regular healing potions at this tier and superior healing potions in a tier 3 settlement (town)|
 | Farm/Fishery/Orchard/etc.`*`     | 500         |           2 | Required to upgrade to tier 1. |
 | Wooden Shelter, Housing          | 0           |           2 | Allows characters to long rest without risk at this settlement. |
 | Hunting Post                     | 750         |           2 | Work downtime at this building adds 5 to your roll |                          |
