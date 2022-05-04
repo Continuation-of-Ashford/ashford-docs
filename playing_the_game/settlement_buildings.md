@@ -54,7 +54,7 @@ Tier 3 and higher can support [strongholds](strongholds.md) of this type.
 |                                  | Gold Cost   |   Downtimes | Effect |
 |:---------------------------------|:------------|------------:|:-------|
 | **City Hall**                        | 35,000      |          10 | Capital building for Tier 3. |
-| Arcane Scribe                    | 10,000      |           8 | Scrolls can be crafted in half the time and cost (including costly spell components).  |
+| Arcane Scribe                    | 10,000      |           8 | Scrolls can be crafted in half the time and cost it would usually require your character (including costly spell components).  |
 | Auction House                    | 10,000      |           4 | Allows auctioning of items and sale of items to NPCs.|
 | Airship Docks                    | 20,000      |           7 | Allows construction and docking of airships.         |
 | Steel enchanter                  | 12,000      |           5 | Allows crafting magical weapons and armor up to rare quality.  |
