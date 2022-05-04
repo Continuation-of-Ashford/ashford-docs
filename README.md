@@ -50,6 +50,8 @@ With so many DMs, players, characters, and sessions, there are a lot of moving p
 
 Because ReCoA is a Westmarches-style game in a linear timeline, your character will benefit from the time *between* your sessions. At the start of each session, you will be allowed one Downtime Action for the character you are bringing to the session. Take a look at the [Downtime Actions Guide](playing_the_game/downtime_actions.md) to learn more!
 
+We play on FoundryVTT.  The link to our table can be found here: https://ashford-moltenhosting.moltenhosting.com/join
+
 ## Settlement
 One of the more exciting aspects of our gameplay at ReCoA is the concept of "Settlement". 
 
