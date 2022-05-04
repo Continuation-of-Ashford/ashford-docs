@@ -62,6 +62,7 @@ Tier 3 and higher can support [strongholds](strongholds.md) of this type.
 | Arcane Laboratory                | 8,000       |           5 | Allows crafting magical wands, staves, and consumables up to rare quality                                                                                                   |      3 |               10 | 8                               |
 | Engineering Guild`*`               | 14,000      |           5 | Reduces cost of building all other buildings by 20% (limit 1/town)                                                                                                          |      3 |               10 | 8                               |
 | Teleportation Circle             | 18,250      |           5 | Allows teleportation to and from this city                                                                                                                                  |      3 |               10 | 8                               |
+| University                        |  12.000    |       4   |    Allows people to use the **education** downtime in this settlement. | 3 | 10 | 8
 
 ## Tier 5: Kingdom
 |                                  | Gold Cost   |   Downtimes | Effect                                                                                                                                                                      |   Tier |   Building Limit | Buildings required to upgrade   |
