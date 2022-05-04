@@ -42,7 +42,7 @@ You spend a week crafting items of the common populace. An item needs raw materi
 In addition, you may silver a non-magical weapon or ten pieces of non-magical ammunition for an additional 150 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
 
 ## Education
-You receive education at the Aurelian Collegiate for a language or tool to gain proficiency. This typically takes 10 weeks, but this time is reduced by a number of weeks equal to your character's Intelligence modifier if positive at a minimum of 1 week. Education in these classes requires a fee of 25gp per week.
+You receive education at a university for a language or tool to gain proficiency. This typically takes 10 weeks, but this time is reduced by a number of weeks equal to your character's Intelligence modifier if positive at a minimum of 1 week. Education in these classes requires a fee of 25gp per week.
 
 ## Gambling
 You spend a week mingling with those who find thrill or opportunity in games of chance, reading your opponents in tests of luck and skill. 
@@ -76,7 +76,7 @@ If you fail your Dexterity (Sleight of Hand) all successive rolls are automatic 
 | 3         | You win twice your wager.      |
 
 ## Pit Fighting
-You spend a week fighting in Stratton Bay’s arena. 
+You spend a week brawling in a showroom.  **This downtime requires you be at a settlement with an establishment.**
 
 * You make a series of three checks, with the option to substitute one with an attack roll using a weapon: 
   * Strength (Athletics), 
