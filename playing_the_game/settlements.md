@@ -10,13 +10,13 @@ If you wish to build a [stronghold](strongholds.md), it must be supported by a s
 
 In order to build a 
 
-| Tier | Capital Building | Gold Cost | Downtimes | Building Limit | New Strongholds Allowed |
-|:-----|:-----------------|:----------|:----------|:---------------|:------------------------|
-| 1    | Outpost Tier     | 1,000     | 4         | 3              | -                       |
-| 2    | Village Tier     | 5,000     | 6         | 5              | Establishments          |
-| 3    | Town Tier        | 15,000    | 8         | 8              | Temple, Tower, Keep     |
-| 4    | City Tier        | 35,000    | 10        | 11             | -                       |
-| 5    | Kingdom Tier     | 75,000    | 12        | 14             | -                       |
+| Tier | Capital Building | Gold Cost | Downtimes | Building Limit | Buildings required to build next tier's capital building |New Strongholds Allowed |
+|:-----|:-----------------|:----------|:----------|:---------------|:---------------------------------------------------------|:-----------------------|
+| 1    | Outpost Tier     | 1,000     | 4         | 3              | 2                                                        |-                       |
+| 2    | Village Tier     | 5,000     | 6         | 5              | 3                                                        |Establishments          |
+| 3    | Town Tier        | 15,000    | 8         | 8              | 4                                                        |Temple, Tower, Keep     |
+| 4    | City Tier        | 35,000    | 10        | 11             | 8                                                        |-                       |
+| 5    | Kingdom Tier     | 75,000    | 12        | 14             | -                                                        |                        |
 
 
 ### Outpost Investment 
