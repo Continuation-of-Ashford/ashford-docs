@@ -2,13 +2,13 @@
 ## Founding an Outpost
 Settlements are built around a capital building that brings the community together. Of course, this costs money and your characters will need to spend their time between adventures (downtimes) constructing those buildings. Fortunately, players can pool their money and downtimes together to build faster.
 
-In order to found a settlement, you must first build a Trade Post in terrain (see below) that is different from the nearest settlement to where you want to build one.  Once the trade post has finished construction, you are the owner of that settlement and other buildings can be created there.  You have control over what buildings are made there.  You must also make a post naming your settlement in the settlements tab in discord, where it will be made into a thread.  That thread will contain all of the buildings and strongholds the settlement possesses.  
+In order to found a settlement, you must first build a Trade Post in terrain (see below) that is different from the nearest settlement to where you want to build one.  Once the trade post has finished construction, you are the owner of that settlement and other buildings can be created there.  You have control over what buildings are made (and destroyed) there.  You must also make a post naming your settlement in the settlements tab in discord, where it will be made into a thread.  That thread will contain all of the buildings and strongholds the settlement possesses.  
 
 The tier of your settlement and its infractructure determines how many buildings with useful effects it can support.
 
 If you wish to build a [stronghold](strongholds.md), it must be supported by a settlement of an appropriate tier. Establishments can be built at Tier 2 (Village), while other can begin being built at Tier 3 (Town)
 
-In order to build a 
+It is possible that a settlement may reach its building capacity without constructing a building that is required to reach the next tier.  In that case (or perhaps out of spite for a building's constructor), a settlement owner may declare a building condemned and mark it for destruction.  To destroy a building, a number of downtimes and amount of gold equal to one quarter the building's base cost must be spent.
 
 | Tier | Capital Building | Gold Cost | Downtimes | Building Limit | Buildings required to build next tier's capital building |New Strongholds Allowed |
 |:-----|:-----------------|:----------|:----------|:---------------|:---------------------------------------------------------|:-----------------------|
