@@ -1,109 +1,33 @@
 # Downtime Actions
 Below you will find the various options you have when using your downtime.
-## Construct a Building
-You can either begin constructing a new building, continue building one of your own buildings, or work on someone else's building in progress (with their character's permission).  You can either build [settlement buildings](put that link here) or [strongholds](strongholds.md) if the settlement is of an appropriate level. The first time any building has downtime spent building it, that character must pay the full listed cost of its construction.  No further payment is required to continue construction.
 
-## Copying a Spell
-You may spend up to `two (2)` hours per day copying spells into your spellbook *without consuming a downtime*, up to a `maximum of 14 hours per downtime`. 
+Some downtimes are always available, while many other downtimes need the use of a constructed building. Others can be done without but are made better by a building. 
 
-If your character needs less than 8 hours of sleep, such as a character with Sentry's Rest, Trance or Undying Nature, you may add those hours to copying spells for 4 hours and 6 hours respectively, up to 32 hours or 42 hours. 
+Choose which settlement you are spending your downtime in and check the settlements thread to see what buildings are available.
 
-You must still find these spells, such as through a session, PC, or spell scroll. Spells copied in this way should have written at the bottom of their own descriptions who they were copied by.
+*Some downtimes require Ability Checks. These Ability Checks take place gradually over multiple days of work. Short term buffs such as Guidance (1 minute duration) will run out before they can assist you with such checks. Only 8 hour or longer duration improvements to Ability Checks (such as Foresight) can be used to improve downtime rolls.*
 
-## Crafting a Magic Item
-You spend a week investing funds and attention into enchanting a magical item, doing so requires either proficiency in the Arcana skill or a relevant tool. 
+## Downtimes that don't need buildings
 
-* Using the table below, buying materials for the item will cost ***half of the rolled price*** and items rare or higher require specific relevant components as well. 
-  * After rolling a price you have the option to not proceed with the crafting, but the downtime is spent.
-* If the item is an enchanted version of a nonmagical item, that mundane item must also be provided as a component of the enchanting process. 
-* Common items or 2 consumable common items can be completed in one week without a skill check.
-* You cannot create Legendary items. 
+### Construct a Building
+You can either begin constructing a new building, continue building one of your own buildings, or work on someone else's building in progress (with their character's permission).  You can either build [settlement buildings](settlement_buildings.md) or [strongholds](strongholds.md) if the settlement is of an appropriate level. The first time any building has downtime spent building it, that character must pay the full listed cost of its construction.  No further payment is required to continue construction.
 
-### Gold Cost
-
-| Rarity    | Price Formula     |
-| --------- | ----------------- |
-| Common    | `(1d8+2) * 10`    |
-| Uncommon  | `(1d10+2) * 50`   |
-| Rare      | `(2d10+2) * 250`  |
-| Very Rare | `(2d10+2) * 2500` |
-
-#### Special Costs
-
-* Adamantine items such as armor, ammunition and weapons cost base price in addition to 1000 gp.
-* Wondrous items cost an additional 1.5 * rolled price.
-* Scrolls cost an additional 1d10 * 10% + rolled price.
-### Downtime Cost
-Taking the original price, divide it by 25 for uncommon, 50 for rare or 200 for very rare. Keep track of this number. Each downtime used, you make a skill check using Arcana or a relevant tool and subtract it from the above, carrying this new number forward if it is not 0. When the number reaches 0 the item is complete.
-
-## Crafting a Mundane Item
-You spend a week crafting items of the common populace. An item needs raw materials to be crafted, equal in gold or a lower denomination if applicable, to half its listed price. To craft the item, take its price and divide it by 50. This is the total amount your character must meet per relevant tool check, per downtime. A character can sell an item crafted in this way to NPCs for its original listed price.
-
-In addition, you may silver a non-magical weapon or ten pieces of non-magical ammunition for an additional 150 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
-
-## Education
-You receive education at a university for a language or tool to gain proficiency. This typically takes 10 weeks, but this time is reduced by a number of weeks equal to your character's Intelligence modifier if positive at a minimum of 1 week. Education in these classes requires a fee of 25gp per week.
-
-## Gambling
-You spend a week mingling with those who find thrill or opportunity in games of chance, reading your opponents in tests of luck and skill. 
-
-* A character gambling in their downtime puts forward a wager of their desired gold amount and makes three checks: 
-  * `Wisdom (Insight)`, 
-  * `Charisma (Deception)`, 
-  * and `Charisma (Intimidation)` or `Charisma (Persuasion)`. 
-* If the character has proficiency with a gaming set, one of the checks can be replaced with one using that tool. 
-* You can additionally roll a `Dexterity (Sleight of Hand)` which adds a +5 to the DC at levels 3 to 10 and a +10 at levels 11 to 20.
-
-### Skill Checks 
-
-The DCs are as follows per level bracket, rolled for each check independently by the DM:
-
-| Levels    | DC Formula  |
-| --------- | ----------- |
-| 3 - 7     | `2d10+5`    |
-| 8 - 16    | `2d10+10`   |
-| 17 - 20   | `2d10+15`   |
-
-### Gambling Results
-
-If you fail your Dexterity (Sleight of Hand) all successive rolls are automatic fails. It is up to the casino to allow you entry again should you get caught.
-
-| Successes | Result      |
-| --------- | ----------- |
-| 0         | Not only do you lose your wager, but you also gain an equal amount of debt to the casino (or other establishment). |
-| 1         | You lose half your wager.      |
-| 2         | You win 1.5x times your wager. |
-| 3         | You win twice your wager.      |
-
-## Pit Fighting
-You spend a week brawling in a showroom.  **This downtime requires you be at a settlement with an establishment.**
-
-* You make a series of three checks, with the option to substitute one with an attack roll using a weapon: 
-  * Strength (Athletics), 
-  * Dexterity (Acrobatics),
-  * and a Constitution saving throw. 
-* The DC is determined by the quality of your opposition: easy, challenging, or deadly. 
-* You earn gold depending on the number of successes achieved.
-
-| Difficulty  | DC Formula | 1 success | 2 successes | 3 successes |
-|-------------|------------|-----------|-------------|-------------|
-| Easy        | `2d10+5`   | `3d10`gp  | `6d10`gp    | `10d10`gp   |
-| Challenging | `2d10+10`  | `15d10`gp | `30d10`gp   | `50d10`gp   |
-| Deadly      | `2d10+15`  | `30d10`gp | `60d10`gp   | `100d10`gp  |
-
-## Work
+### Work
+###### Can be improved by Hunting Post, Mine/Quarry or Smith buildings
+###### Can be improved by an Establishment's Demesne Effect
 You spend a week using your skills amongst the working class. 
 
-Roll a skill or tool and multiply it by your level.
+Roll an Ability Check using a skill or tool proficiency you have and multiply the result by your level to find how much gold you earn.
 
 * For example, rolling a 16 Charisma (Persuasion) at level 12 gives 192 gold.
 
-## Help
+### Help
 You spend a week aiding an ally in their endeavors by forfeiting your time and splitting any gold costs, not rewards. 
 
-You give one ally advantage on all checks they make in their downtime activity excluding pit fighting.
+You give one ally advantage on all checks they make in their downtime activity, excluding the Pit Fighting downtime.
 
-## Scribing a spell scroll
+### Scribing a spell scroll
+###### Can be improved by the Arcane Scribe building
 You spend a downtime(s) scribing a scroll, or contributing a spell scroll. Scribing a spell scroll takes an amount of time and money related to the level of the spell you want to scribe, as shown below. In addition you must have proficiency in the Arcana skill or Calligraphy tools, provide any material components needed for the casting of the spell, and have the spell prepared - if possible - or among your known spells. If these numbers can be halved in any way such as a class feature, the result is rounded up.
 
 
@@ -120,24 +44,123 @@ You spend a downtime(s) scribing a scroll, or contributing a spell scroll. Scrib
 | 8th         | 4 weeks    | 25,000gp  |
 | 9th         | 5 weeks    | 100,000gp |
 
-## Training Hall
+### Copying a Spell
+You may spend up to `two (2)` hours per day copying spells into your spellbook *without consuming a downtime*, up to a `maximum of 14 hours per downtime`. 
+
+If your character needs less than 8 hours of sleep, such as a character with Sentry's Rest, Trance or Undying Nature, you may add those hours to copying spells for 4 hours and 6 hours respectively, up to 32 hours or 42 hours. 
+
+You must still find these spells, such as through a session, PC, or spell scroll. Spells copied in this way should have written at the bottom of their own descriptions who they were copied by.
+
+### Crafting a Mundane Item 
+###### Might require a Smith building of the relevant type.
+###### Might be improved by an Establishment's Demesne Effect
+You spend a week crafting items of the common populace. An item needs raw materials to be crafted, equal in gold or a lower denomination if applicable, to half its listed price. To craft the item, take its price and divide it by 50. This is the total amount your character must meet per relevant tool check, per downtime. A character can sell an item crafted in this way to NPCs for its original listed price.
+
+In addition, you may silver a non-magical weapon or ten pieces of non-magical ammunition for an additional 150 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
+
+## Downtimes that require buildings
+
+### Education
+###### Requires a University building in settlement
+You receive education at a university for a language or tool to gain proficiency. This typically takes 10 weeks, but this time is reduced by a number of weeks equal to your character's Intelligence modifier if positive at a minimum of 1 week. Education in these classes requires a fee of 25gp per week.
+
+### Gambling
+###### Optionally enabled by an Establishment's Demesne Effect
+You spend a week mingling with those who find thrill or opportunity in games of chance, reading your opponents in tests of luck and skill. 
+
+* A character gambling in their downtime puts forward a wager of their desired gold amount and makes three checks: 
+  * `Wisdom (Insight)`, 
+  * `Charisma (Deception)`, 
+  * and `Charisma (Intimidation)` or `Charisma (Persuasion)`. 
+* If the character has proficiency with a gaming set, one of the checks can be replaced with one using that tool. 
+* You can additionally roll a `Dexterity (Sleight of Hand)` which adds a +5 to the DC at levels 3 to 10 and a +10 at levels 11 to 20.
+
+#### Skill Checks 
+The DCs are as follows per level bracket, rolled for each check independently by the DM:
+
+| Levels    | DC Formula  |
+| --------- | ----------- |
+| 3 - 7     | `2d10+5`    |
+| 8 - 16    | `2d10+10`   |
+| 17 - 20   | `2d10+15`   |
+
+#### Gambling Results 
+If you fail your Dexterity (Sleight of Hand) all successive rolls are automatic fails. It is up to the casino to allow you entry again should you get caught.
+
+| Successes | Result      |
+| --------- | ----------- |
+| 0         | Not only do you lose your wager, but you also gain an equal amount of debt to the casino (or other establishment). |
+| 1         | You lose half your wager.      |
+| 2         | You win 1.5x times your wager. |
+| 3         | You win twice your wager.      |
+
+### Pit Fighting
+###### Optionally enabled by an Establishment's Demesne Effect
+You spend a week brawling in a showroom.
+
+* You make a series of three checks, with the option to substitute one with an attack roll using a weapon: 
+  * Strength (Athletics), 
+  * Dexterity (Acrobatics),
+  * and a Constitution saving throw. 
+* The DC is determined by the quality of your opposition: easy, challenging, or deadly. 
+* You earn gold depending on the number of successes achieved.
+
+| Difficulty  | DC Formula | 1 success | 2 successes | 3 successes |
+|-------------|------------|-----------|-------------|-------------|
+| Easy        | `2d10+5`   | `3d10`gp  | `6d10`gp    | `10d10`gp   |
+| Challenging | `2d10+10`  | `15d10`gp | `30d10`gp   | `50d10`gp   |
+| Deadly      | `2d10+15`  | `30d10`gp | `60d10`gp   | `100d10`gp  |
+
+
+### Training Hall
+###### Requires Training Hall Building
 If you are within 600 xp of the next level, you can spend the downtime training to reach the next level at minimum experience.
 
 **At 20th level:**
 If you have abilities that can be swapped upon leveling up or gaining an ASI (i.e. fighting styles, eldritch invocations, sorcerer spells) you can change them using this downtime.
-## Taming
 
+### Taming
+###### Requires the Stables or War Stables building or a Temple/Grove/Arena Stronghold
 Players can spend downtime capturing and taming creatures to be their mount. For normal mounts they can be bought as shown in the item table.
 
-* You must have a stronghold that can accommodate your mount while you tame it.
 * Creatures of 8 intelligence or higher cannot be tamed and named/titled/homebrew creatures are disallowed.
-* This takes 1 downtime per CR of the creature being tamed, each downtime requires an animal handling check of 10 + CR + Creature INT mod.
+* Taming takes 1 downtime per CR of the creature being tamed, each downtime requires an animal handling check of 10 + CR + Creature INT mod.
 * The DM rules which creatures can be trained. Both with regards to having the appropriate anatomy to be comfortably mounted, and with regards whether this creature has instincts that cannot be suppressed. (Things that consume souls for example, like the Hellfire Engine.)
 
-## Scrapping a Magic Item
-Occasionally, the party may find a magic item they can find no use or buyers for. In this case, it is prudent to extract its core components to recycle them into a more useful items. "Melting down" an item in such a way requires 3 downtimes for a rare item or 6 downtimes for a very rare item.  Items yield components of an equal rarity.
+### Crafting a Magic Item
+###### Requires the Enchanter or Arcane building relevant to item type
+You spend a week investing funds and attention into enchanting a magical item, doing so requires either proficiency in the Arcana skill or a relevant tool. 
 
-## Hiring an NPC Crafter
+* Using the table below, buying materials for the item will cost ***half of the rolled price*** and items rare or higher require specific relevant components as well. 
+  * After rolling a price you have the option to not proceed with the crafting, but the downtime is spent.
+* If the item is an enchanted version of a nonmagical item, that mundane item must also be provided as a component of the enchanting process. 
+* Common items or 2 consumable common items can be completed in one week without a skill check.
+* You cannot create Legendary items. 
+
+#### Gold Cost
+
+| Rarity    | Price Formula     |
+| --------- | ----------------- |
+| Common    | `(1d8+2) * 10`    |
+| Uncommon  | `(1d10+2) * 50`   |
+| Rare      | `(2d10+2) * 250`  |
+| Very Rare | `(2d10+2) * 2500` |
+
+##### Special Costs
+* Adamantine items such as armor, ammunition and weapons cost base price in addition to 1000 gp.
+* Wondrous items cost an additional 1.5 * rolled price.
+* Scrolls cost an additional 1d10 * 10% + rolled price.
+
+#### Downtime Cost
+Taking the original price, divide it by 25 for uncommon, 50 for rare or 200 for very rare. Keep track of this number. Each downtime used, you make a skill check using Arcana or a relevant tool and subtract it from the above, carrying this new number forward if it is not 0. When the number reaches 0 the item is complete.
+
+### Scrapping a Magic Item
+###### Requires the Enchanter or Arcane building relevant to item type
+Occasionally, the party may find a magic item they can find no use or buyers for. In this case, it is prudent to extract its core components to recycle them into a more useful items. "Grinding up" an item into Residuum in such a way requires 3 downtimes for a rare item or 6 downtimes for a very rare item. 
+The resulting Residuum is a magical crafting component of an equal rarity to the item that was destroyed.
+
+### Hiring an NPC Crafter
+###### Requires the Enchanter or Arcane building relevant to item type
 Sometimes a character lacks the talent (or the patience) to craft an item by themselves.  In these cases, they may use their downtime to contract others to construct the item for them.  Hiring more competent crafters costs more money.  This functions the same as the **Crafting a Magic Item** downtime, except you substitute the artisan's roll for your own.  The quality of artisans available depends on your level bracket.
 
 	* 3 - 7 | Novice - Check: 1d20+1 and pay additional 25% of rolled crafting price
