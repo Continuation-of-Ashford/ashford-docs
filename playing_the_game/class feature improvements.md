@@ -22,6 +22,8 @@ Rogue: After you hit with a Sneak Attack, you may become invisible, as by the in
 ## Sorcerer: 
 You gain bonus sorcery points equal in number to twice your stronghold level. These bonus points only refresh when you take an extended rest. 
 Warlock: You gain an extra spell slot. You may use this extra spell slot a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability. 
+## Warlock: 
+You gain an extra spell slot. You may use this extra spell slot a number of times equal to your stronghold level, after which you must take an extended rest to refresh this ability.
 ## Wizard:
 When you lose concentration on a spell during your turn (such as when casting another concentration spell) you can sustain the effect of the spell without concentrating on it for a short while. You have a number of turns equal to your stronghold level, during which you can sustain a spell without concentrating on it. An extended rest refreshes those turns. 
 ## Artificer: 
