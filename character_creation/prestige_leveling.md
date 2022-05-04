@@ -24,12 +24,10 @@ Any level 20 Ashford character that is able to use downtimes.
 Meaning you cannot choose this prestige class during character creation, because downtimes only become available after playing at least 1 session with the character.
 
 ##### Hit Points
-___
 - **Hit Dice:** 1d8	
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Proficiencies
-___
 - **Saving Throws:** 1 saving throw you are not already proficient in
 - **Skills:** 1 skill you are not already proficient in
 
