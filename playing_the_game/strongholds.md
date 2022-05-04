@@ -1,5 +1,5 @@
 # Strongholds
-These are the strongholds players can build in their [settlements](settlements.md).  Strongholds differ from [regular buildings](settlement_buildings.md) in that a single building will have multiple levels which span multiple tiers of settlements. You must have a capital building of an appropriate tier to upgrade your stronghold to its next level.
+These are the strongholds players can build in their [settlements](settlements.md).  Strongholds differ from [regular buildings](settlement_buildings.md) in that a single building will have multiple levels which span multiple tiers of settlements and that they are controlled individually by the builder (i.e., someone builds a wizard's tower and decides that all abjuration wizards can gain its benefits from taking an extended rest there) You should make a note of who is/is not allowed to use your stronghold in its building entry in the settlements tab in discord. You must have a capital building of an appropriate tier to upgrade your stronghold to its next level.
 ## Establishment
 
 An Establishment is a place of business of some sort, it could be a shop, an inn, tavern or hotel, a warehouse, a merchant ship or a casino.
