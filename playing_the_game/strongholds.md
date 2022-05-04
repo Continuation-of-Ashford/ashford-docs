@@ -1,5 +1,6 @@
 # Strongholds
 These are the strongholds players can build in their [settlements](settlements.md).  Strongholds differ from [regular buildings](settlement_buildings.md) in that a single building will have multiple levels which span multiple tiers of settlements and that they are controlled individually by the builder (i.e., someone builds a wizard's tower and decides that all abjuration wizards can gain its benefits from taking an extended rest there) You should make a note of who is/is not allowed to use your stronghold in its building entry in the settlements tab in discord. You must have a capital building of an appropriate tier to upgrade your stronghold to its next level.
+When you take an extended rest at a stronghold, you gain the [class feature improvements](class feature improvements.md) associated with the class the stronghold is designated for.  Strongholds must have their class designated when they are constructed (i.e., you might decide that your tower gives fighters an impeccable view of the surrounding landscape allowing them to adapt their battle plans, so your tower would give class feature improvements to fighters, and only fighters.)
 ## Establishment
 
 An Establishment is a place of business of some sort, it could be a shop, an inn, tavern or hotel, a warehouse, a merchant ship or a casino.
