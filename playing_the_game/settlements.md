@@ -8,7 +8,7 @@ The tier of your settlement and its infractructure determines how many buildings
 
 If you wish to build a [stronghold](strongholds.md), it must be supported by a settlement of an appropriate tier. Establishments can be built at Tier 2 (Village), while other can begin being built at Tier 3 (Town)
 
-It is possible that a settlement may reach its building capacity without constructing a building that is required to reach the next tier.  In that case (or perhaps out of spite for a building's constructor), a settlement owner may declare a building condemned and mark it for destruction.  To destroy a building, a number of downtimes and amount of gold equal to one quarter the building's base cost must be spent.
+It is possible that a settlement may reach its building capacity without constructing a building that is required to reach the next tier.  In that case (or perhaps out of spite for a building's constructor), a settlement owner may declare a building condemned and mark it for destruction.  To destroy a building, a number of downtimes and amount of gold equal to one quarter the building's base cost (minimum 1) must be spent.  If the building being destroyed is not complete, there is no gold cost, and the number of downtimes required to destroy it is equal to a quarter of the number of downtimes spent building it (minimum 1).
 
 | Tier | Capital Building | Gold Cost | Downtimes | Building Limit | Buildings required to build next tier's capital building |New Strongholds Allowed |
 |:-----|:-----------------|:----------|:----------|:---------------|:---------------------------------------------------------|:-----------------------|
