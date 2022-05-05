@@ -156,14 +156,20 @@ Taking the original price, divide it by 25 for uncommon, 50 for rare or 200 for 
 
 ### Scrapping a Magic Item
 ###### Requires the Enchanter or Arcane building relevant to item type
-Occasionally, the party may find a magic item they can find no use or buyers for. In this case, it is prudent to extract its core components to recycle them into a more useful items. "Grinding up" an item into Residuum in such a way requires 3 downtimes for a rare item or 6 downtimes for a very rare item. 
+Occasionally, the party may find a magic item they can find no use or buyers for. In this case, it is prudent to extract its core components to recycle them into a more useful items.
+
+ "Grinding up" an item into Residuum in such a way requires 3 downtimes for a rare item or 6 downtimes for a very rare item. 
+
 The resulting Residuum is a magical crafting component of an equal rarity to the item that was destroyed.
 
 ### Hiring an NPC Crafter
 ###### Requires the Enchanter or Arcane building relevant to item type
-Sometimes a character lacks the talent (or the patience) to craft an item by themselves.  In these cases, they may use their downtime to contract others to construct the item for them.  Hiring more competent crafters costs more money.  This functions the same as the **Crafting a Magic Item** downtime, except you substitute the artisan's roll for your own.  The quality of artisans available depends on your level bracket.
+Sometimes a character lacks the talent (or the patience) to craft an item by themselves. In these cases, they may use their downtime to contract others to construct the item for them. Hiring more competent crafters incurs additional fees over normal magic crafting. This functions the same as the [Crafting a Magic](#crafting-a-magic-item) Item downtime, except you substitute the artisan's roll for your own. The quality of artisans available depends on your level bracket.
 
-	* 3 - 7 | Novice - Check: 1d20+1 and pay additional 25% of rolled crafting price
-	* 8 - 12 | Apprentice - Check: 1d20+5 and pay additional 40% of rolled crafting price
-	* 13 - 16 | Journeyman - Check: 1d20+10 and pay additional 60% of rolled crafting price
-	* 17 - 20 | Master - Check: 1d20+20 and pay additional 80% of rolled crafting price
+
+| Level Bracket | Artisan     | Check      | Additional Cost |
+|---------------|-------------|------------|-----------------|
+| 3 - 7         | Novice      | `1d20+1`   | `+25%` of rolled crafting price |
+| 8 - 12        | Apprentice  | `1d20+5`   | `+40%` of rolled crafting price |
+| 13 - 16       | Journeyman  | `1d20+10`  | `+60%` of rolled crafting price |
+| 17 - 20       | Master      | `1d20+20`  | `+80%` of rolled crafting price |
