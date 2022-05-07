@@ -34,7 +34,6 @@ When you assume your Wild Shape, you may assume the form of any `beast`, `monstr
 
 You may use this ability to transform into a creature with a Challenge Rating equal to the CR limit of your regular Wild Shape plus your Stronghold's level. 
 
-
 Formula: `new Wild Shape CR limit = normal Wild Shape CR limit + Stronghold level`
 
 All other Wild Shape restrictions and benefits apply (including using all of the form’s actions and abilities except lair and legendary actions). 
