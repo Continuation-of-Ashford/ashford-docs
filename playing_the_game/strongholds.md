@@ -134,12 +134,12 @@ Taking an extended rest at a keep grants you a training benefit. You cannot gain
 ### Keep Training
 | Training | Benefit |
 | :----------- |:----------------------------------------------------------------------------------------- |
-| Light armor  | You have advantage on Dexterity checks while wearing light armor. (that includes initiative checks)                                              |
-| Medium Armor | You gain 5 feet of extra movement while wearing medium armor. This movement does not provoke opportunity attacks.                               |
-| Heavy Armor  | You learn to present your most heavily armored face to your foes. Ranged attacks have disadvantage against you.                                 |
+| Light armor  | You have advantage on Dexterity checks while wearing light armor. (that includes initiative checks) |
+| Medium Armor | You gain 5 feet of extra movement while wearing medium armor. This movement does not provoke opportunity attacks. |
+| Heavy Armor  | You learn to present your most heavily armored face to your foes. Ranged attacks have disadvantage against you. |
 | Bludgeoning  | When you score a critical hit, the target has disadvantage on attack rolls, saving throws, and ability checks until the start of your next turn. |
-| Piercing     | You deal an extra 1d6 damage to creatures wearing heavy armor.                                                                                  |
-| Slashing     | You deal an extra 1d6 damage to creatures wearing light, natural, or no armor.                                                                  |
-| Reach        | If you hit with a reach weapon, you can move the target 5 feet, but they must remain within your reach.                                         |
-| Shield       | If you succeed in a weapon attack while wielding a shield, you can push your target 5 feet away from you.                                       |
-| Versatile    | While wielding a versatile weapon in two hands, you gain +1 AC.                                                                                 |
+| Piercing     | You deal an extra 1d6 damage to creatures wearing heavy armor. |
+| Slashing     | You deal an extra 1d6 damage to creatures wearing light, natural, or no armor. |
+| Reach        | If you hit with a reach weapon, you can move the target 5 feet, but they must remain within your reach. |
+| Shield       | If you succeed in a weapon attack while wielding a shield, you can push your target 5 feet away from you. |
+| Versatile    | While wielding a versatile weapon in two hands, you gain +1 AC. |
