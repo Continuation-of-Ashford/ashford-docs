@@ -145,7 +145,7 @@ Some samples are as follows:
 | Make your own | |
 
 ## Citystate Feats
-Once a Town grows into a City, that means its power over the surrounding lands has become hugely impactful. 
+Once a Town grows into a Citystate, that means its power over the surrounding lands has become hugely impactful. 
 
 Farming Villages pop up in the shadow of the Citystate's walls, sharing the Citystate's culture and supplying, as well as benefiting from, the Citystate's resources. Things at home are now fairly well in hand, and it is time for your settlement to turn it's attention outwards. The player controlling the Citystate gives it a feat to narratively portray the effect it has beyond its borders. 
 
