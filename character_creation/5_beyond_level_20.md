@@ -9,8 +9,8 @@ Modification: If you have the Spellcasting class feature, you gain 1 additional 
 **EXP Exchange**
 | Amount  | Result                      |
 |---------|-----------------------------|
-| 55,000  | Receive 1 Blessing. ASI received from these are allowed.          |
+| 55,000  | Receive 1 [Blessing](blessings.md). ASI received from these are allowed.          |
 | 100,000 | Receive an additional Feat. Feats taken in this way do not grant ASI. OR you can increase an ability score by 2 or two ability scores by 1. This can only be taken if you chose a feat instead of an ASI during the leveling process.|
-| 120,000 | Receive 1 Boon.             |
+| 120,000 | Receive 1 [Boon](boons.md).             |
 
 ## [← Beyond Level 3](4_beyond_level_3.md) | [Index](0_creation_index.md)
