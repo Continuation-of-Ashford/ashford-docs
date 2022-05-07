@@ -10,52 +10,52 @@ Settlements represent the efforts of players to inhabit and expand their influen
 | 3    | Town Tier        | 15,000    | 8         | 8              | 4                                                        |Temple, Tower, Keep     |
 | 4    | Citystate Tier   | 35,000    | 10        | 11             | 8                                                        |-                       |
 | 5    | Kingdom Tier     | 75,000    | 12        | 14             | -                                                        |                        |
-### Buildings
+## Buildings
 Settlements provide benefits to the owners and patrons of buildings in a settlement.
 
 The types of buildings in a settlement provide different benefits, including additional downtime and purchasing options. It's important to check what is available in the settlement you spend your downtime in before taking those actions. See [Settlement Buildings](settlement_buildings.md). 
 
-### Construction of Buildings
+## Construction of Buildings
 Players can pool their money and downtimes together to obtain particular benefits or purely to complete construction faster.
 
 When multiple players contribute to the construction of a settlement or building, someone must be elected as the owner. *Keep track of who contributed what to buildings in the thread for your settlement!*
 
 A settlement can construct any building of it's own tier or lower.
 
-### Destruction of Buildings
-Settlement buildings can also be destroyed. Doing so incurs a cost in gold and downtimes equal to one quarter the building's original cost (minimum 1 downtime rounded up, 125gp rounded up to nearest 5gp increment).
+## Destruction of Buildings
+Settlement buildings can also be destroyed. Doing so incurs a cost in gold and downtimes equal to `1/4th` the building's original cost (minimum `1` downtime rounded up, minimum `125gp` rounded up to nearest 5gp increment).
 
-The cost of deconstruction is paid by the settlement owner and distributed equally to any players other than the settlement owner who contributed to the building's original construction costs. 
+The cost of destruction is paid by the settlement owner and distributed equally to any players other than the settlement owner who contributed to the building's original construction costs. 
 
 If the building is not yet complete, there is no gold cost associated with the destruction.
 
-### Management of Buildings 
+## Management of Buildings 
 Settlement owners have ultimate control over what can be built and destroyed in their settlement.
 
 The tier of the settlement and its infractructure determines how many buildings with useful effects it can support.
 
-### Building Limits
+## Building Limits
 Each tier of settlement has a limit on the number and tier of buildings that can be constructed. If the settlement has reached its building limit, another building must be destroyed before the settlement can begin construction on any others. 
 
 A building counts towards the settlement's building limit as soon as it begins construction and stops counting towards it after completely destroyed.
 
-### Upgrading Settlements 
+## Upgrading Settlements 
 Each tier of settlement has a building requirement that must be met before it can be upgraded to the next tier. 
 
-See [Settlement Buildings](settlement_buildings.md) to see the building pre-requisites.
+See [Settlement Buildings](settlement_buildings.md) for the building pre-requisites.
 
-See the General Settlements Rules [table](#settlements-table) for number of required buildings.
+See the General Settlements Rules [table](#settlement-table) for number of required buildings.
 
-### Strongholds
+## Strongholds
 Strongholds are a special kind of building that are owned by players, not the settlement owner. 
 
 Strongholds do not count towards a settlement's building limit.
 
 Strongholds cannot be destroyed by anyone other than the owner of the Stronghold or by DMs, as deemed appropriate in the context of the server plot.
 
-If you wish to build a [stronghold](strongholds.md), it must be supported by a settlement of an appropriate tier. Establishments can be built at Tier 2 (Village), while other can begin being built at Tier 3 (Town)
+If you wish to build a Stronghold, it must be supported by a settlement of an appropriate tier. Establishments can be built at Tier 2 (Village), while other can begin being built at Tier 3 (Town)
 
-Strongholds have their own rules which can be found [here](strongholds.md).
+See the [Strongholds Rules](strongholds.md) for additional rules and explanations.
 
 - - -
 
@@ -63,12 +63,15 @@ Strongholds have their own rules which can be found [here](strongholds.md).
 Settlements are built around a capital building that brings the community together. Of course, this costs money and your characters will need to spend their time between adventures (downtimes) constructing those buildings. 
 
 All settlements start as an Outpost. In order to found an Outpost, you must:
-1. Build a Trade Post in terrain (see below) that is different from the nearest settlement to where you want to build one. 
-   1. Ask your Dungeon Master if a particular terrain is an appropriate location and distance from other settlements.
+1. Select and travel to where you want to build your new Outpost. 
+   1. The Outpost must be in a terrain which is different from the nearest settlement to where you want to build one. 
+   2. Ask your Dungeon Master if a particular terrain is an appropriate location and distance from other settlements.
 2. Complete contruction of your Trade Post.
-3. Make a post naming your settlement in the `#settlments-tab` channel in discord, where it will be made into a thread by a Dungeon Master. 
+3. Make a post naming your settlement in the `#settlement-tab` channel in discord, where it will be made into a thread by a Dungeon Master. 
    1. That thread will be used to track the progress of buildings and strongholds in the settlement.
-4. Design and assign your settlement an Outpost Feat.  
+4. Design and assign your settlement an Outpost Feat. See [Settlement Feats](#settlement-feats) for more info.
+
+- - -
 
 # Settlement Feats
 Settlement owners must describe what it is like to live there by giving their settlement a Feat. 
@@ -83,7 +86,7 @@ Below you'll find guidelines and examples of feats at each tier, but is by no me
    1. You cannot make a feat with a name that someone has already created a feat for.
 2. Devise an advantage the feat gives your settlement and a disadvantage the feat gives your settlement. 
 3. Then, contact a DM with your proposed feat, that DM will check it against the examples to see if it is reasonable and perhaps advise you on how to describe it in a way that is both short and sweet. 
-4. Once you and the DM agree the feat is ready, the DM will tell the other DMs about the feat and add it to the list below so nobody else can make a feat with that name.
+4. Once you and the DM agree the feat is ready, the DM will tell the other DMs about the feat and add it to the list of used feats so nobody else can make a feat with that name.
 
 #### Considerations
 Through its feats, you are creating the unique story of your settlement. 

@@ -68,7 +68,7 @@ Taking an extended rest at a Temple allows you to recruit a Servitor to be your 
 
 Roll a `1d100 + (2 × your level)` to determine what kind of Servitor you can recruit. Servitors could be envoys sent by a divine or eldritch patron, or they might be mercenaries you pay or monstrosities or beasts you've tamed. 
 
-Determine what is the appropriate type of creature based on how you've described your Stronghold and note it in the building entry in the settlement's thread in `#settlements-tab`.
+Determine what is the appropriate type of creature based on how you've described your Stronghold and note it in the building entry in the settlement's thread in `#settlement-tab`.
 
 Servitors are inclined to follow and aid you, but they are their own creatures and may have taboos or needs that make them unable to follow your commands. Your servitor will stop following you when you take another extended rest. Some servitors will also be offended and stop following you if you give them commands they consider suicidal or otherwise are taboo. 
 
