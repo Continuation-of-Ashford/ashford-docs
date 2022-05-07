@@ -8,7 +8,7 @@ In addition to these buildings, players can build some [strongholds](strongholds
 |                                  | Gold Cost   |   Downtimes | Effect |
 :----------------------------------|:------------|------------:|:--------|
 | **Trade Post**                   | 1,000       |           4 | Capital building for tier 0. Generates 250 gold/session for quest rewards.      |
-| Alchemist's Shack                | 500         |           2 | Allows purchase of healing potions equal to tier of the settlement. (i.e., allows you to purchase regular healing potions at this tier and superior healing potions in a tier 3 settlement (town)|
+| Alchemist's Shack                | 500         |           2 | Allows purchase of healing potions equal to tier of the settlement. (i.e., allows you to purchase regular healing potions at this tier and superior healing potions in a Tier 3 Town settlement) |
 | Farm/Fishery/Orchard/etc.`*`     | 500         |           2 | Required to upgrade to tier 1. |
 | Wooden Shelter/Housing          | 0           |           2 | Allows characters to long rest without risk at this settlement. <br/><br/> This building does not cost a building slot, and gets fancier each time the settlement tier increases |
 | Hunting Post                     | 750         |           2 | Work downtime at this building adds 5 to your roll, when working using Survival, Nature, Perception or Cartographer's Tools |                          |
@@ -18,7 +18,7 @@ In addition to these buildings, players can build some [strongholds](strongholds
 |                                  | Gold Cost   |   Downtimes | Effect |
 |:---------------------------------|:------------|------------:|:-------|
 | **Village Hall**                     | 5,000       |           6 | Capital building for tier 1.|
-| Arcane supply shop               | 3,000       |           3 | Allows purchase of spell components. |
+| Arcane supply shop               | 3,000       |           3 | Allows purchase of spell components. This is the only location you can aquire components with a listed cost (outside of quest rewards and in-session DM fiat). Casters without a focus or component pouch will also need to purchase components here. |
 | Weaponsmith                      | 3,000       |           3 | Allows crafting mundane weapons. <br/><br/> Work downtime at this building adds 5 to your roll, when working using Woodcarver's, Jeweler's or Smith's Tools. |
 | Armorsmith                       | 3,000       |           3 | Allows crafting mundane armor. <br/><br/> Work downtime at this building adds 5 to your roll, when working using Cobbler's, Leatherworker's or Smith's Tools. |
 | Blacksmith                       | 2,000       |           3 | Allows crafting other mundane equipment. <br/><br/> Work downtime at this building adds 8 to your roll, when working using Glassblower's, Smith's or Tinker's tools. |
