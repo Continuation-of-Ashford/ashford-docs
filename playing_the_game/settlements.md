@@ -15,7 +15,7 @@ Settlements provide benefits to the owners and patrons of buildings in a settlem
 
 The types of buildings in a settlement provide different benefits, including additional downtime and purchasing options. It's important to check what is available in the settlement you spend your downtime in before taking those actions. See [Settlement Buildings](settlement_buildings.md). 
 
-#### Construction of Buildings
+### Construction of Buildings
 Players can pool their money and downtimes together to obtain particular benefits or purely to complete construction faster.
 
 When multiple players contribute to the construction of a settlement or building, someone must be elected as the owner. *Keep track of who contributed what to buildings in the thread for your settlement!*
