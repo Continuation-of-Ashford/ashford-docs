@@ -1,5 +1,4 @@
 # Session Flow
-(`TODO`: move to sub-page? move to a "Running the Session" page?)
 
 ## Downtime Actions
 
@@ -24,3 +23,12 @@ At the start of the session, please inform your Dungeon Master of any effects wh
 At the end of the session, please inform your Dungeon Master of any of the following:
 
 * If a player wishes not to take the xp reward. The Dungeon Master will write this in the mission report and the player may receive or roll for magic items, if applicable, and half of the awarded gold.
+
+### Disciplinary Actions
+If a player is disturbing the session, the `Dungeon Master` has the power to remove the player. 
+
+If a problem arises, try to hold off until the end of the session or direct message them so that the session can continue uninterupted. 
+
+If there are repeat offenses, the DM will give one warning and past that disciplinary measures will be taken based on severity. Generally this ranges from no session rewards, to rescinding a downtime up to and including server ban. 
+
+If the issue goes beyond the session an `Aedile` or `Big Mans` will come in to sort out the issue.

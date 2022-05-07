@@ -7,7 +7,7 @@ Both use 5etools as a data source to help create, level, and update your charact
 Follow the steps below to create your character in the 5etools Charactermancer.
 
 1. Open your character sheet in Foundry.
-2. Click on `...` icon to the right of the `x` to close the sheet.
+2. Click on the `...` icon to the right of the `x` to close the sheet.
 3. Select the `Charactermancer` option from the dropdown.
    
    ![](../assets/foundry_how-to/charactermancer_button.png)
@@ -36,7 +36,7 @@ Follow the steps below to create your character in the 5etools Charactermancer.
 ## Importing Items
 
 1. Open your character sheet.
-2. Click on `...` icon to the right of the `x` to close the sheet.
+2. Click on the `...` icon to the right of the `x` to close the sheet.
    
    ![](../assets/foundry_how-to/plutonium_import_1.png)
 

@@ -375,7 +375,7 @@ Your future self can cast Revivify once, requiring no spellslots or components. 
 ### Dominion over the Mind
 At 25th level, 
 
-@TODO this is supposed to give you fey mind fuckery powers. But needs to be slightly weaker than Legendary Resist (1/day). Maybe give target disadvantage on save vs. non-damaging spell 1/day?
+`TODO:` this is supposed to give you fey mind fuckery powers. But needs to be slightly weaker than Legendary Resist (1/day). Maybe give target disadvantage on save vs. non-damaging spell 1/day?
 
 
 ____

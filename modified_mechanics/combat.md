@@ -1,5 +1,4 @@
 # In-Combat Rule Changes
-(`TODO`: move to sub-page?)
 
 ## Spellcasting Economy
 
