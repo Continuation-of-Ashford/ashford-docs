@@ -3,6 +3,8 @@ When your Stronghold reaches level 1, you must choose a class which you currentl
 
 When you take an Extended Rest at your Stronghold of level 1 or higher as your [Downtime Action](downtime_actions.md), you gain both the benefits of the Extended Rest as well as the [Class Feature Improvements](class_feature_improvements.md) associated with the class the Stronghold is designed for. 
 
+Only the owner of the Stronghold can benefit from a Class Feature Improvement.
+
 Below you'll find the benefits available for each class. 
 
 ## Barbarian 
