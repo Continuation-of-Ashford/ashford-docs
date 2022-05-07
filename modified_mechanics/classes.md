@@ -51,7 +51,9 @@ For the purposes of (creature) type, the echo is an object.
 
 ### Twilight
 
-Eyes of Night has its Darkvision restored to infinite and the wording is as follows: "Your eyes are blessed, allowing you to see through the deepest gloom. You have darkvision with no maximum range; you can see in dim light as if it were bright light and in darkness as if it were dim light.
+Eyes of Night has its Darkvision restored to infinite and the wording is as follows: 
+
+> Your eyes are blessed, allowing you to see through the deepest gloom. You have darkvision with no maximum range; you can see in dim light as if it were bright light and in darkness as if it were dim light.
 
 ## Monk
 

@@ -3,12 +3,17 @@
 
 ## Spellcasting Economy
 
-**As long as you have the capability to you may cast all possible spells regardless of action economy.**
+**As long as you have the capability to, you may cast all possible spells regardless of action economy.**
 
-For example:
 * You can cast a spell requiring a Bonus Action as an Action.
-* You can **not** cast a spell requiring an Action as a Bonus Action
-* You can cast Fireball and Shadow Blade on the same turn, despite requiring two spell slots.
+* You can cast two two spells requiring a spell slot in the same turn.
+
+However...
+* You can **not** cast a spell requiring an Action as a Bonus Action.
+  
+For example:
+* You can cast Fireball (Action) and Shadow Blade (Bonus Action) on the same turn, despite requiring two spell slots.
+* You cannot cast Fireball (Action) during your Bonus Action.
 
 ## Combat Movement
 
