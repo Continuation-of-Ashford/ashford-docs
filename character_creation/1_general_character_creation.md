@@ -4,7 +4,7 @@ Anywhere where you see a "filtered list" of options in a picture on the next pag
 
 * All characters start from level 3 with standard 27-point buy.
 * For HP you can roll or take flat values with one hp re-roll per character.
-* Starting player items are as described in the Player’s Handbook and in Tasha's Cauldron of Everything for Artificer (TCE, pg. 9).
+* Starting player items are as described in the Player's Handbook and in Tasha's Cauldron of Everything for Artificer (TCE, pg. 9).
 * Customizing Your Origin (TCE, pg. 7) is not allowed.
 
 ## Notable Changes

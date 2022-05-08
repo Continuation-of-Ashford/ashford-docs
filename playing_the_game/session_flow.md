@@ -15,7 +15,7 @@ See more: [Downtime Actions](downtime_actions.md).
 At the start of the session, please inform your Dungeon Master of any effects which might majorly impact balance or gameplay progression, such as:
 
 * Homebrew items of other Dungeon Masters
-* Weapons or class abilities/features such as Open Hand Monk’s Tranquility class feature, or a weapon of warning
+* Weapons or class abilities/features such as Open Hand Monk's Tranquility class feature, or a weapon of warning
 * Spells or other magical item effects cast prior to the in-universe day the mission starts (i.e. Contingency)
 
 ### End of Session
