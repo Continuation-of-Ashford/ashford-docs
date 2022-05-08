@@ -71,7 +71,7 @@ On your turn, you can give a creature that you can see or hear vulnerability to 
 
 You can do this a number of times equal to your Stronghold level, after which you must take an Extended Rest to refresh this ability.
 
-# Rogue
+## Rogue
 After you hit with a Sneak Attack, you may become invisible. This functions the same as the Invisibility spell, but it is non-magical. 
 
 You can do this a number of times equal to your Stronghold level, after which you must take an Extended Rest to refresh this ability.
