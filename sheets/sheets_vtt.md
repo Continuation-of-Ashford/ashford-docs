@@ -10,8 +10,6 @@ Currently, this is in the `#player-services` channel, though that is subject to 
 ![](../assets/foundry_how-to/server_monitoring.png)
 
 
-The link to our Foundry server can be found here: https://ashford-moltenhosting.moltenhosting.com/join
-
 # Sheets
 When it comes to character sheets, you have two options:
 
