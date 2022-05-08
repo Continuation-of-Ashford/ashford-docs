@@ -30,4 +30,4 @@ When replacing a retired character, the new character must clearly be a differen
 
 If you have a willingly retired character, and active character of the same level, you may swap the 2. Un-retiring one and retiring the other.
 
-## [← Finishing Touches](3_finishing_touches.md) | [Index](0_creation_index.md) | [Beyond Level 20 →](5_beyond_level_20.md)
+## [← Finishing Touches](3_finishing_touches.md) | [Index](0_creation_guide.md) | [Beyond Level 20 →](5_beyond_level_20.md)

@@ -37,4 +37,4 @@ Find your character art and either
 
 ![](../assets/token_creation.png)
 
-## [← Core Character Creation](2_core_character_creation.md) | [Index](0_creation_index.md) | [Beyond Level 3 →](4_beyond_level_3.md)
+## [← Core Character Creation](2_core_character_creation.md) | [Index](0_creation_guide.md) | [Beyond Level 3 →](4_beyond_level_3.md)

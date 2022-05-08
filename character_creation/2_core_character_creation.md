@@ -66,4 +66,4 @@ We allow items with the Renaissance tag but not the Futuristic or Modern tag. Th
 
 *`Remember:` ReCoA uses some [modified skills & proficiencies rules](../modified_mechanics/skills_proficiencies.md).*
 
-## [← General Character Creation](1_general_character_creation.md) | [Index](0_creation_index.md) | [Finishing Touches →](3_finishing_touches.md)
+## [← General Character Creation](1_general_character_creation.md) | [Index](0_creation_guide.md) | [Finishing Touches →](3_finishing_touches.md)
