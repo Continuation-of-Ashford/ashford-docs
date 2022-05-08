@@ -19,6 +19,10 @@ Amulet of the Devout only increases the spell attack rolls and saving throw DCs 
 
 Shield Guardian has its rarity increased to very rare.
 
+## Guns: Bad News and Hand Mortar
+
+`TODO:` write these rules.
+
 ## Potions
 Commonly used potions have standard prices, as follows:
 
