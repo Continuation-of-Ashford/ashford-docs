@@ -10,14 +10,16 @@ Below you'll find the benefits available for each class.
 ## Artificer 
 You can use an a Action or Bonus Action to complete a Greater Infusion, allowing you to share the benefits of one of your active infusions (an effect or item) with any creatures you can see or hear, to a maximum of 8. Multiple Greater Infusions can be used concurrently. 
 
-Each usage lasts for 10 minutes, but the shared effects of any active Greater Infusions end at the conclusion of combat as a result of the strain of maintaining the effect.
+Each usage lasts for 1 hour, but the shared effects of any active Greater Infusions end at the conclusion of combat as a result of the strain of maintaining the effect.
 
 You can do this a number of times equal to your Stronghold level, after which you must take an Extended Rest to refresh this ability.
 
 ## Barbarian 
-Whenever you reduce an enemy to 0 hit points or score a critical hit while raging, you can choose to make an additional weapon attack and move up to your speed. 
+At the start of your turn whenever you are in or enter a rage, you can choose to enter a Stronghold Rage for the next 3 turns of that rage. 
 
-You can do this a number of times equal to twice your Stronghold level, after which you must take an Extended Rest to refresh this ability.
+Stronghold rages function the same as normal barbarian rages (including subclasses), but modifies the bonus damage from raging to `(rage bonus * (1 + (Stronghold Level / 2)))` for any successful  melee attacks during that time. 
+
+You can do this a number of times equal to your Stronghold level, after which you must take an Extended Rest to refresh this ability.
 
 ## Bard 
 When you or a creature you have granted Bardic Inspiration rolls your inspiration die, you can choose to add your Stronghold level to the result *before the roll is made*. 
@@ -72,14 +74,24 @@ On your turn, you can give a creature that you can see or hear vulnerability to 
 You can do this a number of times equal to your Stronghold level, after which you must take an Extended Rest to refresh this ability.
 
 ## Rogue
-After you hit with a Sneak Attack, you may become invisible. This functions the same as the Invisibility spell, but it is non-magical. 
+When you hit with the Attack Action such that Sneak Attack would apply, before rolling damage you can choose to make it a Stronghold Sneak Attack.
+
+Using a Stronghold Sneak Attack adds (2 * Stronghold Level)d6 to the normal Sneak Attack damage dice. 
+
+Any other effect which would change or multiply the damage of your Sneak Attack, such as a critical roll or Grave Priest subclass effects, would not effect the added Stronghold Sneak Attack dice.
 
 You can do this a number of times equal to your Stronghold level, after which you must take an Extended Rest to refresh this ability.
 
 ## Sorcerer 
-You gain a number of bonus sorcery points equal to twice the level of your Stronghold. 
+You gain a number of Stronghold Sorcery Points equal to the level of your Stronghold. 
 
-You must take an Extended Rest to refresh this ability. 
+On your turn, you can expend 1 normal Sorcery Points and up to 4 Stronghold Sorcery Points to cast a Sorcerer spell which you do not know. Casting a spell in this way does not cost a spell slot.
+
+The level of the Sorcerer spell can be up to `2 * ( # of SSPs used)`, up of half of your sorcerer level. This means that level 9 spells cannot be cast with Stronghold Sorcery Points.
+
+Using this ability still requires the use of the appropriate level spell slot.
+
+You must take an Extended Rest to refresh this ability.
 
 ## Warlock 
 You gain a number of Stronghold Spell Slots equal to the level of your Stronghold. 
