@@ -11,8 +11,7 @@ Once you've been playing your character for a while, you may find that you're it
 
 When a character reaches ***`10`th, `15`th, and `20`th level***, it gets a token. These tokens do not have to be spent immediately and can accrue.
 
-You can spend one (`1`) token to change a character's class levels, ability scores, proficiencies, feats, and prestige options as appropriate. (`TODO`: explain more the extent of changes that can be made.)
-
+You can spend one (`1`) token to change a character's class levels, ability scores, proficiencies, feats, as appropriate. 
 You cannot change a character's race, background or inventory.
 
 Each token is specific to the character that earned it via leveling. For example, if you create a new character to replace a retired one, they only get a token if they reach the appropriate level naturally. I.e., if you replace a 13 level character, they have no tokens. If that character levels up to 15th level, they will have 1 token.
