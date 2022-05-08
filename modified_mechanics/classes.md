@@ -8,7 +8,7 @@ The level 3 "Frenzy" feature is replaced with the following. It amends one exist
 
 > **Frenzy**
 > 
-> When you Rage you can choose to Frenzy. While in a Frenzy you gain a Brutal Critical die, this stacks with the number of dice granted by the Brutal Critical feature you gain at 9th level.
+> When you Rage you can choose to Frenzy. While in a Frenzy you gain a Brutal Critical die that stacks with the number of dice granted by the Brutal Critical feature you gain at 9th level.
 > 
 > **Reckless Frenzy**
 > 
@@ -20,12 +20,12 @@ The level 3 "Frenzy" feature is replaced with the following. It amends one exist
 > 
 > **Unceasing Battle**
 > 
->> When your rage ends, making a Constitution saving throw. The DC is equal to 10 + 5 times the number of the Frenzy feature used since your last long rest. On a pass you can suppress the levels of exhaustion gained from the Frenzy feature until the end of your next rage. This DC resets on a long rest.
+>> When your rage ends, make a Constitution saving throw. The DC is equal to 10 + 5 times the number of the Reckless Frenzy feature used since your last long rest. On a succesful saving throw, you can suppress the levels of exhaustion gained from the Reckless Frenzy feature until the end of your next rage. If you fail the saving throw, you gain levels of exhuastion equal to the number of times you used Reckless Frenzy since you last gained exhaustion from this feature (i.e., Trogdor uses Reckless Frenzy in a fight.  At the end of the fight, he succeeds his DC 10 CON saving throw.  He uses Reckless Frenzy a second time in another fight, but fails the DC 15 CON saving throw.  Trogdor would then gain 2 levels of exhaustion. If Trogdor does the same and fails the next CON save, he would gain 1 level of exhaustion). This DC resets on a long rest.  
 
 ## Ranger
-(`TODO`: Clarify this section. Existing documentation is not clear.)
+Ranger's Favored Foe and Foe Slayer have been rewritten with the following features:
 
-### Ranger: Favored Foe
+### Favored Foe
 
 1st-level ranger optional feature, which replaces the Favored Enemy feature and works with the Foe Slayer feature
 
@@ -33,7 +33,7 @@ You can call on your bond with nature to mark a creature as your favored enemy f
 
 In addition, when you gain the Spellcasting feature at 2nd level, Hunter's Mark does not count against the number of ranger spells you know.
 
-### Ranger: Foe Slayer
+### Foe Slayer
 
 At 20th level, you become an unparalleled hunter of your enemies. Once on each of your turns, you can add your Wisdom modifier to the attack roll **and** the damage roll of an attack you make against one of your favored enemies. You can choose to use this feature before or after the roll, but before any effects of the roll are applied."
 
@@ -47,13 +47,6 @@ Arcane Shot has a number of uses equal to 2 + proficency bonus.
 
 For the purposes of (creature) type, the echo is an object.
 
-## Cleric 
-
-### Twilight
-
-Eyes of Night has its Darkvision restored to infinite and the wording is as follows: 
-
-> Your eyes are blessed, allowing you to see through the deepest gloom. You have darkvision with no maximum range; you can see in dim light as if it were bright light and in darkness as if it were dim light.
 
 ## Monk
 
