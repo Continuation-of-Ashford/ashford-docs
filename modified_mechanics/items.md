@@ -37,7 +37,7 @@ Commonly used potions have standard prices, as follows:
 # Attunements
 
 ## Attunement Limits
-The maximum number of attunement slots is increased from `3` to `5`.
+The maximum number of attunement slots is increased by 2.
 
 *`Tip:` If you don't know, an attunement slot is the equivalent of an "equipment slot" employed by many video games. In D&D 5e, these slots are only used for magic items, but only for some of them. Look for the `(requires attunement)` property underneath the item name*.
 
