@@ -1,7 +1,7 @@
 # Strongholds
 Strongholds differ from [regular buildings](settlement_buildings.md) in that a single building will have multiple levels which span multiple tiers of settlements and that they are controlled individually by the builder, not the settlement owner.
 
-You should make a note of who is/is not allowed to use your Stronghold in its building entry in the settlements tab in discord. The settlement that your Stronghold is located in must contain a capital building of an appropriate tier to upgrade your Stronghold to its next level.
+You should make a note of who is/is not allowed to use your Stronghold in its building entry in the settlements tab in discord. The settlement that your Stronghold is located in must contain a capital building of an appropriate tier to upgrade your Stronghold to its next level.  The tier of capital building required to upgrade your stronghold is equal to the level of the stronghold plus 1 (i.e., in order to build a level 4 keep, you need a tier 5 settlement).
 
 Below you'll find the the Strongholds players can build in [settlements](settlements.md). 
 
