@@ -44,6 +44,7 @@ The maximum number of attunement slots is increased by 2.
 ![](../assets/attunement_required.png)
 
 ## Magic tattoos
+`TODO:` Rewrite this.
 
 Magic tattoos have an amendment to their Tattoo Attunement feature:
 
