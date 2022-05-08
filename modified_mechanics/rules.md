@@ -12,6 +12,6 @@ ReCoA employs a number of customized rules that we believe improve the player ex
 * [Items](items.md)
 * [Skills & Proficiencies](skills_proficiencies.md)
 
-# Combat Rule Changes
+# Combat Rule and Reminders
 
 * [Combat Mechanics](combat.md)
