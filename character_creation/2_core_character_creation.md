@@ -10,7 +10,9 @@ To see allowed Races, set the filters according to the image below, or use this 
 
 ![](../assets/allowed_races.png)
 
-* When creating your character, think about if the race selection fits within the general lore of Forgotten Realms in 5e. If your character's race is from a different IP that does not exist in the Forgotten Realms in 5e, it will not be allowed.
+* Note: We also allow the gemstone dragonborn race from Strongholds and Followers.
+ 
+* When creating your character, think about if the race selection fits within the general lore of Forgotten Realms in 5e. If your character's race is from a different IP that does not exist in existing DnD lore, it will not be allowed.  
 * All UA or earlier official content reprinted in future official books must be updated (i.e. Minotaurs, triton and centaurs from `Volo's Guide to Monsters (VGM)` to `Mordenkainen's Tome of Foes (MOT)`, Dhampir from UA:GL to VRGR). There are no exceptions.
 
 *`Remember:` ReCoA uses [some modified Races](../modified_mechanics/races.md).*
@@ -26,6 +28,7 @@ To see allowed Classes, set the filters according to the image below, or use thi
 ![](../assets/allowed_classes.png)
 
 *`Remember:` ReCoA uses [a few modified class and subclass features](../modified_mechanics/classes.md).*
+* Note: We also allow Matt Mercer's Blood Hunter, Way of the Cobalt Soul Monk, and Gunslinger fighters.
 
 ## Spells
 
@@ -43,7 +46,7 @@ To see allowed Backgrounds, set the filters according to the image below, or use
 
 ## Feats
 
-To see allowed Feats, set the filters according to the image below, or use this [link](https://5e.tools/feats.html#aberrant%20dragonmark_erlw,flstsource:scc=0,flopsource:extend).
+To see allowed Feats, set the filters according to the image below, or use this [link](https://5e.tools/feats.html#aberrant%20dragonmark_erlw,flstsource:uafeatsforskills=1~uafeats=1~scc=0,flopsource:extend).
 
 ![](../assets/allowed_feats.png)
 
@@ -51,11 +54,11 @@ To see allowed Feats, set the filters according to the image below, or use this 
 
 ## Items
 
-To see allowed items, set the filters according to the image below, or use this [link](https://5e.tools/items.html#abacus_phb,flstsource:llk=1~oga=1,flopsource:extend,flsttype:renaissance=0~treasure=0,floptype:extend,flstcategory:specific%20variant=0,flopcategory:extend).
+To see allowed items, set the filters according to the image below, or use this [link](https://5e.tools/items.html#chain%20mail_phb,flstsource:llk=1~oga=1~rmbre=0,flopsource:extend,flsttype:renaissance=0~treasure=0,floptype:extend).
 
 ![](../assets/allowed_items.png)
 
-We allow items with the Renaissance tag but not the Futuristic tag. There are no exceptions.
+We allow items with the Renaissance tag but not the Futuristic or Modern tag. There are no exceptions.
 
 *`Remember:` ReCoA uses some [custom item mechanics and modified items](../modified_mechanics/items.md).*
 
