@@ -1,4 +1,5 @@
 # Beyond Level 20: Prestige
+## Work in Progress, please ignore for now.
 
 As a character of legendary reputation and renown - be it fame or infamy - your adventures do not stop there. This feature is available only to level 20 characters and these benefits can be taken once every three sessions of an applicable bracket. Any sessions considered 'arena sessions' are exempt from this and as such will not count, nor do your sessions towards a legendary item search. If you were level 20 before this feature was introduced you do not get to use it retroactively, downtime-wise. This is passive - but must be done during a downtime, and only then - and therefore not a downtime activity. Downtimes earned by `@Dungeon Masters` are applicable. You cannot stack boons, blessings or use Alternatives to Epic Boons.
 
