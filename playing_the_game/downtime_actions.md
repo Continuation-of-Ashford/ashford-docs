@@ -3,14 +3,27 @@ Below you will find the various options you have when using your downtime.
 
 Some downtimes are always available, while many other downtimes need the use of a constructed building. Others can be done without but are made better by a building. 
 
-Choose which settlement you are spending your downtime in and check the settlements thread to see what buildings are available.
+Choose which settlement you are spending your downtime in and check the settlements thread to see what buildings are available.  The DM will say which settlements are in range of the session.
 
 *Some downtimes require Ability Checks. These Ability Checks take place gradually over multiple days of work. Short term buffs such as Guidance (1 minute duration) will run out before they can assist you with such checks. Only 8 hour or longer duration improvements to Ability Checks (such as Foresight) can be used to improve downtime rolls.*
 
 ## Downtimes that don't need buildings
 
-### Construct a Building
-You can either begin constructing a new building, continue building one of your own buildings, or work on someone else's building in progress (with their character's permission).  You can either build [settlement buildings](settlement_buildings.md) or [strongholds](strongholds.md) if the settlement is of an appropriate level. The first time any building has downtime spent building it, that character must pay the full listed cost of its construction.  No further payment is required to continue construction.
+### (De)Construct a Building
+You can either begin constructing a new building, continue building one of your own buildings, or work on someone else's building in progress (with their character's permission).  You can either build [settlement buildings](settlement_buildings.md) or [strongholds](strongholds.md) if the settlement is of an appropriate level.
+
+Players can pool their money and downtimes together to obtain particular benefits or purely to complete construction faster.
+
+When multiple players contribute to the construction of a settlement or building, someone must be elected as the owner. Keep track of who contributed what to buildings in the thread for your settlement!
+
+A settlement can construct any building of it's own tier or lower.
+The first time any building has downtime spent building it, that character must pay the full listed cost of its construction.  No further payment is required to continue construction.
+
+Settlement buildings can also be destroyed. Doing so incurs a cost in gold and downtimes equal to 1/4th the building's original cost (minimum 1 downtime rounded up, minimum 125gp rounded up to nearest 5gp increment).
+
+The cost of destruction is paid by the settlement owner and distributed equally to any players other than the settlement owner who contributed to the building's original construction costs.
+
+If the building is not yet complete, there is no gold cost associated with the destruction.
 
 ### Work
 ###### Can be improved by Hunting Post, Mine/Quarry or Smith buildings
@@ -33,21 +46,30 @@ You spend a downtime(s) scribing a scroll, or contributing a spell scroll. Scrib
 
 | Spell Level | Time Cost  | Gold Cost |
 |-------------|------------|-----------|
-| Cantrip     | 3 per week | 25gp      |
-| 1st         | 2 per week | 50gp      |
-| 2nd         | 2 per week | 250gp     |
-| 3rd         | 1 week     | 500gp     |
-| 4th         | 1 week     | 1,000gp   |
-| 5th         | 2 weeks    | 2,500gp   |
-| 6th         | 2 weeks    | 5,000gp   |
-| 7th         | 3 weeks    | 15,000gp  |
-| 8th         | 4 weeks    | 25,000gp  |
-| 9th         | 5 weeks    | 100,000gp |
+| Cantrip     | 3 per downtime | 25gp      |
+| 1st         | 2 per downtime | 50gp      |
+| 2nd         | 2 per downtime | 250gp     |
+| 3rd         | 1 downtimes    | 500gp     |
+| 4th         | 1 downtimes    | 1,000gp   |
+| 5th         | 2 downtimes    | 2,500gp   |
+| 6th         | 2 downtimes    | 5,000gp   |
+| 7th         | 3 downtimes    | 15,000gp  |
+| 8th         | 4 downtimes    | 25,000gp  |
+| 9th         | 5 downtimes    | 100,000gp |
 
 ### Copying a Spell
+
+When you find a wizard (or ritual spell for ritual caster) of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
+
+Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
+
+For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
+
 You may spend up to `two (2)` hours per day copying spells into your spellbook *without consuming a downtime*, up to a `maximum of 14 hours per downtime`. 
 
 If your character needs less than 8 hours of sleep, such as a character with Sentry's Rest, Trance or Undying Nature, you may add those hours to copying spells for 4 hours and 6 hours respectively, up to 32 hours or 42 hours. 
+
+If you wish to spend your downtime on copying spells, your base time increases to 56 hours, which can be increased by not needing to sleep as above.
 
 You must still find these spells, such as through a session, PC, or spell scroll. Spells copied in this way should have written at the bottom of their own descriptions who they were copied by.
 
@@ -120,7 +142,7 @@ If you are within 600 xp of the next level, you can spend the downtime training 
 If you have abilities that can be swapped upon leveling up or gaining an ASI (i.e. fighting styles, eldritch invocations, sorcerer spells) you can change them using this downtime.
 
 ### Taming
-###### Requires the Stables or War Stables building or a Temple/Grove/Arena Stronghold
+###### Requires the Stables, War Stables, or Wondrous Stables building or a Temple/Grove/Arena Stronghold
 Players can spend downtime capturing and taming creatures to be their mount. For normal mounts they can be bought as shown in the item table.
 
 * Creatures of 8 intelligence or higher cannot be tamed and named/titled/homebrew creatures are disallowed.
