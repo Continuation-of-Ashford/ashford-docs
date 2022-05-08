@@ -1,18 +1,10 @@
-# In-Combat Rule Changes
+# In-Combat Rules and Reminders
 
 ## Spellcasting Economy
 
-**As long as you have the capability to, you may cast all possible spells regardless of action economy.**
-
-* You can cast a spell requiring a Bonus Action as an Action.
-* You can cast two two spells requiring a spell slot in the same turn.
-
-However...
-* You can **not** cast a spell requiring an Action as a Bonus Action.
+* Casting a spell using a bonus action does not prevent you from casting other spells that require a spell slot on your turn.
   
-For example:
-* You can cast Fireball (Action) and Shadow Blade (Bonus Action) on the same turn, despite requiring two spell slots.
-* You cannot cast Fireball (Action) during your Bonus Action.
+For example: You can cast Fireball (Action) and Shadow Blade (Bonus Action) on the same turn, then counterspell an enemy attempting to counterspell your fireball.
 
 ## Combat Movement
 
