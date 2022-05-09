@@ -24,6 +24,17 @@ At the end of the session, please inform your Dungeon Master of any of the follo
 
 * If a player wishes not to take the xp reward. The Dungeon Master will write this in the mission report and the player may receive or roll for magic items, if applicable, and half of the awarded gold.
 
+## Quest Reports
+A reward is given to players who give a sufficient report of the quest they participated in. 
+
+This reward changes per level as follows: 
+
+| Level | Reward                        |
+|------ | ----------------------------- |
+| 3-7   | 100 gp + 10% extra session xp |
+| 8-12  | 200 gp + 10% extra session xp |
+| 18-20 | 400 gp + 10% extra session xp |
+
 ### Disciplinary Actions
 If a player is disturbing the session, the `Dungeon Master` has the power to remove the player. 
 
