@@ -75,7 +75,7 @@ ___
 ### Prestige Class Prerequisites:					
 Any level 20 Ashford character capable of casting the Imprisonment spell. 
 
-In order to become a lich you much bargain for the secret rituals with a being of great evil, then sacrifice and consume the soul of another sentient creature. So while there is no Alignment prerequisite for starting the path to Lichdom, successfully completing the steps will always alter your alignment to Evil. Even if you started on this path with the intention to use the power for the good of others.
+In order to become a lich you must bargain for the secret rituals with a being of great evil, then sacrifice and consume the soul of another sentient creature. So while there is no Alignment prerequisite for starting the path to Lichdom, successfully completing the steps will always alter your alignment to Evil. Even if you started on this path with the intention to use the power for the good of others.
 
 ##### Hit Points
 - **Hit Dice:** 1d6	
