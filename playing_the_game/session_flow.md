@@ -35,7 +35,7 @@ This reward changes per level as follows:
 | 8-12  | 200 gp + 10% extra session xp |
 | 18-20 | 400 gp + 10% extra session xp |
 
-### Disciplinary Actions
+## Disciplinary Actions
 If a player is disturbing the session, the `Dungeon Master` has the power to remove the player. 
 
 If a problem arises, try to hold off until the end of the session or direct message them so that the session can continue uninterupted. 
