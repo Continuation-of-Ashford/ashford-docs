@@ -1,7 +1,7 @@
 # Class Feature Improvements (CFI)
 When your Stronghold reaches level 1, you must choose a class which you currently have levels in to associate it with. For example, if you have 3 levels of Barbarian and 3 of Fighter, you can choose either. However, if you only have 6 in Barbarian, you can only choose Barbarian.
 
-When you take an Extended Rest at your Stronghold of level 1 or higher as your [Downtime Action](downtime_actions.md), you gain both the benefits of the Extended Rest as well as the [Class Feature Improvements](class_feature_improvements.md) associated with the class the Stronghold is designed for. 
+When you take an Extended Rest at your Stronghold of level 1 or higher as your [Downtime Action](downtime_actions.md), you gain both the benefits of the Extended Rest as well as the [Class Feature Improvements](class_feature_improvements.md) associated with the class the Stronghold is designed for. You also lose the benefits of any other Extended Rest effects, including Class Feature Improvements.
 
 Only the owner of the Stronghold can benefit from a Class Feature Improvement.
 
