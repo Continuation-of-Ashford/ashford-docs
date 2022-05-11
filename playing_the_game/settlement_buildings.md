@@ -50,7 +50,7 @@ Tier 3 and higher can support [strongholds](strongholds.md) of this type.
 | Tower, Laboratory level 0        | 8,000       |           6 | See [Strongholds Section](strongholds.md)  |
 | Keep, Fort, Fane level 0         | 10,000      |           8 | See [Strongholds Section](strongholds.md)  |
 
-## Tier 4: City
+## Tier 4: Citystate
 |                                  | Gold Cost   |   Downtimes | Effect |
 |:---------------------------------|:------------|------------:|:-------|
 | **City Hall**                        | 35,000      |          10 | Capital building for Tier 3. <br/><br/> This building does not cost a building slot and is upgraded into the capital building for the next tier. |
