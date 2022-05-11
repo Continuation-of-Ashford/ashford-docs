@@ -117,11 +117,15 @@ Your Stronghold adds a feat of your design/choice to the settlement it is in or 
 For a tower this should be a Guilds feat, as your Stronghold can house apprentices that function as a Guild. If the Settlement already has a Guilds feat, you still add a new Guilds feat, but if the controller of the settlement agrees you can replace the Guilds feat the settlement previously had with an Underworld feat, or a Terrain feat of your design/choice.
 
 ## Extended Rest: Study (Magic School)
-Taking an extended rest at a tower allows you to choose a single spell from the tower's school. It doesn't have to be a spell you can cast, nor does it need to be on your class's spell list. Even non casters can benefit from a tower if they have items they can use to cast spells. 
+Taking an extended rest at a tower allows you to improve your skills with and knowledge of a singular spell which you dedicate your study to. 
 
-When you cast that spell at its lowest level, resolve its effects as if the spell were cast at one level higher. In other words, Magic Missile, produced from a Wand of Magic Missiles, studied at an evocation tower, would cast as a 2nd-level spell, even though you used only one charge from the wand. 
+Choose a spell which you have access to via any source (class, subclass, race, item, etc) that matches the school of magic associated with the tower you are studying at. Whenever you cast that spell at its lowest level, resolve its effects as if the spell were cast at one level higher. Spells cast this this way still consume any required resources at the original level (spell slots, item charges, etc).
 
-Taking an extended rest elsewhere causes you to lose the effect of the studied spell. 
+For example, a fighter who possesses a Wand of Magic Missile studies the Magic Missile spell at a tower specializing in Evocation magic. Whenever they cast the Magic Missile spell at 1st level, it casts as a 2nd-level spell while only consuming one charge from the wand.
+
+You may also choose to study a spell you do not currently have access to for educational or theoretical purposes, but you will not gain the spellcasting benefits from this Extended Rest until you do have access to it.
+
+This effect ends whenever you take another Extended Rest at any Stronghold.
 
 - - -
 
@@ -142,7 +146,9 @@ Your Stronghold adds a feat of your design/choice to the settlement it is in or 
 For a keep this should be a Guards feat. If the Settlement already has a Guards feat, you still add a new Guards feat, but if the controller of the settlement agrees you can replace the Guards feat the settlement previously had with an Underworld feat, or a Standing Army feat of your design/choice.
 
 ## Extended Rest: Training
-Taking an extended rest at a keep grants you a training benefit. You cannot gain the benefit of training from armor, shields, or weapons you are not proficient in. Taking an extended rest elsewhere causes you to lose your training benefit until you take an extended rest at your keep again.
+Taking an extended rest at a keep grants you a training benefit. You cannot gain the benefit of training from armor, shields, or weapons you are not proficient in. 
+
+This effect ends whenever you take another Extended Rest at any Stronghold.
 
 ### Keep Training
 | Training | Benefit |
