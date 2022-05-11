@@ -91,14 +91,14 @@ The level of the Sorcerer spell can be up to `2 * ( # of SSPs used)`, up of half
 
 Using this ability still requires the use of the appropriate level spell slot.
 
-You must take an Extended Rest to refresh this ability.
+You must take an Extended Rest to regain expended uses of your Stronghold Sorcery Points.
 
 ## Warlock 
 You gain a number of Stronghold Spell Slots equal to the level of your Stronghold. 
 
 On your turn, you can choose to use a Stronghold Spell Slot as if it were a Warlock Spell Slot.
 
-You must take an Extended Rest to refresh this ability. 
+You must take an Extended Rest to regain expended uses of your Stronghold Spell Slots.
 
 ## Wizard
 You gain a number of Sustained Concentration Rounds equal to the level of your Stronghold. 
@@ -109,4 +109,4 @@ At the beginning of each of your turns, you can choose to maintain any Sustained
 
 You can choose to drop a Sustained Concentration at any time, the same as normal concentration.
 
-You must take an Extended Rest to refresh this ability. 
+You must take an Extended Rest to regain expended uses of your Sustained Concentration.
