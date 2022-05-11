@@ -98,6 +98,19 @@ While called a tower, the only actual requirement is that this is a research fac
 | 3     | 12,000gp      | 12                |
 | 4     | 18,000gp      | 16                |
 
+### School of Magic
+When you build your tower, you must choose a school of magic which is being researched. 
+
+Choose one of the following and record it in your building records in `#settlement-tab`:
+* Conjuration
+* Necromancy
+* Evocation
+* Abjuration 
+* Transmutation
+* Divination
+* Enchantment
+* Illusion
+
 ## Demesne Effect
 Your Stronghold adds a feat of your design/choice to the settlement it is in or near. 
 
