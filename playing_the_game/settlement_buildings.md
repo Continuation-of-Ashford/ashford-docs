@@ -36,10 +36,11 @@ Tier 2 and higher can support [strongholds](strongholds.md) of this type.
 ## Tier 3: Town
 |                                  | Gold Cost   |   Downtimes | Effect|
 |:---------------------------------|:------------|------------:|:------|
-| **Town Hall**                        | 15,000      |           8 | Capital building for tier 2. <br/><br/> This building does not cost a building slot and is upgraded into the capital building for the next tier. |
+| **Town Hall**                    | 15,000      |           8 | Capital building for tier 2. <br/><br/> This building does not cost a building slot and is upgraded into the capital building for the next tier. |
 | War stables                      | 5,000       |           4 | Allows ownership of mounts up to CR 6. |
-| Mine/Quarry`*`                     | 6,000       |           4 | Reduces cost of building tier 2 buildings by 20% (limit 1/town).<br/><br/> Work downtime at this building adds 5 to your roll, when working using the Athletics skill or Mason's or Potter's Tools. |
+| Mine/Quarry`*`                   | 6,000       |           4 | Reduces cost of building tier 2 buildings by 20% (limit 1/town).<br/><br/> Work downtime at this building adds 5 to your roll, when working using the Athletics skill or Mason's or Potter's Tools. |
 | Docks                            | 7,500       |           4 | Allows import of strategic resources and reduced-risk travel to other islands.  Allows purchase and ownership of boats.<br/><br/> Work downtime at this building adds 8 to your roll, when working using the Athletics or Acrobatics skill or Carpenter's, Navigator's or Woodcarver's tools. |
+| Training Hall                    | 3000        |            3 | Allows the **training** downtime to be completed at this settlement |
 
 
 ### Tier 3 Strongholds
