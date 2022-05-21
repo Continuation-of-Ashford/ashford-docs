@@ -11,6 +11,19 @@
 # Editing a Server Embed
 
 ## Option 1
+1. Right click on the message in Discord.
+2. Click "Apps" > "Edit Message".
+3. Open the link sent to you by the Message Embedder bot.
+4. Open the channel settings where you want the message to go.
+5. Go to `Integrations` > `Webhooks`.
+6. Find the existing webhook, open it and copy the Webhook URL.
+7. Add the Webhook to your message. 
+8. Copy the original Message ID by right clicking it and "Copy ID". ([You will need Developer Mode enabled.](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-))
+9. Paste it into the Message ID field. Decline the prompt when it asks.
+10. Edit the embed how you want it and `Save Message`. 
+11. Save your message json in [the repo](https://github.com/Continuation-of-Ashford/ashford-docs/tree/main/mgmt)
+
+## Option 2
 1. Go to https://discord.club/dashboard
 2. Open the channel settings where you want the message to go.
 3. Go to `Integrations` > `Webhooks`.
@@ -21,7 +34,7 @@
 8. Edit the embed how you want it and `Save Message`. 
 9. Save your message json in [the repo](https://github.com/Continuation-of-Ashford/ashford-docs/tree/main/mgmt)
 
-## Option 2
+## Option 3
 1. Go to https://discord.club/dashboard
 2. Copy the message json from [the repo](https://github.com/Continuation-of-Ashford/ashford-docs/tree/main/mgmt).
 3. Paste the json into the message box on the bottom right.

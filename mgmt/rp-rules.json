@@ -1,0 +1,43 @@
+{
+    "username": "Just another slime.",
+    "avatar_url": "https://cdn.discordapp.com/avatars/973667402799792208/f1c14cc23c32151a2bb6b91222adad54.webp",
+    "content": " ",
+    "embeds": [
+      {
+        "title": "Format",
+        "color": 0,
+        "description": "- In character actions may be dictated in italics or normally. i.e. *She takes a cautious step closer.* **OR** She takes a cautious step closer.\n\n- In character, speaking is denoted with \"quotes\" around the sentence, in the same format as a book. i.e. \"I don't think we're in Kansas anymore...\"\n\n- Speaking telepathically, in a specific language other than Common, or trying to whisper is put in `||spoiler brackets||`. For example, ||Perish at my hand, mortal.|| *The lich rasps in Abyssal.*\n\n- Emojis may be used in the context of the character making the expression, movement, etc in question. For example, *Ramsey makes a :joy: face.*",
+        "timestamp": "",
+        "author": {
+          "name": ""
+        },
+        "image": {},
+        "thumbnail": {},
+        "footer": {},
+        "fields": []
+      },
+      {
+        "title": "Etiquette",
+        "color": 0,
+        "description": "- Disagreements between two or more characters should not translate to disagreements out of character. Please make the distinction between the two. Keep any beef in DMs and try to resolve it as cordially as possible.\n\n- Don't go into out-of-character tangents while in an RP thread. Move it elsewhere such as <#638916858791329806> or DMs.\n\n- Metagaming is not allowed or tolerated. Something your learn out of character is not automatically known by your character as well. For example, a character cannot cross half a city in six seconds because someone is talking about them behind their back with another character. \n\n- Humorous leaning on or breaking of the 4th wall does not constitute metagaming (generally). Use your best judgement.",
+        "timestamp": "",
+        "author": {},
+        "image": {},
+        "thumbnail": {},
+        "footer": {},
+        "fields": []
+      },
+      {
+        "title": "Other Rules",
+        "color": 0,
+        "description": "- <@&638931948424921097> are the only individuals allowed to RP as NPCs unless the NPC in question is a servant or follower in your PC Stronghold. \n\n- RP is meant for the server's enjoyment and to develop relationships outside of sessions without any material consequences. For example, buying a drink worth 2sp does not actually deduct the cost from your character sheet, or add it to another's. Just because there are little to no consequences for actions does not mean one can unrealistically buy everything with platinum pieces the character would not have.\n\n- <@&638931948424921097> and <@&638939302776274964> can make permanent changes to existing lore as events unfold in RP. ",
+        "timestamp": "",
+        "author": {},
+        "image": {},
+        "thumbnail": {},
+        "footer": {},
+        "fields": []
+      }
+    ],
+    "components": []
+  }
