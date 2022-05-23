@@ -1,23 +1,9 @@
-# The Recolonization of Ashford
-
-
-***ReCoA is beginning a new season on Friday, April 29th. All new characters, all new lands to settle and explore, and all new plot. Now is the time to join!***
-
-4+ years strong, ReCoA is voice only and based in Foundry/Discord, set in a modified 5e Westmarches-style Forgotten Realms. 
-
-We use most available sourcebooks, some UA, Matt Mercer's (sub)classes (Bloodhunter, Gunslinger, Cobalt Soul), and modified Strongholds and Followers. Magic items are sparse to start but players begin at level 3.
-
-### Quick Facts
-
-* We have maintained an active player count of ~30.
-* We currently have 6 active DMs.
-* We're always looking for more players and DMs!
-* We welcome all players whether they're veterans or new to TTRPGs.
-* We are European timezone friendly, with at least one DM in a European timezone.
-
-### Setting 
-
-Set 40 years after the end of the last season, characters of all walks of life find themselves teleported to the city of Kass, in the ruins and remains of the ancient Durothil empire. The obsidian dais you have arrived on hums with ancient power which you can perhaps one day harness...
+# Welcome to The Recolonization of Ashford!
+You feel the energy of the portal that enveloped you close. You have taken the first step in starting your own adventure away from your previous life and found your way here at last. The last thing you remember is a bright flash of light, the portal enveloping you and whisking you away to a foreign land ripe with new opportunities. 
+You awake in the center of what seems to be a small hamlet- the cool salty air washes over your face, and the warm sun beats down on you from above as your eyes slowly focus more and more.
+Beneath you the ground is cold and hard- once you stand you notice it to be a large round disk of obsidian- carved into which are unrecognizable symbols.
+You look about the hamlet now and notice the primarily human population with occasional odd races scattered throughout. These others seem clad in various garbs, armor and the likes- indicating to you that they are adventurers. 
+While you stand there bewildered- a man approaches and introduces himself. "Welcome to Kasr adventurer- the Kass has seen fit to produce another champion for us."
 
 ### Join our Discord for more information!
 [Discord](https://discord.gg/cYa9qYEZtS)
