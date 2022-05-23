@@ -306,7 +306,7 @@ However your bestial form increases all of your speeds by 20.
 ### Sovereign's Charge
 At 22nd level, when you use your Action to transform, you can also make 1 natural weapon attack as part of that Action. 
 
-When you move at least 20 feet straight toward a target and then hit it with a natural weapon attack on the same turn, you tripple the damage dice of the weapon used that attack. *(You do not tripple any additional dice that might have been added to the attack)* You can only dot this once per turn.
+When you move at least 20 feet straight toward a target and then hit it with a natural weapon attack on the same turn, you tripple the damage dice of the weapon used that attack. *(You do not tripple any additional dice that might have been added to the attack)* You can only do this once per turn.
 
 ### Bestial Ability Score improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -322,7 +322,7 @@ ____
 
 
 ## Fey Leige
-*You command legions of powerful eladrin, tapping into the divine essense of the Feywild.*
+*You command legions of powerful eladrin, hold lands in the Feywild and are tapping into the divine essense found there to enhance your own greatness.*
 <div class='classTable'>
 
 | Level    | XP Cost   | PB | Features |
@@ -335,7 +335,7 @@ ____
 </div>
 		
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character that has built a stronghold in the feywild.
+Any level 20 Ashford character that controls a settlement in the feywild.
 
 ##### Hit Points
 - **Hit Dice:** 1d6	
@@ -348,14 +348,14 @@ Any level 20 Ashford character that has built a stronghold in the feywild.
 ### Fey Blessing					
 At 21st level, you draw power from the blood of Correlon that is in the soil of the Feywild. Choose a [blessing](blessings.md) that your domain in the Feywild grants you. 
 
-This blessing is granted to the owner of your stronghold in the feywild. If you ever lose ownership of that stronghold, whichever blessing you chose transfers to the new owner.
+This blessing is granted to the controller of your settlement in the feywild. If you ever lose ownership of that settlement, whichever blessing you chose transfers to the new owner.
 
 ### Shields of the Eladrin Host
 At 22nd level, *at your command, eladrin knights in golden armor teleport in from all sides, protecting you and your allies from danger*. When you or an ally within 30 feet of you is the target of an attack or makes a saving throw, all creatures targeted by that action can teleport up to 10 feet to space of their choice. 
 
 Any creature teleported this way is replaced by an eladrin knight. Such eladrin knights have 50 hit points and will take the damage for the creature that was teleported. 
 
-Any knights that survive, will immediately make 1 attack on the creature that damaged them, and then teleport back to the feywild. 
+Any knights that survive, will immediately make 1 attack on the creature that damaged them. All of eladrin then disappear back to the feywild. 
 
 The knights have pikes and longbows to make their attack. You roll 1d20+9 for each of their attacks and deal 1d10+5 magical piercing damage to the target for each one that hits.
 
@@ -395,7 +395,7 @@ ____
 </div>
 		
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character that can cast spells from the Illusion school at 4th level or higher.
+Any level 20 Ashford character that is suffering at least 1 Indefinite Madness and can cast spells from the Illusion school at 4th level or higher.
 
 ##### Hit Points
 - **Hit Dice:** 1d4
@@ -423,3 +423,23 @@ You can use this ability once, and regain use of it at the end of a long rest.
 
 ### Never Really There
 At 25th level, when you are subjected to an effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw.
+
+____
+
+Planned: Magi-Tech enchancement themed Prestige option
+
+____
+
+Planned: Alchemical enchancement themed Prestige option
+
+____
+
+Planned: Ascendant (one with the universe) themed Prestige option
+
+____
+
+Planned: Far-realm mutant themed Prestige option
+
+____
+
+Planned: Power of Destruction and Entropy (insane evocation mage) themed Prestige option
