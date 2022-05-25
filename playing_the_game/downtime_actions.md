@@ -32,12 +32,27 @@ You spend a week using your skills amongst the working class.
 
 Roll an Ability Check using a skill or tool proficiency you have and multiply the result by your level to find how much gold you earn.
 
-* For example, rolling a 16 Charisma (Persuasion) at level 12 gives 192 gold.
+||
+|:---|
+|For example, rolling a `16` Charisma (Persuasion) at level `12` gives you `16 × 12` = `192` gold.|
+
+### Travel
+###### Can be improved by the Caravansary or Ferry buildings
+If you want to do something at a settlement that isn't within range of the settlement where the session starts, you will need to use the Travel downtime. 
+
+Usually the best use for the Travel downtime is buying items that cannot be purchased or crafted in the settlement the session is in. 
+
+But the the rare case that you have multiple downtimes to spend, you can spend 1 downtime at a far away settlement and then Travel to a different settlement for the start of the session.
+
+If a settlement is currently besieged, or if certain roads water ways are blockaded, the DM will inform you that a that Settlement is currently not available to Travel to/from. Such events can happen as a result of another session failing a quest, or the current session might revolve around dealing with a new blockade or siege.
+
+If you own a movable Stronghold or Settlement, moving it requires taking this downtime, and is also blocked by blockades and sieges.
 
 ### Help
-You spend a week aiding an ally in their endeavors by forfeiting your time and splitting any gold costs, not rewards. 
+You spend a week aiding an ally in their endeavors by forfeiting your time. You give one ally advantage on all checks they make in their downtime activity, excluding the Pit Fighting downtime.    
+When helping you can splitting any gold costs for the downtime, you don't split the rewards. 
 
-You give one ally advantage on all checks they make in their downtime activity, excluding the Pit Fighting downtime.
+Usually the best use for the Help downtime is when you ask another player to use their skills to craft an item for you, giving them advantage and paying part of the cost makes it more likely they can finish the item quickly.
 
 ### Scribing a spell scroll
 ###### Can be improved by the Arcane Scribe building

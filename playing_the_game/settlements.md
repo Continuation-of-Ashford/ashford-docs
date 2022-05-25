@@ -103,15 +103,16 @@ Some example terrain feats are as follows:
 | Name | Advantage | Disadvantage |
 |:-----|:----------|:-------------|
 | Desert Oasis | Attracts anyone wandering the desert, trade is more effective for this settlement (Establishment is availabe at Outpost tier) | Must get almost all their food through trading |
-| Forest/Jungle Clearing | Fewer downtimes required to build wooden buildings | Traders often get lost and fail to find the settlement (Town tier is required for Establishments) |
+| Forest/Jungle Clearing | Fewer downtimes required to build wooden buildings. <br/>Lumberyard reduces all building downtime costs by 2 (minimum 1) | Traders often get lost and fail to find the settlement (Town tier is required for Establishments) |
 | Sacred Grove | Gain a "Protected by friendly beasts" guards feat for free | Absolutely no woodcutting (buildings costs 500 additional gold per tier) |
 | Holy Ground | Settlement is sanctified in the name of a specific god (Monestary, Temple, Grove are availabe at Outpost tier) | Monestary, Temple and Grove strongholds here can only be dedicated to that god |
-| Coastal Sprawl | Access to the sea for travel and trade (Establishment is availabe at Outpost tier) | Storms can wreck your settlement, and you look delicious to pirates |
+| Coastal Sprawl | Ease access to the sea for travel and trade (All costs for building Docks are halved and does not cost a building slot) | Storms can wreck your settlement, and you look delicious to pirates |
 | Grasslands Community | Discount of mounts and carriages bought or hired here | Travelers and traders going to or from here cannot be stealthy |
 | Hilltop Town | Natural defensible terrain against invaders (Keep, Fort and Fane are available at Village tier) | Need to carry water uphill each day |
-| Mountain Retreat | Rich Mineral deposits (Costs for building a Mine or Quarry is halved) | Difficult terrain diminishes all trade (Town tier is required for Establishments) |
-| Flotilla | By being built from sea vessels this settlement can move | Each new building, stronghold or upgrade requires adding a sailing vessel to the flotilla as an additional cost |
+| Mountain Retreat | Rich Mineral deposits (All costs for building a Mine or Quarry is halved and does not cost a building slot) | Difficult terrain diminishes all trade (Town tier is required for Establishments) |
+| Flotilla | By being built from sea vessels this settlement can be moved using the Travel downtime | Each new building, stronghold or upgrade requires adding a sailing vessel to the flotilla as an additional cost |
 | Cesspit | This settlement mainly eats rats and drinks tainted water, lack of food or water cannot hurt it | Diseases run rampant in this settlement, visitors will often contract them |
+| Obsidian Slab of Kass | New adventurers are periodically summoned to defend this settlement, a guild has been built to house them all | A constant influx of adventurers causing and attracting all sorts of problems |
 | Make Your Own |  |  |
 
 ## Village Feats
@@ -119,13 +120,15 @@ Once an Outpost grows into a Village, the increased number of people living ther
 
 Perhaps they are brought together by following a charismatic leader. Perhaps they are brought together following in service to a god. Perhaps they are brought together because they dislike authoritarian leaders and love democracy. Perhaps they are brought together because they hate living near temples and pushy preachers. Perhaps they only love money, and all gathered in this Town because there is plenty of opportunity for wealth.
 
-The player controlling the settlement comes up with an additional feat to give to their settlement. Consider what kind of feat would best fit your settlement, faith, governance, something in between?
+The player controlling the settlement comes up with an additional feat to give to their settlement. Consider what kind of feat would best fit your settlement, tradition, faith, governance, something in between?
 
 Some examples of these feats are as follows:
 | Name | Advantage | Disadvantage |
 |:-----|:----------|:-------------|
 | Pantheon: Mordinsamman (Faith) | The majority of the Town follows the Dwarven pantheon, attracting mostly dwarves to live here and giving it a reputation of fairness and justice | Temples to non-dwarven gods remain empty and unused |
 | Bureaucracy (Governance) | The Village is a place of rules and bylaws, carefully managing who can do what, preventing Villagers from revolting or abandoning the settlement to join bandits | Decisive action cannot be taken as changes happen slowly and needi to be considered and codified on paper first |
+| Rocksteady Architecture (Tradition) | The majority of buildings in this settlement are carved out of stone, with thick walls and heavy doors. Fire can't spread and (multiple) defensive gates can be sealed to keep out raiders. <br/>A failure defending this settlement doesn't cause immediate damage, it only renders the residents trapped or besieged in their homes. A second quest can then be attempted to recover the settlement. If this succeeds, order will be restored before any permanent damage is done to the settlement or it's buildings. | Due to the time consuming construction methods used, all buildings require an additional downtime to build and the lumberyard doesn't reduce any costs. |
+| Built for survival (Tradition) | The majority of buildings in this settlement are made of grey bricks and covered in red stucco, with thick walls, red clay roof tiles and heavy metal doors and gates. Fire can't spread and (multiple) defensive gates can be sealed to keep out raiders. Most of the settlement plazas and streets can be sealed by big double metal gates in a similar way. <br/>A failure defending this settlement doesn't cause immediate damage, it only renders the residents trapped or besieged in their homes. A second quest can then be attempted to recover the settlement. If this succeeds, order will be restored before any permanent damage is done to the settlement or its buildings.| Due to the time consuming construction methods used, all buildings require an additional downtime to build and the lumberyard doesn't reduce any costs. |
 | Make your own | |
 
 
