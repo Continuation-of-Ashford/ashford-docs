@@ -38,15 +38,20 @@ Roll an Ability Check using a skill or tool proficiency you have and multiply th
 
 ### Travel
 ###### Can be improved by the Caravansary or Ferry buildings
-If you want to do something at a settlement that isn't within range of the settlement where the session starts, you will need to use the Travel downtime. 
+At the start of each session, characters partaking in that session can travel **for free** to the settlement the session starts at. The DM might decide that settlements built (literally) top of each other allow you to choose which one are at when starting the session.
 
-Usually the best use for the Travel downtime is buying items that cannot be purchased or crafted in the settlement the session is in. 
+If you want to do something at a settlement that isn't near the settlement where the session starts, you will need to use the Travel downtime. Traveling works by going **from** the settlement where you went shopping or spent a 2nd downtime, **to** the settlement where the session is taking place at. 
 
-But the the rare case that you have multiple downtimes to spend, you can spend 1 downtime at a far away settlement and then Travel to a different settlement for the start of the session.
+Usually the best use for the Travel downtime is for buying items that cannot be purchased or crafted in the settlement the session is in. 
 
-If a settlement is currently besieged, or if certain roads water ways are blockaded, the DM will inform you that a that Settlement is currently not available to Travel to/from. Such events can happen as a result of another session failing a quest, or the current session might revolve around dealing with a new blockade or siege.
+But in case you have multiple downtimes to spend, you can use the Travel downtime to pop over to another settlement, spend a downtime there and then pop back to where the session starts.
 
-If you own a movable Stronghold or Settlement, moving it requires taking this downtime, and is also blocked by blockades and sieges.
+If you own a movable Stronghold or Settlement, moving it also requires taking this downtime. Going from its current location, to the settlement where the session is happening at.
+
+||
+|:---|
+|If a settlement is currently besieged, or if certain roads or waterways are blockaded, the DM will inform you that a that Settlement is currently not available to Travel to/from/with. <br/>Such events can happen as a result of another session failing a quest, or the current session might revolve around dealing with a blockade or siege.|
+
 
 ### Help
 You spend a week aiding an ally in their endeavors by forfeiting your time. You give one ally advantage on all checks they make in their downtime activity, excluding the Pit Fighting downtime.    
