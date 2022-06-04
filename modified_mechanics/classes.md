@@ -55,6 +55,10 @@ The existing ability has been replaced with the following:
 
 > For one turn, all ki point costs are halved to a minimum of 1. Once you use this feature, you must finish a short or long rest before you can use it again. In addition, when you hit an attack with an unarmed strike or a monk weapon, you can add your wisdom modifier to the damage roll.
 
+## Mystic
+
+To multiclass into or out of Mystic, you are required to have 13 INT.
+
 ## Rogue
 
 ### Steady Aim
