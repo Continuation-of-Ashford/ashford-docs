@@ -56,6 +56,7 @@ Tier 3 and higher can support [strongholds](strongholds.md) of this type.
 |:---------------------------------|:------------|------------:|:-------|
 | **City Hall**                        | 35,000      |          10 | Capital building for Tier 3. <br/><br/> This building does not cost a building slot and is upgraded into the capital building for the next tier. |
 | Arcane Scribe                    | 10,000      |           8 | Scrolls can be crafted in half the time and cost it would usually require your character (including costly spell components).  |
+| Gunsmith                         |  15,000     |           6 | Allows crafting of guns and gunpowder.               |
 | Auction House                    | 10,000      |           4 | Allows auctioning of items and sale of items to NPCs.|
 | Airship Docks                    | 20,000      |           7 | Allows docking of airships. <br/>Allows the Travel downtime to be used to purchase items from anywhere on the material plane, including purchasing new airships. |
 | Steel enchanter                  | 12,000      |           5 | Allows crafting magical weapons and armor up to rare quality.  |
