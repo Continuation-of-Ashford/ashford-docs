@@ -3,7 +3,7 @@ Below you will find the various options you have when using your downtime.
 
 Some downtimes are always available, while many other downtimes need the use of a constructed building. Others can be done without but are made better by a building. 
 
-Choose which settlement you are spending your downtime in and check the settlements thread to see what buildings are available.  The DM will say which settlements are in range of the session.
+Choose which settlement you are spending your downtime in and check the settlements thread to see what buildings are available. At the end of your downtime you need to be at the settlement the session is starting in, if you chose to spend your downtime in a different settlement, you will need to make your way there. Traveling before the start of a session costs `1`gp per mile traveled, along the most accessible route. (Settlement owners are encouraged to list the costs of frequently used routes in their settlement info) 
 
 *Some downtimes require Ability Checks. These Ability Checks take place gradually over multiple days of work. Short term buffs such as Guidance (1 minute duration) will run out before they can assist you with such checks. Only 8 hour or longer duration improvements to Ability Checks (such as Foresight) can be used to improve downtime rolls.*
 
@@ -35,22 +35,6 @@ Roll an Ability Check using a skill or tool proficiency you have and multiply th
 ||
 |:---|
 |For example, rolling a `16` Charisma (Persuasion) at level `12` gives you `16 × 12` = `192` gold.|
-
-### Travel
-###### Can be improved by the Caravansary or Ferry buildings
-At the start of each session, characters partaking in that session can travel **for free** to the settlement the session starts at. The DM might decide that settlements built (literally) top of each other allow you to choose which one are at when starting the session.
-
-If you want to do something at a settlement that isn't near the settlement where the session starts, you will need to use the Travel downtime. Traveling works by going **from** the settlement where you went shopping or spent a 2nd downtime, **to** the settlement where the session is taking place at. 
-
-Usually the best use for the Travel downtime is for buying items that cannot be purchased or crafted in the settlement the session is in. 
-
-But in case you have multiple downtimes to spend, you can use the Travel downtime to pop over to another settlement, spend a downtime there and then pop back to where the session starts.
-
-If you own a movable Stronghold or Settlement, moving it also requires taking this downtime. Going from its current location, to the settlement where the session is happening at.
-
-||
-|:---|
-|If a settlement is currently besieged, or if certain roads or waterways are blockaded, the DM will inform you that a that Settlement is currently not available to Travel to/from/with. <br/>Such events can happen as a result of another session failing a quest, or the current session might revolve around dealing with a blockade or siege.|
 
 
 ### Help
@@ -159,7 +143,7 @@ You spend a week brawling in a showroom.
 If you are within 600 xp of the next level, you can spend the downtime training to reach the next level at minimum experience.
 
 **At 20th level:**
-If you have abilities that can be swapped upon leveling up or gaining an ASI (i.e. fighting styles, eldritch invocations, sorcerer spells) you can change them using this downtime.
+If you have abilities that can be swapped upon leveling up or gaining an ASI (i.e. fighting styles, eldritch invocations, sorcerer spells) you can swap them using this downtime. For each use of this downtime, you can only swap as many as leveling up once, would allow you to swap.
 
 ### Taming
 ###### Requires the Stables, War Stables, or Wondrous Stables building or a Temple/Grove/Arena Stronghold

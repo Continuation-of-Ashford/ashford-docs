@@ -25,7 +25,7 @@ In addition to these buildings, players can build some [strongholds](strongholds
 | Lumberyard                       | 2,000       |           3 | Reduces cost of building tier 1 buildings by 20% (limit 1/town).<br/><br/> Work downtime at this building adds 5 to your roll, when working using the Nature skill or Carpenter's tools. |
 | Palisades, Guard post`*`           | 3,000       |           3 | Required to upgrade to town tier.  |
 | Stable                           | 2,000       |           2 | Allows mounts of up to CR 3.  |
-| Caravansary | 1,500 | 4 | This building improves travel over roads when using the Travel downtime from this settlement to another settlement. <br/><br/> Traveling to another settlement, that is within `50 × this settlement's tier` miles overland, does not cost a downtime. | 
+| Caravansary | 1,500 | 4 | This building improves travel over roads when traveling. When starting at this settlement and traveling overland to another settlement, reduce the gold cost of traveling by up to `30 × this settlement's tier`gp. | 
 
 ### Tier 2 Strongholds
 Tier 2 and higher can support [strongholds](strongholds.md) of this type.
@@ -39,9 +39,9 @@ Tier 2 and higher can support [strongholds](strongholds.md) of this type.
 | **Town Hall**                    | 15,000      |           8 | Capital building for tier 2. <br/><br/> This building does not cost a building slot and is upgraded into the capital building for the next tier. |
 | War stables                      | 5,000       |           4 | Allows ownership of mounts up to CR 6. |
 | Mine/Quarry`*`                   | 6,000       |           4 | Reduces cost of building tier 2 buildings by 20% (limit 1/town).<br/><br/> Work downtime at this building adds 5 to your roll, when working using the Athletics skill or Mason's or Potter's Tools. |
-| Docks                            | 7,500       |           4 | Allows docking of sea vessels. <br/>Allows the Travel downtime to be used to purchase items from any other settlement with a Docks, including purchasing sea vessels. <br/><br/> Work downtime at this building adds 8 to your roll, when working using the Athletics or Acrobatics skill or Carpenter's, Navigator's or Woodcarver's tools. |
+| Docks                            | 7,500       |           4 | Allows docking of sea vessels. <br/>Allows you to spend a downtime trading, in order to purchase items from sea-ports outside Ashford, including purchasing sea vessels. <br/><br/> Work downtime at this building adds 8 to your roll, when working using the Athletics or Acrobatics skill or Carpenter's, Navigator's or Woodcarver's tools. |
 | Training Hall                    | 3000        |            3 | Allows the **training** downtime to be completed at this settlement. |
-| Ferry | 3000 | 4 | This building improves travel over water when using the Travel downtime from this settlement to another settlement. <br/><br/> Traveling to another settlement, that is within `150 × this settlement's tier` miles by river or sea, does not cost a downtime. | 
+| Ferry | 3000 | 4 | This building improves travel over water when traveling. When starting at this settlement and traveling by river or sea to another settlement, reduce the gold cost of traveling by up to `50 × this settlement's tier`gp. | 
 
 ### Tier 3 Strongholds
 Tier 3 and higher can support [strongholds](strongholds.md) of this type.
@@ -58,19 +58,19 @@ Tier 3 and higher can support [strongholds](strongholds.md) of this type.
 | Arcane Scribe                    | 10,000      |           8 | Scrolls can be crafted in half the time and cost it would usually require your character (including costly spell components).  |
 | Gunsmith                         |  15,000     |           6 | Allows crafting of guns and gunpowder.               |
 | Auction House                    | 10,000      |           4 | Allows auctioning of items and sale of items to NPCs.|
-| Airship Docks                    | 20,000      |           7 | Allows docking of airships. <br/>Allows the Travel downtime to be used to purchase items from anywhere on the material plane, including purchasing new airships. |
+| Airship Docks                    | 20,000      |           7 | Allows docking of airships. <br/>Allows you to spend a downtime trading, in order to purchase items from anywhere on the material plane, including purchasing new airships. |
 | Steel enchanter                  | 12,000      |           5 | Allows crafting magical weapons and armor up to rare quality.  |
 | Luxury enchanter                 | 8,000       |           5 | Allows crafting magical clothing and jewelry items up to rare quality.  |
 | Arcane Laboratory                | 8,000       |           5 | Allows crafting magical wands, staves, and consumables up to rare quality |
 | Engineering Guild`*`               | 14,000      |           5 | Reduces cost of building all other buildings by 20% (limit 1/town).<br/><br/> Work downtime at this building adds 8 to your roll, when working using the Investigation or History skill and Calligrapher's or Painter's Supplies.   |
-| Teleportation Circle             | 18,250      |           5 | The Teleport and Teleportation Circle spells can target this Settlement flawlessly. <br/>Traveling from here to another settlement that has Teleportation Circle does not cost a downtime. |
+| Teleportation Circle             | 18,250      |           5 | The Teleport and Teleportation Circle spells can target this Settlement flawlessly. <br/>Traveling from here to another settlement that has Teleportation Circle always costs 50gp regardless of distance. |
 | University                        |  12.000    |       4   |    Allows people to use the **education** downtime in this settlement. | 
 
 ## Tier 5: Kingdom
 |                                  | Gold Cost   |   Downtimes | Effect |
 |:---------------------------------|:------------|------------:|:-------|
 | **Kingdom seat**                     | 75,000      |          12 | Capital building for Tier 4. <br/><br/> This building does not cost a building slot. |
-| Spelljammer Docks                | 50,000      |          10 | Allows docking of spelljammers. <br/>Allows the Travel downtime to be used to purchase any item, including purchasing new spelljammers. |
+| Spelljammer Docks                | 50,000      |          10 | Allows docking of spelljammers. <br/>Allows you to spend a downtime trading, in order to purchase any item, including purchasing new spelljammers. |
 | Wondrous Stables                 | 15,000      |           6 | Allows stabling of mounts up to CR 16.  |
 | Grand enchanter's academy        | 20,000      |           6 | Allows other enchanting buildings to craft items up to very rare    |
 | Mythal                           | 40,000      |           6 | Maintains a magical effect over the whole settlement. |
