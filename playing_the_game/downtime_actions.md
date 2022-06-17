@@ -37,7 +37,7 @@ Roll an Ability Check using a skill or tool proficiency you have and multiply th
 |For example, rolling a `16` Charisma (Persuasion) at level `12` gives you `16 × 12` = `192` gold.|
 
 ### Travel
-###### Can be improved by the Caravansary or Ferry buildings
+###### Can be improved by the Caravanserai or Ferry buildings
 At the start of each session, characters partaking in that session can travel **for free** to the settlement the session starts at. The DM might decide that settlements built (literally) top of each other allow you to choose which one are at when starting the session.
 
 If you want to do something at a settlement that isn't near the settlement where the session starts, you will need to use the Travel downtime. Traveling works by going **from** the settlement where you went shopping or spent a 2nd downtime, **to** the settlement where the session is taking place at. 

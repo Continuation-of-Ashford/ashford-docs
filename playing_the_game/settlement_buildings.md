@@ -25,7 +25,7 @@ In addition to these buildings, players can build some [strongholds](strongholds
 | Lumberyard                       | 2,000       |           3 | Reduces cost of building tier 1 buildings by 20% (limit 1/town).<br/><br/> Work downtime at this building adds 5 to your roll, when working using the Nature skill or Carpenter's tools. |
 | Palisades, Guard post`*`           | 3,000       |           3 | Required to upgrade to town tier.  |
 | Stable                           | 2,000       |           2 | Allows mounts of up to CR 3.  |
-| Caravansary | 1,500 | 4 | This building improves travel over roads when using the Travel downtime from this settlement to another settlement. <br/><br/> Traveling to another settlement, that is within `50 × this settlement's tier` miles overland, does not cost a downtime. | 
+| Caravanserai | 1,500 | 4 | This building improves travel over roads when using the Travel downtime from this settlement to another settlement. <br/><br/> Traveling to another settlement, that is within `50 × this settlement's tier` miles overland, does not cost a downtime. | 
 
 ### Tier 2 Strongholds
 Tier 2 and higher can support [strongholds](strongholds.md) of this type.
