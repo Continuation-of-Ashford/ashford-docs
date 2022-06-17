@@ -146,7 +146,7 @@ For a tower this should be a Guilds feat, as your Stronghold can house apprentic
 ## Extended Rest: Study (Magic School)
 Taking an extended rest at a tower allows you to improve your skills with and knowledge of a singular spell which you dedicate your study to. 
 
-Choose a spell which you have access to via any source (class, subclass, race, item, etc) that matches the school of magic associated with the tower you are studying at. Whenever you cast that spell at its lowest level, resolve its effects as if the spell were cast at one level higher. Spells cast this this way still consume any required resources at the original level (spell slots, item charges, etc).
+Choose a spell which you have access to via any source (class, subclass, race, item, etc) that matches the school of magic associated with the tower you are studying at. Whenever you cast that spell at the lowest level you can cast it at, resolve its effects as if the spell were cast at one level higher. Spells cast this this way still consume any required resources at the original level (spell slots, item charges, etc).
 
 For example, a fighter who possesses a Wand of Magic Missile studies the Magic Missile spell at a tower specializing in Evocation magic. Whenever they cast the Magic Missile spell at 1st level, it casts as a 2nd-level spell while only consuming one charge from the wand.
 
