@@ -12,7 +12,8 @@ To see allowed Races, set the filters according to the image below, or use this 
 
 * Note: We also allow the gemstone dragonborn race from Strongholds and Followers.
  
-* When creating your character, think about if the race selection fits within the general lore of Forgotten Realms in 5e. If your character's race is from a different IP that does not exist in existing DnD lore, it will not be allowed.  
+* You are allowed to [Customize Your Origin](https://5e.tools/variantrules.html#customizing%20your%20origin_tce) to change things about your race, because adventurers are often unusual examples of their race.
+* When creating your character, think about whether the race selection fits within the general lore of Forgotten Realms in 5e. If your character's race is from a different IP that does not have a connection to existing DnD lore, it will not be allowed.  
 * All UA or earlier official content reprinted in future official books must be updated (i.e. Minotaurs, triton and centaurs from `Volo's Guide to Monsters (VGM)` to `Mordenkainen's Tome of Foes (MOT)`, Dhampir from UA:GL to VRGR). There are no exceptions.
 
 *`Remember:` ReCoA uses [some modified Races](../modified_mechanics/races.md).*

@@ -1,6 +1,10 @@
 # Finishing Touches
 Now that you've got a character, let's complete some finishing touches!
 
+## Trinkets
+
+Don't forget, the PHB Trinkets rule allows your newly created character a free roll on the [Trinkets Table](https://5e.tools/items.html#trinket_phb), to gain an item of purely sentimental value.
+
 ## Nicknames
 
 After creating your character, please change your nickname to show the name or initial and level of your character. 
