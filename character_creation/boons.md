@@ -15,7 +15,7 @@ Altered
 </div>
 
 ## Boon of Dimensional Travel
-As an action, you can cast the Dimention Door spell, without using a spell slot or any components. Once you do so, you can't use this boon again until you finish a short rest. You can also cast Dimention Door using spell slots you have of 4th level or higher.
+As an action, you can cast the Dimension Door spell, without using a spell slot or any components. Once you do so, you can't use this boon again until you finish a short rest. You can also cast Dimension Door using spell slots you have of 4th level or higher.
 
 <div class='artist' style='position:absolute;line-height:0;right:30px;'>
 Altered
@@ -41,7 +41,7 @@ You gain one of the following bonuses, depending on your class features. If you 
 - If you have the Spellcasting class feature, you gain 1 additional spell slot of the highest spell-slot level you have.
 - If you have the Mystic Arcanum feature you gain 1 additional use of the highest Mystic Arcanum you have.
 
-You can only recieve this boon once.
+You can only receive this boon once.
 	
 <div class='artist' style='position:absolute;line-height:0;right:30px;'>
 DMG
@@ -138,7 +138,7 @@ p232
 </div>
 
 ## Boon of Resilience
-You have resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.
+You have resistance to bludgeoning, piercing, and slashing damage from non-magical weapons.
 	
 	
 <div class='artist' style='position:absolute;line-height:0;right:30px;'>
@@ -212,7 +212,7 @@ p232
 </div>
 
 ## Boon of the Stormborn
-You have immunity to lightning and thunder damage. You can also cast thunderwave (save DC 15) at will, without using a spell slot or any components.
+You have immunity to lightning and thunder damage. You can also cast Thunderwave (save DC 15) at will, without using a spell slot or any components.
 	
 	
 <div class='artist' style='position:absolute;line-height:0;right:30px;'>

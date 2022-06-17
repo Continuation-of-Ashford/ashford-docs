@@ -47,7 +47,7 @@ Tier 2 and higher can support [strongholds](strongholds.md) of this type.
 Tier 3 and higher can support [strongholds](strongholds.md) of this type.
 |                                  | Gold Cost   |   Downtimes | Effect|
 |:---------------------------------|:------------|------------:|:------|
-| Monastary, Temple, Grove level 0 | 8,000       |           6 | See [Strongholds Section](strongholds.md)  |
+| Monastery, Temple, Grove level 0 | 8,000       |           6 | See [Strongholds Section](strongholds.md)  |
 | Tower, Laboratory level 0        | 8,000       |           6 | See [Strongholds Section](strongholds.md)  |
 | Keep, Fort, Fane level 0         | 10,000      |           8 | See [Strongholds Section](strongholds.md)  |
 

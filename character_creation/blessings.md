@@ -37,7 +37,7 @@ New
 </div>
 
 ## Blessing of Might
-Your Strenght score increases by 2, this can increase the ability score beyond 20.
+Your Strength score increases by 2, this can increase the ability score beyond 20.
 	
 <div class='artist' style='position:absolute;line-height:0;right:30px;'>
 Altered
@@ -76,7 +76,7 @@ Altered
 </div>
 
 ## Blessing of Weapon Enhancement
-Any nonmagical weapon becomes a +1 weapon while you are making weapon attacks with it. This blessing can affect natural weapons and unarmed attacks, as well as mundane improvised weapons.
+Any non-magical weapon becomes a +1 weapon while you are making weapon attacks with it. This blessing can affect natural weapons and unarmed attacks, as well as mundane improvised weapons.
 
 	
 </div>

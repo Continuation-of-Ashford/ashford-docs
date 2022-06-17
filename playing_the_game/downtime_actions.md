@@ -175,7 +175,7 @@ You spend a week investing funds and attention into enchanting a magical item, d
 
 * Using the table below, buying materials for the item will cost ***half of the rolled price*** and items rare or higher require specific relevant components as well. 
   * After rolling a price you have the option to not proceed with the crafting, but the downtime is spent.
-* If the item is an enchanted version of a nonmagical item, that mundane item must also be provided as a component of the enchanting process. 
+* If the item is an enchanted version of a non-magical item, that mundane item must also be provided as a component of the enchanting process. 
 * Common items or 2 consumable common items can be completed in one week without a skill check.
 * You cannot create Legendary items. 
 

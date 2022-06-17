@@ -38,7 +38,7 @@ This reward changes per level as follows:
 ## Disciplinary Actions
 If a player is disturbing the session, the `Dungeon Master` has the power to remove the player. 
 
-If a problem arises, try to hold off until the end of the session or direct message them so that the session can continue uninterupted. 
+If a problem arises, try to hold off until the end of the session or direct message them so that the session can continue uninterrupted. 
 
 If there are repeat offenses, the DM will give one warning and past that disciplinary measures will be taken based on severity. Generally this ranges from no session rewards, to rescinding a downtime up to and including server ban. 
 

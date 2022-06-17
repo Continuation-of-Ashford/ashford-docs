@@ -3,7 +3,7 @@ Here in the Ashford server, characters aren't finished when they hit level 20. I
 
 We want you to continue to feel rewarded and to look forward to play the character we've all grown familiar with as much as you want. In order to keep XP feeling like a worthwhile reward, while at the same time helping DMs not over-use the Blessings and Boons as high-level rewards. Ashford characters of level 20 can pursue a Prestige Class.
 
-These prestige classes are homebrew classes with 5 levels. Similar to how multiclassing works, you choose one and gain levels in it. What is not similar, is that these prestige classes have prerequsites. There prerequisites are there to prevent multi-classing into multiple prestige classes, while also demanding that the character actually be prestigious enough to earn the class.
+These prestige classes are homebrew classes with 5 levels. Similar to how multiclassing works, you choose one and gain levels in it. What is not similar, is that these prestige classes have prerequisites. There prerequisites are there to prevent multi-classing into multiple prestige classes, while also demanding that the character actually be prestigious enough to earn the class.
 
 ___
 	
@@ -423,11 +423,11 @@ At 25th level, when you are subjected to an effect that allows you to make a sav
 
 ____
 
-Planned: Magi-Tech enchancement themed Prestige option
+Planned: Magi-Tech enhancement themed Prestige option
 
 ____
 
-Planned: Alchemical enchancement themed Prestige option
+Planned: Alchemical enhancement themed Prestige option
 
 ____
 

@@ -20,7 +20,7 @@ The level 3 "Frenzy" feature is replaced with the following. It amends one exist
 > 
 > **Unceasing Battle**
 > 
->> When your rage ends, make a Constitution saving throw. The DC is equal to 10 + 5 times the number of the Reckless Frenzy feature used since your last long rest. On a succesful saving throw, you can suppress the levels of exhaustion gained from the Reckless Frenzy feature until the end of your next rage. If you fail the saving throw, you gain levels of exhuastion equal to the number of times you used Reckless Frenzy since you last gained exhaustion from this feature (i.e., Trogdor uses Reckless Frenzy in a fight.  At the end of the fight, he succeeds his DC 10 CON saving throw.  He uses Reckless Frenzy a second time in another fight, but fails the DC 15 CON saving throw.  Trogdor would then gain 2 levels of exhaustion. If Trogdor does the same and fails the next CON save, he would gain 1 level of exhaustion). This DC resets on a long rest.  
+>> When your rage ends, make a Constitution saving throw. The DC is equal to 10 + 5 times the number of the Reckless Frenzy feature used since your last long rest. On a successful saving throw, you can suppress the levels of exhaustion gained from the Reckless Frenzy feature until the end of your next rage. If you fail the saving throw, you gain levels of exhaustion equal to the number of times you used Reckless Frenzy since you last gained exhaustion from this feature (i.e., Trogdor uses Reckless Frenzy in a fight.  At the end of the fight, he succeeds his DC 10 CON saving throw.  He uses Reckless Frenzy a second time in another fight, but fails the DC 15 CON saving throw.  Trogdor would then gain 2 levels of exhaustion. If Trogdor does the same and fails the next CON save, he would gain 1 level of exhaustion). This DC resets on a long rest.  
 
 ## Ranger
 Ranger's Favored Foe and Foe Slayer have been rewritten with the following features:
@@ -41,7 +41,7 @@ At 20th level, you become an unparalleled hunter of your enemies. Once on each o
 
 ### Arcane Archer
 
-Arcane Shot has a number of uses equal to 2 + proficency bonus.
+Arcane Shot has a number of uses equal to 2 + proficiency bonus.
 
 ### Echo Knight
 
