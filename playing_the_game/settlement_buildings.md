@@ -23,9 +23,10 @@ In addition to these buildings, players can build some [strongholds](strongholds
 | Armorsmith                       | 3,000       |           3 | Allows crafting mundane armor. <br/><br/> Work downtime at this building adds 5 to your roll, when working using Cobbler's, Leatherworker's or Smith's Tools. |
 | Blacksmith                       | 2,000       |           3 | Allows crafting other mundane adventuring gear. <br/><br/> Work downtime at this building adds 8 to your roll, when working using Glassblower's, Smith's or Tinker's tools. |
 | Lumberyard                       | 2,000       |           3 | Reduces cost of building tier 1 buildings by 20% (limit 1/town).<br/><br/> Work downtime at this building adds 5 to your roll, when working using the Nature skill or Carpenter's tools. |
-| Palisades, Guard post`*`           | 3,000       |           3 | Required to upgrade to town tier.  |
+| Palisades, Guard post`*`         | 3,000       |           3 | Required to upgrade to town tier.  |
 | Stable                           | 2,000       |           2 | Allows mounts of up to CR 3.  |
-| Caravanserai | 1,500 | 4 | This building improves travel over roads when traveling. When starting at this settlement and traveling overland to another settlement, reduce the gold cost of traveling by up to `30 × this settlement's tier`gp. | 
+| Caravanserai                     | 1,500       |           4 | This building improves travel over roads when traveling. When starting at this settlement and traveling overland to another settlement, reduce the gold cost of traveling by up to `30 × this settlement's tier`gp. | 
+| Fortune Teller                   | 3,000       |           3 | The outcome of your adventure is read in the cards and a prophecy is foretold. At any point during your adventure, deja vu washes over you and you may add a Prophetic Die to one ability check, saving throw, or attack roll before you make the roll. <br /><br />The Prophetic Die is a d6 (level 3-7), d8 (level 8-12), d10 (level 13-16), or d12 (level 17-20) based on your character's level tier at the time of the downtime. Only one Prophetic Die is available to any one character at a time, revisiting the Fortune Teller has no additional effect until the original die is used or voluntarily dismissed unused.  |
 
 ### Tier 2 Strongholds
 Tier 2 and higher can support [strongholds](strongholds.md) of this type.
