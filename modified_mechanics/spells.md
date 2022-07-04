@@ -10,3 +10,6 @@ True Polymorph has the following additions:
 
 ## Simulacrum
 A Simulacrum cannot cast the Wish or Simulacrum spells.
+
+## Blinding Smite
+Blinding Smite has been added to the Hexblade Warlock's expanded spell list.
