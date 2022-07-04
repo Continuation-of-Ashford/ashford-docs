@@ -132,9 +132,16 @@ If you fail your Dexterity (Sleight of Hand) all successive rolls are automatic 
 | Successes | Result      |
 | --------- | ----------- |
 | 0         | Not only do you lose your wager, but you also gain an equal amount of debt to the casino (or other establishment). |
-| 1         | You lose half your wager.      |
-| 2         | You win 1.5x times your wager. |
-| 3         | You win twice your wager.      |
+| 1         | You lose your wager.      |
+| 2         | You win gold equal to your wager. |
+| 3         | You win 1.5x your wager.      |
+
+The amount of gold you can wager is limited by your character bracket as follows.
+| Bracket | Gold limit |
+| 3 - 7   | 350        |
+| 8 - 12  | 550        |
+| 13 - 16 | 750        |
+| 17 - 20 | 1500       |
 
 ### Pit Fighting
 ###### Optionally enabled by an Establishment's Demesne Effect
