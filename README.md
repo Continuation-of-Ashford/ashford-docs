@@ -48,3 +48,9 @@ A town hall and tavern? Totally makes sense, someone's gotta serve my ale and co
 A *kingdom*?? Now that's what I'm talking about. 
 
 Head over to the [Settlements Guide](playing_the_game/settlements.md) to learn how you can do all of the above and more. 
+
+## Guilds
+
+Want to find like-minded adventurers? Got a despot you want to overthrow? Or maybe your character is just lonely?
+
+Either way, feel free to create a player guild!  Take a look at the [Guild Rules](Guilds/Guild_rules.md) to learn more!
