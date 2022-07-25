@@ -159,6 +159,7 @@ Perhaps your's is a Citystate with a fearsome army, making military alliances wi
 | Undead Horde (Army) | Your fearless and witless army of minor undead marches without supply nor strategy, striking fear into your foes | Your army cannot retreat, surrender, accept surrender or take prisoners. If you deploy it, you either completely wipe out your foes, their cities, and their people, or lose your army |
 | Warrior Kings (Nobility) | The lords of this Citystate can hold their own on the battlefield as well as in a courtroom | The noble families hold many grudges between one another, sometimes a civil duel will resolve things, but other times they resort to more troublesome forms of retribution |
 | Wizard's College (Guild) | Magic items may be cheaper due to all the cheap intern labor available | Large scale devastating arcane accidents may occur |
+| Merchant's Republic (Nobility/Crime) | By allowing the rich merchants and the stronghold owners to take a limited part in  city management at the legislative level, they can give themselves tax breaks for projects. The money cost of construction and stronghold upgrades is indirectly reduced by 10% on all buildings. | By allowing the rich merchants and the stronghold owners to take part in our city law process, we attract a lot of rich powerful idiots who don't want to pay any taxes and try to corrupt any form of political system we set up here. |
 | Make your own | | 
 
 ## Kingdom Feats
