@@ -40,6 +40,8 @@ An Establishment is a place of business of some sort, it could be a shop, an inn
 ## Demesne effect
 An establishment doesn't add a feat to the settlement it is constructed in, it instead enables or enhances a downtime of your choice in the settlement it is in. 
 
+You can choose to allow all players to use your Establishment's downtimes, or declare that only certain players are allowed to.
+
 ### *Improve work*
 Choose 4 skill or tool proficiencies for the Work Downtime, players spending their downtime working at your establishment add 5 to their roll.
 
@@ -53,12 +55,8 @@ Choose which packet of downtimes you enable:
 - Crafting a Mundane Item (Weaponsmith version) 
 
 ### *Imports*
-Choose a valid destination for the travel downtime, starting from the settlement where your establishment is. Players can now purchase any items that can be crafted in the target settlement for the item's listed costs.
-
-### *Transport*
-Choose a valid destination for the travel downtime, starting from the settlement where your establishment is. Players can now purchase any items that can be crafted in the target settlement for the item's listed costs.
-
-You can choose to allow all players to use your Establishment's downtimes, or declare that only certain players are allowed to. 
+Choose 1 valid destination for travel (can use Docks, Airship Docks or Spelljammer Docks if those were built when the Establishment finishes construction) Anything that can be bought/crafted in the target settlement, can now also be bought/crafted here for a 10% increased gold cost.<br/>
+*(what this does is allow players to choose: pay the travel costs, or skip the travel costs but pay extra 10% for the item)*
 
 ## Extended Rest: Generate Income
 Taking an extended rest at your Establishment allows you to earn gold from the business your establishment conducts. Roll a 2D4 and then add your Establishments level and the Settlement's level to the result. Then multiply that result by 2d100, to find out how much gold you've earned.
