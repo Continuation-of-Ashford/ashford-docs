@@ -16,7 +16,7 @@ You cannot change a character's race, background or inventory.
 
 Each token is specific to the character that earned it via leveling. For example, if you create a new character to replace a retired one, they only get a token if they reach the appropriate level naturally. I.e., if you replace a 13 level character, they have no tokens. If that character levels up to 15th level, they will have 1 token.
 
-## Retiring
+## Retiring & Death
 
 When a character dies, or when you feel their days of adventuring have ended, that character is (permanently) retired.
 
