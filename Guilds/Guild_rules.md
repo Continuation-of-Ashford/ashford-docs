@@ -4,15 +4,25 @@ A guild is born from the desire of the players to impose themselves on the terri
 the guild can establish a seat, a common ideology that new members can identify with, and finally the rules and principles that guide it in its actions in the territory; then, over time, you can expand the ranks of the members and expand further.
 
 The minimum foundations for creating a guild are: 
-~ Name
-~ Role. (Assassin's guild, Mages Guild, Mercenary Guild, Ect)
-~ Goals. (Profit, ideological movement, changes to the norm, ect)
-~ Founder.
-~ Members. (Minimum three to start a guild)
-~ Desired Demographics. (Magic users, Rogues, ect)
-~ Symbol. 
-~ Motto. (optional)
-~ First Contact and Guild Establishment Mission. (Westmarch specific rule)
+
+➢ Name
+
+➢ Role. (Assassin's guild, Mages Guild, Mercenary Guild, Ect)
+
+➢ Goals. (Profit, ideological movement, changes to the norm, ect)
+
+➢ Founder.
+
+➢ Members. (Minimum three to start a guild)
+
+➢ Desired Demographics. (Magic users, Rogues, ect)
+
+➢ Symbol. 
+
+➢ Motto. (optional)
+
+➢ First Contact and Guild Establishment Mission. (Westmarch specific rule)
+
 
 # Guild Regulations
 
