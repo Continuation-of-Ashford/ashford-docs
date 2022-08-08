@@ -368,7 +368,7 @@ At 24th level, Once per session, when you die, *an older, more regal version of 
 to take your place*. This possible future version of you is a separate creature that appears within 5ft of you. It possesses all your statistics, features and copies of your magic items, but its maximum hitpoints is only half of your maximum hit points. If you die while in the form of your future self, you're dead.   
 If any of your magic items are removed from your corpse, the future version of that item will fade away.
 
-Your future self can cast Revivify once, requiring no spellslots or components. If your younger self is revived, your future self fades away. If for any reason you cannot be revived, you can continue to play your older self if you would like to.
+Your future self can cast Revivify once, requiring no spellslots or components. If your younger self is revived, your future self fades away. If for any reason you cannot be revived, you can continue to play as your future self, or retire them.
 
 ### Dominion over the Mind
 At 25th level, 
@@ -392,7 +392,9 @@ ____
 </div>
 		
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character that can cast spells from the Illusion school at 4th level or higher.
+Any level 20 Ashford character that can cast spells from the Illusion school at 4th level or higher and is affected by at least 1 long-term or indefinite madness effect.
+
+levels in this prestige class, each count as madnesses. So if you ever recover from the prerequisite madness, after gaining a level in this prestige class you automatically meet the prerequisite to gain more.
 
 ##### Hit Points
 - **Hit Dice:** 1d4
@@ -406,16 +408,18 @@ Any level 20 Ashford character that can cast spells from the Illusion school at 
 At 21st level, you may take one [boon](boons.md). You're actually just faking having that boon, but nobody can tell the difference.
 
 ### Life's Illusion
-At 22nd level, Once per session, when you die, you can choose for it to be a trick. *in fact, you only seemed to die. Your enemy killed a perfect illusion of you, while you stood at a safe distance.* Choose a space you can see that is exactly 50ft from where you died, the real you in that space and you have full hit points. The illusion of the dead you then disappears.
+At 22nd level, Once per session, when you die, you can choose for it to be a magical trick. *in fact, you only seemed to die. Your enemy killed a perfect illusion of you, while you stood at a safe distance.* Choose a space you can see that is exactly 50ft from where you died, the real you is in that space and you have full hit points. The illusion of the dead you then disappears.
 
 ### Fake Ability Score improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
 ### Figment Step
-At 24th level, *they thought they were on to your tricks, but that too was just a trick. You "accidentally" reveal your real position, just as an enemy was thinking about attacking you.* As a reaction when you are targeted by an attack or a spell, the creature that targeted you can't perform the triggering action, that creature loses whatever action, legendary action, reaction or bonus action it used to target you, this round. Preventing the effect on all its targets. 
+At 24th level, *they thought they were on to your tricks, but that too was just a trick. You "accidentally" reveal your real position, just as an enemy was thinking about attacking you.*   
+As a reaction, when you are targeted by an attack or a spell by a creature you can see, you cause the creature that targeted you to become magically distracted. If the distracted creature does not have Truesight, you disappear. You reappear at a point you can see within 20 feet (essentially a teleport, but it ignores effects that prevent dimensional travel)
 
-You disappear and reappear 20 feet away (essentially a  teleport, but it ignores effects that prevent dimensional travel)     
+If your new position would mean you are no longer a target of the triggering action, that action fails to complete. The distracted creature spends the Action, Legendary Action, Reaction or Bonus Action it used to target you, doing nothing. (Effectively this is like Counterspell, but it works on non-spells)
+
 You can use this ability once, and regain use of it at the end of a long rest.
 
 ### Never Really There

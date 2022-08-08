@@ -77,7 +77,7 @@ While called a temple, the only actual requirement is that this is a gathering p
 ## Demesne effect
 Your Stronghold adds a feat of your design/choice to the settlement it is in or near. If you are not the controller of that settlement, its controller needs to approve the feat you add.
 
-For a temple this should be a Faith or Guilds feat. If the Settlement already has a feat of that type, you still add the new feat, but if the controller of the settlement would like to, they can replace the existing feat with an Underworld feat. 
+For a temple this should be a Faith or Guilds feat. If the Settlement already has a feat of that type, you still add the new feat, but if the controller of the settlement would like to, they can replace the existing feat with a Crime feat. 
 
 ## Extended Rest: Recruit Servitor 
 Taking an extended rest at a Temple allows you to recruit a Servitor to be your ally or mount. 
@@ -139,7 +139,7 @@ Choose one of the following and record it in your building records in `#settleme
 ## Demesne Effect
 Your Stronghold adds a feat of your design/choice to the settlement it is in or near. If you are not the controller of that settlement, its controller needs to approve the feat you add.
 
-For a tower this should be a Guilds feat, as your Stronghold can house apprentices that function as a Guild. If the Settlement already has a Guilds feat, you still add a new Guilds feat, but if the controller of the settlement would like to, they can replace the Guilds feat the settlement previously had with an Underworld feat, or a Terrain feat of your design/choice.
+For a tower this should be a Guilds feat, as your Stronghold can house apprentices that function as a Guild. If the Settlement already has a Guilds feat, you still add a new Guilds feat, but if the controller of the settlement would like to, they can replace the Guilds feat the settlement previously had with an Crime feat, or a Terrain feat of your design/choice.
 
 ## Extended Rest: Study (Magic School)
 Taking an extended rest at a tower allows you to improve your skills with and knowledge of a singular spell which you dedicate your study to. 
@@ -168,7 +168,7 @@ While called a keep, the only actual requirement is that this is a military faci
 ## Demesne Effect
 Your Stronghold adds a feat of your design/choice to the settlement it is in or near. If you are not the controller of that settlement, its controller needs to approve the feat you add.
 
-For a keep this should be a Guards feat. If the Settlement already has a Guards feat, you still add a new Guards feat, but if the controller of the settlement would like to, they can replace the Guards feat the settlement previously had with an Underworld feat, or a Standing Army feat of your design/choice.
+For a keep this should be a Guards feat. If the Settlement already has a Guards feat, you still add a new Guards feat, but if the controller of the settlement would like to, they can replace the Guards feat the settlement previously had with an Crime feat, or a Standing Army feat of your design/choice.
 
 ## Extended Rest: Training
 Taking an extended rest at a keep grants you a training benefit. You cannot gain the benefit of training from armor, shields, or weapons you are not proficient in. 
