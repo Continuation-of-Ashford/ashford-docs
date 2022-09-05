@@ -79,7 +79,7 @@ You spend a downtime(s) scribing a scroll, or contributing a spell scroll. Scrib
 
 ### Copying a Spell
 
-When you find a wizard (or ritual spell for ritual caster) of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
+When you find a wizard spell scroll or spell book (or a ritual spell for the ritual caster feat) of 1st level or higher, you can add it to your spellbook if it is of a spell level you can prepare and if you can spare the time to decipher and copy it.
 
 Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the wizard who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
 
