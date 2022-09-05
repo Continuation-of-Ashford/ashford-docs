@@ -53,6 +53,7 @@ Choose which packet of downtimes you enable:
 - Crafting a Mundane Item (Armorsmith version) 
 - Crafting a Mundane Item (Blacksmith version) 
 - Crafting a Mundane Item (Weaponsmith version) 
+- Provides the workforce for NPC crafting magic items (if the settlement has an enchanter or arcane building)
 
 ### *Imports*
 Choose 1 valid destination for travel (can use Docks, Airship Docks or Spelljammer Docks if those were built when the Establishment finishes construction) Anything that can be bought/crafted in the target settlement, can now also be bought/crafted here for a 10% increased gold cost.<br/>

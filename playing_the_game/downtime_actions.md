@@ -96,9 +96,14 @@ You must still find these spells, such as through a session, PC, or spell scroll
 ### Crafting a Mundane Item 
 ###### Might require a Smith building of the relevant type.
 ###### Might be improved by an Establishment's Demesne Effect
-You spend a downtime crafting items of the common populace. An item needs raw materials to be crafted, equal in gold or a lower denomination if applicable, to half its listed price. To craft the item, take its price and divide it by 50. This is the total amount your character must meet per relevant tool check, per downtime. A character can sell an item crafted in this way to NPCs for its original listed price.
+You spend a downtime crafting items of the common populace. An item needs raw materials to be crafted, equal in gold (or a lower denomination if applicable) to half its listed price. 
 
-In addition, you may silver a non-magical weapon or ten pieces of non-magical ammunition for an additional 150 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
+To craft the item, take its price in gp and divide it by 50; that number is the total check result your character must accumulate by making relevant tool checks, to finish crafting the item. 
+You can spend multiple downtimes crafting and add those rolls together to reach the required total if you cannot get it in a single roll. 
+
+A character can sell an item crafted in this way to NPCs for its original listed price.
+
+In addition, you may silver a non-magical weapon or ten pieces of non-magical ammunition for an additional 150 gp spent on raw materials.
 
 ## Downtimes that require buildings
 
@@ -183,7 +188,7 @@ Players can spend downtime capturing and taming creatures to be their mount. For
 You spend a downtime investing funds and attention into enchanting a magical item, doing so requires either proficiency in the Arcana skill or a relevant tool. 
 
 * Using the table below, buying materials for the item will cost ***half of the rolled price*** and items rare or higher require specific relevant components as well. 
-  * After rolling a price you have the option to not proceed with the crafting, but the downtime is spent.
+  * After rolling a price you have the option to not pay it and not proceed with the crafting, but your downtime is spent.
 * If the item is an enchanted version of a non-magical item, that mundane item must also be provided as a component of the enchanting process. 
 * Common items or 2 consumable common items can be completed in one downtime without a skill check.
 * You cannot create Legendary items. 
@@ -197,10 +202,12 @@ You spend a downtime investing funds and attention into enchanting a magical ite
 | Rare      | `(2d10+2) * 250`  |
 | Very Rare | `(2d10+2) * 2500` |
 
-##### Special Costs
-* Adamantine items such as armor, ammunition and weapons cost base price in addition to 1000 gp.
+#### Special Costs
 * Wondrous items cost an additional 1.5 * rolled price.
-* Scrolls cost an additional 1d10 * 10% + rolled price.
+* Ammunition items and weapons with the thrown property that lack a melee attack (Arrows, Bolts, Darts, Blowgun Darts, Sling Bullets, Renaissance Bullets) are crafted in batches of up to 20, at the cost of crafting a single consumable item of that rarity.
+> *Perhaps remove these 2 until players capture an Adamantine mine?* 
+> * When you provide the non-magical item to enchant, in the form of a weapon or pieces of ammunition you can pay an additional `1000`gp to make it an Adamantine weapon or ammunition in addition to enchanting it.
+> * When you provide a non-magical metal armor to enchant, you can pay an additional `1000`gp to give it the properties of Adamantine armor in addition to the enchantment.
 
 #### Downtime Cost
 Taking the original price, divide it by 25 for uncommon, 50 for rare or 200 for very rare. Keep track of this number. Each downtime used, you make a skill check using Arcana or a relevant tool and subtract it from the above, carrying this new number forward if it is not 0. When the number reaches 0 the item is complete.
@@ -214,13 +221,19 @@ Occasionally, the party may find a magic item they can find no use or buyers for
 The resulting Residuum is a magical crafting component of an equal rarity to the item that was destroyed.
 
 ### Hiring an NPC Crafter
-###### Requires the Enchanter or Arcane building relevant to item type
-Sometimes a character lacks the talent (or the patience) to craft an item by themselves. In these cases, they may use their downtime to contract others to construct the item for them. Hiring more competent crafters incurs additional fees over normal magic crafting. This functions the same as the [Crafting a Magic](#crafting-a-magic-item) Item downtime, except you substitute the artisan's roll for your own. The quality of artisans available depends on your level bracket.
+###### Requires the smith building relevant to the mundane item type
+###### Requires the Enchanter or Arcane building relevant to the magic item type
+###### Requires a guild feat or establishment in the settlement to provide artisans
+Sometimes a character lacks the talent (or the patience) to craft an item by themselves. In these cases, they may use their downtime to contract others to construct the item for them. This downtime can be used to hire crafters for mundane or magical items, though nothing can be done if the settlement lacks a building to allow that type of crafting. 
+Hiring artisans incurs additional fees on top of the normal crafting costs. 
+This functions the same as the [Crafting a Magic Item](#crafting-a-magic-item) and [Crafting a Mundane Item](crafting-a-mundane-item) downtimes, except you substitute the artisan's roll for your own when making progress towards the required total check result.
+
+The quality of artisans willing to work for you depends on your level bracket.
 
 
 | Level Bracket | Artisan     | Check      | Additional Cost |
 |---------------|-------------|------------|-----------------|
-| 3 - 7         | Novice      | `1d20+1`   | `+25%` of rolled crafting price |
-| 8 - 12        | Apprentice  | `1d20+5`   | `+40%` of rolled crafting price |
-| 13 - 16       | Journeyman  | `1d20+10`  | `+60%` of rolled crafting price |
-| 17 - 20       | Master      | `1d20+20`  | `+80%` of rolled crafting price |
+| 3 - 7         | Novice      | `1d20+1`   | `+25%` of crafting price |
+| 8 - 12        | Apprentice  | `1d20+5`   | `+40%` of crafting price |
+| 13 - 16       | Journeyman  | `1d20+10`  | `+60%` of crafting price |
+| 17 - 20       | Master      | `1d20+20`  | `+80%` of crafting price |
