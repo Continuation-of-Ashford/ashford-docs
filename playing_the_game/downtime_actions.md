@@ -1,11 +1,28 @@
 # Downtime Actions
 Below you will find the various options you have when using your downtime.
 
-Some downtimes are always available, while many other downtimes need the use of a constructed building. Others can be done without but are made better by a building. 
+Some downtimes are always available, while many other downtimes need the use of a constructed building. Some downtimes can be done without a building but are made better by a building. 
 
-Choose which settlement you are spending your downtime in and check the settlements thread to see what buildings are available. The DM will say which settlements are in range of the session.
+Choose which settlement you are spending your downtime in and check the settlements thread to see what buildings are available.
 
-*Some downtimes require Ability Checks. These Ability Checks take place gradually over multiple days of work. Short term buffs such as Guidance (1 minute duration) will run out before they can assist you with such checks. Only 8 hour or longer duration improvements to Ability Checks (such as Foresight) can be used to improve downtime rolls.*
+#### Travel Costs
+###### Made cheaper by the Caravanserai or Ferry buildings
+At the start of each session, characters partaking in that session automatically arrive at the settlement the session starts at. (The DM might decide that settlements built very close to each other allow you to choose which one are at when starting the session, without cost)
+
+If you want to do something at a settlement that isn't near the settlement where the session starts, you will need to pay a cost to travel in addition to the cost of your downtime.
+
+Traveling works by going **from** the settlement where you spent your downtime, **to** the settlement where the session is taking place at.
+
+The cost of traveling is 1gp per mile, calculated as the shortest available path, going around mountains and other impassible terrain. You can travel by land or by water, based on whatever is cheaper. This cost represents bribing random encounters to leave you alone, and renting a boat or horse. 
+
+When you write down what downtime you are taking, also note how much gold you spent on traveling.
+
+If a settlement is currently besieged, or if certain roads or waterways are blockaded, the DM will inform you that a Settlement is currently not available to Travel to/from/through.
+*Such events can happen as a result of another session failing a quest, or the current session might revolve around dealing with a blockade or siege.*
+
+#### Self Buffing
+Some downtimes require Ability Checks. These Ability Checks take place gradually over multiple days of work. Short term buffs such as Guidance (1 minute duration) will run out before they can assist you with such checks. Only permanent (such as Halfling Luck) and 8 hour or longer duration improvements to Ability Checks (such as Foresight) can be used to improve downtime rolls.
+*Note the Help downtime as the easiest way for players to buff each other's downtime rolls.*
 
 ## Downtimes that don't need buildings
 
@@ -35,23 +52,6 @@ Roll an Ability Check using a skill or tool proficiency you have and multiply th
 ||
 |:---|
 |For example, rolling a `16` Charisma (Persuasion) at level `12` gives you `16 × 12` = `192` gold.|
-
-### Travel
-###### Can be improved by the Caravanserai or Ferry buildings
-At the start of each session, characters partaking in that session can travel **for free** to the settlement the session starts at. The DM might decide that settlements built (literally) top of each other allow you to choose which one are at when starting the session.
-
-If you want to do something at a settlement that isn't near the settlement where the session starts, you will need to use the Travel downtime. Traveling works by going **from** the settlement where you went shopping or spent a 2nd downtime, **to** the settlement where the session is taking place at. 
-
-Usually the best use for the Travel downtime is for buying items that cannot be purchased or crafted in the settlement the session is in. 
-
-But in case you have multiple downtimes to spend, you can use the Travel downtime to pop over to another settlement, spend a downtime there and then pop back to where the session starts.
-
-If you own a movable Stronghold or Settlement, moving it also requires taking this downtime. Going from its current location, to the settlement where the session is happening at.
-
-||
-|:---|
-|If a settlement is currently besieged, or if certain roads or waterways are blockaded, the DM will inform you that a that Settlement is currently not available to Travel to/from/with. <br/>Such events can happen as a result of another session failing a quest, or the current session might revolve around dealing with a blockade or siege.|
-
 
 ### Help
 You spend a downtime aiding an ally in their endeavors by forfeiting your time. You give one ally advantage on all checks they make in their downtime activity, excluding the Pit Fighting downtime.    
