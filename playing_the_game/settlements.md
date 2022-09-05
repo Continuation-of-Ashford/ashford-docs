@@ -113,6 +113,7 @@ Some example terrain feats are as follows:
 | Flotilla | By being built from sea vessels this settlement can be moved by it's controller using the gold costs for traveling during downtime | Each new building, stronghold or upgrade requires adding a sailing vessel to the flotilla as an additional cost |
 | Cesspit | This settlement mainly eats rats and drinks tainted water, lack of food or water cannot hurt it | Diseases run rampant in this settlement, visitors will often contract them |
 | Obsidian Slab of Kass | New adventurers are periodically summoned to defend this settlement, a guild has been built to house them all | A constant influx of adventurers causing and attracting all sorts of problems |
+| Floodplains | Built on a flat plain barely above sea level, next to a river. The water here is deep enough for ocean vessels to pass, allows building the Port and Ferry when the settlement location otherwise wouldn't allow it | Seasonal flooding means there is a yearly cost to repair buildings damage by water. (Also might need to deconstruct historic bridges to allow yachts to pass) |
 | Make Your Own |  |  |
 
 ## Village Feats
@@ -129,6 +130,7 @@ Some examples of these feats are as follows:
 | Bureaucracy (Governance) | The Village is a place of rules and bylaws, carefully managing who can do what, preventing Villagers from revolting or abandoning the settlement to join bandits | Decisive action cannot be taken as changes happen slowly and need to be considered and codified on paper first |
 | Rock Steady Architecture (Tradition) | The majority of buildings in this settlement are carved out of stone, with thick walls and heavy doors. Fire can't spread and (multiple) defensive gates can be sealed to keep out raiders. <br/>A failure defending this settlement doesn't cause immediate damage, it only renders the residents trapped or besieged in their homes. A second quest can then be attempted to recover the settlement. If this succeeds, order will be restored before any permanent damage is done to the settlement or it's buildings. | Due to the time consuming construction methods used, all buildings require an additional downtime to build and the lumberyard doesn't reduce any costs. |
 | Built for survival (Tradition) | The majority of buildings in this settlement are made of grey bricks and covered in red stucco, with thick walls, red clay roof tiles and heavy metal doors and gates. Fire can't spread and (multiple) defensive gates can be sealed to keep out raiders. Most of the settlement plazas and streets can be sealed by big double metal gates in a similar way. <br/>A failure defending this settlement doesn't cause immediate damage, it only renders the residents trapped or besieged in their homes. A second quest can then be attempted to recover the settlement. If this succeeds, order will be restored before any permanent damage is done to the settlement or its buildings.| Due to the time consuming construction methods used, all buildings require an additional downtime to build and the lumberyard doesn't reduce any costs. |
+| Feudal Lord (Governance) | The controller of this settlement can conscript this peasants into guards and use them to enforce heavy taxation on his subjects | Citizen discontent greatly increases banditry in these lands and makes random encounters around the settlement more dangerous |
 | Make your own | |
 
 
@@ -143,8 +145,9 @@ Some samples are as follows:
 | Commoner Militia (Guard) | Easy to train, easy to replace, there's a lot of them | Not very brave or good detectives | 
 | Elven Archers (Guard) | Really good lookouts, outrange most threats | Only have a scant few of these | 
 | Momma Myrtle (Guard) | A halfling gossip discovers everything that happens in Town within minutes of it happening, and her toughest cousins can wrestle wolves and bullseye birds with the best of them | Myrtle's boys won't lift a finger unless Myrtle decides this trouble is worth fighting |
-| Pirate Cove (Crime) | Rough and tough sailors can take you anywhere, anytime, no questions asked (as long as it's by sea), and may give you their booty if you invest in them | Item prices skyrocket as legal trade to the settlement grinds to a halt | 
-| Thieves Guild (Crime) | You might get information or items of extremely rare (albeit dubious) quality | Crime in the Town is a permanent and unbeatable issue |
+| Pirate Cove (Crime) | Rough and tough sailors can take you anywhere, anytime, no questions asked, as long as it's by sea (Provides a free Ferry building in this settlement)<br/>The pirates also may give you their booty if you invest in them. (Can spend downtime and gold to buy a roll on a Hoard table) | Item prices skyrocket as legal trade to the settlement grinds to a halt. (Items bought from the Alchemist's Shack, Arcane supply shop, Stable, War stables, Dock, Gunsmith and Auction House require you to double in cost)  | 
+| Thieves Guild (Crime) | You can purchase information and items of extremely rare (albeit dubious) quality | Crime in the Town is a permanent and unbeatable issue |
+| Elite Guards (Guard) | Trained and equipped personally by their lord, this settlement's controller has a retinue of elite guards with much better stats and gear. | Each time an elite guard dies during a session, it costs the controller of the settlement a downtime and gp equal to any destroyed/looted equipment the guard had. |
 | Make your own | |
 
 ## Citystate Feats
@@ -158,7 +161,7 @@ Perhaps your's is a Citystate with a fearsome army, making military alliances wi
 |:-----|:----------|:-------------|
 | Undead Horde (Army) | Your fearless and witless army of minor undead marches without supply nor strategy, striking fear into your foes | Your army cannot retreat, surrender, accept surrender or take prisoners. If you deploy it, you either completely wipe out your foes, their cities, and their people, or lose your army |
 | Warrior Kings (Nobility) | The lords of this Citystate can hold their own on the battlefield as well as in a courtroom | The noble families hold many grudges between one another, sometimes a civil duel will resolve things, but other times they resort to more troublesome forms of retribution |
-| Wizard's College (Guild) | Magic items may be cheaper due to all the cheap intern labor available | Large scale devastating arcane accidents may occur |
+| Wizard's College (Guild) | Due to the unpaid intern labor available, hiring an NPC crafter to craft magic items has no additional cost if the crafter is a novice or apprentice | Large scale devastating arcane accidents may occur in this settlement |
 | Merchant's Republic (Nobility/Crime) | By allowing the rich merchants and the stronghold owners to take a limited part in  city management at the legislative level, they can give themselves tax breaks for projects. The money cost of construction and stronghold upgrades is indirectly reduced by 10% on all buildings. | By allowing the rich merchants and the stronghold owners to take part in our city law process, we attract a lot of rich and powerful idiots who don't want to pay any taxes and try to corrupt any form of political system we set up here. |
 | Make your own | | 
 
