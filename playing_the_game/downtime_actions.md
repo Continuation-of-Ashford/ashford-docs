@@ -3,7 +3,7 @@ Below you will find the various options you have when using your downtime.
 
 Some downtimes are always available, while many other downtimes need the use of a constructed building. Others can be done without but are made better by a building. 
 
-Choose which settlement you are spending your downtime in and check the settlements thread to see what buildings are available.  The DM will say which settlements are in range of the session.
+Choose which settlement you are spending your downtime in and check the settlements thread to see what buildings are available. The DM will say which settlements are in range of the session.
 
 *Some downtimes require Ability Checks. These Ability Checks take place gradually over multiple days of work. Short term buffs such as Guidance (1 minute duration) will run out before they can assist you with such checks. Only 8 hour or longer duration improvements to Ability Checks (such as Foresight) can be used to improve downtime rolls.*
 
@@ -28,7 +28,7 @@ If the building is not yet complete, there is no gold cost associated with the d
 ### Work
 ###### Can be improved by Hunting Post, Mine/Quarry or Smith buildings
 ###### Can be improved by an Establishment's Demesne Effect
-You spend a week using your skills amongst the working class. 
+You spend a downtime using your skills amongst the working class. 
 
 Roll an Ability Check using a skill or tool proficiency you have and multiply the result by your level to find how much gold you earn.
 
@@ -54,7 +54,7 @@ If you own a movable Stronghold or Settlement, moving it also requires taking th
 
 
 ### Help
-You spend a week aiding an ally in their endeavors by forfeiting your time. You give one ally advantage on all checks they make in their downtime activity, excluding the Pit Fighting downtime.    
+You spend a downtime aiding an ally in their endeavors by forfeiting your time. You give one ally advantage on all checks they make in their downtime activity, excluding the Pit Fighting downtime.    
 When helping you can splitting any gold costs for the downtime, you don't split the rewards. 
 
 Usually the best use for the Help downtime is when you ask another player to use their skills to craft an item for you, giving them advantage and paying part of the cost makes it more likely they can finish the item quickly.
@@ -96,7 +96,7 @@ You must still find these spells, such as through a session, PC, or spell scroll
 ### Crafting a Mundane Item 
 ###### Might require a Smith building of the relevant type.
 ###### Might be improved by an Establishment's Demesne Effect
-You spend a week crafting items of the common populace. An item needs raw materials to be crafted, equal in gold or a lower denomination if applicable, to half its listed price. To craft the item, take its price and divide it by 50. This is the total amount your character must meet per relevant tool check, per downtime. A character can sell an item crafted in this way to NPCs for its original listed price.
+You spend a downtime crafting items of the common populace. An item needs raw materials to be crafted, equal in gold or a lower denomination if applicable, to half its listed price. To craft the item, take its price and divide it by 50. This is the total amount your character must meet per relevant tool check, per downtime. A character can sell an item crafted in this way to NPCs for its original listed price.
 
 In addition, you may silver a non-magical weapon or ten pieces of non-magical ammunition for an additional 150 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
 
@@ -104,11 +104,11 @@ In addition, you may silver a non-magical weapon or ten pieces of non-magical am
 
 ### Education
 ###### Requires a University building in settlement
-You receive education at a university for a language or tool to gain proficiency. This typically takes 10 weeks, but this time is reduced by a number of weeks equal to your character's Intelligence modifier if positive at a minimum of 1 week. Education in these classes requires a fee of 25gp per week.
+You receive education at a university for a language or tool to gain proficiency. This typically takes 10 downtimes, but this time is reduced by a number of downtimes equal to your character's Intelligence modifier if positive at a minimum of 1 downtime. Education in these classes requires a fee of 25gp per downtime.
 
 ### Gambling
 ###### Optionally enabled by an Establishment's Demesne Effect
-You spend a week mingling with those who find thrill or opportunity in games of chance, reading your opponents in tests of luck and skill. 
+You spend a downtime mingling with those who find thrill or opportunity in games of chance, reading your opponents in tests of luck and skill. 
 
 * A character gambling in their downtime puts forward a wager of their desired gold amount and makes three checks: 
   * `Wisdom (Insight)`, 
@@ -137,7 +137,9 @@ If you fail your Dexterity (Sleight of Hand) all successive rolls are automatic 
 | 3         | You win 1.5x your wager.      |
 
 The amount of gold you can wager is limited by your character bracket as follows.
+
 | Bracket | Gold limit |
+| ------- | ---------- |
 | 3 - 7   | 350        |
 | 8 - 12  | 550        |
 | 13 - 16 | 750        |
@@ -145,7 +147,7 @@ The amount of gold you can wager is limited by your character bracket as follows
 
 ### Pit Fighting
 ###### Optionally enabled by an Establishment's Demesne Effect
-You spend a week brawling in a showroom.
+You spend a downtime brawling in a showroom.
 
 * You make a series of three checks, with the option to substitute one with an attack roll using a weapon: 
   * Strength (Athletics), 
@@ -178,12 +180,12 @@ Players can spend downtime capturing and taming creatures to be their mount. For
 
 ### Crafting a Magic Item
 ###### Requires the Enchanter or Arcane building relevant to item type
-You spend a week investing funds and attention into enchanting a magical item, doing so requires either proficiency in the Arcana skill or a relevant tool. 
+You spend a downtime investing funds and attention into enchanting a magical item, doing so requires either proficiency in the Arcana skill or a relevant tool. 
 
 * Using the table below, buying materials for the item will cost ***half of the rolled price*** and items rare or higher require specific relevant components as well. 
   * After rolling a price you have the option to not proceed with the crafting, but the downtime is spent.
 * If the item is an enchanted version of a non-magical item, that mundane item must also be provided as a component of the enchanting process. 
-* Common items or 2 consumable common items can be completed in one week without a skill check.
+* Common items or 2 consumable common items can be completed in one downtime without a skill check.
 * You cannot create Legendary items. 
 
 #### Gold Cost
