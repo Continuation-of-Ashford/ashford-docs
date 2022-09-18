@@ -70,9 +70,9 @@ Tier 3 and higher can support [strongholds](strongholds.md) of this type.
 ## Tier 5: Kingdom
 |                                  | Gold Cost   |   Downtimes | Effect |
 |:---------------------------------|:------------|------------:|:-------|
-| **Kingdom seat**                     | 75,000      |          12 | Capital building for Tier 4. <br/><br/> This building does not cost a building slot. |
-| Spelljammer Docks                | 50,000      |          10 | Allows docking of spelljammers. <br/>Allows you to spend a downtime trading, in order to purchase any item, including purchasing new spelljammers. |
-| Wondrous Stables                 | 15,000      |           6 | Allows stabling of mounts up to CR 16.  |
-| Grand enchanter's academy        | 20,000      |           6 | Allows other enchanting buildings to craft items up to very rare    |
-| Mythal                           | 40,000      |           6 | Maintains a magical effect over the whole settlement. |
-| Mythellar                        | 60,000      |          12 | Can repair magical items that have been broken (i.e. wands) and to modify magic items such that they never break when expending charges. The modified items lose their power outside of this settlement. |
+| **Kingdom seat**                     | 125,000      |          18 | Capital building for Tier 4. <br/><br/> This building does not cost a building slot. |
+| Spelljammer Docks                | 75,000      |          15 | Allows docking of spelljammers. <br/>Allows you to spend a downtime trading, in order to purchase any item, including purchasing new spelljammers. |
+| Wondrous Stables                 | 45,000      |           12 | Allows stabling of mounts up to CR 16.  |
+| Grand enchanter's academy        | 50,000      |           12 | Allows other enchanting buildings to craft items up to very rare    |
+| Mythal                           | 40,000      |           12 | Maintains a magical effect over the whole settlement. |
+| Mythellar                        | 90,000      |          18 | Can repair magical items that have been broken (i.e. wands) and to modify magic items such that they never break when expending charges. The modified items lose their power outside of this settlement. |
