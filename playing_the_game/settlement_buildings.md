@@ -14,6 +14,7 @@ In addition to these buildings, players can build some [strongholds](strongholds
 | Hunting Post                     | 750         |           2 | Work downtime at this building adds 5 to your roll, when working using Survival, Nature, Perception or Cartographer's Tools |                          |
 | Herbalism Hut                    | 1,000       |           2 | Start session with temporary HP equal to your character level.   |
 | Shrine                           | 750         |           2 | You can use a downtime at the shrine to get the ability to cast bless at 1st level for free once during the session. |
+
 ## Tier 2: Village
 |                                  | Gold Cost   |   Downtimes | Effect |
 |:---------------------------------|:------------|------------:|:-------|
@@ -27,6 +28,7 @@ In addition to these buildings, players can build some [strongholds](strongholds
 | Stable                           | 2,000       |           2 | Allows mounts of up to CR 3.  |
 | Caravanserai                     | 1,500       |           4 | This building improves travel over roads when traveling. When starting at this settlement and traveling overland to another settlement, reduce the gold cost of traveling by up to `30 × this settlement's tier`gp. | 
 | Fortune Teller                   | 3,000       |           3 | The outcome of your adventure is read in the cards and a prophecy is foretold. At any point during your adventures, deja vu washes over you and you may add a Prophetic Die to one ability check, saving throw, or attack roll before you make the roll. <br /><br />The Prophetic Die is a d6 (level 3-7), d8 (level 8-12), d10 (level 13-16), or d12 (level 17-20) based on your character's level tier at the time of the downtime. A character can have only 1 Prophetic Die at a time.  |
+| Alchemist's House                   | 3,000       |           4   | Allows purchasing uncommon and common potions (besides healing potions). |
 
 ### Tier 2 Strongholds
 Tier 2 and higher can support [strongholds](strongholds.md) of this type.
@@ -43,6 +45,10 @@ Tier 2 and higher can support [strongholds](strongholds.md) of this type.
 | Docks                            | 7,500       |           4 | Allows docking of sea vessels. <br/>Allows you to spend a downtime trading, in order to purchase items from sea-ports outside Ashford, including purchasing sea vessels. <br/><br/> Work downtime at this building adds 8 to your roll, when working using the Athletics or Acrobatics skill or Carpenter's, Navigator's or Woodcarver's tools. |
 | Training Hall                    | 3000        |            3 | Allows the **training** downtime to be completed at this settlement. |
 | Ferry | 3000 | 4 | This building improves travel over water when traveling. When starting at this settlement and traveling by river or sea to another settlement, reduce the gold cost of traveling by up to `50 × this settlement's tier`gp. | 
+| Alchemist's Manor | 6,000 | 4 | Allows purchasing rare potions (besides potions of healing). |
+| Magic Shop | 7,000 | 5 | Not to be confused with a magic item shop, this store sells magic itself.  Gives access to NPC Bards, Warlocks, or Wizards (selected when the building is constructed) who can cast spells up to 5th level.  To have an NPC cast a spell on your behalf at this building, you must spend gold equal to 200 * The spell's level + cost of any consumed material components. Spending your downtime working at this building using arcana (wizards, warlocks), performance (bards), or deception (warlocks) adds +5 to the roll. |
+| Hall of Faith | 7,000 | 5 | Either a chapel, hall, or druid grove. Gives access to NPC Clerics or Druids (selected when the building is constructed) who can cast spells up to 5th level.  To have an NPC cast a spell on your behalf at this building, you must spend gold equal to 200 * The spell's level + cost of any consumed material components.  Spending your downtime working at this building using religion (clerics) or nature (druids) adds +5 to the roll. |
+
 
 ### Tier 3 Strongholds
 Tier 3 and higher can support [strongholds](strongholds.md) of this type.
@@ -66,6 +72,7 @@ Tier 3 and higher can support [strongholds](strongholds.md) of this type.
 | Engineering Guild`*`               | 14,000      |           5 | Reduces cost of building all other buildings by 20% (limit 1/town).<br/><br/> Work downtime at this building adds 8 to your roll, when working using the Investigation or History skill and Calligrapher's or Painter's Supplies.   |
 | Teleportation Circle             | 18,250      |           5 | The Teleport and Teleportation Circle spells can target this Settlement flawlessly. <br/>Traveling from here to another settlement that has Teleportation Circle always costs 50gp regardless of distance. |
 | University                        |  12.000    |       4   |    Allows people to use the **education** downtime in this settlement. | 
+| Alchemist's Mansion | 16,000 | 6 | Allows purchasing very rare potions (besides potions of healing. |
 
 ## Tier 5: Kingdom
 |                                  | Gold Cost   |   Downtimes | Effect |
@@ -76,3 +83,5 @@ Tier 3 and higher can support [strongholds](strongholds.md) of this type.
 | Grand enchanter's academy        | 50,000      |           12 | Allows other enchanting buildings to craft items up to very rare    |
 | Mythal                           | 40,000      |           12 | Maintains a magical effect over the whole settlement. |
 | Mythellar                        | 90,000      |          18 | Can repair magical items that have been broken (i.e. wands) and to modify magic items such that they never break when expending charges. The modified items lose their power outside of this settlement. |
+| Principle Librarium | 45,000 | 15 | Requires the Magic Shop.  A combination library, university, and emporium.  Gives access to NPC Artificers, Bards, Warlocks, and Wizards (inclusive) who can cast spells of any level (except Wish/Simulacrum).  To have an NPC cast a spell on your you must spend gold equal to 500 * The spell's level + the cost of any consumed material components.  Spending your downtime working at this building using arcana, a tool check,  performance, or deception adds +8 to the roll. |
+| High Temple | 45,000 | 15 |Requires a Hall of Faith. A grand structure devoted to worshipping all divine beings.  Gives access to NPC Clerics, Druids, and Paladins (inclusive) who can cast spells of any level.  To have an NPC cast a spell on your behalf at this building, you must spend gold equal to 500 * The spell's level + the cost of any consumed material components. Spending your downtime working at this building using religion or nature adds +8 to the roll. |
