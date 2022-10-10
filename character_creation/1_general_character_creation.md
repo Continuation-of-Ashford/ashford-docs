@@ -1,3 +1,10 @@
+# Character rules
+
+Outside of gamemplay rules, we have some rules to keep games safe and enjoyable for everyone.
+* Child characters are not allowed.  This includes underaged characters and those who are childlike in appearance and mind.
+* All character art must be safe for work.
+
+
 # General Character Creation
 
 Anywhere where you see a "filtered list" of options in a picture on the next page, you can recreate that selection on [5e.tools](https://5e.tools), which is an unofficial D&D 5e resource.
