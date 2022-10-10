@@ -27,6 +27,8 @@ For example:
 @Firecard (R20,K20,I20,W,D,M,Z)
 ```
 
+***NOTE: `:` and `/` are not allowed in your nickname. It will interfere with some of our in-house Discord bot's functions.***
+
 ## Character Background
 
 Once you have created a character, you can optionally put a small background along with a picture in the `#characters` channel on Discord.
