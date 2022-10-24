@@ -216,7 +216,7 @@ Taking the original price, divide it by 25 for uncommon, 50 for rare or 200 for 
 ###### Requires the Enchanter or Arcane building relevant to item type
 Occasionally, the party may find a magic item they can find no use or buyers for. In this case, it is prudent to extract its core components to recycle them into a more useful items.
 
- "Grinding up" an item into Residuum in such a way requires 3 downtimes for a rare item or 6 downtimes for a very rare item. 
+ "Grinding up" an item into Residuum in such a way requires 3 downtimes for a rare item or 6 downtimes for a very rare item. It also costs gold equal to half the price required to craft an item of the same rarity (i.e., `(2d10+2) * 125` for Rare and `(2d10+2) * 1250` for Very Rare).
 
 The resulting Residuum is a magical crafting component of an equal rarity to the item that was destroyed.
 
