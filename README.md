@@ -54,3 +54,13 @@ Head over to the [Settlements Guide](playing_the_game/settlements.md) to learn h
 Want to find like-minded adventurers? Got a despot you want to overthrow? Or maybe your character is just lonely?
 
 Either way, feel free to create a player guild!  Take a look at the [Guild Rules](Guilds/Guild_rules.md) to learn more!
+
+# Quick reference
+### [Character Creation](character_creation/0_creation_guide.md)
+### [Custom Rules](modified_mechanics/rules.md)
+### [Downtimes](playing_the_game/downtime_actions.md)
+### [Settlements](playing_the_game/settlements.md)
+* [Buildings](playing_the_game/settlement_buildings.md)
+* [Strongholds](playing_the_game/strongholds.md)
+### [Guilds](playing_the_game/strongholds.md)
+### [Foundry Link](https://ashford-moltenhosting.moltenhosting.com/join)
