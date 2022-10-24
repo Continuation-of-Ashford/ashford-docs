@@ -28,10 +28,13 @@ The minimum foundations for creating a guild are:
 
 It is essential that the guild writes an internal regulation to be respected, which sets out the reasons and objectives that each member must pursue, as well as the rules that each member must follow. It would also be good to define the order of the chain of command so that we know which orders to respect and by whom. All this must, of course, be decided by the founders of the guild. When chartering a new guild- these regulations and above described foundations are to be submitted to the Big Mans IOT regulate the creation of new guilds.
 
+# Guild Missions
+
+The sponsoring DM, or guest DM with the approval of the guild founder and sponsoring DM, will run sessions that pertain specifically to the goals of various guilds.  These missions allow the guild as an entity separate from its participating members to take its own downtime, the effects of which are determined by a d100 (see below).  These sessions will be exclusive to guild members with 1-2 open flex slots depending on the size of the mission.  
+
 # Guild Leveling and Ranks
 
-The system is based on 5 Levels, in order to level up it is necessary to successfully complete a number of missions as shown in the GUILD EXP table. Obviously
-the more the guild rises the greater the number of successes necessary to increase its influence on Ashford and grow. The table also shows the maximum number of members that the guild can support and the minimum number of members needed to not drop in level. There are 5 different stages for a guild: the ranks, which give access to some benefits once reached. However, to move from one rank to the next you must have a minimum guild exp and a minimum number of members.
+The system is based on 5 Levels. In order to level up it is necessary to successfully complete a number of missions as shown in the GUILD EXP table. The more the guild rises the greater the number of successes necessary to increase its influence on Ashford and grow. The table also shows the maximum number of members that the guild can support and the minimum number of members needed to maintain that level. There are 5 different ranks for a guild, which give access to benefits once reached. To move from one rank to the next you must have a minimum guild exp and a minimum number of members.
 
 ➢ Popular (P): The organization is known to few common folk and carries out missions on commission requested by the people themselves who need help. At this stage there is a max of four characters that can be supported on a mission at a time from that guild.
 
@@ -121,7 +124,7 @@ Monetary value that is earned for completing actions are deposited into the guil
 
 Guilds are comparable to a player on Ashford when calculating and utilizing property. I.E.: If a player joins a guild and offers to give up one of their three establishments, that establishment is now property of the guild and no longer the player. If that property offered income during downtime and 1 action surge that can be used during a mission, the player that offered up that property can no longer gain that bonus as an individual but is to be used as a collective by the guild for a mission. Example- a guild has three establishments- for that mission the party as a whole has three action surges to use, and gain the whole of the downtime outcome from those establishments divided up between that party for that mission. All guild members gain the first level benefits of the stronghold given up to the guild- but the stronghold remains level 1 indefinitely. (‘Can’ benefit, but must utilize the stronghold’s town location as your downtime, per usual)
 # Additional rules:
-•	An actual player can only have one guild master character at a time
-•	Individual player characters can not be in multiple guilds at once- but players can have multiple characters in different guilds
-•	Guild benefits: 1 benefit will be downtime or skill related and 1 benefit will be utility and RP related
-•	Players that are in a guild must pay 5% of their mission gold reward every mission as a tithe to the guild- this is deposited into guild funds.
+*	An actual player can only have one guild master character at a time
+*	Individual player characters can not be in multiple guilds at once- but players can have multiple characters in different guilds
+*	Guild benefits: 1 benefit will be downtime or skill related and 1 benefit will be utility and RP related
+* Players that are in a guild must pay 5% of their mission gold reward every mission as a tithe to the guild- this is deposited into guild funds.
