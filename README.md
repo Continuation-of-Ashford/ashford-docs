@@ -62,5 +62,5 @@ Either way, feel free to create a player guild!  Take a look at the [Guild Rules
 ### [Settlements](playing_the_game/settlements.md)
 * [Buildings](playing_the_game/settlement_buildings.md)
 * [Strongholds](playing_the_game/strongholds.md)
-### [Guilds](playing_the_game/strongholds.md)
+### [Guilds](Guilds/Guild_rules.md)
 ### [Foundry Link](https://ashford-moltenhosting.moltenhosting.com/join)
