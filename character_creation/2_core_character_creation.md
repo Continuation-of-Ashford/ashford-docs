@@ -6,7 +6,7 @@ Now that you know where to start (level 3, remember?), let's get into it.
 Be aware that ReCoA uses some [custom rules](../modified_mechanics/rules.md). Each section below will contain a link to any relevant rule changes.
 
 ## Races
-To see allowed Races, set the filters according to the image below, or use this [link](https://5e.tools/races.html#aarakocra_eepc,flstsource:awm=1~lr=1~oga=1~psz=1~scc=0~ttp=1~uagothicheroes=1,flopsource:extend).
+To see allowed Races, set the filters according to the image below, or use this [link](https://5e.tools/races.html#aarakocra_eepc,flstsource:awm=1~lr=1~oga=1~psz=1~ttp=1~uagothicheroes=1,flopsource:extend).
 
 ![](../assets/allowed_races.png)
 
