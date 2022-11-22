@@ -181,7 +181,8 @@ Players can spend downtime capturing and taming creatures to be their mount. For
 
 * Creatures of 8 intelligence or higher cannot be tamed and named/titled/homebrew creatures are disallowed.
 * Taming takes 1 downtime per CR of the creature being tamed, each downtime requires an animal handling check of 10 + CR + Creature INT mod.
-* The DM rules which creatures can be trained. Both with regards to having the appropriate anatomy to be comfortably mounted, and with regards whether this creature has instincts that cannot be suppressed. (Things that consume souls for example, like the Hellfire Engine.)
+* Only certain types of creatures can be tamed.  The list is as follows: **Beasts, Celestials, Constructs, Dragons, Elementals, Fey, Fiends, Monstrosities, and Plants**
+* The DM rules which creatures can be trained. Both with regards to having the appropriate anatomy to be comfortably mounted, and with regards whether this creature has instincts that cannot be suppressed. (Things that consume souls for example, like the Hellfire Engine, things that cannot feasibly be ridden, like Fire Elementals, or immobile creatures.)
 
 ### Crafting a Magic Item
 ###### Requires the Enchanter or Arcane building relevant to item type
