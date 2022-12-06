@@ -48,6 +48,7 @@ Tier 2 and higher can support [strongholds](strongholds.md) of this type.
 | Alchemist's Manor | 6,000 | 4 | Allows purchasing rare potions (besides potions of healing). |
 | Spellcasting Shop | 7,000 | 5 | Not to be confused with a magic item shop, this store sells magic itself.  Gives access to NPC Bards, Warlocks, or Wizards (selected when the building is constructed) who can cast spells up to 5th level.  To have an NPC cast a spell on your behalf at this building, you must spend gold equal to 200 * The spell's level + cost of any consumed material components. Spending your downtime working at this building using arcana (wizards, warlocks), performance (bards), or deception (warlocks) adds +5 to the roll. |
 | Hall of Faith | 7,000 | 5 | Either a chapel, hall, or druid grove. Gives access to NPC Clerics or Druids (selected when the building is constructed) who can cast spells up to 5th level.  To have an NPC cast a spell on your behalf at this building, you must spend gold equal to 200 * The spell's level + cost of any consumed material components.  Spending your downtime working at this building using religion (clerics) or nature (druids) adds +5 to the roll. |
+| Arena | 40,000 | 12 | Allows Arena Sessions to be held in this settlement.  These sessions are generally shorter combat sessions that are free of permenent consequences (death, fatal injury, etc.) in exchange for lesser rewards. | 
 
 
 ### Tier 3 Strongholds
