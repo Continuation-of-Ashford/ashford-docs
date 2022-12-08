@@ -43,13 +43,13 @@ To see allowed Spells, set the filters according to the image below, or use this
 
 ## Backgrounds
 
-To see allowed Backgrounds, set the filters according to the image below, or use this [link](https://5e.tools/backgrounds.html#acolyte_phb,flstsource:scc=0~aag=0,flopsource:extend).
+To see allowed Backgrounds, set the filters according to the image below, or use this [link](https://5e.tools/backgrounds.html#acolyte_phb,flstsource:aag=0,flopsource:extend).
 
 ![](../assets/allowed_backgrounds.png)
 
 ## Feats
 
-To see allowed Feats, set the filters according to the image below, or use this [link](https://5e.tools/feats.html#aberrant%20dragonmark_erlw,flstsource:uafeatsforskills=1~uafeats=1~scc=0,flopsource:extend).
+To see allowed Feats, set the filters according to the image below, or use this [link](https://5e.tools/feats.html#aberrant%20dragonmark_erlw,flstsource:uafeatsforskills=1~uafeats=1,flopsource:extend).
 
 ![](../assets/allowed_feats.png)
 
