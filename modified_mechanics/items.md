@@ -21,7 +21,7 @@ Shield Guardian has its rarity increased to very rare.
 
 ## Guns: Bad News and Hand Mortar
 
-`TODO:` write these rules.
+Gunslinger Fighters can craft the Bad News and Hand Mortar as if they were Uncommon items.
 
 ## Potions
 Commonly used potions have standard prices, as follows:
@@ -37,7 +37,7 @@ Commonly used potions have standard prices, as follows:
 # Attunements
 
 ## Attunement Limits
-The maximum number of attunement slots is increased by 2.
+The maximum number of attunement slots is increased by 2 to 5.
 
 *`Tip:` If you don't know, an attunement slot is the equivalent of an "equipment slot" employed by many video games. In D&D 5e, these slots are only used for magic items, but only for some of them. Look for the `(requires attunement)` property underneath the item name*.
 
