@@ -63,7 +63,7 @@ Creatures found these ways may not artificially increase a stat to gain addition
 ## Dragonleather Wrapping
 (+1 uncommon, +2 rare, +3 very rare)  </br>
 *Requires Attunement by a fighter*  </br>
-If you make an attack with a weapon that does not have a numerical bonus on attack rolls or damage rolls, or if its bonus to attack rolls is less than +1/2/3, it gains that bonus and becomes a magical weapon if it is not already.  Additionally, when you use Second Wind, you can spend 1/2/3 hit dice to heal as well.  You can't use this feature of the wrapping again until the next dawn. 
+If you make an attack with a weapon that does not have a numerical bonus on attack rolls or damage rolls, or if its bonus to attack rolls is less than +1/2/3, it has that bonus and becomes a magical weapon if it is not already.  Additionally, when you use Second Wind, you can spend 1/2/3 hit dice to heal as well.  You can't use this feature of the wrapping again until the next dawn. 
 
 ## Direbear Pelt Cape
 (+1 uncommon, +2 rare, +3 very rare) </br>
