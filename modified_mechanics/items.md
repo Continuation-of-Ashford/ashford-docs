@@ -1,5 +1,5 @@
 
-# Items
+# Item Changes
 
 ## Tomes and Manuals
 
@@ -57,3 +57,25 @@ Creatures summoned through spells, acquired in sessions, created, or otherwise o
 Creatures with an INT of `10` or above may attune/equip to items as shown in [Character Creation](character_creation.md). A creature must have the proper anatomy to attune to/equip a magic item, such as creatures with hooves or bird-like talons cannot wear shoes. You cannot give a creature acquired in these ways a piercing, have them ingest, or otherwise rest on or in the item some way to circumvent this. 
 
 Creatures found these ways may not artificially increase a stat to gain additional attunement slots, such as a Headband of Intellect, nor have them attune to the item they were summoned from such as a Shield Guardian attuning to a Shield Guardian amulet, ad nauseam. Player characters are exempt from this ruling unless their Intelligence score is `6` or lower
+
+# New Items
+
+## Dragonleather Wrapping
+(+1 uncommon, +2 rare, +3 very rare)  </br>
+*Requires Attunement by a fighter*  </br>
+If you make an attack with a weapon that does not have a numerical bonus on attack rolls or damage rolls, or if its bonus to attack rolls is less than +1/2/3, it gains that bonus and becomes a magical weapon if it is not already.  Additionally, when you use Second Wind, you can spend 1/2/3 hit dice to heal as well.  You can't use this feature of the wrapping again until the next dawn. 
+
+## Direbear Pelt Cape
+(+1 uncommon, +2 rare, +3 very rare) </br>
+*Requires attunement by a barbarian*  </br>
+While raging, your melee weapon attacks gain a +1/2/3 bonus to damage rolls.  Additionally, if your rage lasts shorter than 2/3/4 rounds, you regain one use of rage.  This property of the pelt cannot be used again until the next dawn. 
+
+## Deep Crow Feather Cloak
+(+1 uncommon, +2 rare, +3 very rare)  </br>
+*Requires attunement by a rogue*  </br>
+Once per turn, you get a +1/2/3 bonus to attack and damage rolls against a creature you can use sneak attack against.  Additionally, as a bonus action, you can turn invisible until the start of your next turn.  This property of the cloak cannot be used again until the next dawn. 
+
+## Oversized Psi Crystal
+(+1 uncommon, +2 rare, +3 very rare) </br>
+*Requires attunement by a mystic*  </br>
+You gain a +1/2/3 bonus to attack rolls and save DCs of your psionic talents and disciplines.  In addition, when you take a short rest, you regain 5 psi points.  This property of the crystal cannot be used again until the next dawn. 
