@@ -238,3 +238,9 @@ The quality of artisans willing to work for you depends on your level bracket.
 | 8 - 12        | Apprentice  | `1d20+5`   | `+40%` of crafting price |
 | 13 - 16       | Journeyman  | `1d20+10`  | `+60%` of crafting price |
 | 17 - 20       | Master      | `1d20+20`  | `+80%` of crafting price |
+
+### Legendary Search
+#### When a character reaches level 17, they can begin a search for a legendary magical item.
+To begin a legendary search, write a request in the [#Legendary Search Request Channel](https://discord.com/channels/638910062244528158/772629967087075338).  The request can be for any item of Legendary rarity.  Alternatively, with Big Mans approval, you can work with a DM to search for an upgraded version of an item of lesser rarity that would make it qualify as Legendary, an entirely homebrewed item, or something else of equal value.  
+Finding your legendary item will take 1d6+6 Legendary Search downtimes.  The DM that accepts your request will roll this number in secret.  Every 2-3 downtimes, the sponsoring DM will run a session for your character in their quest to find their item.  You cannot take any Legendary Search downtimes while until this session is completed.
+As an example, Joe Blow wants the CLoak of Invisibility.  He writes a request that is accepted by a DM, who then rolls that it will take 8 downtimes to find the item.  Joe completes 2 Legendary Search downtimes.  His DM tells him that he will have to complete a session to find a source of information for the item.  He cannot complete his 3rd Legendary Search downtime until that session is completed.  When Joe completes 5 downtimes, his DM tells him he needs to complete a session to find the temple where the cloak is hidden, and cannot complete any more downtimes until that session is completed.  When Joe completes his 8th Legendary Search downtime, his DM runs the final session where Joe goes into the temple and receives his prize.
