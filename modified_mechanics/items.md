@@ -23,6 +23,25 @@ Shield Guardian has its rarity increased to very rare.
 
 Gunslinger Fighters can craft the Bad News and Hand Mortar as if they were Uncommon items.
 
+## Mizzium Aparatus
+
+The Mizzium Aparatus now reads as the following:
+
+**Mizzium Apparatus** 
+
+_Very rare, wondrous.  Requires attunement by a wizard, warlock, or sorcerer._ 
+
+Mizzium Apparatuses can be one of three types:  wizard aparatus, warlock aparatus, or sorcerer aparatus.  The type of apparatus is determined at the time of its creation and cannot be changed.  It can only be attuned to by a character of the class associated with the apparatus.
+
+While you are wearing the Mizzium Apparatus, you can use it as an arcane focus. In addition, you can attempt to cast a spell that you do not know or have prepared. The spell you choose must be on the spell list associated with the Apparatus, of a spell level for which you would normally be able to cast of that class's spell list, and you must provide the spell's components. (I.E. Joe Blow is a Cleric 6/Wizard 3 with a Wizard Mizzium Aparatus.  He can cast his prepared cleric and wizard spells, or use the aparatus to cast any 1st or 2nd level wizard spell using his Aparatus. Jon Schmoe is a sorcerer 11 with a Sorcerer Mizzium Aparatus.  He can cast his known sorcerer spells normally, or any 1st-6th level sorcerer spell using his aparatus.)
+
+You expend a spell slot to cast the spell as normal, but before resolving it you must make an Intelligence (Arcana) check. The DC is 13 + twice the level of the spell slot you expend to cast the spell.
+
+On a successful check, you cast the spell as normal, using your spell save DC and spellcasting ability modifier. On a failed check, you cast a different spell from the one you intended. Randomly determine the spell you cast by rolling on the table for the level of the spell slot you expended. If the slot is 6th level or higher, roll on the table for 5th-level spells.
+
+If you try to cast a cantrip you don't know, the DC for the Intelligence (Arcana) check is 13, and on a failed check, there is no effect.
+
+
 ## Potions
 Commonly used potions have standard prices, as follows:
 
