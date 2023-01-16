@@ -29,7 +29,11 @@ The level 3 "Frenzy" feature is replaced with the following. It amends one exist
 >The first sentence of the 6th level **Animating performance** feature now reads:
 > "As an action, you can animate one Large or smaller nonmagical inanimate objectwithin 30 feet of you that isn't being worn or carried."
 
+## Cleric
 
+### Peace
+Emboldening Bond has an amendment to its duration:
+>  "You create a magical bond among them for 10 minutes, until you use this feature again, **or any bonded creature is reduced to 0 hit points.** "
 
 ## Fighter 
 

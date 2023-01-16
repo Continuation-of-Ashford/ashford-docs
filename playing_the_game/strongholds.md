@@ -1,7 +1,7 @@
 # Strongholds
 Strongholds differ from [regular buildings](settlement_buildings.md) in that a single building will have multiple levels which span multiple tiers of settlements and that they are controlled individually by the builder, not the settlement owner.
 
-You should make a note of who is/is not allowed to use your Stronghold in its building entry in the settlements tab in discord. The settlement that your Stronghold is located in must contain a capital building of an appropriate tier to upgrade your Stronghold to its next level.  The tier of capital building required to upgrade your stronghold is equal to the level of the stronghold plus 1 (i.e., in order to build a level 4 keep, you need a tier 5 settlement).
+You should make a note of who is/is not allowed to use your Stronghold in its building entry in the settlements tab in discord. The settlement that your Stronghold is located in must contain a capital building of an appropriate tier to upgrade your Stronghold to its next level.  The tier of capital building required to upgrade your stronghold is equal to the level of the stronghold plus 1 (i.e., in order to build a level 4 keep, you need a tier 5 settlement). Strongholds occupy a building slot like any other building, so constructing one in a settlement will probably require special permissions from the owner.
 
 Below you'll find the the Strongholds players can build in [settlements](settlements.md). 
 
@@ -43,7 +43,7 @@ An establishment doesn't add a feat to the settlement it is constructed in, it i
 You can choose to allow all players to use your Establishment's downtimes, or declare that only certain players are allowed to.
 
 ### *Improve work*
-Choose 4 skill or tool proficiencies for the Work Downtime, players spending their downtime working at your establishment add 5 to their roll.
+Choose 4 skill or tool proficiencies for the Work Downtime. Players spending their downtime working at your establishment using those proficincies add 5 to their roll.
 
 ### *Enable a downtime*
 Your Establishment provides a place players can use a downtime they otherwise couldn't.   
