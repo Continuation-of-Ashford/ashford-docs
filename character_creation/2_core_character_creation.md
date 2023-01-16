@@ -8,7 +8,7 @@ Be aware that ReCoA uses some [custom rules](../modified_mechanics/rules.md). Ea
 (If a link to a filtered 5e page differs from the screenshot of the filter on the github, the screenshot on the github shows the correct options.  Disregard the link, it is most likely outdated.)
 
 ## Races
-To see allowed Races, set the filters according to the image below, or use this [link](https://5e.tools/races.html#aarakocra_eepc,flstsource:awm=1~lr=1~oga=1~psz=1~ttp=1~uagothicheroes=1,flopsource:extend).
+To see allowed Races, set the filters according to the image below, or use this [link](https://5e.tools/races.html#aarakocra_eepc,flstsource:awm=1~lr=1~oga=1~psz=1~ttp=1,flopsource:extend).
 
 ![](../assets/allowed_races.png)
 

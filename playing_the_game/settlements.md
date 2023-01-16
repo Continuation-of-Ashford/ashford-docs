@@ -169,3 +169,11 @@ Perhaps your's is a Citystate with a fearsome army, making military alliances wi
 
 ## Kingdom Feats
 Once a Citystate grows into a Kingdom, its influence now goes over that mountain and past that river, no longer hindered by natural obstacles. The culture of a Kingdom strongly influences other settlements, even those not allied with it. The controller of the Kingdom fills out their culture by adding 1 feat from any of the previous tiers, and if they'd like they can replace 1 feat they have with a feat from any tier.
+___
+# Abandoned settlements
+### Settlements can be considered abandoned for a variety of in or out of character reasons.
+> * The settlement is completely sacked by an invading army
+> * The settlement's owner(s) leave the server and nobody claims new ownership after a week
+> * No downtimes or meaningful RP have taken place in the settlement in 30 IRL days
+### Reclaiming and Abandoned settlement
+Like founding a settlement, a session must be run for the settlement's claimant(s).  Upon completion of that session, they become the settlement's new owners.  Any buildings in the settlement are considered dilapedated and as such provide no benefit.  They must either be repaired or demolished.  Either choice recieves a 50% discount on the gold and downtime cost.

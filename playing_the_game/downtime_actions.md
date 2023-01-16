@@ -54,10 +54,10 @@ Roll an Ability Check using a skill or tool proficiency you have and multiply th
 |For example, rolling a `16` Charisma (Persuasion) at level `12` gives you `16 × 12` = `192` gold.|
 
 ### Help
-You spend a downtime aiding an ally in their endeavors by forfeiting your time. You give one ally advantage on all checks they make in their downtime activity, excluding the Pit Fighting downtime.    
+You spend a downtime aiding an ally in their endeavors by forfeiting your time. You give one ally advantage on all checks they make in their downtime activity, excluding the Pit Fighting or Gambling downtime.    
 When helping you can splitting any gold costs for the downtime, you don't split the rewards. 
 
-Usually the best use for the Help downtime is when you ask another player to use their skills to craft an item for you, giving them advantage and paying part of the cost makes it more likely they can finish the item quickly.
+###### Usually the best use for the Help downtime is when you ask another player to use their skills to craft an item for you, giving them advantage and paying part of the cost makes it more likely they can finish the item quickly.
 
 ### Scribing a spell scroll
 ###### Can be improved by the Arcane Scribe building
@@ -89,7 +89,7 @@ You may spend up to `two (2)` hours per day copying spells into your spellbook *
 
 If your character needs less than 8 hours of sleep, such as a character with Sentry's Rest, Trance or Undying Nature, you may add those hours to copying spells for 4 hours and 6 hours respectively, up to 32 hours or 42 hours. 
 
-If you wish to spend your downtime on copying spells, your base time increases to 56 hours, which can be increased by not needing to sleep as above.
+If you wish to spend your downtime on copying spells, your base time increases to 56 hours, which can be further increased by not needing to sleep as above.
 
 You must still find these spells, such as through a session, PC, or spell scroll. Spells copied in this way should have written at the bottom of their own descriptions who they were copied by.
 
@@ -163,9 +163,10 @@ You spend a downtime brawling in a showroom.
 
 | Difficulty  | DC Formula | 1 success | 2 successes | 3 successes |
 |-------------|------------|-----------|-------------|-------------|
-| Easy        | `2d10+5`   | `3d10`gp  | `6d10`gp    | `10d10`gp   |
-| Challenging | `2d10+10`  | `15d10`gp | `30d10`gp   | `50d10`gp   |
-| Deadly      | `2d10+15`  | `30d10`gp | `60d10`gp   | `100d10`gp  |
+| Amateur     | DC `2d10+1`   | `5d10`gp  | `15d10`gp   | `30d10`gp   |
+| Professional| DC `2d10+15`  | `15d10`gp | `30d10`gp   | `60d10`gp   |
+| Deadly      | DC `2d10+10`  | `30d10`gp | `60d10`gp   | `120d10`gp  |
+| Legendary   | DC `2d10+15`  | `60d10`gp | `120d10`gp  | `250d10`gp  |
 
 
 ### Training Hall
