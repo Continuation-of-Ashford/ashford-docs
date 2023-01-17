@@ -5,7 +5,7 @@ Using armies to defend your settlements is especially important when settling ou
 ## Commanding Armies
 If you are the controller of a settlement with a standing army feat, your forces can receive orders once per real life week. You write 1 order per army your control in the `@TODO discord channel` and each weekend the DM will execute the most recent order for each army and fleet.
 
-The manner in which players control their armies is inspired by the boardgame Diplomacy. Giving orders and managing armies is very simple, but it is essential to work together with the armies of other players. As the name "Diplomacy" implies, its the communicating and coordinating that is the challange. 
+> The manner in which players control their armies is inspired by the board game Diplomacy. Giving orders and managing armies is very simple, but it is essential to work together with the armies of other players. As the name "Diplomacy" implies, its the communicating and coordinating that makes it a challenge. 
 
 Should the controller of the settlement allow it, they can transfer control of the army or fleet granted by the demesne effect of a Fort Stronghold, to the owner of that fort. But regardless of how many commanders an army has, each army can only execute 1 order per real life week.
 
@@ -13,6 +13,7 @@ Should the controller of the settlement allow it, they can transfer control of t
 Armies move on a hex grid, overlayed on Greater Ashford. Each hex is the size of a small kingdom, 200 miles across. There are 3 types of hexes, landlocked hexes, coastal hexes and sea hexes.
 
 ***[ @TODO example image containing each type of hex]***
+
 Some hexes are intersected by mountains. Mountains in the center of a hex are navigable, only mountains on the border of 2 hexes matter. When 1 edge of a hex is covered by mountains, that edge is impassible. If an edge is impassible due to mountains, the 2 hexes it connects cannot be considered adjacent.
 
 ***[ @TODO example image of mountains on a border]***
@@ -33,7 +34,7 @@ There is an exception to this, spying and divination spells during sessions migh
 
 Once all orders are in the discord all movement of armies happens at the same time and all movement of fleets happens at the same time. If an army tries to move into a hex occupied by another army, or if 2 armies try to both move into the same hex, their move order becomes an attack order instead. 
 
-If an army moves into a hex while another army is moving out of it, they don't block each other. If this would cause 2 armies to switch places, player armies can pass through each other peacefully. NPC armies will usually perceive any army marching towards them as a threat, even if that army just wants to pass by.
+If an army moves into a hex while another army is moving out of it, they don't block each other. If this would cause 2 armies to switch places, player armies can pass through each other peacefully. NPC armies will usually perceive any army marching directly at them as a threat, even if that army just wants to switch places.
 
 ***[ @TODO example image of moving into an army holding position]***
 
