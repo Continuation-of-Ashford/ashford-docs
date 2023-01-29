@@ -49,7 +49,7 @@ See the General Settlements Rules [table](#settlement-table) for number of requi
 ## Strongholds
 Strongholds are a special kind of building that are owned by players, not the settlement owner. 
 
-Strongholds do not count towards a settlement's building limit.
+Strongholds count towards a settlement's building limit like any other building.
 
 Strongholds cannot be destroyed by anyone other than the owner of the Stronghold or by DMs, as deemed appropriate in the context of the server plot.
 

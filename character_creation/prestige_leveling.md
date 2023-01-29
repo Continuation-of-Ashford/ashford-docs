@@ -148,7 +148,7 @@ Any level 20 Ashford character that willingly binds themselves into the service 
 At 21st level, you choose a benevolent god that grants you a sliver of their divinity. Choose a [blessing](blessings.md) that your patron grants you. 
 
 ### Endless Worship				
-Also at 21st level, *Your devotion to your patron can sustain you while you worship them*. At the end of each long rest you can perform a ritual of worship. When you do so, for the next 24 hours you no longer need food or water, you stop aging, and you can't be aged magically. If you perform this ritual on desecrated ground, it fails and you must wait until your next long rest to try again.
+Also at 21st level, *Your devotion to your patron can sustain you while you worship them*. At the end of each long rest you can perform a ritual of worship. When you do so, for the next 24 hours you are immune to the frightened condition, no longer need food or water, you pause your aging, and you can't be aged magically. If you perform this ritual on desecrated ground, it fails and you must wait until your next long rest to try again.
 
 ### Healing Touch
 At 22nd level, *your touch can extend the benevolence of your god to fill others with vigor and life*. As an Action you can touch a creature other than yourself, the target magically regains 4d8 hit points and is freed from any curse, disease, poison, blindness, or deafness.
@@ -163,7 +163,7 @@ Alternatively, you can take a feat.
 At 24th level, *your attacks become shrouded in a sheath of divine light, as the power of your deity radiates out from your hands*. When you deal damage by hitting with an attack roll, for a weapon attack or spell attack, that attack deals 1d6 additional radiant damage.
 
 ### Angelic Form
-At 25th level, you also become resistant to fire and radiant damage and immune to the fear condition. 
+At 25th level, you also become resistant to fire and radiant damage. 
 
 You also grow a pair of angelic wings, granting you a flying speed equal to your walking speed. You can use a bonus action to hide or manifest the wings. If you already had wings, this extra pair will appear behind your original and increases your existing flying speed by 10 feet.
 
@@ -178,7 +178,7 @@ ___
 | 22       | 600,000   | +7 | Variable Resistance (1/day) |
 | 23       | 805,000   | +7 | Ability Score improvement	|
 | 24       | 1,100,000 | +7 | 2nd Corrupted Boon |
-| 25       | 1,500,000 | +8 | Variable Resistance (3/day) |
+| 25       | 1,500,000 | +8 | Variable Resistance (2/day) |
 		
 ### Prestige Class Prerequisites:					
 Any level 20 Ashford character that accepts a contract with a devil or decides to imbibe demonic ichor.
@@ -255,7 +255,7 @@ Embracing your unholy gifts reflects your fiendish nature in your appearance eve
 
 </div>				
 
-### Variable Resistance (3/day)
+### Variable Resistance (2/day)
 At 25th level, you can use your Variable Resistance up to 3 times per long rest and regain all 3 uses when you finish a long rest. Each time you use it, you should choose a different damage type.
 
 
@@ -349,7 +349,7 @@ At 21st level, you draw power from the blood of Correlon that is in the soil of 
 This blessing is granted to the controller of your settlement in the feywild. If you ever lose ownership of that settlement, whichever blessing you chose transfers to the new owner.
 
 ### Shields of the Eladrin Host
-At 22nd level, *at your command, eladrin knights in golden armor teleport in from all sides, protecting you and your allies from danger*. When you or an ally within 30 feet of you is the target of an attack or makes a saving throw, all creatures targeted by that action can teleport up to 10 feet to space of their choice. 
+At 22nd level, *at your command, eladrin knights in golden armor teleport in from all sides, protecting you and your allies from danger*. As a reaction when you or an ally you can see within 30 feet of you is the target of an attack or makes a saving throw. All creatures targeted by that action can teleport up to 10 feet to space of their choice. 
 
 Any creature teleported this way is replaced by an eladrin knight. Such eladrin knights have 50 hit points and will take the damage for the creature that was teleported. 
 
@@ -371,11 +371,12 @@ If any of your magic items are removed from your corpse, the future version of t
 Your future self can cast Revivify once, requiring no spellslots or components. If your younger self is revived, your future self fades away. If for any reason you cannot be revived, you can continue to play as your future self, or retire them.
 
 ### Dominion over the Mind
-At 25th level, 
+At 25th level, when a creature you can see fails an Intelligence, Wisdom or Charisma saving throw **you can weave fey magic into their misery.** Choose 1  effect to tack onto whatever save they failed:
+1. You break the creature's concentration.
+1. The creature is charmed by another creature of your choice until the end of it's next turn.
+1. The creature is frightened of another creature of your choice until the end of it's next turn.
 
-`TODO:` this is supposed to give you fey mind fuckery powers. But needs to be slightly weaker than Legendary Resist (1/day). Maybe give target disadvantage on save vs. non-damaging spell 1/day?
-
-
+You choose each option only once, and must take a short or long rest before you can use an option you've used since your last rest.
 ____
 
 ## Parable
@@ -415,10 +416,10 @@ At 23rd level, you can increase one ability score of your choice by 2, or you ca
 Alternatively, you can take a feat.	
 
 ### Figment Step
-At 24th level, *they thought they were on to your tricks, but that too was just a trick. You "accidentally" reveal your real position, just as an enemy was thinking about attacking you.*   
-As a reaction, when you are targeted by an attack or a spell by a creature you can see, you cause the creature that targeted you to become magically distracted. If the distracted creature does not have Truesight, you disappear. You reappear at a point you can see within 20 feet (essentially a teleport, but it ignores effects that prevent dimensional travel)
-
-If your new position would mean you are no longer a target of the triggering action, that action fails to complete. The distracted creature spends the Action, Legendary Action, Reaction or Bonus Action it used to target you, doing nothing. (Effectively this is like Counterspell, but it works on non-spells)
+At 24th level, *The attack, the creature, and even your own physical form are not real. Change the story, and you change reality.*   
+As a reaction, when a creature you can see targets you or includes you in an AoE, you can try to trick the creature. 
+The Action, Reaction, Bonus Action or Legendary action the creature was taking does nothing this turn, Spell Slots or charges spent on it are refunded. 
+Creatures that possess truesight are immune to this effect.
 
 You can use this ability once, and regain use of it at the end of a long rest.
 
@@ -444,8 +445,8 @@ ____
 | Prestige | 450,000   | +7 | Ascetic's Blessing |
 | 22       | 600,000   | +7 | Transcend Materialism |
 | 23       | 805,000   | +7 | Ability Score improvement	|
-| 24       | 1,100,000 | +7 | ??? |
-| 25       | 1,500,000 | +8 | ??? |
+| 24       | 1,100,000 | +7 | Spiritual Ascension |
+| 25       | 1,500,000 | +8 | Ascended Mastery |
 </div>
 		
 ### Prestige Class Prerequisites:					
@@ -492,3 +493,7 @@ Planned: Far-realm mutant themed Prestige option
 ____
 
 Planned: Power of Destruction and Entropy (insane evocation mage) themed Prestige option
+
+____
+
+Planned: True Polymorph on Self themed Prestige option
