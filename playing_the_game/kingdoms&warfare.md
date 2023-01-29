@@ -12,11 +12,11 @@ Should the controller of the settlement allow it, they can transfer control of t
 ### The Map
 Armies move on a hex grid, overlayed on Greater Ashford. Each hex is the size of a small kingdom, 200 miles across. There are 3 types of hexes, landlocked hexes, coastal hexes and sea hexes.
 
-***[ @TODO example image containing each type of hex]***
+![](../assets/warfare/TileTypes.webp)
 
 Some hexes are intersected by mountains. Mountains in the center of a hex are navigable, only mountains on the border of 2 hexes matter. When 1 edge of a hex is covered by mountains, that edge is impassible. If an edge is impassible due to mountains, the 2 hexes it connects cannot be considered adjacent.
 
-***[ @TODO example image of mountains on a border]***
+![](../assets/warfare/Mountains.webp)
 
 ### Giving Orders
 
@@ -30,15 +30,11 @@ All Move orders must be written in chat and those decisions are not locked in un
 
 There is an exception to this, spying and divination spells during sessions might reveal 1 NPC army's orders early. Allowing players to adapt their orders for that week.
 
-
-
 Once all orders are in the discord all movement of armies happens at the same time and all movement of fleets happens at the same time. If an army tries to move into a hex occupied by another army, or if 2 armies try to both move into the same hex, their move order becomes an attack order instead. 
 
 If an army moves into a hex while another army is moving out of it, they don't block each other. If this would cause 2 armies to switch places, player armies can pass through each other peacefully. NPC armies will usually perceive any army marching directly at them as a threat, even if that army just wants to switch places.
 
-***[ @TODO example image of moving into an army holding position]***
-
-***[ @TODO example image of 2 armies trying to move into the same empty hex]***
+![](../assets/warfare/Attacks.webp)
 
 Coastal hexes are special, a coastal hex can be occupied by 1 fleet and 1 army at the same time. When an army or fleet moves into an occupied coastal hex, their move order only becomes an attack order if the coastal hex is already occupied by a unit of the same type.
 
@@ -50,7 +46,7 @@ Each army is theoretically equally matched with every other army. When 2 (or mor
 ## Assist
 Assist works similar to Readying an Action in D&D. To Assist, your army needs to hold position and choose 1 army to assist. An army can only assist armies that aren't trying to move away from it. So in order to assist a Move/Attack you need to be adjacent to the target of the Attack, you cannot Assist from behind the attacker. Even if multiple seperate battles are happening adjacent to a unit, they must choose only 1 target to assist.
 
-***[ @TODO example image with 2 sides. A red X for assisting an attack from the back, a checkmark for assisting an attack as a flank]***
+![](../assets/warfare/AssistFromBack.webp)
 
 Because all armies are equal, a 1v1 is always a stalemate. **The only way to win battles is by using assists tactically.** When an attack happens and the number of assists for each side is not equal only the army with the highest number of assists survives.
 
@@ -69,9 +65,7 @@ Normaly armies cannot move into sea hexes. However a fleet in a sea hex adjascen
 
 A valid place to deposit a ferried fleat can be a coastal hex, or another fleet that is also using the ferry action.
 
-***[ @TODO example image of 2 fleets moving an army across 2 sea hexes]***
-
-***[ @TODO example image of a fleet moving an army ]***
+![](../assets/warfare/FleetsGoFast.webp)
 
 In this way, fleets can be used to move armies across the sea, or to leapfrog armies along a coastline by skipping 1 or more hexes. Without the fleets needing to enter the coastal squares where they'd be susseptiple to attack by an army.
 
@@ -84,7 +78,9 @@ When an army or fleet is in a hex that contains an outpost or village, that army
 Attacking an unguarded settlement means raiding it. A raid rolls a 1d6 and gains that many downtimes that it will spend on deconstructing buildings. The attacking army can choose which buildings it targets. This causes valuables, goods, equipment and people to be acquired by the raiding army equal to the gold cost of deconstructing those buildings. That army will carry that with them until they deposit them somewhere; players could reclaim that loot from that army.
 
 ## Besieging
-A town, city, or kingdom requires the "Palisades or Guard post" building. While a settlement has that building it cannot be raided and is a guarded settlement. When ordered to attack a guarded settlement, armies must instead besiege the settlement. A guarded settlement counts as having 1 army, but that army doesn't occupy a hex and can't leave the settlement. An attacking army will need support to not stalemate vs. the "army" of a guarded settlement. The "army" of a guarded settlement is able to support armies attacking an army that is in its settlement's hex, but can't otherwise receive orders.
+A town, city, or kingdom requires the "Palisades or Guard post" building. While a settlement has that building it cannot be raided and is a guarded settlement. Such settlements are marked with a black border on their hex. A guarded settlement counts as having 1 army, but that army doesn't occupy a hex and can't leave the settlement. 
+
+When ordered to attack a guarded settlement, armies must instead besiege the settlement. An attacking army will need support to not stalemate vs. the "army" of a guarded settlement. The "army" of a guarded settlement is able to support armies defending against attack while that army is in settlement's hex, but can't otherwise receive orders.
 
 For each order to seige, the attacking army adds 1d6 to a pool of dice, each time this happens the settlement being besieged is asked to surrender to come under new management. While there are dice in the pool, that settlement cannot be traveled to or from, and characters in the settlement cannot spend downtimes to build or repair buildings.
 
