@@ -12,9 +12,9 @@ If a character uses one of the manuals, tomes or a similar item, the cooldown ex
 ## Magical Armor (Generic variant)
 
 Generic magical armor has had its rarity reduced by 1 step as following:
-* +1 armor: uncommon
-* +2 armor: rare
-* +3 armor: very rare
+* +1 armor: uncommon, wondrous
+* +2 armor: rare, wondrous
+* +3 armor: very rare, wondrous
 
 ## Amulet of the Devout
 
