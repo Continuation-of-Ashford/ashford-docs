@@ -1,15 +1,20 @@
 
 # Item Changes
 
+## Bag of Beans
+
+Each character can only gain the benefits of eating two eggs from the Bag of Beans.
+
 ## Tomes and Manuals
 
 If a character uses one of the manuals, tomes or a similar item, the cooldown extends to all future copies in addition to the item used for that character i.e. If a character uses a Manual of Gainful Exercise or Tome of Leadership and Influence, the time in which it takes to use that manual again extends to any of that item found in the future.
 
-## +3 Armor (Generic variant)
+## Magical Armor (Generic variant)
 
-+3 Armor (Generic variant) has its rarity amended to very rare, wondrous
-
-This only includes breastplate, chain mail/shirt, half-plate, hide, (studded) leather, padded, plate, ring, scale, spiked and splint armor.
+Generic magical armor has had its rarity reduced by 1 step as following:
+* +1 armor: uncommon, wondrous
+* +2 armor: rare, wondrous
+* +3 armor: very rare, wondrous
 
 ## Amulet of the Devout
 
@@ -82,19 +87,24 @@ Creatures found these ways may not artificially increase a stat to gain addition
 ## Dragonleather Wrapping
 (+1 uncommon, +2 rare, +3 very rare)  </br>
 *Requires Attunement by a fighter*  </br>
-If you make an attack with a weapon that does not have a numerical bonus on attack rolls or damage rolls, or if its bonus to attack rolls is less than +1/2/3, it has that bonus and becomes a magical weapon if it is not already.  Additionally, when you use Second Wind, you can spend 1/2/3 hit dice to heal as well.  You can't use this feature of the wrapping again until the next dawn. 
+If you make an attack with a weapon that does not have a numerical bonus on attack rolls or damage rolls, or if its bonus to attack rolls is less than +1/2/3, it has that bonus and becomes a magical weapon if it is not already.  Additionally, if your fighter subclass gives you a fighter save DC (i.e. Battle Master maneuvers or Eldritch Knight spells), that DC increases by 1/2/3.
 
 ## Direbear Pelt Cape
 (+1 uncommon, +2 rare, +3 very rare) </br>
 *Requires attunement by a barbarian*  </br>
-While raging, your melee weapon attacks gain a +1/2/3 bonus to damage rolls.  Additionally, if your rage lasts shorter than 2/3/4 rounds, you regain one use of rage.  This property of the pelt cannot be used again until the next dawn. 
+While raging, your melee weapon attacks gain a +1/2/3 bonus to damage rolls.  If your barbarian sunblass gives you a save DC (i.e. Beast Barbarian's Infectious Fury), that DC increases by 1/2/3. 
 
 ## Deep Crow Feather Cloak
 (+1 uncommon, +2 rare, +3 very rare)  </br>
 *Requires attunement by a rogue*  </br>
-Once per turn, you get a +1/2/3 bonus to attack and damage rolls against a creature you can use sneak attack against.  Additionally, as a bonus action, you can turn invisible until the start of your next turn.  This property of the cloak cannot be used again until the next dawn. 
+Once per turn, you get a +1/2/3 bonus to attack and damage rolls against a creature you can use sneak attack against.  If your rogue subclass gives you a save DC (i.e. Arcane Trickster's spells), that DC increases 1/2/3.
 
 ## Oversized Psi Crystal
 (+1 uncommon, +2 rare, +3 very rare) </br>
 *Requires attunement by a mystic*  </br>
 You gain a +1/2/3 bonus to attack rolls and save DCs of your psionic talents and disciplines.  In addition, when you take a short rest, you regain 5 psi points.  This property of the crystal cannot be used again until the next dawn. 
+
+## Soul Focus
+(+1 uncomomn, +2 rare, +3 very rare) </br>
+*Requires attunement*
+You gain a +1/2/3 bonus to the save DCs of your racial abilities (i.e. Dragonborn's breath weapon).
