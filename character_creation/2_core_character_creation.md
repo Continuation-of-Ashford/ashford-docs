@@ -53,6 +53,8 @@ To see allowed Feats, set the filters according to the image below, or use this 
 
 ![](../assets/allowed_feats.png)
 
+Characters are free to select a feat at first level if their background does not give them one.  If their background does give a feat, players may select any feat in place of the default.
+
 *`Remember:` ReCoA uses [modified feats](../modified_mechanics/feats.md).*
 
 ## Items

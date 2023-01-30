@@ -169,7 +169,7 @@ You spend a downtime brawling in a showroom.
 | Legendary   | DC `2d10+15`  | `60d10`gp | `120d10`gp  | `250d10`gp  |
 
 
-### Training Hall
+### Training
 ###### Requires Training Hall Building
 If you are within 600 xp of the next level, you can spend the downtime training to reach the next level at minimum experience.
 
