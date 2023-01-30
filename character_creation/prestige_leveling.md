@@ -497,3 +497,7 @@ Planned: Power of Destruction and Entropy (insane evocation mage) themed Prestig
 ____
 
 Planned: True Polymorph on Self themed Prestige option
+
+____
+
+Planned: Shadow Broker (Prestige option themed for having pacts with 10+ patrons, enabled by buying/selling souls in the infamous Shadowfell market)

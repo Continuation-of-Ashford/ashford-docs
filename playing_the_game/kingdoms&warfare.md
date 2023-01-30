@@ -26,7 +26,7 @@ There are three orders you can give: **Move/Attack**, **Assist**, or **Ferry**. 
 The commander may order each unit they control to move to or attack an adjacent hex. Naturally, armies cannot move into sea hexes, and fleets cannot move into landlocked hexes. 
 
 #### Giving Orders
-All Move orders must be written in chat and those decisions are not locked in until `12 PM at ¿timezone?` each saturday. The DM handeling the orders locks in what the NPC armies and fleets will do before the players submit any orders (usually NPCs will just Hold & Assist) This is so that the DM can't change what the NPCs do based on the plans for the player armies. But also the DM doesn't reveal what the NPCs are doing to the players until the players have locked in their orders, so the players can't adjust their orders based on what the NPCs will be doing.
+All Move orders must be written in chat and those decisions are not locked in until `12 PM at ¿timezone?` each saturday. The DM handling the orders locks in what the NPC armies and fleets will do before the players submit any orders (usually NPCs will just Hold & Assist) This is so that the DM can't change what the NPCs do based on the plans for the player armies. But also the DM doesn't reveal what the NPCs are doing to the players until the players have locked in their orders, so the players can't adjust their orders based on what the NPCs will be doing.
 
 There is an exception to this, spying and divination spells during sessions might reveal 1 NPC army's orders early. Allowing players to adapt their orders for that week.
 
@@ -44,7 +44,7 @@ Each army is theoretically equally matched with every other army. When 2 (or mor
 > Should 2 player armies bump into each other accidentally due to conflicting orders, it is assumed they won't actually fight. The *"attack order"* would consist mostly of yelling obscenities at each other for being in the way.
 
 ## Assist
-Assist works similar to Readying an Action in D&D. To Assist, your army needs to hold position and choose 1 army to assist. An army can only assist armies that aren't trying to move away from it. So in order to assist a Move/Attack you need to be adjacent to the target of the Attack, you cannot Assist from behind the attacker. Even if multiple seperate battles are happening adjacent to a unit, they must choose only 1 target to assist.
+Assist works similar to Readying an Action in D&D. To Assist, your army needs to hold position and choose 1 army to assist. An army can only assist armies that aren't trying to move away from it. So in order to assist a Move/Attack you need to be adjacent to the target of the Attack, you cannot Assist from behind the attacker. Even if multiple separate battles are happening adjacent to a unit, they must choose only 1 target to assist.
 
 ![](../assets/warfare/AssistFromBack.webp)
 
@@ -61,13 +61,13 @@ All fleets are equally matched, so a 1v1 is always a stalemate. The only way to 
 Only when both an army and a fleet occupy the same coastal square, can fleets attack or assist armies or armies attack or assist fleets.
 
 ## Ferry
-Normaly armies cannot move into sea hexes. However a fleet in a sea hex adjascent to a coastal hex  can be ordered to ferry. A ferry order designates a target army that is allowed to move op top of the fleet using a Move/Attack order. The commander of the fleet then chooses 1 hex adjascent to the fleet to deposit the army into, provided that hex is a valid place for the army to be.
+Normally armies cannot move into sea hexes. However a fleet in a sea hex adjacent to a coastal hex  can be ordered to ferry. A ferry order designates a target army that is allowed to move op top of the fleet using a Move/Attack order. The commander of the fleet then chooses 1 hex adjacent to the fleet to deposit the army into, provided that hex is a valid place for the army to be.
 
-A valid place to deposit a ferried fleat can be a coastal hex, or another fleet that is also using the ferry action.
+A valid place to deposit a ferried fleet can be a coastal hex, or another fleet that is also using the ferry action.
 
 ![](../assets/warfare/FleetsGoFast.webp)
 
-In this way, fleets can be used to move armies across the sea, or to leapfrog armies along a coastline by skipping 1 or more hexes. Without the fleets needing to enter the coastal squares where they'd be susseptiple to attack by an army.
+In this way, fleets can be used to move armies across the sea, or to leapfrog armies along a coastline by skipping 1 or more hexes. Allowing armies to be moved surprisingly fast. And this can be often done without the fleets needing to enter the coastal squares where they'd be susceptible to attack by an army.
 
 ## Sabotage by Players
 When armies or fleets battle and especially when they stalemate, players have the rest of the week before the new orders are executed, to interfere with that stalemate. Successfully completing a quest  by engaging in a notable act of sabotage to weaken the army or fleet will count as an Assist for any unit attacking the sabotaged unit. Thereby changing the outcome of the battle and destroying a unit. 
@@ -84,7 +84,7 @@ When ordered to attack a guarded settlement, armies must instead besiege the set
 
 For each order to seige, the attacking army adds 1d6 to a pool of dice, each time this happens the settlement being besieged is asked to surrender to come under new management. While there are dice in the pool, that settlement cannot be traveled to or from, and characters in the settlement cannot spend downtimes to build or repair buildings.
 
-Once that army's controller believes enough dice are in the pool, the time for surrender has passed and they roll the dice pool. The total of the roll is the number of downtimes that must be spent on the deconstructing a building downtime. The building targeted during a seige are chosen randomly, and ignore their gold cost.
+Once that army's controller believes enough dice are in the pool, the time for surrender has passed and they roll the dice pool. The total of the roll is the number of downtimes that the army will spend on the deconstructing a building downtime. The buildings targeted during a seige are chosen randomly, and ignore their gold cost.
 
 The pool of dice for a seige is emptied after it is rolled, or when the attacking army moves off of the hex the settlement is in.
 
