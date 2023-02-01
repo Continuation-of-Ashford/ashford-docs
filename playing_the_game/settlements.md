@@ -9,7 +9,7 @@ Settlements represent the efforts of players to inhabit and expand their influen
 | 2    | Village Tier     | 5,000     | 6         | 5              | 3                                                        |Establishments          |
 | 3    | Town Tier        | 15,000    | 8         | 8              | 4                                                        |Temple, Tower, Keep     |
 | 4    | Citystate Tier   | 35,000    | 10        | 11             | 8                                                        |-                       |
-| 5    | Kingdom Tier     | 75,000    | 12        | 14             | -                                                        |                        |
+| 5    | Kingdom Tier     | 125,000    | 18        | 14             | -                                                        |                        |
 ## Buildings
 Settlements provide benefits to the owners and patrons of buildings in a settlement.
 
