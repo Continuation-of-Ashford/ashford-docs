@@ -3,10 +3,14 @@ Here in the Ashford server, characters aren't finished when they hit level 20. I
 
 We want you to continue to feel rewarded and to look forward to play the character we've all grown familiar with as much as you want. In order to keep XP feeling like a worthwhile reward, while at the same time helping DMs not over-use the Blessings and Boons as high-level rewards. Ashford characters of level 20 can pursue a Prestige Class.
 
-These prestige classes are homebrew classes with 5 levels. Similar to how multiclassing works, you choose one and gain levels in it. What is not similar, is that these prestige classes have prerequisites. There prerequisites are there to prevent multi-classing into multiple prestige classes, while also demanding that the character actually be prestigious enough to earn the class.
+These prestige classes are homebrew classes with 5 levels. Similar to how multi-classing works, you choose one and gain levels in it. What is not similar, is that these prestige classes have prerequisites. There prerequisites are there to prevent multi-classing into multiple prestige classes, while also demanding that the character actually do something prestigious to earn their class.
 
 ___
-	
+
+Legendary Hero is the *"legendary version of your class"* variant. It is usually the best mechanical option for every class, without changing the flavor of your character. If you just want to be better at what your level 20 character is good at, then choose Legendary Hero. 
+
+Other prestige options seek power that comes from outside sources, such as becoming a werewolf or embracing demonic corruption. These will change your character's vibe
+
 ## Legendary Hero
 *Many adventurers seek to become renowned in bardic tales. An over enthusiastic few will hire hype man as soon as they start their first adventure. But a true legend is forged by deeds that are considered impossible. A hero of legend, isn't merely heroic, they are capable beyond belief. A true legend is a warrior, mage or trickster so skilled they can impress the gods, and is feared by man and demon alike.*
 
@@ -37,10 +41,10 @@ In addition *your prowess at one particular skill becomes renowned for your impo
 
 ### Immortality?
 A Legendary Hero has performed deeds worthy of legend. *Their legend, will last forever. As the legend is retold and spreads it strengthens the hero's legacy for each person that hears it.*   
-If the caster of Resurrection or True Resurrection knows your legend, they don't need your soul to resurrect you, because the spell is able to forge a new soul based on your legend. A caster that knows your legend also ignores how long you have been dead or undead when resurrecting you.
+If the caster of Resurrection or True Resurrection knows your legend, they don't need your soul to resurrect you, *because the spell is able to forge a new soul based on your legend.* A caster that knows your legend also ignores how long you have been dead or undead when resurrecting you.
 
 ### Blessing					
-At 22nd level, you gain a [blessing](blessings.md). Some blessings are named who they came from, other blessings are most often bestowed by the Celestials. But your Blessings might come from other sources, such as Fey, Fiends, Titans(giants) or Primordials(elementals). 
+At 22nd level, you gain a [blessing](blessings.md). Some blessings are named who they came from, unnamed blessings are most often bestowed by the Celestials. But your Blessings might come from other sources, such as Fey, Fiends, Titans(giants) or Primordials(elementals). 
 
 When you gain this feature choose where your blessing came from. 
 
@@ -364,19 +368,18 @@ At 23rd level, you can increase one ability score of your choice by 2, or you ca
 Alternatively, you can take a feat.	
 
 ### Eternal King on an Eternal Throne
-At 24th level, Once per session, when you die, *an older, more regal version of yourself steps from the mists of time
-to take your place*. This possible future version of you is a separate creature that appears within 5ft of you. It possesses all your statistics, features and copies of your magic items, but its maximum hitpoints is only half of your maximum hit points. If you die while in the form of your future self, you're dead.   
+At 24th level, Once per session, when you die, *an older, more regal version of yourself steps from the mists of time to take your place. This version of you from a possible future,* is a separate creature that appears within 5ft of you. It possesses all your statistics, features and copies of your magic items.
 If any of your magic items are removed from your corpse, the future version of that item will fade away.
 
 Your future self can cast Revivify once, requiring no spellslots or components. If your younger self is revived, your future self fades away. If for any reason you cannot be revived, you can continue to play as your future self, or retire them.
 
 ### Dominion over the Mind
-At 25th level, when a creature you can see fails an Intelligence, Wisdom or Charisma saving throw **you can weave fey magic into their misery.** Choose 1  effect to tack onto whatever save they failed:
+At 25th level, when a creature you can see fails an Intelligence, Wisdom or Charisma saving throw *you can weave fey magic into their misery.* Choose 1  effect to tack onto whatever save they failed:
 1. You break the creature's concentration.
 1. The creature is charmed by another creature of your choice until the end of it's next turn.
 1. The creature is frightened of another creature of your choice until the end of it's next turn.
 
-You choose each option only once, and must take a short or long rest before you can use an option you've used since your last rest.
+You choose each option only once, and must take a short or long rest before you can re-use an option you've used since your last rest.
 ____
 
 ## Parable
