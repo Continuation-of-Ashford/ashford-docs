@@ -11,6 +11,24 @@ Legendary Hero is the *"legendary version of your class"* variant. It is usually
 
 Other prestige options seek power that comes from outside sources, such as becoming a werewolf or embracing demonic corruption. These will change your character's vibe
 
+#### Prestige Classes
+
+- [Legendary Hero](#legendary-hero)
+- [Dread Lich](#dread-lich)
+- [Exalted Saint](#exalted-saint)
+- [Corrupted Champion](#Corrupted-Champion)
+- [Primal Predator](#Primal-Predator)
+- [Fey Leige](#Fey-Leige)
+- [Parable](#Parable)
+- [Magi-Tech](#Parable)
+- [Potions](#Parable)
+- [Ascendant](#Ascendant)
+- [Mutant](#Ascendant)
+- [Disintegrator](#Ascendant)
+- [Prema Polymorph](#Ascendant)
+- [Shadow Broker](#Ascendant)
+- [Elemental Leech](#Ascendant)
+
 ## Legendary Hero
 *Many adventurers seek to become renowned in bardic tales. An over enthusiastic few will hire hype man as soon as they start their first adventure. But a true legend is forged by deeds that are considered impossible. A hero of legend, isn't merely heroic, they are capable beyond belief. A true legend is a warrior, mage or trickster so skilled they can impress the gods, and is feared by man and demon alike.*
 
@@ -31,7 +49,7 @@ Meaning you cannot choose this prestige class during character creation, because
 - **Hit Dice:** 1d8	
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
-##### Proficiencies
+##### Bonus Proficiencies
 - **Saving Throws:** 1 saving throw you are not already proficient in
 - **Skills:** 1 skill you are not already proficient in
 
@@ -85,7 +103,7 @@ In order to become a lich you must bargain for the secret rituals with a being o
 - **Hit Dice:** 1d6	
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
-##### Proficiencies
+##### Bonus Proficiencies
 - **Saving Throws:** none
 - **Skills:** none
 
@@ -144,7 +162,7 @@ Any level 20 Ashford character that willingly binds themselves into the service 
 - **Hit Dice:** 1d8	
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
-##### Proficiencies
+##### Bonus Proficiencies
 - **Saving Throws:** none
 - **Skills:** Choose 1 from Insight or Perception.
 
@@ -193,7 +211,7 @@ There is no Alignment prerequisite for this Prestige Class, but power corrupts, 
 - **Hit Dice:** 1d8	
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
-##### Proficiencies
+##### Bonus Proficiencies
 - **Saving Throws:** none
 - **Skills:** Choose 1 from Deception or Intimidation.
 
@@ -285,7 +303,7 @@ Any level 20 Ashford character that seeks power from primordial magic, embracing
 - **Hit Dice:** 1d10	
 - **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per prestige level
 
-##### Proficiencies
+##### Bonus Proficiencies
 - **Saving Throws:** none
 - **Skills:** none
 
@@ -343,7 +361,7 @@ Any level 20 Ashford character that is the controller of a settlement in the fey
 - **Hit Dice:** 1d6	
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
-##### Proficiencies
+##### Bonus Proficiencies
 - **Saving Throws:** none
 - **Skills:** Choose 1 from Deception or Persuasion.
 
@@ -404,7 +422,7 @@ levels in this prestige class, each count as madnesses. So if you ever recover f
 - **Hit Dice:** 1d4
 - **Hit Points at Higher Levels:** 1d4 (or 3) + your Constitution modifier per prestige level
 
-##### Proficiencies
+##### Bonus Proficiencies
 - **Saving Throws:** Choose 1 from Charisma, Intelligence or Wisdom.
 - **Skills:** none
 
@@ -431,11 +449,72 @@ At 25th level, when you are subjected to an effect that allows you to make a sav
 
 ____
 
-Planned: Magi-Tech enhancement themed Prestige option
+## @TODO Unnamed
+*Be it in the form of brass piping and copper gears, limbs grown from ironwood and living stone, or elemental shapes of pure energy, you have transformed the body nature had furnished you with. As a creator of peerless ability, you have taken steps to upgrade the body that was holding you back. Reshaping yourself will be your most complicated crafting project yet.*
+
+<div class='classTable'>
+
+| Level    | XP Cost   | PB | Features |
+|:--------:|----------:|---:|:---------|
+| Prestige | 450,000   | +7 | Engine of Agony |
+| 22       | 600,000   | +7 | Craftable Boon |
+| 23       | 805,000   | +7 | Ability Score improvement	|
+| 24       | 1,100,000 | +7 | Invulnerable Anatomy |
+| 25       | 1,500,000 | +8 | You V.2 |
+</div>
+		
+### Prestige Class Prerequisites:					
+Any level 20 Ashford character that can benefit from double their proficiency bonus to any type of Artisan's tools checks and/or Arcana skill checks when making Ability Checks during downtimes.
+
+@TODO should this class perhaps cost a rare item component to gain a level?
+
+##### Hit Points
+- **Hit Dice:** 1d12	
+- **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per prestige level
+
+##### Bonus Proficiencies
+- **Saving Throws:** none
+- **Skills:** none
+- **Tools:** Surgical Tools
+
+### Engine of Agony
+At 21st level, *you begin replacing parts of your body with magical items you've crafted.* These are magic items of Artifact rarity. Like any Artifact, they are unaffected by Anti-magic field and can be destroyed only using the tools that created them. *However upgrading everything will be a slow and very painful process,* the mundane parts of your body you have yet to replace remain susceptible to damage.
+
+Using the Activate Magic Item action your Artifact body allows you to reproduce the effects of several 1st and 2nd level spells. Targeting only yourself you cast 3 spells at once, from the list below. This does not require any spell slots and does not require concentration. 
+
+| 1st level spells | 2nd level spells | 
+|:-----------------|:-----------------|
+| 1st Comprehend Languages | 2nd Darkvision       | 
+| 1st Expeditious Retreat  | 2nd Enhance Ability  |
+| 1st Zephyr Strike        | 2nd Levitate         |
+| 1st Jump                 | 2nd See Invisibility |
+| 1st Longstrider          | 2nd Spider Climb     |
+
+When you use this feature again any lingering effects of the previous spells you cast this way end.
+
+### Craftable Boon
+At 22nd level, you upgrade your body to incorporate a [boon](boons.md).
+
+You can spend 1 downtime and a rare magic item component to swap this boon for a different boon. 
+
+### Artifact Ability Score improvement					
+At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
+Alternatively, you can take a feat.	
+
+### Invulnerable Anatomy
+At 24th level, *you have replaced enough of your organs to no longer have any that are considered 'vital'.* Any critical hit against you becomes a normal hit. You still can, but don't need to eat, drink, or breathe.
+
+### You V.2
+At 25th level, *building on everything you've learned from overhauling your body the first time, there is still so much room for further improvements!* You upgrade each magic item within your body to a more efficient version. 
+
+- You gain the Tough feat
+- You can attune to 2 additional items
+- For each unused attunement slot you gain a +1 bonus to AC and Saving throws
+
 
 ____
 
-Planned: Alchemical enhancement themed Prestige option
+## Planned: Alchemical enhancement themed Prestige option
 
 ____
 
@@ -459,7 +538,7 @@ Any level 20 Ashford character that can cast the Astral projection or Planeshift
 - **Hit Dice:** 1d8
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
-##### Proficiencies
+##### Bonus Proficiencies
 - **Saving Throws:** none
 - **Skills:** none
 
@@ -491,16 +570,16 @@ At 25th level, the projection created by Spiritual Ascension can now summon and 
 
 ____
 
-Planned: Far-realm mutant themed Prestige option
+## Planned: Far-realm mutant themed Prestige option
 
 ____
 
-Planned: Power of Destruction and Entropy (insane evocation mage) themed Prestige option
+## Planned: Power of Destruction and Entropy (insane evocation mage) themed Prestige option
 
 ____
 
-Planned: True Polymorph on Self themed Prestige option
+## Planned: True Polymorph on Self themed Prestige option
 
 ____
 
-Planned: Shadow Broker (Prestige option themed for having pacts with 10+ patrons, enabled by buying/selling souls in the infamous Shadowfell market)
+## Planned: Shadow Broker (Prestige option themed for having pacts with 10+ patrons, enabled by buying/selling souls in the infamous Shadowfell market)
