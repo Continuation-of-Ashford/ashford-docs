@@ -3,7 +3,7 @@ Settlement and stronghold owners can gain Army Feats, each such feat will give y
 Using armies to defend your settlements is especially important when settling outposts in the more dangerous higher level areas. 
 
 ## Commanding Armies
-If you are the controller of a settlement with a standing army feat, your forces can receive orders once per real life week. You write 1 order per army your control in the `warfare-commands` and each Saturday at 6 PM EST the DM will execute the most recent order for each army and fleet.
+If you are the controller of a settlement with a standing army feat, your forces can receive orders once per real life week. You write 1 order per army your control in the `warfare-commands` channel in discord. Each Saturday at 6 PM EST the DM will execute the most recent order for each army and fleet.
 
 > The manner in which players control their armies is inspired by the board game Diplomacy. Giving orders and managing armies is very simple, but it is essential to work together with the armies of other players. As the name "Diplomacy" implies, its the communicating and coordinating that makes it a challenge. 
 
