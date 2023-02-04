@@ -1,16 +1,21 @@
 # Kingdoms & Warfare
-Settlement and stronghold owners can gain Army Feats, each such feat will give you an army or fleet. Their main purpose is to intercept and ward off enemy factions before they can damage your settlements. Armies allow you to take the fight to the enemy, to block them from reaching your settlements, to have sessions to turn a stalemate into your favor, or even to turn the tables and raid NPC settlements for money.
+Settlement and stronghold owners can gain Army Feats, each such feat will give you one or more armies or fleets. Their main purpose is to intercept and ward off enemy factions before they can damage your settlements. Armies allow you to take the fight to the enemy, to block them from reaching your settlements, to have sessions to turn a stalemate into your favor, or even to turn the tables and raid NPC settlements for money.
 Using armies to defend your settlements is especially important when settling outposts in the more dangerous higher level areas. 
 
 ## Commanding Armies
 If you are the controller of a settlement with a standing army feat, your forces can receive orders once per real life week. You write 1 order per army your control in the `warfare-commands` channel in discord. Each Saturday at 6 PM EST the DM will execute the most recent order for each army and fleet.
 
-> The manner in which players control their armies is inspired by the board game Diplomacy. Giving orders and managing armies is very simple, but it is essential to work together with the armies of other players. As the name "Diplomacy" implies, its the communicating and coordinating that makes it a challenge. 
+> The manner in which players control their armies is inspired by the board game Diplomacy. Giving orders and managing armies is very simple, but it is essential to work together with the armies of other players. As the name "Diplomacy" implies, it's the communicating and coordinating that makes it a challenge. 
 
-Should the controller of the settlement allow it, they can transfer control of the army or fleet granted by the demesne effect of a Fort Stronghold, to the owner of that fort. But regardless of how many commanders an army has, each army can only execute 1 order per real life week.
+Should the controller of the settlement allow it, they can transfer control of the army or fleet granted by the demesne effect of a Fort Stronghold, to the owner of that fort. Regardless of how many commanders an army has, each army can only execute 1 order per real life week.
 
 ### The Map
-Armies move on a hex grid, overlayed on Greater Ashford. Each hex is the size of a small kingdom, 200 miles across. There are 3 types of hexes, landlocked hexes, coastal hexes and sea hexes.
+Armies move on a hex grid, overlayed on Greater Ashford. Each hex is the size of a small kingdom, roughly 60 miles across. There are 3 types of hexes, landlocked hexes, coastal hexes, and sea hexes.
+
+Naturally, armies cannot move into sea hexes, and fleets cannot move into landlocked hexes.  Both armies and fleets can move through coastal tiles.
+
+Sea hexes are esentially "highways" that can be moved through with no cost.  Fleet units can travel from any coastal tile to any other coastal tile if a line can be drawn between them that does not intersect other units or any type of tile.
+
 
 ![](../assets/warfare/TileTypes.webp)
 
@@ -18,19 +23,21 @@ Some hexes are intersected by mountains. Mountains in the center of a hex are na
 
 ![](../assets/warfare/Mountains.webp)
 
+
+
 ### Giving Orders
 
 There are three orders you can give: **Move/Attack**, **Assist**, or **Ferry**. An army not given an order will hold position.
 
 ## Move/Attack
-The commander may order each unit they control to move to or attack an adjacent hex. Naturally, armies cannot move into sea hexes, and fleets cannot move into landlocked hexes. 
+The commander may order each unit they control to move to or attack an adjacent hex. 
 
 #### Giving Orders
-All Move orders must be written in chat and those decisions are not locked in until `12 PM at ¿timezone?` each saturday. The DM handling the orders locks in what the NPC armies and fleets will do before the players submit any orders (usually NPCs will just Hold & Assist) This is so that the DM can't change what the NPCs do based on the plans for the player armies. But also the DM doesn't reveal what the NPCs are doing to the players until the players have locked in their orders, so the players can't adjust their orders based on what the NPCs will be doing.
+All Move orders must be written in chat and those decisions are not locked in until `12 PM EST` each saturday. The DM handling the orders locks in what the NPC armies and fleets will do before the players submit any orders (usually NPCs will just Hold & Assist). This is so that the DM can't change what the NPCs do based on the plans for the player armies. But also the DM doesn't reveal what the NPCs are doing to the players until the players have locked in their orders, so the players can't adjust their orders based on what the NPCs will be doing.
 
-There is an exception to this, spying and divination spells during sessions might reveal 1 NPC army's orders early. Allowing players to adapt their orders for that week.
+There is an exception to this: spying and divination spells during downtimes might reveal 1 NPC army's orders early, allowing players to adapt their orders for that week.
 
-Once all orders are in the discord all movement of armies happens at the same time and all movement of fleets happens at the same time. If an army tries to move into a hex occupied by another army, or if 2 armies try to both move into the same hex, their move order becomes an attack order instead. 
+Once all orders are in the discord, all movement of armies and fleets happens at the same time. If an army tries to move into a hex occupied by another army, or if 2 armies try to both move into the same hex, their move order becomes an attack order instead. 
 
 If an army moves into a hex while another army is moving out of it, they don't block each other. If this would cause 2 armies to switch places, player armies can pass through each other peacefully. NPC armies will usually perceive any army marching directly at them as a threat, even if that army just wants to switch places.
 
@@ -61,13 +68,13 @@ All fleets are equally matched, so a 1v1 is always a stalemate. The only way to 
 Only when both an army and a fleet occupy the same coastal square, can fleets attack or assist armies or armies attack or assist fleets.
 
 ## Ferry
-Normally armies cannot move into sea hexes. However a fleet in a sea hex adjacent to a coastal hex  can be ordered to ferry. A ferry order designates a target army that is allowed to move op top of the fleet using a Move/Attack order. The commander of the fleet then chooses 1 hex adjacent to the fleet to deposit the army into, provided that hex is a valid place for the army to be.
+Normally armies cannot move into sea hexes. However a fleet in a sea hex adjacent to a coastal hex can be ordered to ferry. A ferry order designates a target army that is allowed to move op top of the fleet using a Move/Attack order. The commander of the fleet then chooses 1 hex adjacent to the fleet to deposit the army into, provided that hex is a valid place for the army to be.
 
-A valid place to deposit a ferried fleet can be a coastal hex, or another fleet that is also using the ferry action.
+A valid place to deposit a ferried fleet can be a coastal hex or another fleet that is also using the ferry action. Landlocked tiles can not be ferried onto.
 
 ![](../assets/warfare/FleetsGoFast.webp)
 
-In this way, fleets can be used to move armies across the sea, or to leapfrog armies along a coastline by skipping 1 or more hexes. Allowing armies to be moved surprisingly fast. And this can be often done without the fleets needing to enter the coastal squares where they'd be susceptible to attack by an army.
+In this way, fleets can be used to move armies across the sea, or to leapfrog armies along a coastline by skipping 1 or more hexes. This could allow armies to be moved surprisingly fast. Additionally, this can be done without the fleets needing to enter the coastal squares where they'd be susceptible to attack by an army.
 
 ## Sabotage by Players
 When armies or fleets battle and especially when they stalemate, players have the rest of the week before the new orders are executed, to interfere with that stalemate. Successfully completing a quest  by engaging in a notable act of sabotage to weaken the army or fleet will count as an Assist for any unit attacking the sabotaged unit. Thereby changing the outcome of the battle and destroying a unit. 
@@ -75,10 +82,10 @@ When armies or fleets battle and especially when they stalemate, players have th
 ## Raiding
 When an army or fleet is in a hex that contains an outpost or village, that army can be ordered to attack the settlement.
 
-Attacking an unguarded settlement means raiding it. A raid rolls a 1d6 and gains that many downtimes that it will spend on deconstructing buildings. The attacking army can choose which buildings it targets. This causes valuables, goods, equipment and people to be acquired by the raiding army equal to the gold cost of deconstructing those buildings. That army will carry that with them until they deposit them somewhere; players could reclaim that loot from that army.
+Attacking an unguarded settlement means raiding it. A raid rolls a 1d6 and gains that many downtimes that it will spend on deconstructing buildings. The attacking army can choose which buildings it targets. This causes valuables, goods, equipment, and people to be acquired by the raiding army equal to the gold cost of deconstructing those buildings. That army will carry that with them until they deposit them somewhere; players could reclaim that loot from that army.
 
 ## Besieging
-A town, city, or kingdom requires the "Palisades or Guard post" building. While a settlement has that building it cannot be raided and is a guarded settlement. Such settlements are marked with a black border on their hex. A guarded settlement counts as having 1 army, but that army doesn't occupy a hex and can't leave the settlement. 
+A town, city, or kingdom requires the "Palisades or Guard post" building. While a settlement has that building it cannot be raided and is a guarded settlement. Such settlements are marked with a black border on their hex. A guarded settlement counts as having 1 army, but that army doesn't occupy a hex and can't leave the settlement. Additionally, if the settlement has any guards feats, the "size" of the army increases to 2.
 
 When ordered to attack a guarded settlement, armies must instead besiege the settlement. An attacking army will need support to not stalemate vs. the "army" of a guarded settlement. The "army" of a guarded settlement is able to support armies defending against attack while that army is in settlement's hex, but can't otherwise receive orders.
 
@@ -99,7 +106,7 @@ For example:
 If a unit is defeated it will need to be reinforced at the settlement that has the feat it came from. A unit who's home settlement was destroyed or captured can continue to receive orders from the settlement owner, but if the unit is defeated it will be dead forever.
 
 #### Reinforcing
-Reinforcing an army by default costs 10,000gp and 4 downtimes, to train, recruit, and resupply. However some armies (usually undead) might have a "no survivors" advantage, that doubles the downtime cost of reinforcing units destroyed by it.
+Reinforcing an army by default costs 10,000gp, 4 downtimes, and at least one IRL week to train, recruit, and resupply. However some armies (usually undead) might have a "no survivors" advantage, that doubles the downtime cost of reinforcing units destroyed by it.
 
 #### Improving Units
 You might choose to give your unit an extra 50% or extra 100% extra gold and downtime costs to reinforce as the disadvantage of the settlement feat, in order to apply an advantage to the mechanics of the feat's unit.
