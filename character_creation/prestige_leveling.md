@@ -28,6 +28,7 @@ Other prestige options seek power that comes from outside sources, such as becom
 - [Prema Polymorph](#Ascendant)
 - [Shadow Broker](#Ascendant)
 - [Elemental Leech](#Ascendant)
+- [Unnamed Trickster](#Unnamed)
 
 ## Legendary Hero
 *Many adventurers seek to become renowned in bardic tales. An over enthusiastic few will hire hype man as soon as they start their first adventure. But a true legend is forged by deeds that are considered impossible. A hero of legend, isn't merely heroic, they are capable beyond belief. A true legend is a warrior, mage or trickster so skilled they can impress the gods, and is feared by man and demon alike.*
@@ -469,8 +470,8 @@ Any level 20 Ashford character that can benefit from double their proficiency bo
 @TODO should this class perhaps cost a rare item component to gain a level?
 
 ##### Hit Points
-- **Hit Dice:** 1d12	
-- **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per prestige level
+- **Hit Dice:** 1d10	
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
 - **Saving Throws:** none
@@ -505,7 +506,7 @@ Alternatively, you can take a feat.
 At 24th level, *you have replaced enough of your organs to no longer have any that are considered 'vital'.* Any critical hit against you becomes a normal hit. You still can, but don't need to eat, drink, or breathe.
 
 ### You V.2
-At 25th level, *building on everything you've learned from overhauling your body the first time, there is still so much room for further improvements!* You upgrade each magic item within your body to a more efficient version. 
+At 25th level, *building on everything you've learned from overhauling your body the first time, there is still so much room for further improvements!* You upgrade each magic item within your body to a more efficient version. Gaining multiple benefits:
 
 - You gain the Tough feat
 - You can attune to 2 additional items
@@ -574,7 +575,48 @@ ____
 
 ____
 
-## Planned: Power of Destruction and Entropy (insane evocation mage) themed Prestige option
+## Unnamed
+*"Everything is always decaying. On a cosmic scale nothing is permanent. It is the natural state of the universe for all matter to trend towards maximum entropy." All of those are just a fancy ways of saying that things are supposed break, crumble and fall apart. Destruction is the end goal of existence. Magic is one of many ways reality has to damage itself. You (or anyone with magical talent) exist because all physical matter is supposed to be tearing itself apart. Magic wants to destroy. Magic should be used the way it wants to be used, following the path towards disintegration, magic will reward you. Blaze brightly with the unimaginable power of maximum entropy.*
+
+<div class='classTable'>
+
+| Level    | XP Cost   | PB | Features |
+|:--------:|----------:|---:|:---------|
+| Prestige | 450,000   | +7 | Illusion of a Boon |
+| 22       | 600,000   | +7 | Life's Illusion |
+| 23       | 805,000   | +7 | Ability Score improvement	|
+| 24       | 1,100,000 | +7 | Figment Step |
+| 25       | 1,500,000 | +8 | Never Really There |
+</div>
+		
+### Prestige Class Prerequisites:					
+Any level 20 Ashford character that is affected by at least 1 long-term or indefinite madness effect and can cast one or more of the following spells: Disintegrate, Sunbeam, Sickening Radiance, Dark Star or Ravenous Void.
+
+levels in this prestige class, each count as madnesses. So if you ever recover from the prerequisite madness, after gaining a level in this prestige class you automatically meet the prerequisite to gain more.
+
+##### Hit Points
+- **Hit Dice:** 1d4
+- **Hit Points at Higher Levels:** 1d4 (or 3) + your Constitution modifier per prestige level
+
+##### Bonus Proficiencies
+- **Saving Throws:** none.
+- **Skills:** none
+
+### Fade Away
+At 21st level, 
+
+### It's Better to Burn Out
+At 22nd level, 
+
+### Ability Score improvement					
+At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
+Alternatively, you can take a feat.	
+
+### Figment Step
+At 24th level, 
+
+### Never Really There
+At 25th level, 
 
 ____
 
@@ -583,3 +625,64 @@ ____
 ____
 
 ## Planned: Shadow Broker (Prestige option themed for having pacts with 10+ patrons, enabled by buying/selling souls in the infamous Shadowfell market)
+
+____
+
+## Unnamed
+*You've got all these idiots, wasting so much on silly rituals to give themselves godlike powers, none of which could possibly work. Instead of all that effort trying to lift yourself up, just lower the bar. Come up with something you can do, but that a god can't do, and BOOM! More powerful than a god; easy right?*
+
+| Level    | XP Cost   | PB | Features |
+|:--------:|----------:|---:|:---------|
+| Prestige | 450,000   | +7 | Legendary Prankster |
+| 22       | 600,000   | +7 | Never Punished |
+| 23       | 805,000   | +7 | Ability Score improvement	|
+| 24       | 1,100,000 | +7 | Stolen blessing |
+| 25       | 1,500,000 | +8 | ??? |
+
+		
+### Prestige Class Prerequisites:					
+Any level 20 Ashford character @TODO.
+
+##### Hit Points
+- **Hit Dice:** 1d6	
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
+
+##### Bonus Proficiencies
+- **Saving Throws:** none
+- **Skills:** Choose 1 from Deception, Stealth, Sleight of Hand or Performance.
+
+### Legendary Prankster
+At 21st level, *if you simply don't take your enemies seriously, then they aren't a serious threat. You are uniquely suited to make light of even the most dire life or death situations.* You have a list of bonus spells that are added to the spell lists for any spell casting class you might have. 
+
+Up to 3 times per long rest, you can use an action to make a Charisma(performance) check and cast 1 of these spells as part of the performance, using the result of your check as the spell DC. When casting as part of a prank, you ignore the spell's normal cast time, the spell does not require concentration, and requires no components except material.
+
+| Spell Level | Bonus Spells | 
+|:-----------------|:-----------------|
+| 1st | Grease, Tasha's Hideous Laughter | 
+| 2nd | Nathair's Mischief, Pyrotechnics |
+| 3rd | Glyph of Warding, Stinking Cloud |
+| 4th | Compulsion, Otiluke's Resilient Sphere |
+| 5th | Dream, Seeming |
+
+### Never Punished
+At 22nd level, *it doesn't seem like you'll learn your lesson any time soon. Avoiding death through what appears to be pure luck.* While you are contious, you have the following benefits.
+
+- You have resistance damage inflicted due to your own movement or actions such as entering a Wall of Fire, moving through Spike Growth, drinking poison or casting Fireball at your own feet. (this will not reduce damage from standing in effects that deal damage for starting or ending your turn in them)
+
+- You have resistance to damage that doesn't originate from a creature, such as falling damage, mechanical traps, or being submerged in acid.
+
+- When you fail a saving throw by 5 or more, you instead fail the save by exactly 4.
+
+### Ability Score improvement					
+At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
+Alternatively, you can take a feat.	
+
+### Stolen blessing
+At 24nd level, you steal a [blessing](blessings.md). How? Well that is a very funny story actually...
+
+Choose a specific deity or archdemon who's divine realm, or layer of the Abyss, you can never, ever return to. If you would somehow end up there, you and anyone traveling alongside you using the same portal or spell, is instead returned from whatever plane you left from and subjected to the Teleport spell, targeting a False destination.
+				
+### That Joke Slays
+At 25th level, @TODO
+
+___

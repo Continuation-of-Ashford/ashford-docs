@@ -25,12 +25,11 @@ Altered
 When another creature that you can see within 60 feet of you makes an ability check, an attack roll, or a saving throw, you can roll 2d10 and apply the result as a bonus or penalty to the roll. Once you use this boon, you can't use it again until you finish a short rest.
 
 <div class='artist' style='position:absolute;line-height:0;right:30px;'>
-DMG
-p232
+Altered
 </div>
 
 ## Boon of Fortitude
-Your hit point maximum increases by 40.
+Your hit point maximum increases by an amount equal to twice your level when you gain this boon. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
 
 <div class='artist' style='position:absolute;line-height:0;right:30px;'>
 Altered
