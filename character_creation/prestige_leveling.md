@@ -602,21 +602,26 @@ levels in this prestige class, each count as madnesses. So if you ever recover f
 - **Saving Throws:** none.
 - **Skills:** none
 
-### Fade Away
-At 21st level, 
+### Micro Fissures
+At 21st level, you can see minute details out to a distance of 20ft. You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within that range.
+
+As a bonus action you can choose a creature within 20ft and observe it while you remain within 20ft, or until you begin observing a different creature. 
+When a creature you are observing succeeds on a save versus your spell DC that creature has vulnerability to the damage you deal using your next Action, Bonus Action or Reaction.
 
 ### It's Better to Burn Out
-At 22nd level, 
+At 22nd level, when you deal damage to a creature you are observing with a leveled spell and don't currently have a reduction to your maximum HP, you can choose to deal a number of additional d6 up to 10d6, of that spell's damage type, to that creature. Your maximum hit points are reduced by the total you roll on on these extra dice. This reduction lasts until you finish a long rest. 
+
+If this reduction causes your maximum hitpoints fall to zero you and everything you are wearing and carrying, except magic items, are reduced to a pile of fine gray dust. If this happens you can be restored to life only by means of a true resurrection or a wish spell.
 
 ### Ability Score improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
-### Figment Step
-At 24th level, 
+### Boon					
+At 24th level, you may take one [boon](boons.md).
 
-### Never Really There
-At 25th level, 
+### Split the Atom
+At 25th level, @TODO goes boom
 
 ____
 
@@ -654,7 +659,7 @@ Any level 20 Ashford character @TODO.
 ### Legendary Prankster
 At 21st level, *if you simply don't take your enemies seriously, then they aren't a serious threat. You are uniquely suited to make light of even the most dire life or death situations.* You have a list of bonus spells that are added to the spell lists for any spell casting class you might have. 
 
-Up to 3 times per long rest, you can use an action to make a Charisma(performance) check and cast 1 of these spells as part of the performance, using the result of your check as the spell DC. When casting as part of a prank, you ignore the spell's normal cast time, the spell does not require concentration, and requires no components except material.
+Up to 5 times per day, you can use an action to make a Charisma(performance) or Dexterity(sleight of hand) check and cast 1 of these spells as part of the trick, using the result of your check as the spell DC. When casting as part of a prank, you ignore the spell's normal cast time, the spell does not require concentration, and requires no components except material.
 
 | Spell Level | Bonus Spells | 
 |:-----------------|:-----------------|
@@ -665,11 +670,11 @@ Up to 3 times per long rest, you can use an action to make a Charisma(performanc
 | 5th | Dream, Seeming |
 
 ### Never Punished
-At 22nd level, *it doesn't seem like you'll learn your lesson any time soon. Avoiding death through what appears to be pure luck.* While you are contious, you have the following benefits.
+At 22nd level, *it doesn't seem like you'll learn your lesson any time soon. Avoiding death through what appears to be pure luck.* While you are conscious, you have the following benefits.
 
 - You have resistance damage inflicted due to your own movement or actions such as entering a Wall of Fire, moving through Spike Growth, drinking poison or casting Fireball at your own feet. (this will not reduce damage from standing in effects that deal damage for starting or ending your turn in them)
 
-- You have resistance to damage that doesn't originate from a creature, such as falling damage, mechanical traps, or being submerged in acid.
+- You have resistance to damage that doesn't originate from a creature, such as falling damage, mechanical traps, or swimming in a pool of acid.
 
 - When you fail a saving throw by 5 or more, you instead fail the save by exactly 4.
 
@@ -678,11 +683,11 @@ At 23rd level, you can increase one ability score of your choice by 2, or you ca
 Alternatively, you can take a feat.	
 
 ### Stolen blessing
-At 24nd level, you steal a [blessing](blessings.md). How? Well that is a very funny story actually...
+At 24nd level, you steal a [blessing](blessings.md) and grant it to yourself. How? Well that is a very funny story actually...
 
 Choose a specific deity or archdemon who's divine realm, or layer of the Abyss, you can never, ever return to. If you would somehow end up there, you and anyone traveling alongside you using the same portal or spell, is instead returned from whatever plane you left from and subjected to the Teleport spell, targeting a False destination.
 				
-### That Joke Slays
+### The Last Laugh
 At 25th level, @TODO
 
 ___
