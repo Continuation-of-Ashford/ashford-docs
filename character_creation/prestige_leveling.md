@@ -127,7 +127,7 @@ If you are in control of a body, you can expend 1 soul from your phylactery to r
 If you don't have a body for over 10 days, but the only soul remaining in your phylactery is your own, you must expend your own soul to create a Demilich. This newly created undead has your memories, but is not under your control. Your character is gone and only destroying the phylactery and then using Divine Intervention to bring back the soul can restore them. 
 
 ### Undead Resilience					
-At 22nd level, your undead form is refined, removing the weaknesses mortals have. You do not need to breathe, you do not require food, drink, or sleep. You become immune to poison damage and the poisoned condition, and you are resistant to necrotic damage.
+At 22nd level, your undead form is refined, removing the weaknesses mortals have. You do not need to breathe, you do not require food, drink, or sleep. You become resistant to necrotic damage, immune to poison damage and the charmed, frightened, and poisoned conditions.
 
 ### Unholy Ability Score improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -165,7 +165,7 @@ Any level 20 Ashford character that willingly binds themselves into the service 
 
 ##### Bonus Proficiencies
 - **Saving Throws:** none
-- **Skills:** Choose 1 from Insight or Perception.
+- **Skills:** Choose 1 from Insight or Perception. (If you are already proficient in both, you instead gain a skill of your choice)
 
 ### Divine Blessing					
 At 21st level, you choose a benevolent god that grants you a sliver of their divinity. Choose a [blessing](blessings.md) that your patron grants you. 
@@ -214,7 +214,7 @@ There is no Alignment prerequisite for this Prestige Class, but power corrupts, 
 
 ##### Bonus Proficiencies
 - **Saving Throws:** none
-- **Skills:** Choose 1 from Deception or Intimidation.
+- **Skills:** Choose 1 from Deception or Intimidation. (If you are already proficient in both, you instead gain a skill of your choice)
 
 ### 1st Corrupted Boon
 At 21st level, you may take one [boon](boons.md).
@@ -415,7 +415,7 @@ ____
 </div>
 		
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character that can cast spells from the Illusion school at 4th level or higher and is affected by at least 1 long-term or indefinite madness effect.
+Any level 20 Ashford character that can cast spells from the Illusion school at 4th level or higher and is affected by at least 1 indefinite madness effect.
 
 levels in this prestige class, each count as madnesses. So if you ever recover from the prerequisite madness, after gaining a level in this prestige class you automatically meet the prerequisite to gain more.
 
@@ -590,7 +590,7 @@ ____
 </div>
 		
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character that is affected by at least 1 long-term or indefinite madness effect and can cast one or more of the following spells: Disintegrate, Sunbeam, Sickening Radiance, Dark Star or Ravenous Void.
+Any level 20 Ashford character that is affected by at least 1 indefinite madness effect and can cast one or more of the following spells: Disintegrate, Sunbeam, Sickening Radiance, Dark Star or Ravenous Void.
 
 levels in this prestige class, each count as madnesses. So if you ever recover from the prerequisite madness, after gaining a level in this prestige class you automatically meet the prerequisite to gain more.
 
@@ -602,16 +602,13 @@ levels in this prestige class, each count as madnesses. So if you ever recover f
 - **Saving Throws:** none.
 - **Skills:** none
 
-### Micro Fissures
-At 21st level, you can see minute details out to a distance of 20ft. You have advantage on Intelligence (Investigation) checks that rely on sight while searching an area or studying an object within that range.
+### Excessive Force
+At 21st level, *you can repurpose the energy of an unsuccessful spell to create an unavoidable magical explosion.* When you cast a leveled spell that deals half damage to targets that successfully save, you can choose to have that spell deal no damage to targets that successfully save.
 
-As a bonus action you can choose a creature within 20ft and observe it while you remain within 20ft, or until you begin observing a different creature. 
-When a creature you are observing succeeds on a save versus your spell DC that creature has vulnerability to the damage you deal using your next Action, Bonus Action or Reaction.
+Should every target of the spell successfully save, you can then use your reaction to expend a spell slot. Targets that saved that turn take 2d6 force damage for each level of the spell slot you expended. 
 
 ### It's Better to Burn Out
-At 22nd level, when you deal damage to a creature you are observing with a leveled spell and don't currently have a reduction to your maximum HP, you can choose to deal a number of additional d6 up to 10d6, of that spell's damage type, to that creature. Your maximum hit points are reduced by the total you roll on on these extra dice. This reduction lasts until you finish a long rest. 
-
-If this reduction causes your maximum hitpoints fall to zero you and everything you are wearing and carrying, except magic items, are reduced to a pile of fine gray dust. If this happens you can be restored to life only by means of a true resurrection or a wish spell.
+At 22nd level, 
 
 ### Ability Score improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -621,7 +618,9 @@ Alternatively, you can take a feat.
 At 24th level, you may take one [boon](boons.md).
 
 ### Split the Atom
-At 25th level, @TODO goes boom
+At 25th level, after you deal force damage to a creature using the Excessive Force feature, and that creature does not have vulnerability to Force damage, that creature becomes Vulnerable to the next instance of Force Damage it takes.
+
+When you deal damage with Excessive Force to a creature already has Vulnerability to force damage. The force damage it takes spreads to creatures within 15ft.
 
 ____
 
