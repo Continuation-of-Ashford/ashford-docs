@@ -20,7 +20,7 @@ Other prestige options seek power that comes from outside sources, such as becom
 - [Primal Predator](#Primal-Predator)
 - [Fey Leige](#Fey-Leige)
 - [Parable](#Parable)
-- [Magi-Tech](#Parable)
+- [Heart of Steel](#Heart-of-Steel)
 - [Potions](#Parable)
 - [Ascendant](#Ascendant)
 - [Mutant](#Ascendant)
@@ -28,7 +28,7 @@ Other prestige options seek power that comes from outside sources, such as becom
 - [Prema Polymorph](#Ascendant)
 - [Shadow Broker](#Ascendant)
 - [Elemental Leech](#Ascendant)
-- [Unnamed Trickster](#Unnamed)
+- [Joker](#Joker)
 
 ## Legendary Hero
 *Many adventurers seek to become renowned in bardic tales. An over enthusiastic few will hire hype man as soon as they start their first adventure. But a true legend is forged by deeds that are considered impossible. A hero of legend, isn't merely heroic, they are capable beyond belief. A true legend is a warrior, mage or trickster so skilled they can impress the gods, and is feared by man and demon alike.*
@@ -313,16 +313,16 @@ At 21st level, your type changes to shapechanger. As an Action you can transform
 
 Your hybrid and bestial form, as well as any wild shape form you might take, now have multiple additional natural weapons:
 
-- 2 Claws, 1d8 Slashing Damage, Light property
-- Bite, 1d12 Piercing, advantage on grappled targets
-- Horns, 2d6 Piercing, Heavy Property
-- Tail Stinger, 1d4 Piercing + 1d4 Acid, Finesse and Reach properties
+- 2 Claws, 2d8 Slashing Damage, Light property
+- Bite, 2d12 Piercing, advantage on grappled targets
+- Horns, 4d6 Piercing, Heavy Property
+- Tail Stinger, 2d4 Piercing + 2d4 Acid, Finesse and Reach properties
 
 While you are transformed, any natural weapons you have are considered magical. When you use your action to transform or wildshape *you can strengthen aspects of your new form as needed*. Choose between (A) +2 AC, or (B) +2 to attack and damage with natural weapons, or (C) +1 AC and +1 to attack and damage with natural weapons.
 
-Any equipment you are wearing or carrying isn't transformed, your hybrid from can use your equipment. But your bestial form does not have hands and is unable to benefit from any armor, helmets, boots or gloves fitted for humanoids and may need to drop those on the ground.     
-However your bestial form increases all of your speeds by 20.
+While in your hybrid from can use all of your equipment.
 
+While in your bestial form all of your speeds are increased by 20ft. But your bestial form does not have hands and is unable to benefit from any armor, helmets, boots or gloves fitted for humanoids and may need to drop those on the ground.
 
 ### Sovereign's Charge
 At 22nd level, when you use your Action to transform, you can also make 1 natural weapon attack as part of that Action. 
@@ -335,9 +335,9 @@ Alternatively, you can take a feat.
 
 ### Bestial Boon
 At 24th level, you may take one [boon](boons.md).	
-### Sovereign's Inheritance
-At 25th level, when you reduce a creature to 0hp, with an attack using a natural weapon; if that creature had 12 or more hit dice, you regain 20 hitpoints.
 
+### Sovereign's Inheritance
+At 25th level, when you reduce a creature to 0hp, with an attack using a natural weapon; You regain hitpoints equal to 3 times the CR of that creature.
 
 ____
 
@@ -356,7 +356,7 @@ ____
 </div>
 		
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character that is the controller of a settlement in the feywild.
+Any level 20 Ashford character that has an ally in one of the courts of the fey.
 
 ##### Hit Points
 - **Hit Dice:** 1d6	
@@ -367,18 +367,10 @@ Any level 20 Ashford character that is the controller of a settlement in the fey
 - **Skills:** Choose 1 from Deception or Persuasion.
 
 ### Fey Blessing					
-At 21st level, you draw power from the blood of Correlon that is in the soil of the Feywild. Choose a [blessing](blessings.md) that your domain in the Feywild grants you. 
-
-This blessing is granted to the controller of your settlement in the feywild. If you ever lose ownership of that settlement, whichever blessing you chose transfers to the new owner.
+At 21st level, you draw power from the blood of Correlon that is in the soil of the Feywild. Choose a [blessing](blessings.md) that your domain in the Feywild grants you.
 
 ### Shields of the Eladrin Host
-At 22nd level, *at your command, eladrin knights in golden armor teleport in from all sides, protecting you and your allies from danger*. As a reaction when you or an ally you can see within 30 feet of you is the target of an attack or makes a saving throw. All creatures targeted by that action can teleport up to 10 feet to space of their choice. 
-
-Any creature teleported this way is replaced by an eladrin knight. Such eladrin knights have 50 hit points and will take the damage for the creature that was teleported. 
-
-Any knights that survive, will immediately make 1 attack on the creature that damaged them. All of eladrin then disappear back to the feywild. 
-
-The knights have pikes and longbows to make their attack. You roll 1d20+9 for each of their attacks and deal 1d10+5 magical piercing damage to the target for each one that hits.
+At 22nd level, *at your command, eladrin knights in golden armor teleport in from all sides, moving you and your allies from danger*. As a reaction when you or an ally you can see within 30 feet of you is the target of an attack or makes a saving throw. All creatures targeted by that action can teleport up to 30 feet to nearest space that is safe from the triggering action. 
 
 You can use the ability once, and regain use of it at the end of a short or long rest.
 
@@ -387,18 +379,17 @@ At 23rd level, you can increase one ability score of your choice by 2, or you ca
 Alternatively, you can take a feat.	
 
 ### Eternal King on an Eternal Throne
-At 24th level, Once per session, when you die, *an older, more regal version of yourself steps from the mists of time to take your place. This version of you from a possible future,* is a separate creature that appears within 5ft of you. It possesses all your statistics, features and copies of your magic items.
+At 24th level, Once per session, when you die, *an older, more regal version of yourself steps from the mists of time to take your place. This version of you from a possible future,* is a separate creature that appears within 5ft of you. It possesses all your statistics, features and copies of your magic items. Your future self just happens to have expended the same short and longrest resources as you do, for this day.
 If any of your magic items are removed from your corpse, the future version of that item will fade away.
 
 Your future self can cast Revivify once, requiring no spellslots or components. If your younger self is revived, your future self fades away. If for any reason you cannot be revived, you can continue to play as your future self, or retire them.
 
 ### Dominion over the Mind
-At 25th level, when a creature you can see fails an Intelligence, Wisdom or Charisma saving throw *you can weave fey magic into their misery.* Choose 1  effect to tack onto whatever save they failed:
-1. You break the creature's concentration.
-1. The creature is charmed by another creature of your choice until the end of it's next turn.
-1. The creature is frightened of another creature of your choice until the end of it's next turn.
+At 25th level, when a creature you can see fails an Intelligence, Wisdom or Charisma saving throw you can use your reaction to *weave fey magic into their misery.* Choose 1 of following effects:
+1. The creature that failed a save is blinded until the end or their next turn.
+1. The creature succeeds on the save instead, and the attacker that prompted the save becomes targeted by their own effect.
 
-You choose each option only once, and must take a short or long rest before you can re-use an option you've used since your last rest.
+You can use each option only once, and must take a long rest before you can re-use an option you've used since your last rest.
 ____
 
 ## Parable
@@ -415,20 +406,18 @@ ____
 </div>
 		
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character that can cast spells from the Illusion school at 4th level or higher and is affected by at least 1 indefinite madness effect.
-
-levels in this prestige class, each count as madnesses. So if you ever recover from the prerequisite madness, after gaining a level in this prestige class you automatically meet the prerequisite to gain more.
+Any level 20 Ashford character that can cast spells from the Illusion school at 4th level or higher.
 
 ##### Hit Points
-- **Hit Dice:** 1d4
-- **Hit Points at Higher Levels:** 1d4 (or 3) + your Constitution modifier per prestige level
+- **Hit Dice:** 1d6
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
 - **Saving Throws:** Choose 1 from Charisma, Intelligence or Wisdom.
 - **Skills:** none
 
 ### Illusion of a Boon					
-At 21st level, you may take one [boon](boons.md). You're actually just faking having that boon, but nobody can tell the difference.
+At 21st level, creatures with truesight cannot see through your illusions.
 
 ### Life's Illusion
 At 22nd level, Once per session, when you die, you can choose for it to be a magical trick. *in fact, you only seemed to die. Your enemy killed a perfect illusion of you, while you stood at a safe distance.* Choose a space you can see that is exactly 50ft from where you died, the real you is in that space and you have full hit points. The illusion of the dead you then disappears.
@@ -450,7 +439,7 @@ At 25th level, when you are subjected to an effect that allows you to make a sav
 
 ____
 
-## @TODO Unnamed
+## Heart of Steel
 *Be it in the form of brass piping and copper gears, limbs grown from ironwood and living stone, or elemental shapes of pure energy, you have transformed the body nature had furnished you with. As a creator of peerless ability, you have taken steps to upgrade the body that was holding you back. Reshaping yourself will be your most complicated crafting project yet.*
 
 <div class='classTable'>
@@ -464,10 +453,8 @@ ____
 | 25       | 1,500,000 | +8 | You V.2 |
 </div>
 		
-### Prestige Class Prerequisites:					
+### Prestige Class Prerequisites:
 Any level 20 Ashford character that can benefit from double their proficiency bonus to any type of Artisan's tools checks and/or Arcana skill checks when making Ability Checks during downtimes.
-
-@TODO should this class perhaps cost a rare item component to gain a level?
 
 ##### Hit Points
 - **Hit Dice:** 1d10	
@@ -509,7 +496,7 @@ At 24th level, *you have replaced enough of your organs to no longer have any th
 At 25th level, *building on everything you've learned from overhauling your body the first time, there is still so much room for further improvements!* You upgrade each magic item within your body to a more efficient version. Gaining multiple benefits:
 
 - You gain the Tough feat
-- You can attune to 2 additional items
+- You can attune to 1 additional item
 - For each unused attunement slot you gain a +1 bonus to AC and Saving throws
 
 
@@ -519,7 +506,7 @@ ____
 
 ____
 
-## Ascendant
+## Transcendant
 *You have mastered your place in the universe. Expanded your being to commune with the essence of reality, which revealed to you how you could attain your ultimate self. Through calm, meditation and rejecting the material and transient, you have attained the peak of what is spiritual and eternal.*
 <div class='classTable'>
 
@@ -549,11 +536,13 @@ At 21st level, *you understand enough about yourself and about the universe that
 During a long rest, you and one other creature can meditate on this blessing. If you do, you lose the effects of the blessing and bestow them upon the other creature instead. You can end the transfer as an action, it also ends when you take a long rest.
 
 ### Transcend Materialism
-At 22nd level, when you attune to a magic item that isn't Legendary or an Artifact, doesn't have charges and isn't already spiritual essence, you can choose to transform that item into it's spiritual essence. 
+At 22nd level, when you attune to a magic item that isn't Legendary or an Artifact, doesn't have charges and isn't already spiritual essence, you can choose to transform that item into it's spiritual essence. Turning an item into essence renders the original item non-magical.
 
-Turning an item into essence renders the original item non-magical, and allows you to summon a weightless semi-transparent copy that retains the magical properties to your hand by using an object-interaction. You can dismiss such copies without using any type of action, and if you create a 2nd copy of an item the previous one is automatically dismissed.
+As an action you can to summon a weightless semi-transparent copy that retains the magical properties. You can dismiss such copies without using any type of action, and if you create a 2nd copy of an item the previous one is automatically dismissed.
 
-- Attunment to a item of Spiritial Essense, does not end when the attuned creature dies.
+- When you summon an item of Spiritial Essense that requires attunement, you can attune to it and equip it as part of the action used to summon it.
+- When you dismiss an item of Spiritial Essense that requires attunement, you can unattune from it as part of dismissing it.
+- Attunment to an item of Spiritial Essense, does not end when the attuned creature dies.
 - Even when you lose attunement to such a copy (like when another creature attunes to it) you are still able to dismiss the copy and create a new one.
 - If the original item was cursed to make you unwilling to part with it, you are also unwilling to dismiss it's copy.
 
@@ -564,10 +553,13 @@ Alternatively, you can take a feat.
 ### Spiritual Ascension
 At 24th level, whenever you make a Death Saving Throw, you can treat a d20 roll of 9 or lower as a 10.
 
-While you are at 0hp or dead, you control an ethereal projection of that appears above your body. This projection can perceive it's surroundings and speak as though you where conscious, allowing it to attempt certain Ability checks, but it cannot interact with it's surroundings in any physical way.
+While you are at 0hp or dead, you control an ethereal projection of that appears above your body. This projection can perceive it's surroundings and speak as though you where conscious, allowing it to attempt certain Ability checks, but it cannot interact with it's surroundings in any physical way. The projection created by Spiritual Ascension can now summon and use your, Items of Spiritual Essence and make unarmed attacks as if you were conscious.
 
-### Ascended Mastery
-At 25th level, the projection created by Spiritual Ascension can now summon and use your Items of Spiritual Essence and make unarmed attacks as if you were conscious.
+### Spiritual Displacement
+At 25th level, as an action you can make an special unarmed strike against a creature, if this hits the target must make a Charisma Saving throw vs 8 + your proficiency bonus + your charisma modifier, on a failed save the target is pushed 50ft away from you and thrown into the border Ethereal, but it leaves behind an incapacitated and prone copy of its form. 
+Attacks and spells that hit the body, also hit the creature in the Ethereal plane, items cannot be taken off the body.
+
+While within the border Ethereal the target can see into the plane it was thrown out of, it can only move its speed, use the Dash Action, and if it is in the space the body is in, reenter the body as an Action. When it reenters the body, all of these effects end.  
 
 ____
 
@@ -590,13 +582,11 @@ ____
 </div>
 		
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character that is affected by at least 1 indefinite madness effect and can cast one or more of the following spells: Disintegrate, Sunbeam, Sickening Radiance, Dark Star or Ravenous Void.
-
-levels in this prestige class, each count as madnesses. So if you ever recover from the prerequisite madness, after gaining a level in this prestige class you automatically meet the prerequisite to gain more.
+Any level 20 Ashford character that can cast one or more of the following spells: Disintegrate, Sunbeam, Sickening Radiance, Dark Star or Ravenous Void.
 
 ##### Hit Points
-- **Hit Dice:** 1d4
-- **Hit Points at Higher Levels:** 1d4 (or 3) + your Constitution modifier per prestige level
+- **Hit Dice:** 1d6
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
 - **Saving Throws:** none.
@@ -608,7 +598,7 @@ At 21st level, *you can repurpose the energy of an unsuccessful spell to create 
 Should every target of the spell successfully save, you can then use your reaction to expend a spell slot. Targets that saved that turn take 2d6 force damage for each level of the spell slot you expended. 
 
 ### It's Better to Burn Out
-At 22nd level, 
+At 22nd level, your body simply brimming with destructive magic is held together almost entirely by your force of will, sustaining yourself through magic alone. You no longer require food, drink or sleep, are immune to poison damage and the poisoned condition.
 
 ### Ability Score improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -632,7 +622,7 @@ ____
 
 ____
 
-## Unnamed
+## Joker
 *You've got all these idiots, wasting so much on silly rituals to give themselves godlike powers, none of which could possibly work. Instead of all that effort trying to lift yourself up, just lower the bar. Come up with something you can do, but that a god can't do, and BOOM! More powerful than a god; easy right?*
 
 | Level    | XP Cost   | PB | Features |
@@ -643,7 +633,6 @@ ____
 | 24       | 1,100,000 | +7 | Stolen blessing |
 | 25       | 1,500,000 | +8 | ??? |
 
-		
 ### Prestige Class Prerequisites:					
 Any level 20 Ashford character @TODO.
 
@@ -665,7 +654,7 @@ Up to 5 times per day, you can use an action to make a Charisma(performance) or 
 | 1st | Grease, Tasha's Hideous Laughter | 
 | 2nd | Nathair's Mischief, Pyrotechnics |
 | 3rd | Glyph of Warding, Stinking Cloud |
-| 4th | Compulsion, Otiluke's Resilient Sphere |
+| 4th | Compulsion, Watery Sphere |
 | 5th | Dream, Seeming |
 
 ### Never Punished
@@ -687,6 +676,6 @@ At 24nd level, you steal a [blessing](blessings.md) and grant it to yourself. Ho
 Choose a specific deity or archdemon who's divine realm, or layer of the Abyss, you can never, ever return to. If you would somehow end up there, you and anyone traveling alongside you using the same portal or spell, is instead returned from whatever plane you left from and subjected to the Teleport spell, targeting a False destination.
 				
 ### The Last Laugh
-At 25th level, @TODO
+At 25th level, as an action you make a Charisma(performance) or Dexterity(sleight of hand) check and reduce yourself to 0hp and fall unconscious. Creatures of your choice within 15ft must make a Dexterity saving throw with a DC equal to the result of your check, or take lighting, fire or thunder damage (your choice) equal to your maximum HP minus however much hp you had when you used this ability. Creatures that succeed on the save take half that much damage.
 
 ___
