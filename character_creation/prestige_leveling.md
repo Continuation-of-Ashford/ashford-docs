@@ -684,7 +684,8 @@ ___
 
 ## Far Prophet
 
-### Prestige Class Prerequisites: Travel through the Far Realms for one week.
+### Prestige Class Prerequisites: 
+Travel through the Far Realms for one week.
 
 ### Peer Beyond The Veil
 
