@@ -24,7 +24,6 @@ Other prestige options seek power that comes from outside sources, such as becom
 - [Potions](#Parable)
 - [Ascendant](#Ascendant)
 - [Mutant](#Ascendant)
-- [Disintegrator](#Ascendant)
 - [Prema Polymorph](#Ascendant)
 - [Shadow Broker](#Ascendant)
 - [Elemental Leech](#Elemental-Leech)
@@ -601,52 +600,6 @@ ____
 
 ____
 
-## Unnamed
-*"Everything is always decaying. On a cosmic scale nothing is permanent. It is the natural state of the universe for all matter to trend towards maximum entropy." All of those are just a fancy ways of saying that things are supposed break, crumble and fall apart. Destruction is the end goal of existence. Magic is one of many ways reality has to damage itself. You (or anyone with magical talent) exist because all physical matter is supposed to be tearing itself apart. Magic wants to destroy. Magic should be used the way it wants to be used, following the path towards disintegration, magic will reward you. Blaze brightly with the unimaginable power of maximum entropy.*
-
-<div class='classTable'>
-
-| Level    | XP Cost   | PB | Features |
-|:--------:|----------:|---:|:---------|
-| Prestige | 450,000   | +7 | Illusion of a Boon |
-| 22       | 600,000   | +7 | Life's Illusion |
-| 23       | 805,000   | +7 | Ability Score improvement	|
-| 24       | 1,100,000 | +7 | Figment Step |
-| 25       | 1,500,000 | +8 | Never Really There |
-</div>
-		
-### Prestige Class Prerequisites:					
-Any level 20 Ashford character that can cast one or more of the following spells: Disintegrate, Sunbeam, Sickening Radiance, Dark Star or Ravenous Void.
-
-##### Hit Points
-- **Hit Dice:** 1d6
-- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
-
-##### Bonus Proficiencies
-- **Saving Throws:** none.
-- **Skills:** none
-
-### Excessive Force
-At 21st level, *you can repurpose the energy of an unsuccessful spell to create an unavoidable magical explosion.* When you cast a leveled spell that deals half damage to targets that successfully save, you can choose to have that spell deal no damage to targets that successfully save.
-
-Should every target of the spell successfully save, you can then use your reaction to expend a spell slot. Targets that saved that turn take 2d6 force damage for each level of the spell slot you expended. 
-
-### It's Better to Burn Out
-At 22nd level, your body simply brimming with destructive magic is held together almost entirely by your force of will, sustaining yourself through magic alone. You no longer require food, drink or sleep, are immune to poison damage and the poisoned condition.
-
-### Ability Score improvement					
-At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
-Alternatively, you can take a feat.	
-
-### Boon					
-At 24th level, you may take one [boon](boons.md).
-
-### Split the Atom
-At 25th level, after you deal force damage to a creature using the Excessive Force feature, and that creature does not have vulnerability to Force damage, that creature becomes Vulnerable to the next instance of Force Damage it takes.
-
-When you deal damage with Excessive Force to a creature already has Vulnerability to force damage. The force damage it takes spreads to creatures within 15ft.
-
-____
 
 ## Planned: True Polymorph on Self themed Prestige option
 
