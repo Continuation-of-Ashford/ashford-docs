@@ -27,7 +27,7 @@ Other prestige options seek power that comes from outside sources, such as becom
 - [Disintegrator](#Ascendant)
 - [Prema Polymorph](#Ascendant)
 - [Shadow Broker](#Ascendant)
-- [Elemental Leech](#Ascendant)
+- [Elemental Leech](#Elemental-Leech)
 - [Joker](#Joker)
 - [Far Prophet](#far-prophet)
 
@@ -505,6 +505,39 @@ ____
 
 ## Planned: Alchemical enhancement themed Prestige option
 
+____
+
+## Elemental Leech
+
+### Prestige Class Prerequisites:
+You must focus on an elemental plane over the course of an extended rest.  Be it immersing your hand in a flame for hours, swallowing acid, lowering your body temperature as you sleep, or some other means, you attune your body to a particular elemental plane.
+
+##### Hit Points
+- **Hit Dice:** 1d6	
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
+
+##### Bonus Proficiencies
+- **Saving Throws:** none
+- **Skills:** none
+
+## Elemental Channeler
+At 21st level, you are touched by the destructive power held within the Elemental Planes.  Choose acid, cold, fire, lightning, or thunder.  Your spells and weapon attacks deal an additional 2d6 damage of that type. You cannot use features from this class if you have resistance or immunity to this element. You can focus over a extended rest to attune to a different element.
+
+## Elemental Propulsion
+Also at 21st level, your body becomes more sensitive to the influence of your chosen plane.  You gain vulnerability to the chosen damage type.  As a reaction to taking that damage type, you gain immunity to it until the start of your next turn.  You can use this once per long rest.
+
+## Elemental mirror
+At 22nd level, whenever you would take damage of the type you selected at 21st level, each creature other than you within 10 feet of you takes an equal amount of damage.
+
+## Elemental Empowerment
+At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
+Alternatively, you can take a feat.
+
+## Elemental Transformation
+At 24th level, your attunement to the selected elemental plane becomes more potent as your body partially transforms into that of an elemental.  You gain resistance to bludgeoning, piercing, and slashing damage.  In addition, you may use a reaction to gain immunity to your selected damage type twice and regain it on a short or long rest.
+
+## Elemental Beacon
+At 25th level, the elemental plane you selected pours out from you.  A creature that enters within 10 feet of you or starts its turn there takes 3d6 damage of the selected type.  You can choose to take this damage at the start of your turn.  In addition, you can use an action to summon an elemental myrmidons associated with your damage type (Fire for Fire, Water for Cold, Air for Thunder and Lightning, and Earth for acid). You may use this action once and regain its use on a short or long rest. The summoned myrmidons have a bonus to AC and all rolls (attacks, damage, saving throws, etc.) equal to your proficiency bonus.
 ____
 
 ## Transcendant
