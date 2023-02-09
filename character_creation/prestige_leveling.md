@@ -29,6 +29,7 @@ Other prestige options seek power that comes from outside sources, such as becom
 - [Shadow Broker](#Ascendant)
 - [Elemental Leech](#Ascendant)
 - [Joker](#Joker)
+- [Far Prophet](#far-prophet)
 
 ## Legendary Hero
 *Many adventurers seek to become renowned in bardic tales. An over enthusiastic few will hire hype man as soon as they start their first adventure. But a true legend is forged by deeds that are considered impossible. A hero of legend, isn't merely heroic, they are capable beyond belief. A true legend is a warrior, mage or trickster so skilled they can impress the gods, and is feared by man and demon alike.*
@@ -679,3 +680,33 @@ Choose a specific deity or archdemon who's divine realm, or layer of the Abyss, 
 At 25th level, as an action you make a Charisma(performance) or Dexterity(sleight of hand) check and reduce yourself to 0hp and fall unconscious. Creatures of your choice within 15ft must make a Dexterity saving throw with a DC equal to the result of your check, or take lighting, fire or thunder damage (your choice) equal to your maximum HP minus however much hp you had when you used this ability. Creatures that succeed on the save take half that much damage.
 
 ___
+
+
+## Far Prophet
+
+### Prestige Class Prerequisites: Travel through the Far Realms for one week.
+
+### Peer Beyond The Veil
+
+Your powers of perception have exceeded those of mere mortals, allowing you to see the truth lying just beneath the surface.  You gain Truesight and Blindsight to a range of 30 feet.
+
+### Ear Against The Wall
+
+Also at 21st level, you the voices of unknowable beings constantly whisper into your mind.  Sometimes, these voices are useful.  You gain proficiency in one skill.  You can accept one random form of long-term madness to gain proficiency in another skill. The madness and skill proficiency last either 1 hour or until you take a short or long rest, whichever is shorter.  The madness received from this or similar features cannot be removed prematurely by magic like restoration.
+
+### Blessing From Beyond The Stars
+
+At 22nd level, you gain one blessing.
+ 
+### Bodily Understanding
+
+You realize that your mortal shell is capable of far more than it should.  At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
+Alternatively, you can take a feat.
+
+### Final Understanding
+
+It is not you that is mad, it is everyone else.  You gain 1 form of indefinite madness and for each form of madness you are currently suffering, your attacks and spells deal an additional 1d4 psychic damage. 
+
+### Word Of The Prophet
+
+Your  mind serves as a gateway to the Far Realms.  You can cast Gate once per day, but it can only open somewhere within the Far Realms.  In addition, While suffering from madness, you can ignore one enemies' resistance to psychic damage and immunities to the charmed and frightened conditions.  You can ignore the resistances and immunities of 4 creatures this way per long rest.
