@@ -537,7 +537,7 @@ Alternatively, you can take a feat.
 At 24th level, your attunement to the selected elemental plane becomes more potent as your body partially transforms into that of an elemental.  You gain resistance to bludgeoning, piercing, and slashing damage.  In addition, you may use a reaction to gain immunity to your selected damage type twice and regain it on a short or long rest.
 
 ## Elemental Beacon
-At 25th level, the elemental plane you selected pours out from you.  A creature that enters within 10 feet of you or starts its turn there takes 3d6 damage of the selected type.  You can choose to take this damage at the start of your turn.  In addition, you can use an action to summon an elemental myrmidons associated with your damage type (Fire for Fire, Water for Cold, Air for Thunder and Lightning, and Earth for acid). You may use this action once and regain its use on a short or long rest. The summoned myrmidons have a bonus to AC and all rolls (attacks, damage, saving throws, etc.) equal to your proficiency bonus.
+At 25th level, the elemental plane you selected pours out from you.  A creature that enters within 10 feet of you or starts its turn there takes 3d6 damage of the selected type.  You can choose to take this damage at the start of your turn.  In addition, you can use an action to summon an elemental myrmidons associated with your damage type (Fire for Fire, Water for Cold, Air for Thunder and Lightning, and Earth for acid). The myrmidons return to their home plane after they are destroyed or 1 minute.  You may use this action once and regain its use on a short or long rest. The summoned myrmidons have a bonus to AC and all rolls (attacks, damage, saving throws, etc.) equal to your proficiency bonus.
 ____
 
 ## Transcendant
