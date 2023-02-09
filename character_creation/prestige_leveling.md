@@ -687,6 +687,14 @@ ___
 ### Prestige Class Prerequisites: 
 Travel through the Far Realms for one week.
 
+##### Hit Points
+- **Hit Dice:** 1d8	
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
+
+##### Bonus Proficiencies
+- **Saving Throws:** none.
+- **Skills:** none
+
 ### Peer Beyond The Veil
 
 Your powers of perception have exceeded those of mere mortals, allowing you to see the truth lying just beneath the surface.  You gain Truesight and Blindsight to a range of 30 feet.
