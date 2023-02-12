@@ -1,6 +1,4 @@
 {
-  "username": "Just another slime.",
-  "avatar_url": "https://cdn.discordapp.com/avatars/973667402799792208/f1c14cc23c32151a2bb6b91222adad54.webp",
   "content": "",
   "embeds": [
     {
@@ -16,8 +14,21 @@
     {
       "title": "Server Rules",
       "color": 0,
-      "description": ":x:  Problems occurring outside this server should not be brought in and any problems you have with a fellow user should be discussed privately with an administrator. \n\n:x:  Repeated attempts at bringing any malcontent into the server may result in up to and including a ban. \n\n:x:  A long period, generally longer than two weeks, of inactivity without any given reason will result in a kick with no warning. Inactivity in this server refers to not joining a session, talking in the rp channels does not constitute activity. Speak to an administrator in direct messages should you have a reason to stay.\n\n:x:  Do not post the invite link publicly outside of the MCDM discord and the r/lfg post: https://www.reddit.com/r/lfg/comments/ng568a/weekly_community_post_post_your_communities/gyxxfdq?utm_medium=android_app&utm_source=share&context=3\n\n✅  Do invite your friends: https://discord.gg/rDv5tEm\n\n✅  Keep nicknames within Discord TOS.\n\n✅  Read the pins and channel topics. Read the books through whatever means you can.\n\n✅  You must @ an <@&638932299689230347> / <@&638939302776274964> about becoming a player regardless of the time of day in <#638916858791329806>. If one role is unresponsive @ the other. You can also ask in DMs",
+      "description": ":x:  Problems occurring outside this server should not be brought in and any problems you have with a fellow user should be discussed privately with an administrator. \n\n:x:  Repeated attempts at bringing any malcontent into the server may result in up to and including a ban. \n\n:x:  A long period, generally longer than two weeks, of inactivity without any given reason will result in a kick with no warning. Inactivity in this server refers to not joining a session, talking in the rp channels does not constitute activity. Speak to an administrator in direct messages should you have a reason to stay.\n\n:x:  Do not post the invite link publicly outside of the MCDM discord and the r/lfg post: https://www.reddit.com/r/lfg/comments/ng568a/weekly_community_post_post_your_communities/gyxxfdq?utm_medium=android_app&utm_source=share&context=3\n\n✅  Do invite your friends: https://discord.gg/rDv5tEm\n\n✅  Keep nicknames within Discord TOS.\n\n✅  Read the pins and channel topics. Read the books through whatever means you can.\n\n✅  You must @ either <@&638932299689230347> or <@&638939302776274964> about getting the <@&638931693214105622> role regardless of the time of day in <#638916858791329806>. If one role is unresponsive @ the other. You can also ask in DMs.",
       "author": {},
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": []
+    },
+    {
+      "title": "Server Etiquette",
+      "color": 0,
+      "description": "Every online community needs to have enforceable rules to deal with troublemakers.  Here are ours.\n\n1. Don't be a dick.  If you don't have anything nice to say, don't say anything at all.\n\n2. Do not be disruptive during sessions.  Do not speak over other players. Do not make suggestions for how other characters should act.  **Do not interrupt the DM.**\n\n3. **The DM's word is final.** Do not argue with the DM.  Do not be snarky when the DM makes a ruling you do not agree with.  Arguing with or disrespecting the DM in or out of the session is an instant infraction, no questions asked. If you have legitimate grievances with the DM or have a suggestion for how things could have gone otherwise, either message a Big Mans or in the DM-Suggestions channel *after the session.* \n\n***The only exception is a flagrant violation of either RAW or the server's rules. In that case, bringing up the relevant rule is appropriate.***\n\nWe use a \"three strikes\" system of graduated punishments.\n1. First strike: A warning is given to the player.  \n2. Second strike: The player is kicked for one week.\n3. Third strike: The player is permanently banned.  \n\nAnything that violates discord's TOS will immediately result in a permanent ban.\n",
+      "timestamp": "",
+      "author": {
+        "name": ""
+      },
       "image": {},
       "thumbnail": {},
       "footer": {},
