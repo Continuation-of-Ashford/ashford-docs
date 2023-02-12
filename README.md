@@ -17,6 +17,22 @@ The guides below should help bring you up to speed on what exactly we do differe
 
 *But be careful to not bring our rules into any other games you might be playing!* :stuck_out_tongue_winking_eye:
 
+## Server Etiquette 
+
+Every online community needs to have enforceable rules to deal with troublemakers.  Here are ours.
+Don't be a dick.  If you don't have anything nice to say, don't say anything at all.
+Do not be disruptive during sessions.  Do not speak over other players. Do not make suggestions for how other characters should act.  **Do not interrupt the DM.**
+**The DM's word is final.** Do not argue with the DM.  Do not be snarky when the DM makes a ruling you do not agree with.  Arguing with or disrespecting the DM in or out of the session is an instant infraction, no questions asked. If you have legitimate grievances with the DM or have a suggestion for how things could have gone otherwise, either message a Big Mans or in the DM-Suggestions channel *after the session.* 
+
+###### The only exception is a flagrant violation of either RAW or the server's rules. In that case, bringing up the relevant rule is appropriate.
+
+We use a "three strikes" system of graduated punishments.
+1. First strike: A warning is given to the player.  
+2. Second strike: The player is kicked for one week.
+3. Third strike: The player is permanently banned.  
+
+Anything that violates discord's TOS will immediately result in a permanent ban.
+
 ## Sheets and VTT
 The first thing you'll need to do after reading the rules is get access to our Foundry server and decide on where you want to pull your character sheet information from. 
 
