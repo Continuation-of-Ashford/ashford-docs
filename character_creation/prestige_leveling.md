@@ -3,15 +3,21 @@ Here in the Ashford server, characters aren't finished when they hit level 20. I
 
 We want you to continue to feel rewarded and to look forward to play the character we've all grown familiar with as much as you want. In order to keep XP feeling like a worthwhile reward, while at the same time helping DMs not over-use the Blessings and Boons as high-level rewards. Ashford characters of level 20 can pursue a Prestige Class.
 
-These prestige classes are homebrew classes with 5 levels. Similar to how multi-classing works, you choose one and gain levels in it. What is not similar, is that these prestige classes have prerequisites. There prerequisites are there to prevent multi-classing into multiple prestige classes, while also demanding that the character actually do something prestigious to earn their class.
+These prestige classes are homebrew classes with 5 levels. Similar to how multi-classing works, you choose one and gain levels in it. What is not similar is that these prestige classes have prerequisites. There prerequisites are there to prevent multi-classing into multiple prestige classes while also demanding that the character actually do something prestigious to earn their class.  If you desire a specific prestige class but do not reach its prerequisites, you are not required to level up to 21 until you do.
 
+Legendary Hero is the *"legendary version of your class"* variant. It is broadly the best mechanical option for every class, without changing the flavor of your character. If you just want to be better at what your level 20 character is good at, then choose Legendary Hero. 
+
+Other prestige options seek power that comes from outside sources, such as becoming a werewolf or embracing demonic corruption. These represent either a new focus of power for your character or a specialization into one aspect of them. They will present new and different powers to use that give you more options outside of your core class features.
+
+### Boons and Blessings
+When a prestige class allows you to take a boon or blessing, you can pick from the list on this wiki.
+### [Blessings](./blessings.md) 
+### [Boons](./boons.md)
 ___
 
-Legendary Hero is the *"legendary version of your class"* variant. It is usually the best mechanical option for every class, without changing the flavor of your character. If you just want to be better at what your level 20 character is good at, then choose Legendary Hero. 
 
-Other prestige options seek power that comes from outside sources, such as becoming a werewolf or embracing demonic corruption. These will change your character's vibe
 
-#### Prestige Classes
+## Prestige Classes
 
 - [Legendary Hero](#legendary-hero)
 - [Dread Lich](#dread-lich)
@@ -32,7 +38,7 @@ Other prestige options seek power that comes from outside sources, such as becom
 - [Great Leader](#great-leader)
 
 ## Legendary Hero
-*Many adventurers seek to become renowned in bardic tales. An over enthusiastic few will hire hype men as soon as they start their first adventure. But a true legend is forged by deeds that are considered impossible. A hero of legend isn't merely heroic, they are capable beyond of feats beyond belief. A true legend is a warrior, mage or trickster so skilled they can impress the gods, and is feared by man and demon alike. These Legendary heroes represent the absolute pinacle of what is achievable by a mortal of their class.*
+*Many adventurers seek to become renowned in bardic tales. An over enthusiastic few will hire hype men as soon as they start their first adventure. But a true legend is forged by deeds that are considered impossible. A hero of legend isn't merely heroic, they are capable beyond of feats beyond belief. A true legend is a warrior, mage or trickster so skilled they can impress the gods, and is feared by man and demon alike. These figures of legend are the absolute pinacle of what is achievable by a mortal of their specialization.*
 
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
@@ -618,7 +624,7 @@ ____
 | 22       | 600,000   | +7 | Never Punished |
 | 23       | 805,000   | +7 | Ability Score improvement	|
 | 24       | 1,100,000 | +7 | Stolen blessing |
-| 25       | 1,500,000 | +8 | ??? |
+| 25       | 1,500,000 | +8 | The Last Laugh |
 
 ### Prestige Class Prerequisites:					
 Any level 20 Ashford character @TODO.
@@ -691,7 +697,7 @@ Also at 21st level, the voices of unknowable beings constantly whisper to you.  
 
 ### Blessing From Beyond The Stars
 
-At 22nd level, you gain one blessing.
+At 22nd level, you gain one [blessing](./blessings.md).
  
 ### Bodily Understanding
 
@@ -722,11 +728,11 @@ At 21st level, your leadership can push people beyond their mortal limits.  You 
 The Battle Orders are as follows:
 * *Shake it off!*
 
-    Pick one condition or magical effect affecting an ally.  That ally can repeat a saving throw or make an ability check against the original DC to end the condition.  The save or check receives a bonus equal to your proficiency bonus.  
+    Pick one condition or magical effect affecting an ally.  That ally can repeat a saving throw or make an ability check against the original DC to end the condition, even if it normally would not offer another saving throw.  The save or check receives a bonus equal to your proficiency bonus.  
     
 * *Charge!*
 
-    Pick a number of allies up to your proficiency bonus.  They can use their reaction to move up to their speed without provoking attacks of opportunity, then make a melee weapon or spell attack.
+    Pick a number of allies up to your proficiency bonus.  They can use their reaction to move up to their speed without provoking attacks of opportunity, then make an melee attack.
 
 * *Bombard!*
 

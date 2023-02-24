@@ -207,9 +207,8 @@ You spend a downtime investing funds and attention into enchanting a magical ite
 #### Special Costs
 * Wondrous items cost an additional 1.5 * rolled price.
 * Ammunition items and weapons with the thrown property that lack a melee attack (Arrows, Bolts, Darts, Blowgun Darts, Sling Bullets, Renaissance Bullets) are crafted in batches of up to 20, at the cost of crafting a single consumable item of that rarity.
-> *Perhaps remove these 2 until players capture an Adamantine mine?* 
+
 > * When you provide the non-magical item to enchant, in the form of a weapon or pieces of ammunition you can pay an additional `1000`gp to make it an Adamantine weapon or ammunition in addition to enchanting it.
-> * When you provide a non-magical metal armor to enchant, you can pay an additional `1000`gp to give it the properties of Adamantine armor in addition to the enchantment.
 
 #### Downtime Cost
 Taking the original price, divide it by 25 for uncommon, 50 for rare or 200 for very rare. Keep track of this number. Each downtime used, you make a skill check using Arcana or a relevant tool and subtract it from the above, carrying this new number forward if it is not 0. When the number reaches 0 the item is complete.
