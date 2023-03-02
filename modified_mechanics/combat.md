@@ -35,7 +35,7 @@ When you move, you can drag or carry the grappled creature with you, but your sp
 
 * Barbarian Berserker feature Retaliation: "Starting at 14th level, when you take damage from a creature that is within 5 feet of you, you can use your reaction to make a melee weapon attack against that creature."
 * Monk Astral Self feature Arms of the Astral Self: "You can use the spectral arms to make unarmed strikes."
-* Polearm Master: "While you are wielding a glaive, halberd, pike, quarterstaff, or spear, other creatures provoke an opportunity attack from you when they enter your reach."
+* Polearm Master: "When you take the Attack action and attack with only a glaive, halberd, quarterstaff, or spear, you can use a bonus action to make a melee attack with the opposite end of the weapon;"
 
 **Examples of features or traits that *do* allow grapple are:**
 
