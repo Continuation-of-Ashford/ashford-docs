@@ -824,11 +824,12 @@ While the banner in immune to damage, a creature holding the banner in one hand 
 - Your legionaries use your ability scores and proficiency bonus when making attacks rolls, determining DCs and saving throws and and are proficient in the same saves that you are proficient in.    
 - Your legionaries do not make skill checks, but can instead use a reaction to try to assist any skill check you make. 
 - Your legionaries are proficient with the same equipment you are proficient in. (Though you'll need to supply them with armor and weapons yourself)
-- If you have the Martial Arts or Unarmored Defense features, your legionaries also have these. Your legionaries don't inherit any other class features or feats from you.
+- If you have the Martial Arts, Unarmored Defense and/or Fighting Style features, your legionaries also have these. Your legionaries don't inherit any other class features or feats from you.
 - Your legionaries can be of a different race than you and have their own racial traits. However, their ability scores are unchanged by their race (and racial traits that grant a feat don't work for them). 
 - In combat your legionaries their turn immediately after yours.    
 - Each legionary can make only 1 attack per turn (If they cast a spell that makes multiple attacks, such as Scorching Ray, any attacks after the first are wasted). 
-- If you have spell slots your legionaries have half as many spell slots, starting with all your 1st level spell slots and counting upwards. For the purpose of cantrip scaling, the legionaries are 1st level.
+- If you have spell slots your legionaries have half as many spell slots, but no more than 8 each. Starting with all your 1st level spell slots and counting upwards.    
+For the purpose of cantrip and spell scaling, the legionaries are 1st level.
 - Your legionaries know and prepare the same spells as you do, but can only cast spells they have spell slots for. (No ritual casting or scroll casting)
 
 ### Perfect Command
