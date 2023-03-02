@@ -722,9 +722,7 @@ Up to 5 times per day, you can use an action to make a Charisma(performance) or 
 At 22nd level, *it doesn't seem like you'll learn your lesson any time soon. You avoid death through what appears to be pure luck.* While you are conscious, you have the following benefits.
 
 - You have resistance to damage inflicted due to your own movement or actions such as entering a Wall of Fire, moving through Spike Growth, drinking poison or casting Fireball at your own feet. This will not reduce damage from standing in effects that deal damage for starting or ending your turn in them.
-
 - You have resistance to damage that doesn't originate from a creature, such as falling damage, mechanical traps, or swimming in a pool of acid.
-
 - When you fail a saving throw by 5 or more after accounting for all bonuses, you instead fail the save by exactly 4. 
 
 ### Ability Score Improvement					
@@ -743,6 +741,15 @@ ___
 
 
 ## Far Prophet
+*.*
+
+| Level    | XP Requirement   | PB | Features |
+|:--------:|----------:|---:|:---------|
+| Prestige | 450,000   | +7 | Legendary Prankster |
+| 22       | 600,000   | +7 | Never Punished |
+| 23       | 805,000   | +7 | Ability Score Improvement	|
+| 24       | 1,100,000 | +7 | Stolen blessing |
+| 25       | 1,500,000 | +8 | The Last Laugh |
 
 ### Prestige Class Prerequisites: 
 Travel through the Far Realms for one week.
@@ -820,9 +827,9 @@ While the banner in immune to damage, a creature holding the banner in one hand 
 - If you have the Martial Arts or Unarmored Defense features, your legionaries also have these. Your legionaries don't inherit any other class features or feats from you.
 - Your legionaries can be of a different race than you and have their own racial traits. However, their ability scores are unchanged by their race (and racial traits that grant a feat don't work for them). 
 - In combat they your legionaries their turn immediately after yours.    
-- If you have spell slots your legionaries have half as many spell slots, starting with all your 1st level spell slots and counting upwards.
 - Each legionary can make only 1 attack per turn (If they cast a spell that makes multiple attacks, such as Scorching Ray, any attacks after the first are wasted). 
-- Your legionaries .
+- If you have spell slots your legionaries have half as many spell slots, starting with all your 1st level spell slots and counting upwards. For the purpose of cantrip scaling, the legionaries are 1st level.
+- Your legionaries know the same spells as you do, but can only cast spells they have spell slots for. (No ritual casting or scroll casting)
 
 ### Perfect Command
 At 22nd level, *the banner of the legion exudes such unity, that even the untrained begin moving in perfect formation.*   
