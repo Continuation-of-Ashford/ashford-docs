@@ -829,7 +829,7 @@ While the banner in immune to damage, a creature holding the banner in one hand 
 - In combat they your legionaries their turn immediately after yours.    
 - Each legionary can make only 1 attack per turn (If they cast a spell that makes multiple attacks, such as Scorching Ray, any attacks after the first are wasted). 
 - If you have spell slots your legionaries have half as many spell slots, starting with all your 1st level spell slots and counting upwards. For the purpose of cantrip scaling, the legionaries are 1st level.
-- Your legionaries know the same spells as you do, but can only cast spells they have spell slots for. (No ritual casting or scroll casting)
+- Your legionaries know and prepare the same spells as you do, but can only cast spells they have spell slots for. (No ritual casting or scroll casting)
 
 ### Perfect Command
 At 22nd level, *the banner of the legion exudes such unity, that even the untrained begin moving in perfect formation.*   
