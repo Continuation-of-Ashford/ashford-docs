@@ -32,10 +32,10 @@ ___
 - [Mutant](#Ascendant)
 - [Prema Polymorph](#Ascendant)
 - [Shadow Broker](#Ascendant)
-- [Elemental Leech](#Elemental-Leech)
+- [Paths of Power](#Paths-of-Power)
 - [Joker](#Joker)
 - [Far Prophet](#far-prophet)
-- [Great Leader](#great-leader)
+- [Legendary Commander](#Legendary-Commander)
 
 ## Legendary Hero
 *Many adventurers seek to become renowned in bardic tales. An over enthusiastic few will hire hype men as soon as they start their first adventure. But a true legend is forged by deeds that are considered impossible. A hero of legend isn't merely heroic, they are capable beyond of feats beyond belief. A true legend is a warrior, mage or trickster so skilled they can impress the gods, and is feared by man and demon alike. These figures of legend are the absolute pinacle of what is achievable by a mortal of their specialization.*
@@ -44,7 +44,7 @@ ___
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Legendary Skill, Immortality? |
 | 22       | 600,000   | +7 | Blessing |
-| 23       | 805,000   | +7 | Ability Score improvement	|
+| 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Boon |
 | 25       | 1,500,000 | +8 | Legendary resistance (1/day) |
 
@@ -75,7 +75,7 @@ When you gain this feature, choose where your blessing came from.
 
 After you reveal the source of you blessing to a creature, you have advantage on Persuasion checks if its creature types matches the source of your blessing, or Intimidation checks if its creature type matches any of the others in this feature.
 
-### Mythic Ability Score improvement					
+### Mythic Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
@@ -96,7 +96,7 @@ ___
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Phylactery |
 | 22       | 600,000   | +7 | Undead Resilience |
-| 23       | 805,000   | +7 | Ability Score improvement	|
+| 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Unholy Blessing	 |
 | 25       | 1,500,000 | +8 | Paralyzing Touch |
 
@@ -135,7 +135,7 @@ If you don't have a body for over 10 days, but the only soul remaining in your p
 ### Undead Resilience					
 At 22nd level, your undead form is refined, removing the weaknesses mortals have. You do not need to breathe and you do not require food, drink, or sleep. You become resistant to necrotic and lightning damage, and immune to poison damage and the charmed, frightened, and poisoned conditions.
 
-### Unholy Ability Score improvement					
+### Unholy Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
@@ -158,7 +158,7 @@ ___
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Divine Blessing, Endless Worship |
 | 22       | 600,000   | +7 | Healing Touch |
-| 23       | 805,000   | +7 | Ability Score improvement	|
+| 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Angelic Weapons |
 | 25       | 1,500,000 | +8 | Angelic Form |
 		
@@ -184,7 +184,7 @@ At 22nd level, *your touch can extend the benevolence of your god to fill others
 
 You can use your Healing Touch a number of times equal to your proficiency bonus and you regain all expended uses when you finish a long rest.
 
-### Divine Ability Score improvement					
+### Divine Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
@@ -205,7 +205,7 @@ ___
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | 1st Corrupted Boon |
 | 22       | 600,000   | +7 | Variable Resistance (1/day) |
-| 23       | 805,000   | +7 | Ability Score improvement	|
+| 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | 2nd Corrupted Boon |
 | 25       | 1,500,000 | +8 | Variable Resistance (2/day) |
 		
@@ -252,7 +252,7 @@ At 22nd level, as a reaction when you make a saving throw against an effect or s
 
 You can use this ability once and regain it when you finish a long rest.
 
-### Fiendish Ability Score improvement					
+### Fiendish Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
@@ -298,7 +298,7 @@ ___
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Magnificent Beast |
 | 22       | 600,000   | +7 | Sovereign's Charge |
-| 23       | 805,000   | +7 | Ability Score improvement	|
+| 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Bestial Boon |
 | 25       | 1,500,000 | +8 | Sovereign's Inheritance |
 </div>
@@ -335,7 +335,7 @@ At 22nd level, when you use your Action to transform, you can also make 1 natura
 
 When you move at least 20 feet straight toward a target and then hit it with a natural weapon attack on the same turn, you triple the damage dice of the weapon used that attack. *(You do not triple any additional dice that might have been added to the attack)* You can only do this once per turn.
 
-### Bestial Ability Score improvement					
+### Bestial Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
@@ -356,7 +356,7 @@ ____
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Fey Blessing |
 | 22       | 600,000   | +7 | Shields of the Eladrin Host |
-| 23       | 805,000   | +7 | Ability Score improvement	|
+| 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Eternal King on an Eternal Throne |
 | 25       | 1,500,000 | +8 | Dominion over the Mind |
 </div>
@@ -370,7 +370,7 @@ Any level 20 Ashford character that has an ally in one of the courts of the fey.
 
 ##### Bonus Proficiencies
 - **Saving Throws:** none
-- **Skills:** Choose 1 from Deception or Persuasion.
+- **Skills:** Choose 1 from Deception, Persuasion, Insight.
 
 ### Fey Blessing					
 At 21st level, you draw power from the blood of Correlon that is in the soil of the Feywild. Choose a [blessing](blessings.md) that your domain in the Feywild grants you.
@@ -380,7 +380,7 @@ At 22nd level, *at your command, eladrin knights in golden armor teleport in fro
 
 You can use the ability once, and regain use of it at the end of a short or long rest.
 
-### Fey Ability Score improvement					
+### Fey Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
@@ -406,7 +406,7 @@ ____
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Illusion of a Boon |
 | 22       | 600,000   | +7 | Life's Illusion |
-| 23       | 805,000   | +7 | Ability Score improvement	|
+| 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Figment Step |
 | 25       | 1,500,000 | +8 | Never Really There |
 </div>
@@ -428,7 +428,7 @@ At 21st level, creatures with truesight cannot see through your illusions.
 ### Life's Illusion
 At 22nd level, When you die, you can choose for it to be a magical trick. *In fact, you only seemed to die. Your enemy killed a perfect illusion of you, while you stood at a safe distance.* Choose a space you can see that is exactly 50ft from where you died, the real you is in that space and you have full hit points. The illusion of the dead you then disappears. You can use this ability once per session.
 
-### Fake Ability Score improvement					
+### Fake Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
@@ -436,7 +436,7 @@ Alternatively, you can take a feat.
 At 24th level, *The attack, the creature, and even your own physical form are not real. Change the story, and you change reality.*   
 When a creature you can see targets you with an attack or spell or includes you in an AoE, you can trick the creature as a reaction. 
 The action the creature was taking does nothing. Spell Slots or Charges spent on it are refunded. 
-Creatures that possess truesight are immune to this effect.
+This is not an illusion, but a deception. Creatures that cannot be deceived, or that are reading your mind, are immune to this effect.
 
 You can use this ability once, and regain use of it at the end of a long rest.
 
@@ -454,7 +454,7 @@ ____
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Engine of Agony |
 | 22       | 600,000   | +7 | Craftable Boon |
-| 23       | 805,000   | +7 | Ability Score improvement	|
+| 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Invulnerable Anatomy |
 | 25       | 1,500,000 | +8 | You V.2 |
 </div>
@@ -491,7 +491,7 @@ At 22nd level, you upgrade your body to incorporate a [boon](boons.md).
 
 You can spend 1 downtime and a rare magic item component to swap this boon for a different boon. 
 
-### Artifact Ability Score improvement					
+### Artifact Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1 by weaving additional powerful effects into your body. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
@@ -512,36 +512,104 @@ ____
 
 ____
 
-## Elemental Leech
+## Paths of Power
+*Do not be fooled that the schools of magic, that wizards so love to categorize spells into, are the be-all-end-all of magic. Genies have been perfecting their own magic for millennia before some Netherese bookworm even learned to read. Paths of power require endurance and dedication, as well as a gifted teacher to master. But can teach magic without any required reading.*
 
+<div class='classTable'>
+
+| Level    | XP Requirement   | PB | Features |
+|:--------:|----------:|---:|:---------|
+| Prestige | 450,000   | +7 | Step onto the Path, Close the Path |
+| 22       | 600,000   | +7 | Forking Paths |
+| 23       | 805,000   | +7 | Ability Score Improvement	|
+| 24       | 1,100,000 | +7 | Burn the Path |
+| 25       | 1,500,000 | +8 | Becoming Extraplanar |
+</div>
+		
 ### Prestige Class Prerequisites:
-You must focus on an elemental plane over the course of an extended rest.  Be it immersing your hand in a flame for hours, swallowing acid, lowering your body temperature as you sleep, or some other means, you attune your body to a particular elemental plane.
+Any level 20 Ashford character that manages to find a teacher for a path of their choice.
+
+> Such sages are powerful and ancient extraplanar creatures, the kind that could grant a warlock pact. But you aren't looking for a pact, you want to follow the exact path they took to become powerful.
+> 
+> Usually this requires you to supplicate yourself to such a creature to gain access to their planar domain.   
+> However in the continent of Zakhara there exists secret schools where elementalists emulate the lives of former elemental princes. Usually such schools will require you swear loyalty to their cause, in order to receive their teachings. 
 
 ##### Hit Points
-- **Hit Dice:** 1d6	
-- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
+- **Hit Dice:** 1d8	
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
 - **Saving Throws:** none
 - **Skills:** none
 
-## Elemental Channeler
-At 21st level, you are touched by the destructive power held within the Elemental Planes.  Choose acid, cold, fire, lightning, or thunder.  Your spells and weapon attacks deal an additional 2d6 damage of that type. You cannot use features from this class if you have resistance or immunity to this element. You can focus over a extended rest to attune to a different element.
+## Step onto the Path
+At 21st level, you move away from the traditional theories of magic and develop a different understanding.
 
-Also at 21st level, your body becomes more sensitive to the influence of your chosen plane.  You gain vulnerability to the chosen damage type.  As a reaction to taking that damage type, you gain immunity to it until the start of your next turn.  You can use this reaction once per long rest.
+> The elemental planes and Elemental Chaos (including the many para-elemental planes where elements mix together) can be subdivided into provinces.    
+> Any path through such a *"province"* could seek its center, mastering the pure form of an element. Alternatively, a path could also visit the borders, mastering how to combine an element with others.
 
-## Elemental mirror
-At 22nd level, whenever you would take damage of the type you selected at 21st level, each creature other than you within 10 feet of you takes an equal amount of damage.
+| Province | Path to Power    | Damage Type  |
+|:--------:|:-----------------|:------------:|
+| Bone | Eternal youth and strength | Necrotic | 
+| Flame| [Brotherhood of the True Flame](https://forgottenrealms.fandom.com/wiki/Brotherhood_of_the_True_Flame) | Fire  | 
+| Flame | Fire and light to see clearly and provide insight | Radiant |
+| Flame | Protection of the Efreeti and controlling elementals | Fire | 
+| Sand | Sandman's path, inducing sleep and stillness | Cold |
+| Sand | Glassblower's path, using heat for transmutation | Fire |
+| Sand | Protection of the Dao and controlling elementals | Acid |
+| Sea | Using fog, water and ice to distract and attack | Cold  |
+| Sea | Protection of the Marid and controlling elementals | Cold |
+| Wind | Manipulating winds, air, sound and visibility | Thunder  |
+| Wind | Protection of the Djinni and controlling elementals | Lightning |
 
-## Elemental Empowerment
+> Theoretically more paths exist, but nobody has discovered them.
+
+You must find a teacher for a path to follow it, traveling to elemental planes and interacting with their high ranking denizens is usually your best bet for doing so. It doesn't hurt to find more than 1 teacher, should you wish to switch paths later.
+
+*Beginning your path to power you open your mind and soul to the influence of the province.* 
+- You have vulnerability to the damage type associated with your path. 
+- When you hit a creature with an attack, or when a creature fails a save against one of your spells or features you can choose to deal 2d6 damage, of that type, to the creature.
+
+## Close the Path
+Also at 21st level, as a reaction you can use when taking your chosen damage type, you can gain immunity to damage of that type until the end of your next turn. Including the triggering attack. **You lose the benefit of all features from this class so long as you have immunity to the damage type of your path.** 
+
+## Forking Paths
+At 22nd level, you can spend a downtime taking an extended rest at wherever a teacher for your paths resides. When you do, you can switch your current path for the one this teacher provides. 
+
+Your progress on the path now grants you the ability to cast a powerful spell.    
+If your class lets you learn and/or prepare spells, that spell is automatically know/prepared for each spellcasting class you have and doesn't count towards the limit of known/prepared spells for you.     
+You can also cast this spell once per long rest, without using a spell slot and not needing material components. When casting the spell in that manner, Constitution is your spellcasting ability for that spell.  
+
+| Path to Power    | Free Spell |
+|:-----------------|:----------:|
+| Eternal youth and strength | Soul Cage | 
+| [Brotherhood of the True Flame](https://forgottenrealms.fandom.com/wiki/Brotherhood_of_the_True_Flame) | Fire Storm | 
+| Fire and light to see clearly and provide insight | Find the Path |
+| Protection of the Efreeti and controlling elementals | Planar Ally | 
+| Sandman's path, inducing sleep and stillness | Mental Prison |
+| Glassblower's path, using heat for transmutation | Bones of the Earth |
+| Protection of the Dao and controlling elementals | Planar Ally |
+| Using fog, water and ice to distract and attack | Wall of Ice |
+| Protection of the Marid and controlling elementals | Planar Ally |
+| Manipulating winds, air, sound and visibility | Wind Walk  |
+| Protection of the Djinni and controlling elementals | Planar Ally |
+
+### Ability Score Improvement	
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.
 
-## Elemental Transformation
-At 24th level, your attunement to the selected elemental plane becomes more potent as your body partially transforms into that of an elemental.  You gain resistance to bludgeoning, piercing, and slashing damage.  In addition, you may use a reaction to gain immunity to your selected damage type twice and regain it on a short or long rest.
+## Burn the Path
+At 24nd level, *your progress on the path fills you to the brim with energy*. Whenever you take damage of the damage type of your path, but don't close it, *that energy overflows* and each creature other than you within 10 feet of you also takes the damage.
 
-## Elemental Beacon
-At 25th level, the elemental plane you selected pours out from you.  A creature that enters within 10 feet of you or starts its turn there takes 3d6 damage of the selected type.  You can choose to take this damage at the start of your turn.  In addition, you can use an action to summon 3 elemental myrmidons associated with your damage type (Fire for Fire, Water for Cold, Air for Thunder and Lightning, and Earth for acid). The myrmidons return to their home plane after 1 minute or destroyed.  You may use this action once and regain its use on a short or long rest. The summoned myrmidons have a bonus to AC and all rolls (attacks, damage, saving throws, etc.) equal to your proficiency bonus.
+## Becoming Extraplanar
+At 25th level, *your body and soul and the magical energy it contains become one, through a process that only someone who completes a path to power could truly understand.* This grants the following effects:
+
+- If you have taken damage in the last minute, energy pours out from you, at the start of your turn creatures within 10ft of you take 3d6 damage of the damage type of your path. When this happens, you can choose for it to damage yourself as well.
+- You gain resistance to bludgeoning, piercing and slashing damage from non-magical attacks.
+- Your type becomes Elemental.
+- Your home plane is considered to be the Elemental Chaos.
+- If you die while not on your home plane, your soul will be transported to the Elemental Chaos. Unless your soul was trapped somehow, this prevents most effects that can destroy souls or prevent resurrection. If you soul is not ressurected or destroyed during 1 year in the Elemental Chaos, you gather enough energy to re-form your body.
+
 ____
 
 ## Transcendant
@@ -552,7 +620,7 @@ ____
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Ascetic's Blessing |
 | 22       | 600,000   | +7 | Transcend Materialism |
-| 23       | 805,000   | +7 | Ability Score improvement	|
+| 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Spiritual Ascension |
 | 25       | 1,500,000 | +8 | Ascended Mastery |
 </div>
@@ -585,20 +653,20 @@ You can use Spiritual Essences in the following ways:
 - Even when you lose attunement to such a copy (such as when another creature attunes to it) you are still able to dismiss the copy and create a new one.
 - If the original item was cursed to make you unwilling to part with it, you are also unwilling to dismiss its copy.
 
-### Enlightened Ability Score improvement					
+### Enlightened Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
 ### Spiritual Ascension
 At 24th level, whenever you make a Death Saving Throw, you can treat a d20 roll of 9 or lower as a 10.
 
-While you are at 0 hp or dead, you magically control an ethereal projection that appears above your body and cannot move or be moved. The projection is an object that is immune to all damage and conditions, possesses your memories and abilities, looks identical to you, can perceive its surroundings, and speak.  This allows it to attempt certain Ability checks, but it cannot interact with its surroundings in any physical way. The projection created by Spiritual Ascension can summon and use your Items of Spiritual Essence (including attacks with any summoned weapons) or make unarmed attacks that deal Force instead of Bludgeoning damage.
+While you are at 0 hp or dead, you magically control an ethereal projection that appears above your body and cannot move or be moved. The projection is an object that is immune to all damage and conditions, possesses your memories and abilities, looks identical to you, can perceive its surroundings, and speak.  This allows you to attempt certain Ability checks while dead or dying, but you cannot interact with its surroundings in any physical way, other than by using Items of Spiritual Essence. The projection can summon and use your Items of Spiritual Essence (including making attacks with any summoned weapons) it can also make unarmed attacks that deal Force instead of Bludgeoning damage.
 
 ### Spiritual Displacement
-At 25th level, as an action you can make an special unarmed strike that deals no damage against a creature. If this attack hits, the target must make a Charisma Saving throw (DC 8 + your proficiency bonus + the highest of your Constitution, Wisdom, Intelligence, or Charisma modifier). On a failed save the target is pushed 50ft away from you and thrown into the border Ethereal, but it leaves behind an incapacitated and prone copy of its form. 
+At 25th level, as an action you can make an special unarmed strike that deals no damage against a creature. If this attack hits, the target must make a Charisma Saving throw (DC 8 + your proficiency bonus + the highest of your Constitution, Wisdom, Intelligence, or Charisma modifier). On a failed save the target is pushed 50ft away from you and thrown into the border Ethereal, but it leaves behind an incapacitated and prone copy of its body. 
 Attacks and spells that hit the body also hit the creature in the Ethereal plane but items cannot be taken off the body.
 
-While within the border Ethereal the target can see into the plane it was thrown out of.  The only actions it can take are the Dash Action or reenter its body as an action if it is adjacent it. When it reenters the body, all of these effects end.  
+While within the border Ethereal the target can see into the plane it was thrown out of. The only actions it can take are the Dash Action or reenter its body as an action if it is adjacent it. When it reenters the body, all of these effects end.  
 
 ____
 
@@ -622,7 +690,7 @@ ____
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Legendary Prankster |
 | 22       | 600,000   | +7 | Never Punished |
-| 23       | 805,000   | +7 | Ability Score improvement	|
+| 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Stolen blessing |
 | 25       | 1,500,000 | +8 | The Last Laugh |
 
@@ -659,7 +727,7 @@ At 22nd level, *it doesn't seem like you'll learn your lesson any time soon. You
 
 - When you fail a saving throw by 5 or more after accounting for all bonuses, you instead fail the save by exactly 4. 
 
-### Ability Score improvement					
+### Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
@@ -680,80 +748,114 @@ ___
 Travel through the Far Realms for one week.
 
 ##### Hit Points
-- **Hit Dice:** 1d8	
-- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
+- **Hit Dice:** 1d6	
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
 - **Saving Throws:** none.
-- **Skills:** none
+- **Skills:** Insight.
 
 ### Peer Beyond The Veil
-
 Your powers of perception have exceeded those of mere mortals, allowing you to see the truth lying just beneath the surface.  You gain Truesight and Blindsight to a range of 30 feet.
 
 ### Ear Against The Wall
-
 Also at 21st level, the voices of unknowable beings constantly whisper to you.  Sometimes they are even helpful!  You gain proficiency in one skill.  You can accept one random form of long-term madness to gain proficiency in another skill. The madness and skill proficiency last either 1 hour or until you take a short or long rest, whichever is shorter.  The madness received from this or similar features cannot be removed prematurely by magic like restoration.
 
 ### Blessing From Beyond The Stars
-
 At 22nd level, you gain one [blessing](./blessings.md).
  
 ### Bodily Understanding
-
 You realize that your mortal shell is capable of far more than it should be.  At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.
 
 ### Final Understanding
-
 It is not you that is mad, it is everyone else.  You gain 1 form of indefinite madness. In addition, your weapon attacks and spells deal an additional 1d4 psychic damage per madness you are suffering.
 
 ### Word Of The Prophet
 
 Your  mind serves as a gateway to the Far Realms.  You can cast Gate once per day, but it can only open somewhere within the Far Realms.  In addition, while suffering from madness, you can ignore one enemies' resistance to psychic damage and immunities to the charmed and frightened conditions.  You can ignore the resistances and immunities of 4 creatures this way per long rest.
 
-## Great Leader
+___
 
-- Prerequisites: An Ashford character that possesses a fortress stronghold
+## Legendary Commander
+*You understand that those hoarding great power only for themselves will ultimately achieve nothing. Insurmountable power can come only from cooperation, coordination and unity! Through deep interpersonal connections, and a supernatural training regimen, you have drilled over a thousand volunteers to be every bit as powerful as you are. Your legion will be your legacy, as a unit capable of far more than any single adventurer could ever be.*
+<div class='classTable'>
 
-- **Hit points per level: 1d8**
+| Level    | XP Requirement   | PB | Features |
+|:--------:|----------:|---:|:---------|
+| Prestige | 450,000   | +7 | Banner of the Legion, Stand United |
+| 22       | 600,000   | +7 | Perfect Command |
+| 23       | 805,000   | +7 | Ability Score Improvement	|
+| 24       | 1,100,000 | +7 | We are Legion |
+| 25       | 1,500,000 | +8 | Inspiring Loyalty |
+</div>
+
+### Prestige Class Prerequisites: 
+Any level 20 Ashford character that possesses a fortress stronghold in which they can train their legion.
+
+##### Hit Points
+- **Hit Dice:** 1d8	
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
 - **Saving Throws:** None
-- **Skills:** Persuasion and Intimidation.  If you are already proficient in both of these skills, you gain proficiency in one skill of your choice.
+- **Skills:** Persuasion and Intimidation. (If you are already proficient in both, you instead gain a skill of your choice)
 
 ### Banner of the Legion
-At 21st level, your leadership can push people beyond their mortal limits.  You gain a special banner that functions as an artifact. Your banner can only be destroyed if you and all creatures friendly to you are dead and the shaft of the banner is snapped in half.  While holding your banner in one hand, you can use an action to give Battle Orders to allied creatures that can hear you or see you.  You can use Battle Orders a number of times equal to your proficiency bonus per long rest.
-The Battle Orders are as follows:
-* *Shake it off!*
+At 21st level, you imbue one banner bearing the symbol of your legion with the courage and confidence of the legion. Turning into an artifact magic item. 
 
-    Pick one condition or magical effect affecting an ally.  That ally can repeat a saving throw or make an ability check against the original DC to end the condition, even if it normally would not offer another saving throw.  The save or check receives a bonus equal to your proficiency bonus.  
-    
-* *Charge!*
+Like any Artifact, your banner is unaffected by Anti-magic field and is immune to damage. *Part of the cloth, that contains the symbol is also self-cleaning.* However, when there is no living humanoid that was trained at your stronghold within 100ft of the banner, it loses this immunity. 
 
-    Pick a number of allies up to your proficiency bonus.  They can use their reaction to move up to their speed without provoking attacks of opportunity, then make an melee attack.
+While the banner in immune to damage, a creature holding the banner in one hand can use it as a shield. The bonus to AC for this shield equals half your proficiency bonus (rounded up) 
 
-* *Bombard!*
+### Stand United
+*The word "legion" means "thousands", while it might not be entirely literal, you do have a lot of humanoids training at your stronghold.* You are free to bring a couple with you while adventuring (no more than 3) but most of your legion should always be busy making sure the number of them doesn't decrease.
 
-    Pick one or two allies.  They can use their reaction to take the attack action with a ranged weapon or cast an evocation spell of 3rd level or lower.
-    
-* *On your feet!*
+- Your legionaries will remain within 100ft of your banner, but will otherwise follow your commands (with minimal complaining)
+- Your legionaries have maximum hitpoints equal to `your maximum hitpoints, divided by the number of legionaries you brought`.
+- When you take a short rest, you can spend some of your hit dice, instead of regaining hitpoints yourself each of your legionaries recovers that many hitpoints. 
+- Your legionaries use your ability scores and proficiency bonus when making attacks or saves and are proficient in the same saves that you are proficient in.    
+- Your legionaries do not make skill checks, but can instead use a reaction to try to assist any skill check you make. 
+- Your legionaries are proficient with the same equipment you are proficient in. (Though you'll need to supply them with armor and weapons yourself)
+- If you have the Martial Arts or Unarmored Defense features, your legionaries also have these. Your legionaries don't inherit any other class features or feats from you.
+- Your legionaries can be of a different race than you and have their own racial traits. However, their ability scores are unchanged by their race (and racial traits that grant a feat don't work for them). 
+- In combat they your legionaries their turn immediately after yours.    
+- If you have spell slots your legionaries have half as many spell slots, starting with all your 1st level spell slots and counting upwards.
+- Each legionary can make only 1 attack per turn (If they cast a spell that makes multiple attacks, such as Scorching Ray, any attacks after the first are wasted). 
+- Your legionaries .
 
-    Pick an unconscious or dead ally.  That ally can expend up to two hit dice to lose the prone condition and be restored to HP equal to the roll of two hit die plus twice their Constitution modifier. This feature can't return to life a creature that has died of old age, nor can it restore any missing body parts.
+### Perfect Command
+At 22nd level, *the banner of the legion exudes such unity, that even the untrained begin moving in perfect formation.*   
+While holding your banner you can use the Activate Magic item action to give Perfect Commands to allied creatures that can hear you or see you.
+The Perfect Commands are as follows:
 
-### Immortal Banner
-Also at 21st level, your soul is tied to your banner and your soldiers' loyalty transcends death.  If you are slain but your banner is not destroyed, any willing friendly humanoid that raises your banner turns into you.
+* ***Shake it off!***    
+Pick one condition or ongoing magical effect afflicting one of your allies. If the effect can be ended by an ability check, that ally gets to make that check immediately without spending an action. If the effect was causes by failing a saving throw, that ally can repeat the saving throw, ending the effect on a success. Saving throws and ability checks prompted by this ability receive a bonus equal to your proficiency bonus.  
+* ***Charge!***    
+Pick a number of allies up to your proficiency bonus. They can use their reaction to move up to their speed without provoking attacks of opportunity, then make an melee attack.
+* ***Bombard!***   
+Pick one or two allies. They can use their reaction to take the attack action with a ranged weapon or cast an evocation spell of 3rd level or lower.
+* ***On your feet!***   
+As a reaction when an ally drops to 0hp, or dies, they can spend up to 2 of their hit dice and get back up with a number of hitpoints equal to the result of these dice + their Constitution modifier for each die spent. They can stand up from being prone as part of the same reaction.
+This feature can't return to life a creature that has died of old age, nor can it restore any missing body parts.
 
-### Protect the Banner
-At 22nd level, you gain a bonus to your AC and saving throws equal to half your proficiency bonus while you hold your banner.
+You can give Perfect Commands a number of times equal to your proficiency bonus. Whenever you complete a long rest you regain those uses.
 
-### ASI
+### Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
-Alternatively, you can take a feat.
+Alternatively, you can take a feat.	
 
-### Spiritual Legions
-At 24th level, you can summon six spiritual warriors to your side. These warriors use the abilities of the berserker stat sheet, except they receive a bonus to all rolls (attack, damage, saving throw, ability checks, etc.) equal to your proficiency bonus, are immune to the charmed and frightened conditions, and have the celestial creature type, and have magical weapons.
+### We are Legion
+Also at 24th level, *your soul and the soul of every member of your legion is bound to the banner.* So long as the banner is not destroyed, souls bound to it cannot be trapped or destroyed in a way that would prevent resurrection.
+
+If you are dead any willing humanoid trained at your stronghold can use the banner using the Activate Magic Item action to *"become the Legendary Commander"*. This functions similar to the Reincarnate spell, but instead of creating a new body, the humanoid activating the item gives up their body for you to inhabit.
+
+<!-- 
+### Blessed Legion
+At 24th level, you gain one [blessing](./blessings.md).
+
+If this blessing can be activated using any type of action, the legionaries from Stand United can also activate this blessing. If the chosen blessing can be activated a limited number of times per rest, the legion's uses of it deduct from your own.
+-->
 
 ### Inspiring Loyalty
-At 25th level, your presence and effective leadership inspires those around you to greatness, even off the battlefield.  Every time you take a downtime at the settlement you built your stronghold in, your people will work alongside you, performing the same downtime within the settlement using the same ability modifiers you might use.  If this costs gold, the cost is reduced by 2k from taxes contributed to the project.
+At 25th level, *your presence and leadership inspires those around you to greatness, including off the battlefield.* Every time you take a downtime at the settlement you built your stronghold in, your followers will work alongside you, performing the same downtime within the settlement using the same ability modifiers you might use. If this costs gold, the cost is reduced by 2k from taxes contributed to the project.
