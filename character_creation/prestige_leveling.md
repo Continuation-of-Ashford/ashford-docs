@@ -821,7 +821,7 @@ While the banner in immune to damage, a creature holding the banner in one hand 
 - Your legionaries will remain within 100ft of your banner, but will otherwise follow your commands (with minimal complaining)
 - Your legionaries have maximum hitpoints equal to `your maximum hitpoints, divided by the number of legionaries you brought`.
 - When you take a short rest, you can spend some of your hit dice, instead of regaining hitpoints yourself each of your legionaries recovers that many hitpoints. 
-- Your legionaries use your ability scores and proficiency bonus when making attacks or saves and are proficient in the same saves that you are proficient in.    
+- Your legionaries use your ability scores and proficiency bonus when making attacks rolls, determining DCs and saving throws and and are proficient in the same saves that you are proficient in.    
 - Your legionaries do not make skill checks, but can instead use a reaction to try to assist any skill check you make. 
 - Your legionaries are proficient with the same equipment you are proficient in. (Though you'll need to supply them with armor and weapons yourself)
 - If you have the Martial Arts or Unarmored Defense features, your legionaries also have these. Your legionaries don't inherit any other class features or feats from you.
