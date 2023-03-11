@@ -62,7 +62,7 @@ Any level 20 Ashford character that is able to use downtimes. (You cannot choose
 
 ### Legendary Skill					
 At 21st level, you gain the skill and saving throw proficiencies listed above.   
-In addition *your prowess at one particular skill becomes renowned for your impossible feats,* choose one skill. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency. You cannot choose a skill that already adds double your proficiency bonus to it.
+In addition *your prowess at one particular skill becomes renowned for your impossible feats,* choose one skill you are proficient in. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency. You cannot choose a skill that already adds double your proficiency bonus to it.
 
 ### Immortality?
 A Legendary Hero has performed deeds worthy of legend. *Their legend, will last forever. As the legend is retold and spreads it strengthens the hero's legacy for each person that hears it.*   
@@ -80,7 +80,9 @@ At 23rd level, you can increase one ability score of your choice by 2, or you ca
 Alternatively, you can take a feat.	
 
 ### Boon					
-At 24th level, you may take one [boon](boons.md).
+At 24th level, you may take one [boon](boons.md). 
+
+A Legendary Hero uniquely has access to the [Boon of the Legendary Warrior](boons.md#boon-of-the-legendary-warrior--special) and [Boon of SPell Recall](boons.md#boon-of-spell-recall--special).
 					
 ### Legendary Resistance (1/day)					
 At 25th level, once per day, when you fail a saving throw, you can choose to succeed instead.					
@@ -139,11 +141,12 @@ At 22nd level, your undead form is refined, removing the weaknesses mortals have
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
-### Unholy Blessing					
-At 24nd level, choose either Orcus or Vecna as your patron. Choose a [blessing](blessings.md) that your patron grants you. 
+### Unholy Boon					
+At 24nd level, choose either Orcus or Vecna as your patron. Choose a [boon](boons.md) that your patron grants you. 
 
-You also gain advantage on saving throws against any effects that turn undead as well as on Charisma checks you make while interacting with undead creatures.
+A Lich uniquely has access to the [Boon of High Magic](boons.md#boon-of-high-magic--special).
 
+You also gain advantage on saving throws against any effects that turn undead as well as on Charisma ability checks you make while interacting with undead creatures.
 				
 ### Paralyzing Touch					
 At 25th level, *your soul's control over flesh and bone becomes able to disrupt the control others have over their body*.    
@@ -828,7 +831,7 @@ While the banner in immune to damage, a creature holding the banner in one hand 
 - Your legionaries can be of a different race than you and have their own racial traits. However, their ability scores are unchanged by their race (and racial traits that grant a feat don't work for them). 
 - In combat your legionaries their turn immediately after yours.    
 - Each legionary can make only 1 attack per turn (If they cast a spell that makes multiple attacks, such as Scorching Ray, any attacks after the first are wasted). 
-- If you have spell slots your legionaries have half as many spell slots, but no more than 8 each. Starting with all your 1st level spell slots and counting upwards.    
+- If you have spell slots your legionaries have half as many spell slots, but no more than 8 each. Starting with all your 1st level spell slots and counting upwards. If this would grant your pact magic spell slots to your legionaries, those pact magic slots are at most 3rd level for them and restore on a long rest.    
 For the purpose of cantrip and spell scaling, the legionaries are 1st level.
 - Your legionaries know and prepare the same spells as you do, but can only cast spells they have spell slots for. (No ritual casting or scroll casting)
 

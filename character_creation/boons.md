@@ -23,12 +23,12 @@ When another creature that you can see within 60 feet of you makes an ability ch
 ## Boon of Fortitude  <sup>Altered</sup>
 Your hit point maximum increases by an amount equal to twice your level when you gain this boon. Whenever you gain a level thereafter, your hit point maximum increases by an additional 2 hit points.
 
-## Boon of High Magic  <sup>Altered</sup>
+## Boon of High Magic  <sup>Special</sup>
+You must be 24th level and have the Lich prestige class to take this boon.
+
 You gain one of the following bonuses, depending on your class features. If you qualify for both you can choose which one this boon gives you.
 - If you have the Spellcasting class feature, you gain 1 additional spell slot of the highest spell-slot level you have.
 - If you have the Mystic Arcanum feature you gain 1 additional use of the highest Mystic Arcanum you have.
-
-You can only receive this boon once.
 
 ## Boon of Immortality  <sup>DMG p232</sup>
 You stop aging. You are immune to any effect that would age you, and you can't die from old age.
@@ -74,7 +74,9 @@ Your walking speed increases by 30 feet. In addition, you can use a bonus action
 ## Boon of Spell Mastery  <sup>DMG p232</sup>
 Choose one 1st-level sorcerer, warlock, or wizard spell that you can cast. You can now cast that spell at its lowest level without expending a spell slot.
 
-## Boon of Spell Recall  <sup>DMG p232</sup>
+## Boon of Spell Recall  <sup>Special</sup>
+You must be 24th level and have the Legendary Hero prestige class to take this boon.
+
 You can cast any spell you know or have prepared without expending a spell slot. Once you do so, you can't use this boon again until you finish a long rest.
 
 ## Boon of the Fire Soul  <sup>DMG p232</sup>
