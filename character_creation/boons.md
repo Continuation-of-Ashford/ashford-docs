@@ -1,7 +1,7 @@
 # Boons
 
-## Boon of Combat Prowess  <sup>DMG p232</sup>
-When you miss with a melee weapon attack, you can choose to hit instead. Once you use this boon, you can't use it again until you finish a short rest.
+## Boon of Combat Prowess  <sup>Altered</sup>
+Once per turn, when you miss with a melee weapon attack, you can choose to hit instead. You can do this a number of times equal to half your proficiency bonus and must complete a long rest to regain your expended uses.
 
 ## Boon of Dimensional Travel  <sup>Altered</sup>
 As an action, you can cast the Dimension Door spell, without using a spell slot or any components. Once you do so, you can't use this boon again until you finish a short rest. You can also cast Dimension Door using spell slots you have of 4th level or higher.
@@ -47,8 +47,8 @@ Once per session, you can reroll one d20 that someone rolled as an attack target
 ## Boon of Magic Resistance  <sup>DMG p232</sup>
 You have advantage on saving throws against spells and other magical effects.
 	
-## Boon of Peerless Aim  <sup>DMG p232</sup>
-You can give yourself a +20 bonus to a ranged attack roll you make. Once you use this boon, you can't use it again until you finish a short rest.
+## Boon of Peerless Aim  <sup>Altered</sup>
+Once per turn you can give yourself a +20 bonus to a ranged attack roll you make. You can do this a number of times equal to half your proficiency bonus and must complete a long rest to regain your expended uses.
 
 ## Boon of Perfect Health  <sup>DMG p232</sup>
 You are immune to all diseases and poisons, and you have advantage on Constitution saving throws.
