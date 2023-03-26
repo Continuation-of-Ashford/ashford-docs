@@ -92,7 +92,7 @@ If you make an attack with a weapon that does not have a numerical bonus on atta
 ## Direbear Pelt Cape
 (+1 uncommon, +2 rare, +3 very rare) </br>
 *Requires attunement by a barbarian*  </br>
-While raging, your melee weapon attacks gain a +1/2/3 bonus to damage rolls.  If your barbarian sunblass gives you a save DC (i.e. Beast Barbarian's Infectious Fury), that DC increases by 1/2/3. 
+While raging, your melee weapon attacks gain a +1/2/3 bonus to damage rolls.  If your barbarian subclass gives you a save DC (i.e. Beast Barbarian's Infectious Fury), that DC increases by 1/2/3. 
 
 ## Deep Crow Feather Cloak
 (+1 uncommon, +2 rare, +3 very rare)  </br>
