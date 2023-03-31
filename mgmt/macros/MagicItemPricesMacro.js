@@ -118,9 +118,9 @@ async function calculateNPCCraft(itemname, rarity, type) {
   let requiredAbilityCheckNumber = 1;
   let requiredAbilityCheckTotal = "";
   let requiredComponent = "";
-  let pickACrafter = "<p>Pick any crafter who's time you meet the level requirement for.</p>";
-  let preamble = "Once you've given your materials to the crafter of your choice, during each of your downtimes, you can pay the Crafter's Cost to have your chosen crafter make 1 roll. Once they achieve a combined";
-  let deliveryLine = "They'll have finished the item, at the end of the downtime that happens in they'll deliver it to you.";
+  let pickACrafter = "<p>Once you've given your materials to a crafter, you must spend your downtime at that settlement to get the crafter to prioritize working on your item (over all the other requests they have) by sitting in meetings, testing prototypes and giving feedback on the work.</p>";
+  let preamble = "Each such downtime you spend, you pay the Crafter's Cost for their roll.</p><p>Once those rolls achieve a combined ";
+  let deliveryLine = "the crafter finishes the item. You don't have to pay extra if their final roll exceeds the required total, limiting the labour cost over all rolls to what the Max Wages column shows.";
   switch (rarity) {
     case "Common":
       requiredAbilityCheckTotal = "Which can be completed in a single downtime without requiring a roll from whichever crafter you hired.";
@@ -136,16 +136,16 @@ async function calculateNPCCraft(itemname, rarity, type) {
       break;
     case "Uncommon":
       requiredAbilityCheckNumber = Math.ceil(r.total / 25);
-      requiredAbilityCheckTotal = preamble + " <b>" + requiredAbilityCheckNumber + " total</b>. " + deliveryLine;
+      requiredAbilityCheckTotal = preamble + " <b>" + requiredAbilityCheckNumber + " total</b> " + deliveryLine;
       break;
     case "Rare":
       requiredAbilityCheckNumber = Math.ceil(r.total / 50);
-      requiredAbilityCheckTotal = preamble + " <b>" + requiredAbilityCheckNumber + " total</b>. " + deliveryLine;
+      requiredAbilityCheckTotal = preamble + " <b>" + requiredAbilityCheckNumber + " total</b> " + deliveryLine;
       requiredComponent = "and a Rare Component ";
       break;
     case "Very Rare":
       requiredAbilityCheckNumber = Math.ceil(r.total / 200);
-      requiredAbilityCheckTotal = preamble + " <b>" + requiredAbilityCheckNumber + " total</b>. " + deliveryLine;
+      requiredAbilityCheckTotal = preamble + " <b>" + requiredAbilityCheckNumber + " total</b> " + deliveryLine;
       requiredComponent = "and a Very Rare Component ";
       break;
   }
@@ -160,60 +160,42 @@ async function calculateNPCCraft(itemname, rarity, type) {
   var masterCrafterWage = Math.floor(masterCrafterCost / requiredAbilityCheckNumber);
 
 
-  let craftingRequirements = "You need " + Math.ceil(r.total / 2) + "gp in materials " + requiredComponent + ", before hiring a crafter to start making " + itemAorAn + " " + itemname + ". ";
+  let craftingRequirements = "You need <b>" + Math.ceil(r.total / 2) + "gp in materials " + requiredComponent + "</b>, before hiring a crafter to start making <b>" + itemAorAn + " " + itemname + "</b>. ";
   let messageFlavor = `
   <p>${craftingRequirements}</p>
+  <p>NPC crafters are available in certain settlements, such crafters can come from an Establishment's Demesne Effect or from a settlement feat, or a named NPCs that was convinced to move in.</p>
   <table>
     <tbody>
       <tr>
-        <th>LVL</th>
-        <th>Crafter Skill</th>
+        <th>Place</th>
         <th>Crafter's Roll</th>
         <th>Crafter's Cost</th>
         <th>Max Wages</th>
       </tr>
       <tr>
-        <td>3+</td>
-        <td>Novice</td>
-        <td><a class="inline-roll roll" title=" 1d20+1" data-mode="roll" data-flavor="" data-formula=" 1d20+1"><i class="fas fa-dice-d20"></i> 1d20+1</a></td>
-        <td>× ${noviceCrafterWage}gp</td>
-        <td>${noviceCrafterCost}gp</td>
-      </tr>
-      <tr>
-        <td>8+</td>
-        <td>Apprentice </td>
+        <td>Port Red Key</td>
         <td><a class="inline-roll roll" title=" 1d20+5" data-mode="roll" data-flavor="" data-formula=" 1d20+5"><i class="fas fa-dice-d20"></i> 1d20+5</a></td>
         <td>× ${apprenticeCrafterWage}gp</td>
         <td>${apprenticeCrafterCost}gp</td>
       </tr>
       <tr>
-        <td>13+</td>
-        <td>Journeyman</td>
+        <td>???</td>
         <td><a class="inline-roll roll" title=" 1d20+10" data-mode="roll" data-flavor="" data-formula=" 1d20+10"><i class="fas fa-dice-d20"></i> 1d20+10</a></td>
         <td>× ${journeymanCrafterWage}gp</td>
         <td>${journeymanCrafterCost}gp</td>
       </tr>
       <tr>
-        <td>17+</td>
-        <td>Master </td>
+        <td>???</td>
         <td><a class="inline-roll roll" title=" 1d20+20" data-mode="roll" data-flavor="" data-formula=" 1d20+20"><i class="fas fa-dice-d20"></i> 1d20+20</a></td>
         <td>× ${masterCrafterWage}gp</td>
         <td>${masterCrafterCost}gp</td>
-      </tr>
-      <tr>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th>Over all rolls</th>
       </tr>
     </tbody>
   </table>
   ${pickACrafter}
   <p>${requiredAbilityCheckTotal}</p>
   <p>If you already have an NPC working on an item for you, you can't order another until the first one finishes.</p>
-  <p>You could also cancel an unfinished item to get the components and material cost back, but not the crafter's wages.</p>`;
-  messageFlavor = `Currently Season 2 has no NPC crafters you can hire.`;
+  <p>You could also choose to cancel the unfinished item to get the components and material costs back (but not the crafter's wages). Then start a different item, during this downtime instead.</p>`;
   r.toMessage({ flavor: messageFlavor });
 }
 
