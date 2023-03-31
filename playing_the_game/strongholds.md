@@ -42,22 +42,12 @@ An establishment doesn't add a feat to the settlement it is constructed in, it i
 
 You can choose to allow all players to use your Establishment's downtimes, or declare that only certain players are allowed to.
 
-### *Improve work*
-Choose 4 skill or tool proficiencies for the Work Downtime. Players spending their downtime working at your establishment using those proficincies add 5 to their roll.
-
-### *Enable a downtime*
-Your Establishment provides a place players can use a downtime they otherwise couldn't.   
-Choose which packet of downtimes you enable: 
-- Gambling + Pit Fighting
-- Training Hall + Pit Fighting
-- Crafting a Mundane Item (Armorsmith version) 
-- Crafting a Mundane Item (Blacksmith version) 
-- Crafting a Mundane Item (Weaponsmith version) 
-- Provides the workforce for NPC crafting magic items (if the settlement has an enchanter or arcane building)
-
-### *Imports*
-Choose 1 valid destination for travel (can use Docks, Airship Docks or Spelljammer Docks if those were built when the Establishment finishes construction) Anything that can be bought/crafted in the target settlement, can now also be bought/crafted here for a 10% increased gold cost.<br/>
-*(what this does is allow players to choose: pay the travel costs, or skip the travel costs but pay extra 10% for the item)*
+Choose 1 of the following 3 options for what your establishment adds
+| Option     | Demesne Effect           |
+|:------------:|:-----------------|
+|*Improve work*| Choose 4 skill or tool proficiencies for the Work Downtime. Players spending their downtime working at your establishment using those proficincies add 5 to their roll. |
+| *Enable a downtime* | Your Establishment provides a place players can use a downtime they otherwise couldn't. <br/> Choose which packet of downtimes you enable: <ul><li>Gambling + Pit Fighting</li><li>Training Hall + Pit Fighting</li><li>Crafting a Mundane Item (Armorsmith version)</li><li>Crafting a Mundane Item (Blacksmith version)</li><li>Crafting a Mundane Item (Weaponsmith version)</li><li>Provides the workforce for NPC crafting magic items (if the settlement has an enchanter or arcane building)</li></ul> |
+| *Imports* | Choose 1 valid destination for travel (can use Docks, Airship Docks or Spelljammer Docks if those were built when the Establishment finishes construction) Anything that can be bought/crafted in the target settlement, can now also be bought/crafted here for a 10% increased gold cost.<br/>*(what importing does is allow players to choose: pay the travel costs, or skip the travel costs but pay extra 10% for the item)* |
 
 ## Extended Rest: Generate Income
 Taking an extended rest at your Establishment allows you to earn gold from the business your establishment conducts. Roll a 2D4 and then add your Establishments level and the Settlement's level to the result. Then multiply that result by 2d100, to find out how much gold you've earned.
