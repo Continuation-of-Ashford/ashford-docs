@@ -83,3 +83,10 @@ Either way, feel free to create a player guild!  Take a look at the [Guild Rules
 ### [Guilds](Guilds/Guild_rules.md)
 ### [Warfare Rules](playing_the_game/kingdoms&warfare.md)
 ### [Foundry Link](https://ashford-moltenhosting.moltenhosting.com/join)
+
+<hr>
+
+### And finally... donation
+If you would like to (generously) donate to help fund the server's infrastucture, you can do so here! It's absolutely not necessary but very much appreciated.
+
+<noscript><a href="https://liberapay.com/Ashford_DnD/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
