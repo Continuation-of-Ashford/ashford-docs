@@ -906,7 +906,9 @@ The halves of an Ur dragon are opposites in alignment and usually hate each othe
 - **Skills:** Persuasion or Intimidation. (If you are already proficient in both, you instead gain a skill of your choice)
 
 ### Draconic Influence
-At 21st level, you absorb the essence of one dragon you have sought out. Describe the first dragon of the pair you seek to reunite, specifically choosing the color of dragon you think they are from the table below.
+At 21st level, you absorb the essence of one dragon you have sought out, it grants you the proficiencies listed above.
+
+Describe the first dragon of the pair you seek to reunite, specifically choosing the color of dragon you believe they are from the table below.
 
 | Color | Area | Damage |
 |:------|:-----|-------:|
