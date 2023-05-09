@@ -82,7 +82,7 @@ Alternatively, you can take a feat.
 ### Boon					
 At 24th level, you may take one [boon](boons.md). 
 
-A Legendary Hero uniquely has access to the [Boon of the Legendary Warrior](boons.md#boon-of-the-legendary-warrior--special) and [Boon of SPell Recall](boons.md#boon-of-spell-recall--special).
+A Legendary Hero uniquely has access to the [Boon of the Legendary Warrior](boons.md#boon-of-the-legendary-warrior--special) and [Boon of Spell Recall](boons.md#boon-of-spell-recall--special).
 					
 ### Legendary Resistance (1/day)					
 At 25th level, once per day, when you fail a saving throw, you can choose to succeed instead.					
@@ -506,7 +506,7 @@ At 25th level, *building on everything you've learned from overhauling your body
 
 - You gain the Tough feat
 - You can attune to 1 additional item
-- For each unused attunement slot you you possess you gain a +1 bonus to AC and Saving throws.
+- For each unused attunement slot you possess you gain a +1 bonus to AC and Saving throws.
 
 
 ____
@@ -830,7 +830,7 @@ While the banner in immune to damage, a creature holding the banner in one hand 
 - Your legionaries are proficient with the same equipment you are proficient in. (Though you'll need to supply them with armor and weapons yourself)
 - If you have the Martial Arts, Unarmored Defense and/or Fighting Style features, your legionaries also have these. Your legionaries don't inherit any other class features or feats from you.
 - Your legionaries can be of a different race than you and have their own racial traits. However, their ability scores are unchanged by their race (and racial traits that grant a feat don't work for them). 
-- In combat your legionaries their turn immediately after yours.    
+- In combat your legionaries take their turn immediately after yours.    
 - Each legionary can make only 1 attack per turn (If they cast a spell that makes multiple attacks, such as Scorching Ray, any attacks after the first are wasted). 
 - Your legionaries have half as many spell slots as you do (rounded down), divided between themselves, up to a maximum of 8 each. Calulate this number by starting with your 1st level spell slots, then count upwards, until you either reach 8 or half the total number of spell slots you have. If this would grant your pact magic spell slots to your legionaries, those pact magic slots are at most 3rd level for them and restore on a long rest.    
 -- `i.e., of the three legionairies following a 20th level wizard, two would have  4 1st level slots and one would have 3 1st level slots.  The singular legionairy following a paladin would have 4 1st level slots and 3 2nd level slots.`
@@ -872,3 +872,106 @@ If this blessing can be activated using any type of action, the legionaries from
 
 ### Inspiring Loyalty
 At 25th level, *your presence and leadership inspires those around you to greatness, including off the battlefield.* Every time you take a downtime at the settlement you built your stronghold in, your followers will work alongside you, performing the same downtime within the settlement using the same ability modifiers you might use. If this costs gold, the cost is reduced by 2k from taxes contributed to the project.
+
+___
+
+## Ur Dragon Disciple
+*Ur Dragons were created by Io, the Ninefold Dragon, as soldiers for the conflict between gods, titans and primordials. Capable of rivaling the gods of giants, Ur dragons would split into 2 weaker dragons when slain. Every Ur dragon that existed has since been split, but if a mortal were to receive the blessings of both the surviving halves, the fusion of draconic power could be so much greater than its parts.*
+
+<div class='classTable'>
+
+| Level    | XP Requirement   | PB | Features |
+|:--------:|----------:|---:|:---------|
+| Prestige | 450,000   | +7 | Breath |
+| 22       | 600,000   | +7 | Perfect Command |
+| 23       | 805,000   | +7 | Ability Score Improvement	|
+| 24       | 1,100,000 | +7 | We are Legion |
+| 25       | 1,500,000 | +8 | Inspiring Loyalty |
+</div>
+
+### Prestige Class Prerequisites: 
+Any level 20 Ashford character that successfully pledges themselves to an aspect of an Ur dragon. 
+
+The 2 halves of an Ur dragon are always opposites, the most famous pair is Bahamut and Tiamat. But other surviving pairs exist, such as Faluzure and Chronepsis, Kalzareinad and Kereska. Many other halves have perished in the many years since The Days of Thunder, but even so you might still be able to obtain some of their essences and combine those.
+
+The halves of an Ur dragon are opposites in alignment and usually hate each other. Your goal to reunite them is perhaps best kept secret for now.
+
+##### Hit Points
+- **Hit Dice:** 1d6	
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
+
+##### Bonus Proficiencies
+- **Saving Throws:** Choose Strength, Constitution, or Charisma saves. If you make a save of that type and are not proficient, you add half your proficiency bonus.
+- **Skills:** Persuasion or Intimidation. (If you are already proficient in both, you instead gain a skill of your choice)
+
+### Draconic Influence
+At 21st level, you absorb the essence of one dragon you have sought out. Describe the first dragon of the pair you seek to reunite, specifically choosing the color of dragon you think they are from the table below.
+
+| Color | Area | Damage |
+|:------|:-----|-------:|
+|Amythyst   |30ft cone                  | force      |
+|Black      |60ft long, 10ft wide line  | acid       |
+|Blue       |90ft long, 5ft wide line   | lightning  |
+|Brass      |60ft long, 10ft wide line  | fire       |
+|Bronze     |90ft long, 5ft wide line   | lightning  |
+|Copper     |60ft long, 10ft wide line  | acid       |
+|Crystal    |30ft cone                  | radiant    |
+|Deep       |30ft cone                  | psychic    |
+|Emerald    |30ft cone                  | psychic    |
+|Gold       |90ft cone                  | fire       |
+|Green      |90ft cone                  | poison     |
+|Lunar      |60ft cone                  | cold       |
+|Moonstone  |60ft long, 5ft wide line   | psychic    |
+|Platinum   |60ft long, 5ft wide line   | radiant    |
+|Red        |90ft cone                  | fire       |
+|Sapphire   |30ft cone                  | Thunder    |
+|Silver     |60ft cone                  | cold       |
+|Topaz      |90ft cone                  | necrotic   |
+|White      |60ft cone                  | cold       |
+
+One of your eyes changes appearance to resemble the eye of your draconic patron. Usually the color of the dragon you received essence from is also reflected in other changes to your appearance, such as your nails and if you have any, your scales or your hair might also be affected.
+
+You also gain one of the following features: 
+
+- If you have a breath weapon that requires rest to recharge, you gain *Ur Dragon's Breath Improvement*.
+- If you do not have a breath weapon that recharges when resting, you instead gain the Ur Dragon's Breath feature.
+
+#### Ur Dragon's Breath Improvement
+If you have a breath weapon with expended charges, you regain 1 charge for 1 breath weapon of your choice when you roll initiative.
+
+Additionally, if you have a breath weapon that has no charges remaining, you can roll a d6 at the end of each of your turns, on a 6 your breath weapon regains 1 charge.
+
+When you use a breath weapon that requires charges, you can choose to apply 1 or both of the following effects:
+
+- You can chose for it to deal `5d10` damage instead of its normal damage.
+- You can change both the area and damage type to the area and damage type associated with the color you chose for your Draconic Influence feature.
+
+#### Ur Dragon's Breath
+When you take the Attack action on your turn, you can replace one of the attacks with an exhalation of draconic energy in the shape associated with the color you chose for your Draconic Influence feature.  
+Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus), taking `5d10` damage of the type associated with the color you chose for your Draconic Influence feature on a failed save, or half as much damage on a successful one.
+
+You can use your breath weapon once. If your breath is expended when you roll initiative it recharges. 
+Additionally, while your breath is expended, at the end of each of your turns in combat you can roll a d6, on a 6 your breath weapon recharges.
+
+### Draconic Element
+At 22nd level, you gain resistance to damage type associated with the color you chose for your Draconic Influence. 
+
+When you cause a creature to take damage of that type, you can choose for the creature to take additional damage equal to your proficiency bonus. Once you do, you cannot do so again until the start of your next turn.
+
+For the purposes of the [Boon of Elemental Mastery](boons.md#boon-of-elemental-mastery--new), this feature counts as you having the Elemental Adept feat; even if the damage type isn't elemental. 
+
+### Draconic Ability Score Improvement					
+At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
+Alternatively, you can take a feat.	
+
+### Draconic Boon
+At 25th level, the draconic essense you absorbed manifests in the form of a [boon](boons.md) of your choice.
+
+### Union of Essences
+At 25th level, combine the essence of a second dragon with the first. Describe the second dragon of the pair, the opposite of the first, specifically choosing their color from the Draconic Influence table. 
+
+Your Ur Dragon's Breath Improvement or Ur Dragon's Breath and you Draconic Element features can now use either the first color or second color, choosing one whenever you use that feature. 
+
+Your other eye changes to resemble that of the dragon you described, and you gain Truesight out to a distance of 30ft.
+
+Any other changes that happened at 21st level now change further incorporating the second color in addition to the first.

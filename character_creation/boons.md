@@ -9,7 +9,9 @@ As an action, you can cast the Dimension Door spell, without using a spell slot 
 ## Boon of Elemental Mastery  <sup>New</sup>
 You must have the Elemental Adept feat to take this boon.
 
-*Your mastery of your chosen element allows you to evolve it into a more dangerous form. Your fire might become hellfire or holy flame. Your lightning might become pure energy or flashing chaos. Your thunder might become a mind-bending scream, etc.* When you gain this boon, choose 1 damage type from Force, Necrotic, Psychic or Radiant. If you have the the Elemental Adept feat multiple times, you can choose a different damage type for each instance of the feat.
+*Your mastery of your chosen element allows you to evolve it into a more dangerous form. Your fire might become hellfire or holy flame. Your lightning might become pure energy or flashing chaos. Your thunder might become a mind-bending scream, etc.* 
+
+When you gain this boon, choose 1 damage type from Force, Necrotic, Psychic or Radiant. If you have the the Elemental Adept feat multiple times, you can choose a different damage type for each instance of the feat.
 
 Whenever you use a spell or ability that can deal elemental damage, you can choose to make it more dangerous to creatures that would normally be immune.    
 When you do, if a creature would be healed by your elemental damage, it gains no healing. Additionally, any creature that is immune to elemental damage of that type must compare their resistance to the 2nd damage type you attached to your Elemental Adept feat. 
