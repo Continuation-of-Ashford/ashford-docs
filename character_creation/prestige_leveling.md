@@ -33,9 +33,10 @@ ___
 - [Prema Polymorph](#Ascendant)
 - [Shadow Broker](#Ascendant)
 - [Paths of Power](#Paths-of-Power)
-- [Joker](#Joker)
+- [Legendary Prankster](#Legendary-Prankster)
 - [Far Prophet](#far-prophet)
 - [Legendary Commander](#Legendary-Commander)
+- [Ur Dragon Disciple](#ur-dragon-disciple)
 
 ## Legendary Hero
 *Many adventurers seek to become renowned in bardic tales. An over enthusiastic few will hire hype men as soon as they start their first adventure. But a true legend is forged by deeds that are considered impossible. A hero of legend isn't merely heroic, they are capable beyond of feats beyond belief. A true legend is a warrior, mage or trickster so skilled they can impress the gods, and is feared by man and demon alike. These figures of legend are the absolute pinacle of what is achievable by a mortal of their specialization.*
@@ -882,11 +883,11 @@ ___
 
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
-| Prestige | 450,000   | +7 | Breath |
-| 22       | 600,000   | +7 | Perfect Command |
+| Prestige | 450,000   | +7 | Draconic Influence, Breath A or B |
+| 22       | 600,000   | +7 | Draconic Element |
 | 23       | 805,000   | +7 | Ability Score Improvement	|
-| 24       | 1,100,000 | +7 | We are Legion |
-| 25       | 1,500,000 | +8 | Inspiring Loyalty |
+| 24       | 1,100,000 | +7 | Draconic Boon |
+| 25       | 1,500,000 | +8 | Union of Essences |
 </div>
 
 ### Prestige Class Prerequisites: 
