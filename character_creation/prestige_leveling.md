@@ -968,7 +968,7 @@ At 23rd level, you can increase one ability score of your choice by 2, or you ca
 Alternatively, you can take a feat.	
 
 ### Draconic Boon
-At 25th level, the draconic essense you absorbed manifests in the form of a [boon](boons.md) of your choice.
+At 24th level, the draconic essense you absorbed manifests in the form of a [boon](boons.md) of your choice.
 
 ### Union of Essences
 At 25th level, combine the essence of a second dragon with the first. Describe the second dragon of the pair, the opposite of the first, specifically choosing their color from the Draconic Influence table. 
