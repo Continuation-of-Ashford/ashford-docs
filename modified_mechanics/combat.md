@@ -1,10 +1,12 @@
-# In-Combat Rules and Reminders
+# Combat Rule Changes
 
 ## Spellcasting Economy
 
 * Casting a spell using a bonus action does not prevent you from casting other spells that require a spell slot on your turn.
   
 For example: You can cast Fireball (Action) and Shadow Blade (Bonus Action) on the same turn, then counterspell an enemy attempting to counterspell your fireball.
+
+# Rule Clarifications and Reminders
 
 ## Combat Movement
 
@@ -41,3 +43,23 @@ When you move, you can drag or carry the grappled creature with you, but your sp
 
 * Simic Hybrid race trait Grappling Appendage: "As an action, you can use one of them to try to grapple a creature."
 * Loxodon race trait Trunk: "You can grasp things with your trunk...grapple someone; or make an unarmed strike."
+
+## Melee or Ranged Attacks with Melee or Ranged weapons
+
+Page 146 in the Player's Handbook has the weapons table. That table is separated into the categories Simple Melee Weapons, Simple Ranged Weapons, Martial Melee Weapons, and Martial Ranged Weapons.
+
+Weapons originating from other sources, such as the weapon summoned by the Shadow Blade spell, or the Psychic Blades summoned by the Soulknife rogue subclass, or the firearms listed on page 267 of the Dungeon Master's Guide usually mention which of those 4 categories they fall into.
+
+Each weapon belongs to at most 1 category.  
+Making a melee attack using a weapon from the ranged category, will turn the weapon into an improvised weapon for that attack. As will making a ranged attack using a weapon from the melee category.
+
+If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. *However that does not mean the weapon is now part of the ranged weapon category.*
+
+
+When the Rogue feature Sneak Attack reads `"The attack must use a finesse or a ranged weapon."` throwing a javelin does not qualify, because that is a ranged attack using melee weapon that lacks the finesse property.
+
+The archery fighting style gives a `"+2 bonus to attack rolls you make with ranged weapons"` that phrasing specifically refers to the simple/martial ranged weapon categories, and not *"all ranged weapon attacks"*.
+
+A melee weapon or a vial of holy water, does not belong to the ranged weapon category. Thus any feat or feature that specifically requires a `"ranged weapon"` will not work with most thrown weapons, but does work with the Dart and Net weapons, because those are thrown weapons in the ranged category.
+
+Weapons that lack a category, such as the natural weapons used by beasts a druid can Wildshape into, will not benefit from any feature or feat that specifically requires a `melee weapon` or a `ranged weapon` to be used for the attack. But would benefit from effects that require a `melee weapon attack` because natural weapons are still weapons, they just lack a specific category.
