@@ -51,7 +51,7 @@ Page 146 in the Player's Handbook has the weapons table. That table is separated
 Weapons originating from other sources, such as the weapon summoned by the Shadow Blade spell, or the Psychic Blades summoned by the Soulknife rogue subclass, or the firearms listed on page 267 of the Dungeon Master's Guide usually mention which of those 4 categories they fall into.
 
 Each weapon belongs to at most 1 category.  
-Making a melee attack using a weapon from the ranged category, will turn the weapon into an improvised weapon for that attack. As will making a ranged attack using a weapon from the melee category.
+Using a weapon incorrectly: i.e. making a melee attack using a weapon from the ranged category, will turn the weapon into an improvised weapon for that attack.
 
 If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. *However that does not mean the weapon is now part of the ranged weapon category.*
 
