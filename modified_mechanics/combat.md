@@ -56,7 +56,7 @@ Using a weapon incorrectly: i.e. making a melee attack using a weapon from the r
 If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. *However that does not mean the weapon is now part of the ranged weapon category.*
 
 
-When the Rogue feature Sneak Attack reads `"The attack must use a finesse or a ranged weapon."` throwing a javelin does not qualify, because that is a ranged attack using melee weapon that lacks the finesse property.
+When the Rogue feature Sneak Attack reads `"The attack must use a finesse or a ranged weapon."` throwing a javelin does not qualify, because that is a ranged attack using a melee weapon that lacks the finesse property.
 
 The archery fighting style gives a `"+2 bonus to attack rolls you make with ranged weapons"` that phrasing specifically refers to the simple/martial ranged weapon categories, and not *"all ranged weapon attacks"*.
 
