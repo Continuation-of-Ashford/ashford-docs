@@ -699,7 +699,7 @@ ____
 | 25       | 1,500,000 | +8 | The Last Laugh |
 
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character @TODO.
+Any level 20 Ashford character that antagonizes an archdemon, exasperates an elder thing, or causes a deity to dismay. It's not just picking a rival, its about getting them riled up, getting it to admit that specifically you annoy them, even if it's just a little bit. 
 
 ##### Hit Points
 - **Hit Dice:** 1d6	
