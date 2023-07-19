@@ -1016,23 +1016,21 @@ In order to benefit from this training a character must also have the ability to
 ### Ley Line Zoning Law
 At 21st level, you learn a new ritual you can use to siphon magic from the ley lines of your home plane. Once started this ritual passively charges up magical energy into a circle, that you can then summon to your location when you need it.
 
-You can perform this ritual at a number of locations equal to `1 + your levels in this prestige class`.    
-Each such location must be at least 30 miles from any other location where this ritual was performed, by ANY ritualist. 
+You can perform this ritual at a number of locations equal to `1 + your levels in this prestige class`. Each such location must be at least 30 miles from any other location where this ritual was performed, by ANY ritualist. 
 
 > If you perform the ritual at an invalid location you learn how far you are from the overlapping ritual. Though even if you can find the offending ritual circle, you'll need the ritualist that performed it to be either willing or dead before you can end their claim and put down your own.
 
 From each location you perform this ritual you must take a single token that reminds you of the location, such as a jar of sand, an unusual rock or a vial of water. *(anything that would be considered an Associated Object for the Teleport spell)* The ritual imbues these tokens with a magical connection. *(they count as a magic items, including for the Dream of the Blue Veil spell)*
 
 ### Fountain of Magic
-While touching a token from the Ley Line Zoning Law feature, you can use a bonus action to gain 1 charge for Fountain of Magic, as you begin channeling power from a ley line to yourself. When you do this, a rush of color, as well as the smells or sounds of that area briefly surround you.
+While touching a token from the Ley Line Zoning Law feature, you can use a bonus action to gain 1 charge for Fountain of Magic, as you begin channeling power from a ley line to yourself. When you do this, a rush of color, as well as the smells or sounds of that area briefly surround you.  
+You can only gain 1 charge from each token you have.
 
-You can use this bonus action only once per token you have, and must finish a short or long rest before an expended token can be drawn upon again.
-
-At the end of your turns you can spend any number of charges from Fountain of Magic to instantly cast a Ritual Spell you know of a level equal to the number of charges spent.
+At the end of your turns you can spend any number of charges from Fountain of Magic to instantly cast a Ritual Spell you know of a level equal to the number of charges spent. You can also upcast ritual spells by spending a number of charges greater than the level of the spell.
 
 Keeping channels of ley line energy open for a long time is harmful to your body. Every 10 minutes (once every 100 rounds) you magically take force damage equal to `the level of the highest non-ritual spell you can cast × any unspent Fountain of Magic charges`, this damage ignores immunity to force damage. If this damage would force a saving throw to maintain its concentration, you have disadvantage on that save.
 
-If you roll Initiative while you already have Fountain of Magic charges, you take the damage immediately and the 10 minute time resets.
+If you roll Initiative while you have unspent Fountain of Magic charges, you take the damage immediately and the 10 minute countdown resets.
 
 ### Colored Mana
 At 22nd level, the environments that you draw your Fountains of Magic from *color* your rituals. That means you can use Fountain of Magic to cast certain non-ritual spells, depending on how dedicated you are to a specific biome. 
