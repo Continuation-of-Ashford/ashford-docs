@@ -701,7 +701,7 @@ ____
 | 25       | 1,500,000 | +8 | The Last Laugh |
 
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character that antagonizes an archdemon, exasperates an elder thing, or causes a deity to dismay. It's not just picking a rival, its about getting them riled up, getting it to admit that specifically you annoy them, even if it's just a little bit. 
+Any level 20 Ashford character that antagonizes an archdemon, exasperates an elder thing, or causes a deity to dismay. It's not just picking a rival, its about getting them riled up, getting them to admit that *specifically you* annoy them, even if it's just a little bit. 
 
 ##### Hit Points
 - **Hit Dice:** 1d6	
@@ -1014,7 +1014,7 @@ In order to benefit from this training a character must also have the ability to
 - **Skills:** Arcana, Investigation or Survival
 
 ### Ley Line Zoning Law
-At 21st level, you learn a new ritual you can use to siphon magic from the ley lines of your home plane. Once started this ritual passively charges up magical energy into a circle, that you can then summon to your location when you need it.
+At 21st level, you learn a new ritual you can use to siphon magic from the ley lines of your home plane. Once started this ritual passively charges up magical energy, that you can then summon to your location when you need it.
 
 You can perform this ritual at a number of locations equal to `1 + your levels in this prestige class`. Each such location must be at least 30 miles from any other location where this ritual was performed, by ANY ritualist. 
 
