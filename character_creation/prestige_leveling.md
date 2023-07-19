@@ -1024,11 +1024,11 @@ From each location you perform this ritual you must take a single token that rem
 
 ### Fountain of Magic
 While touching a token from the Ley Line Zoning Law feature, you can use a bonus action to gain 1 charge for Fountain of Magic, as you begin channeling power from a ley line to yourself. When you do this, a rush of color, as well as the smells or sounds of that area briefly surround you.  
-You can only gain 1 charge from each token you have.
+You can only gain 1 charge from each token you have, and can only activate 1 token per turn.
 
 At the end of your turns you can spend any number of charges from Fountain of Magic to instantly cast a Ritual Spell you know of a level equal to the number of charges spent. You can also upcast ritual spells by spending a number of charges greater than the level of the spell.
 
-Keeping channels of ley line energy open for a long time is harmful to your body. Every 10 minutes (once every 100 rounds) you magically take force damage equal to `the level of the highest non-ritual spell you can cast × any unspent Fountain of Magic charges`, this damage ignores immunity to force damage. If this damage would force a saving throw to maintain its concentration, you have disadvantage on that save.
+Keeping channels of ley line energy open for a long time is harmful to your body. Every 10 minutes (once every 100 rounds) you magically take force damage equal to `the level of the highest non-ritual spell you can cast × any unspent Fountain of Magic charges`, this damage ignores immunity to force damage. If this damage would force a saving throw to maintain concentration, you have disadvantage on that save.
 
 If you roll Initiative while you have unspent Fountain of Magic charges, you take the damage immediately and the 10 minute countdown resets.
 
@@ -1055,7 +1055,7 @@ Alternatively, you can take a feat.
 ### Mana Burn
 At 24th level, you can try to use your magical endurance and mastery of holding onto and slowly channeling energy during ritual magic to overwhelm what the average 'one pump chump' caster can handle. 
 
-As a reaction to seeing a creature cast a spell, you can deal force damage to it equal to `the level of the highest spell that creature can cast × any unspent Fountain of Magic charges you have`, this damage ignores immunity to force damage. If this damage would force a saving throw to maintain its concentration, the caster has disadvantage on that save.
+As a reaction to seeing a creature cast a spell, you can deal force damage to it equal to `the level of the highest spell that creature can cast × any unspent Fountain of Magic charges you have`, this damage ignores immunity to force damage. If this damage would force a saving throw to maintain concentration, that creature has disadvantage on the save.
 
 Using this ability reset the 10 minutes you can hold onto Fountain of Magic charges without taking damage. You must finish a long rest before you can use this ability again.
 
