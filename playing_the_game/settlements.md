@@ -3,7 +3,7 @@ Settlements represent the efforts of players to inhabit and expand their influen
 
 ### Settlements Table
 
-| Tier | Capital Building | Gold Cost | Downtimes | Building Limit | Buildings required to build next tier's capital building |New Strongholds Allowed |
+| Tier | Capital Building | Gold Cost | Downtimes | Building Slots | Buildings required to build next tier's capital building |New Strongholds Allowed |
 |:-----|:-----------------|:----------|:----------|:---------------|:---------------------------------------------------------|:-----------------------|
 | 1    | Outpost Tier     | 1,000     | 4         | 3              | 2                                                        |-                       |
 | 2    | Village Tier     | 5,000     | 6         | 5 + 2 Strongholds| 3                                                        |Establishments          |
@@ -11,9 +11,18 @@ Settlements represent the efforts of players to inhabit and expand their influen
 | 4    | Citystate Tier   | 35,000    | 10        | 11 + 4 Strongholds| 8                                                        |-                       |
 | 5    | Kingdom Tier     | 125,000    | 18        | 14 + 5 Strongholds | -                                                        |                        |
 ## Buildings
-Settlements provide benefits to the owners and patrons of buildings in a settlement.
+Settlements provide benefits to the owners and patrons of buildings in a settlement. Every settlement can only have a certain number of buildings in it that increases as the settlement gains tiers, as shown in the "building limit" column. Capital buildings are special buildings. They do not fill a building slot. They require a number of building slots to be filled before they can be constructed. When a capital building is constructed, the settlements reaches the tier of the capital building.
 
 The types of buildings in a settlement provide different benefits, including additional downtime and purchasing options. It's important to check what is available in the settlement you spend your downtime in before taking those actions. See [Settlement Buildings](settlement_buildings.md). 
+
+## Strongholds
+Strongholds are a special kind of building that are owned by players, not the settlement owner. 
+
+Strongholds cannot be destroyed by anyone other than the owner of the Stronghold or by DMs, as deemed appropriate in the context of the server plot.
+
+If you wish to build a Stronghold, it must be supported by a settlement of an appropriate tier. Establishments can be built at Tier 2 (Village), while others can begin being built at Tier 3 (Town).
+
+See the [Strongholds Rules](strongholds.md) for additional rules and explanations.
 
 ## Construction of Buildings
 Players can pool their money and downtimes together to obtain particular benefits or purely to complete construction faster.
@@ -21,6 +30,8 @@ Players can pool their money and downtimes together to obtain particular benefit
 When multiple players contribute to the construction of a settlement or building, someone must be elected as the owner. *Keep track of who contributed what to buildings in the thread for your settlement!*
 
 A settlement can construct any building of it's own tier or lower.
+
+
 
 ## Destruction of Buildings
 Settlement buildings can also be destroyed. Doing so incurs a cost in gold and downtimes equal to `1/4th` the building's original cost (minimum `1` downtime rounded up, minimum `125gp` rounded up to nearest 5gp increment).
@@ -37,6 +48,8 @@ The tier of the settlement and its infractructure determines how many buildings 
 ## Building Limits
 Each tier of settlement has a limit on the number and tier of buildings that can be constructed. If the settlement has reached its building limit, another building must be destroyed before the settlement can begin construction on any others. 
 
+Settlements have bonus building slots exclusively for strongholds equal to their tier. If these slots are filled, any future strongholds must be built in a regular building slot. If a stronghold slot becomes available (i.e.by another stronghold being demolished, the settlement leveling up, etc.), strongholds in regular building slots are automatically "moved" from their regular building slot to an open stronghold slot.
+
 A building counts towards the settlement's building limit as soon as it begins construction and stops counting towards it after completely destroyed.
 
 ## Upgrading Settlements 
@@ -46,16 +59,7 @@ See [Settlement Buildings](settlement_buildings.md) for the building pre-requisi
 
 See the General Settlements Rules [table](#settlement-table) for number of required buildings.
 
-## Strongholds
-Strongholds are a special kind of building that are owned by players, not the settlement owner. 
 
-Strongholds count towards a settlement's building limit like any other building.
-
-Strongholds cannot be destroyed by anyone other than the owner of the Stronghold or by DMs, as deemed appropriate in the context of the server plot.
-
-If you wish to build a Stronghold, it must be supported by a settlement of an appropriate tier. Establishments can be built at Tier 2 (Village), while other can begin being built at Tier 3 (Town)
-
-See the [Strongholds Rules](strongholds.md) for additional rules and explanations.
 
 - - -
 
@@ -64,9 +68,9 @@ Settlements are built around a capital building that brings the community togeth
 
 All settlements start as an Outpost. In order to found an Outpost, you must:
 1. Select and travel to where you want to build your new Outpost. 
-   1. The Outpost must be in a terrain which is different from the nearest settlement to where you want to build one. 
+   1. The Outpost must be an appropriate distance from the nearest settlement. This varies based on things like the climate and geography of the region, so ask the DMs if the location is appropriate.
    2. Ask your Dungeon Master if a particular terrain is an appropriate location and distance from other settlements.
-2. Complete contruction of your Trade Post.
+2. Complete contruction of your Trade Post capital building.
 3. Make a post naming your settlement in the `#settlement-tab` channel in discord, where it will be made into a thread by a Dungeon Master. 
    1. That thread will be used to track the progress of buildings and strongholds in the settlement.
 4. Design and assign your settlement an Outpost Feat. See [Settlement Feats](#settlement-feats) for more info.
