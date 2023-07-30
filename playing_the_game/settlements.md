@@ -6,10 +6,10 @@ Settlements represent the efforts of players to inhabit and expand their influen
 | Tier | Capital Building | Gold Cost | Downtimes | Building Limit | Buildings required to build next tier's capital building |New Strongholds Allowed |
 |:-----|:-----------------|:----------|:----------|:---------------|:---------------------------------------------------------|:-----------------------|
 | 1    | Outpost Tier     | 1,000     | 4         | 3              | 2                                                        |-                       |
-| 2    | Village Tier     | 5,000     | 6         | 5              | 3                                                        |Establishments          |
-| 3    | Town Tier        | 15,000    | 8         | 8              | 4                                                        |Temple, Tower, Keep     |
-| 4    | Citystate Tier   | 35,000    | 10        | 11             | 8                                                        |-                       |
-| 5    | Kingdom Tier     | 125,000    | 18        | 14             | -                                                        |                        |
+| 2    | Village Tier     | 5,000     | 6         | 5 + 2 Strongholds| 3                                                        |Establishments          |
+| 3    | Town Tier        | 15,000    | 8         | 8 + 3 Strongholds| 4                                                        |Temple, Tower, Keep     |
+| 4    | Citystate Tier   | 35,000    | 10        | 11 + 4 Strongholds| 8                                                        |-                       |
+| 5    | Kingdom Tier     | 125,000    | 18        | 14 + 5 Strongholds | -                                                        |                        |
 ## Buildings
 Settlements provide benefits to the owners and patrons of buildings in a settlement.
 
