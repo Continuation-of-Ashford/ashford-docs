@@ -1,89 +1,91 @@
 {
   "content": "",
+  "tts": false,
   "embeds": [
     {
+      "id": 587357216,
       "color": 0,
-      "author": {},
+      "footer": {},
       "image": {
         "url": "https://media.discordapp.net/attachments/690061446968770654/975229188162338846/ashfordrules.png"
       },
       "thumbnail": {},
-      "footer": {},
       "fields": []
     },
     {
+      "id": 409701477,
       "title": "Server Rules",
-      "color": 0,
       "description": ":x:  Problems occurring outside this server should not be brought in and any problems you have with a fellow user should be discussed privately with an administrator. \n\n:x:  Repeated attempts at bringing any malcontent into the server may result in up to and including a ban. \n\n:x:  A long period, generally longer than two weeks, of inactivity without any given reason will result in a kick with no warning. Inactivity in this server refers to not joining a session, talking in the rp channels does not constitute activity. Speak to an administrator in direct messages should you have a reason to stay.\n\n:x:  Do not post the invite link publicly outside of the MCDM discord and the r/lfg post: https://www.reddit.com/r/lfg/comments/ng568a/weekly_community_post_post_your_communities/gyxxfdq?utm_medium=android_app&utm_source=share&context=3\n\n✅  Do invite your friends: https://discord.gg/rDv5tEm\n\n✅  Keep nicknames within Discord TOS.\n\n✅  Read the pins and channel topics. Read the books through whatever means you can.\n\n✅  You must @ either <@&638932299689230347> or <@&638939302776274964> about getting the <@&638931693214105622> role regardless of the time of day in <#638916858791329806>. If one role is unresponsive @ the other. You can also ask in DMs.",
-      "author": {},
+      "color": 0,
+      "footer": {},
       "image": {},
       "thumbnail": {},
-      "footer": {},
       "fields": []
     },
     {
+      "id": 164550045,
       "title": "Server Etiquette",
-      "color": 0,
       "description": "Every online community needs to have enforceable rules to deal with troublemakers.  Here are ours.\n\n1. Don't be a dick.  If you don't have anything nice to say, don't say anything at all.\n\n2. Do not be disruptive during sessions.  Do not speak over other players. Do not make suggestions for how other characters should act.  **Do not interrupt the DM.**\n\n3. **The DM's word is final.** Do not argue with the DM.  Do not be snarky when the DM makes a ruling you do not agree with.  Arguing with or disrespecting the DM in or out of the session is an instant infraction, no questions asked. If you have legitimate grievances with the DM or have a suggestion for how things could have gone otherwise, either message a Big Mans or in the DM-Suggestions channel *after the session.* \n\n***The only exception is a flagrant violation of either RAW or the server's rules. In that case, bringing up the relevant rule is appropriate.***\n\nWe use a \"three strikes\" system of graduated punishments.\n1. First strike: A warning is given to the player.  \n2. Second strike: The player is kicked for one week.\n3. Third strike: The player is permanently banned.  \n\nAnything that violates discord's TOS will immediately result in a permanent ban.\n",
       "timestamp": "",
-      "author": {
-        "name": ""
-      },
+      "color": 0,
+      "footer": {},
       "image": {},
       "thumbnail": {},
-      "footer": {},
       "fields": []
     },
     {
+      "id": 982253876,
       "title": "Gameplay Rules",
-      "color": 0,
       "description": "<#723713428337721385>  - You are here.\n<#829184619525177384>  - ❗❗ READ THIS ❗❗ This is required to create a character and start playing on the server. These rules are nonnegotiable in every session. \n<#651319535156330496>  - Some DMs will post information about their play-style and rulings outside of the server-wide rules.\n<#687689116464578607> - Self explanatory. Rules for text-roleplay.\n<#958761587399872552> - Create threads for locations or events to roleplay with other players.",
-      "author": {},
+      "color": 0,
+      "footer": {},
       "image": {},
       "thumbnail": {},
-      "footer": {},
       "fields": []
     },
     {
+      "id": 848205808,
       "color": 0,
-      "author": {},
+      "footer": {},
       "image": {
         "url": "https://media.discordapp.net/attachments/690061446968770654/975229175579443210/ashfordchannels.png"
       },
       "thumbnail": {},
-      "footer": {},
       "fields": []
     },
     {
+      "id": 45124550,
       "title": "Sessions",
-      "color": 0,
       "description": "<#651242412286672906> - <@&638931948424921097> post missions in here using the Sesh bot and create a thread for the session. <@&638931693214105622> use the buttons to sign up. Check your DMs for instructions on how to get reminded before sessions. Then join the thread to announce which character you are bringing. All session-related messages and pings will be done in the thread.\n<#651242490862501899> - Accept posts from the mission board in this channel, you MUST @ the relevant DM regardless of the time of day, or react to the quest post to be counted. \n<#651242550186868783> - When a player writes a summary of the session they participated in, they get compensation. (This process will be automated with Smashford bot soon.)\n<#651787688801730599> - Knowledge of the actual items in channel is on a per mission basis unless one character actually told another, <@&638931948424921097> must put all gold xp and item rewards from the mission in their postings\n<#961716179569897524> - Record settlements, buildings, feats, etc here.",
-      "author": {},
+      "color": 0,
+      "footer": {},
       "image": {},
       "thumbnail": {},
-      "footer": {},
       "fields": []
     },
     {
+      "id": 251579949,
       "title": "Items",
-      "color": 0,
       "description": "<#970803410171490334> - Sell items from living or deceased characters, no retired ones. You can sell any mundane (non-magical) items at half cost without a downtime.\n<#651592429312671766> - Wish upon a d20 to find your perfect magic item.",
-      "author": {},
+      "color": 0,
+      "footer": {},
       "image": {},
       "thumbnail": {},
-      "footer": {},
       "fields": []
     },
     {
+      "id": 839393450,
       "title": "Others",
-      "color": 0,
       "description": "<#638916858791329806> - Keep discussion lighthearted and any quarrels to DMs, hide spoilers the usual way\n<#638918013579558932> - For the majority of images; to keep other channels clean\n<#638932779266080788> - Put character art and maybe descriptions here for all to see.\n<#652326388631863306> - Lay to rest fallen characters here.\n<#668711243363647488> - For posterity's sake.\n<#638917778761580555> - No impact font memes allowed, you boomers\n<#638917735191019539> - For playing music and using bot capabilities, use bot commands in here only to keep the other channels clean. Pinned are the commands for the relevant bots.\n<#638932752783114280> - For dice rolls so it won't clog music-and-bot.",
-      "author": {},
+      "color": 0,
+      "footer": {},
       "image": {},
       "thumbnail": {},
-      "footer": {},
       "fields": []
     }
   ],
-  "components": []
+  "components": [],
+  "actions": {},
+  "username": "Just Another Slime",
+  "avatar_url": "https://cdn.discordapp.com/attachments/690061446968770654/973669049785540628/amoeboid_changling.jpg?ex=654a90f7&is=65381bf7&hm=2d7cc49f68fafdb5212b98a99fe9db9a8006713d2c8cfae8c836d8217e333bae&"
 }
