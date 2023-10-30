@@ -1,6 +1,6 @@
 # Creating a New Server Embed
 
-1. Go to https://discord.club/dashboard
+1. Go to [https://message.style/app/editor](https://message.style/app/editor)
 2. Configure the embed how you want it and `Save Message`. 
 3. Open the channel settings where you want the message to go.
 4. Go to `Integrations` > `Webhooks`.
@@ -24,7 +24,7 @@
 11. Save your message json in [the repo](https://github.com/Continuation-of-Ashford/ashford-docs/tree/main/mgmt)
 
 ## Option 2
-1. Go to https://discord.club/dashboard
+1. Go to [https://message.style/app/editor](https://message.style/app/editor)
 2. Open the channel settings where you want the message to go.
 3. Go to `Integrations` > `Webhooks`.
 4. Find the existing webhook, open it and copy the Webhook URL.
@@ -35,7 +35,7 @@
 9. Save your message json in [the repo](https://github.com/Continuation-of-Ashford/ashford-docs/tree/main/mgmt)
 
 ## Option 3
-1. Go to https://discord.club/dashboard
+1. Go to [https://message.style/app/editor](https://message.style/app/editor)
 2. Copy the message json from [the repo](https://github.com/Continuation-of-Ashford/ashford-docs/tree/main/mgmt).
 3. Paste the json into the message box on the bottom right.
 4. Edit the embed how you want it and `Save Message`. 
