@@ -18,12 +18,6 @@ At the start of the session, please inform your Dungeon Master of any effects wh
 * Weapons or class abilities/features such as Open Hand Monk's Tranquility class feature, or a weapon of warning
 * Spells or other magical item effects cast prior to the in-universe day the mission starts (i.e. Contingency)
 
-### End of Session
-
-At the end of the session, please inform your Dungeon Master of any of the following:
-
-* If a player wishes not to take the xp reward. The Dungeon Master will write this in the mission report and the player may receive or roll for magic items, if applicable, and half of the awarded gold.
-
 ## Quest Reports
 A reward is given to players who give a sufficient report of the quest they participated in. 
 
