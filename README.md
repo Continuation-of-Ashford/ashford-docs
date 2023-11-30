@@ -82,7 +82,7 @@ Either way, feel free to create a player guild!  Take a look at the [Guild Rules
 * [Strongholds](playing_the_game/strongholds.md)
 ### [Guilds](Guilds/Guild_rules.md)
 ### [Warfare Rules](playing_the_game/kingdoms&warfare.md)
-### [Foundry Link](https://ashford-moltenhosting.moltenhosting.com/join)
+### [Foundry Link](https://ashford-foundry.duckdns.org)
 
 <hr>
 
