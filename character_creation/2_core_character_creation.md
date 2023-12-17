@@ -8,7 +8,7 @@ Be aware that ReCoA uses some [custom rules](../modified_mechanics/rules.md). Ea
 (If a link to a filtered 5e page differs from the screenshot of the filter on the github, the screenshot on the github shows the correct options.  Disregard the link, it is most likely outdated.)
 
 ## Races
-To see allowed Races, set the filters according to the image below, or use this [link](https://5e.tools/races.html#aarakocra_eepc,flstsource:awm=1~lr=1~oga=1~psz=1~ttp=1,flopsource:extend).
+To see allowed Races, set the filters according to the image below, or use this [link](https://5e.tools/races.html#aarakocra_eepc,flstsource:awm=1~lr=1~oga=1~psz=1~ttp=1~egw=1,flopsource:extend).
 
 ![](../assets/allowed_races.png)
 
@@ -26,7 +26,7 @@ To see allowed Races, set the filters according to the image below, or use this 
 
 ## Classes
 
-To see allowed Classes, set the filters according to the image below, or use this [link](https://5e.tools/classes.html#artificer_tce,flstsource:psa=1~psk=1~ua2020subclassespt3=1~ua2020subclassespt5=1~uaatrioofsubclasses=1~uagiantsoulsorcerer=1~uagothicheroes=1~uasorcerer=1~uathemysticclass=1~uatherangerrevised=1~uathreesubclasses=1,flopsource:extend).
+To see allowed Classes, set the filters according to the image below, or use this [link](https://5e.tools/classes.html#artificer_tce,flstsource:psa=1~psk=1~ua2020subclassespt3=1~ua2020subclassespt5=1~uaatrioofsubclasses=1~uagiantsoulsorcerer=1~uagothicheroes=1~uasorcerer=1~uathemysticclass=1~uatherangerrevised=1~uathreesubclasses=1~egw=1~tdcsr=1,flopsource:extend).
 
 ![](../assets/allowed_classes.png)
 
@@ -35,7 +35,7 @@ To see allowed Classes, set the filters according to the image below, or use thi
 
 ## Spells
 
-To see allowed Spells, set the filters according to the image below, or use this [link](https://5e.tools/spells.html#abi-dalzim's%20horrid%20wilting_xge,flstsource:llk=1~scc=0,flopsource:extend).
+To see allowed Spells, set the filters according to the image below, or use this [link](https://5e.tools/spells.html#abi-dalzim's%20horrid%20wilting_xge~egw=1~tdcsr=1,flstsource:llk=1~scc=0,flopsource:extend).
 
 ![](../assets/allowed_spells.png)
 
@@ -43,13 +43,13 @@ To see allowed Spells, set the filters according to the image below, or use this
 
 ## Backgrounds
 
-To see allowed Backgrounds, set the filters according to the image below, or use this [link](https://5e.tools/backgrounds.html#acolyte_phb,flstsource:aag=0,flopsource:extend).
+To see allowed Backgrounds, set the filters according to the image below, or use this [link](https://5e.tools/backgrounds.html#acolyte_phb,flstsource:aag=0~egw=1~tdcsr=1,flopsource:extend).
 
 ![](../assets/allowed_backgrounds.png)
 
 ## Feats
 
-To see allowed Feats, set the filters according to the image below, or use this [link](https://5e.tools/feats.html#aberrant%20dragonmark_erlw,flstsource:uafeatsforskills=1~uafeats=1,flopsource:extend).
+To see allowed Feats, set the filters according to the image below, or use this [link](https://5e.tools/feats.html#aberrant%20dragonmark_erlw,flstsource:uafeatsforskills=1~uafeats=1~egw=1~tdcsr=1,flopsource:extend).
 
 ![](../assets/allowed_feats.png)
 
@@ -59,11 +59,17 @@ Characters are free to select a feat at first level if their background does not
 
 ## Items
 
-To see allowed items, set the filters according to the image below, or use this [link](https://5e.tools/items.html#chain%20mail_phb,flstsource:llk=1~oga=1~rmbre=0,flopsource:extend,flsttype:renaissance=0~treasure=0,floptype:extend).
+To see allowed items, set the filters according to the image below, or use this [link](https://5e.tools/items.html#chain%20mail_phb,flstsource:llk=1~oga=1~rmbre=0~egw=1~tdcsr=1,flopsource:extend,flsttype:renaissance=0~treasure=0,floptype:extend).
 
 ![](../assets/allowed_items.png)
 
 We allow items with the Renaissance tag but not the Futuristic or Modern tag. There are no exceptions.
+The following items are banned for thematic or balanced purposes:
+* Statuette of Saint Markovia (CoS)
+* Deck of Wonder (BoMT)
+* Deck of Many More Things (MoMT)
+* Jester's Mask (BoMT)
+* All variants of the Fate Dealer's Deck (BoMT)
 
 *`Remember:` ReCoA uses some [custom item mechanics and modified items](../modified_mechanics/items.md).*
 
