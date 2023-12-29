@@ -20,3 +20,7 @@ Now reads as the following:
 ## Mounted Combatant
 Now has an additional clause:
 > You can form a mystical connection to one creature you use as a mount.  If the mount is slain in combat, you can spend an extended rest to resurrect the creature. This functions the same as resurrection, but does not require costly magical components.
+
+## Vital Sacrifice
+Now has an additional clause:
+> You can only have one blood boon at a time. 
