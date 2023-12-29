@@ -26,12 +26,12 @@ To see allowed Races, set the filters according to the image below, or use this 
 
 ## Classes
 
-To see allowed Classes, set the filters according to the image below, or use this [link](https://5e.tools/classes.html#artificer_tce,flstsource:psa=1~psk=1~ua2020subclassespt3=1~ua2020subclassespt5=1~uaatrioofsubclasses=1~uagiantsoulsorcerer=1~uagothicheroes=1~uasorcerer=1~uathemysticclass=1~uatherangerrevised=1~uathreesubclasses=1~egw=1~tdcsr=1,flopsource:extend).
+To see allowed Classes, set the filters according to the image below, or use this [link](https://5e.tools/classes.html#artificer_tce,flstsource:psa=1~psk=1~ua2020subclassespt3=1~ua2020subclassespt5=1~uaatrioofsubclasses=1~uagiantsoulsorcerer=1~uagothicheroes=1~uasorcerer=1~uathemysticclass=1~uatherangerrevised=1~uathreesubclasses=1~egw=1~tdcsr=1,flopsource:extend). We also allow players to use the OneD&D versions of the [Barbarian](../uadocs/barbarian.md), [Fighter](../uadocs/fighter.md), [Monk](../uadocs/monk.md), and [Rogue](../uadocs/rogue.md).
 
 ![](../assets/allowed_classes.png)
 
 *`Remember:` ReCoA uses [a few modified class and subclass features](../modified_mechanics/classes.md).*
-* Note: We also allow Matt Mercer's Blood Hunter, Way of the Cobalt Soul Monk, and Gunslinger fighters.
+* Note: We also allow Matt Mercer's Blood Hunter, Way of the Cobalt Soul Monk, and Gunslinger fighters. Make sure to enable those in 5eTools if you're interested in using them.
 
 ## Spells
 
