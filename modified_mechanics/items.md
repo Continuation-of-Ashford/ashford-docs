@@ -7,7 +7,7 @@ Each character can only gain the benefits of eating two eggs from the Bag of Bea
 
 ## Tomes and Manuals
 
-If a character uses one of the manuals, tomes or a similar item, the cooldown extends to all future copies in addition to the item used for that character i.e. If a character uses a Manual of Gainful Exercise or Tome of Leadership and Influence, the time in which it takes to use that manual again extends to any of that item found in the future.
+Reading a Tome of X or Manual of X requires a downtime. Two tomes or manuals may be read in one downtime. If a character uses one of the manuals, tomes or a similar stat-boosting item, the cooldown extends to all future copies of the item used for that character. I.E., If a character uses a Manual of Gainful Exercise, they would not be able to benefit from another Manual of Gainful Excercise for a century. They could still read a Tome of Leadership and Influence their next downtime.
 
 ## Magical Armor (Generic variant)
 
@@ -20,9 +20,9 @@ Generic magical armor has had its rarity reduced by 1 step as following:
 
 Amulet of the Devout only increases the spell attack rolls and saving throw DCs of your cleric or paladin spells.
 
-## Shield Guardian
+## Shield Guardian Amulet
 
-Shield Guardian has its rarity increased to very rare.
+The Shield Guardian has its rarity increased to very rare. Crafting a Shield Guardian Amulet also creates a shield guardian bound to the amulet.
 
 ## Guns: Bad News and Hand Mortar
 
@@ -52,7 +52,7 @@ Commonly used potions have standard prices, as follows:
 
 | Type                        | Cost    |
 |-----------------------------|---------|
-| Potion of Healing           | 60gp    |
+| Potion of Healing           | 50gp    |
 | Potion of Greater Healing   | 150gp   |
 | Potion of Superior Healing  | 450gp   |
 | Potion of Supreme Healing   | 1500gp  |
@@ -68,7 +68,6 @@ The maximum number of attunement slots is increased by 2 to 5.
 ![](../assets/attunement_required.png)
 
 ## Magic tattoos
-`TODO:` Rewrite this.
 
 Magic tattoos have an amendment to their Tattoo Attunement feature:
 
@@ -76,11 +75,11 @@ Magic tattoos have an amendment to their Tattoo Attunement feature:
 
 ## Summoned Creatures
 
-Creatures summoned through spells, acquired in sessions, created, or otherwise obtained through class features with an INT of `4` or less may equip/attune to `3` magic items at maximum or `4` magic items with an INT of 6.
+Creatures summoned through spells or items, acquired in sessions, created, or otherwise obtained through class features with an INT of `4` or less may equip/attune to `3` magic items at maximum. Creatures with an INT of six may attune to `4` magic items.
 
 Creatures with an INT of `10` or above may attune/equip to items as shown in [Character Creation](character_creation.md). A creature must have the proper anatomy to attune to/equip a magic item, such as creatures with hooves or bird-like talons cannot wear shoes. You cannot give a creature acquired in these ways a piercing, have them ingest, or otherwise rest on or in the item some way to circumvent this. 
 
-Creatures found these ways may not artificially increase a stat to gain additional attunement slots, such as a Headband of Intellect, nor have them attune to the item they were summoned from such as a Shield Guardian attuning to a Shield Guardian amulet, ad nauseam. Player characters are exempt from this ruling unless their Intelligence score is `6` or lower
+Creatures found these ways may not artificially increase a stat to gain additional attunement slots, such as a Headband of Intellect, nor attune to the another item that summons a creature such as a Shield Guardian attuning to a Shield Guardian amulet, ad nauseam.
 
 # New Items
 
