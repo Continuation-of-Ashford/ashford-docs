@@ -1,6 +1,10 @@
 
 # Item Changes
 
+## Spell save DC Increasing items
+
+If you attune to multiple items that increase your class' spell save DC, that effect does not stack. Legendary items (i.e. the Robe of the Archmagi) do stack.
+
 ## Bag of Beans
 
 Each character can only gain the benefits of eating two eggs from the Bag of Beans.
