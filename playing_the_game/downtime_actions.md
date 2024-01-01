@@ -1,6 +1,8 @@
 # Downtime Actions
 Below you will find the various options you have when using your downtime.
 
+All downtime projects (such as crafting a magic item, taming a creature, etc.) can only be performed by a single creature. Constructing settlement buildings is an exception and may be done communally. 
+
 Some downtimes are always available, while many other downtimes need the use of a constructed building. Some downtimes can be done without a building but are made better by a building. 
 
 Choose which settlement you are spending your downtime in and check the settlements thread to see what buildings are available.
@@ -179,6 +181,7 @@ If you have abilities that can be swapped upon leveling up or gaining an ASI (i.
 ### Taming
 ###### Requires the Stables, War Stables, or Wondrous Stables building or a Temple/Grove/Arena Stronghold
 Players can spend downtime capturing and taming creatures to be their mount. For normal mounts they can be bought as shown in the item table.
+Creatures you tame must live in the environment of the settlement you take the downtime in. For example, red dragons and wyverns can be found in mountainous settlements, blue dragons can be found in desert settlements, and bullettes can be found in forests.
 
 * Creatures of 8 intelligence or higher cannot be tamed and named/titled/homebrew creatures are disallowed.
 * Taming takes 1 downtime per CR of the creature being tamed, each downtime requires an animal handling check of 10 + CR + Creature INT mod.
