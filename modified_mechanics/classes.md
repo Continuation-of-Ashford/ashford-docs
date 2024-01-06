@@ -1,5 +1,10 @@
 # Classes
 
+## Artificer
+
+The level 10 "Magic Item Adept" feature grants a total of six attunements as opposed to four. 
+
+The level 14 "Magic Item Savant" feature grants a total of seven attunements as opposed to six.
 
 ## Barbarian
 
