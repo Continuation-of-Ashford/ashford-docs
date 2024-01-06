@@ -61,7 +61,7 @@ Any level 20 Ashford character that is able to use downtimes. (You cannot choose
 
 ##### Bonus Proficiencies
 - **Saving Throws:** 1 saving throw you are not already proficient in
-- **Skills:** 1 skill you are not already proficient in
+- **Skills:** 1 skill you are not already proficient in. You can add 1d4 to any roll you make with that skill.
 
 ### Legendary Skill					
 At 21st level, you gain the skill and saving throw proficiencies listed above.   
@@ -103,11 +103,11 @@ ___
 | 22       | 600,000   | +7 | Undead Resilience |
 | 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Unholy Blessing	 |
-| 25       | 1,500,000 | +8 | Paralyzing Touch |
+| 25       | 1,500,000 | +8 | Paralyzing Arcana |
 
 		
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character capable of casting the Imprisonment spell. 
+Any level 20 Ashford character which has the Spellcasting feature.
 
 In order to become a lich you must bargain for the secret rituals with a being of great evil, then sacrifice and consume the soul of another sentient creature. While there is no Alignment prerequisite for starting the path to Lichdom, successfully completing the steps will always alter your alignment to Evil (even if you started on this path with the intention to use the power for the good of others.)
 
@@ -116,29 +116,27 @@ In order to become a lich you must bargain for the secret rituals with a being o
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** none
-- **Skills:** none
+- **Saving Throws:** Choose one from Intelligence, Wisdom, or Charisma.
+- **Skills:** Arcana. If you already have proficiency in Arcana, you double your proficiency bonus when you add it to an Arcana check. If you already do so, you can add 1d4 to any Arcana check you make.
 
 ### Phylactery		
-At 21st level, you perform a ritual to kill your living body and trap your soul within a phylactery. You are now an object.   
-*A phylactery is traditionally an amulet in the shape of a small box, but it can take the form of any item possessing an interior space into which arcane sigils of naming, binding, immortality, and dark magic are scribed in silver.* Your phylactery contains 2 trapped souls when finished, one of which is your own.    
-Once per day you can use your phylactery as a component in the Imprisonment spell, but only if the target is a humanoid. When used this way, the spell's effect is similar to the Minimus Containment option. After 24 hours in the phylactery, the imprisoned creature's body is destroyed and their soul becomes trapped in your phylactery. 
+At 21st level, you perform a ritual to kill your living body and trap your soul within a phylactery. You are now an Undead.   
+*A phylactery is traditionally an amulet in the shape of a small box, but it can take the form of any item possessing an interior space into which arcane sigils of naming, binding, immortality, and dark magic are scribed in silver.* 
 
-You can use souls trapped in your phylactery to do the following:
+If you are killed, your body reforms within your phylactery 2d10 days after your death, unless your phylactery is destroyed. During the next session your character participates in, you have disadvantage on any downtime checks to represent the time spent reforming your body.
 
-**Rejuvenation A**    
-If your soul is not in control of a body, you can expend 1 soul from your phylactery to magically create a copy of your original body, within 5ft of your phylactery. After 1d10 days this new body rises as an undead and your soul takes control of it. (while remaining in the phylactery)
+Because your phylactery is your soul's primary container, your body is expendable. At any time, you can choose for your body to self-destruct. At the end of your next turn, you die. This effect cannot be prevented through the Death Ward spell or similar effects. Additionally, all creatures within 30 feet of you when you die in this way must make a Charisma saving throw against your spell save DC. On a failed saving throw, a creature takes 20d6 force damage and is stunned until the end of its next turn. On a successful saving throw, the creature takes half damage and is not stunned. When you die in this way, your soul lingers in the area until the end of the session, upon which it returns to your phylactery. It cannot be removed from this state in any way, excepting a reformed body after using your phylactery. While in this state, you you suffer the following effects:
 
-The new body inherits all of your stats and class features; it is you, but undead. Your equipment and magic items (including tattoos) are left behind on your old body. 
-
-**Rejuvenation B**     
-If you are in control of a body, you can expend 1 soul from your phylactery to rejuvenate that body to appear healthy and alive, to any forms of non-magical perception. If you take measures to preserve your body, you can delay any perceivable decay for a month. 
-
-**Degradation to Demilich**     
-If you don't have a body for over 10 days, but the only soul remaining in your phylactery is your own, you must expend your own soul to create a Demilich. This newly created undead has your memories, but is not under your control. Your character is gone and only destroying the phylactery and then using Divine Intervention to bring back the soul can restore them. 
+- You are unable to cast spells of 6th level or higher.
+- You are vulnerable to all damage.
+- You are invisible.
+- You can move through solid objects. If you end your turn within a solid object, you take 1d10 force damage.
+- Your only form of movement is a fly speed of 30 feet.
 
 ### Undead Resilience					
 At 22nd level, your undead form is refined, removing the weaknesses mortals have. You do not need to breathe and you do not require food, drink, or sleep. You become resistant to necrotic and lightning damage, and immune to poison damage and the charmed, frightened, and poisoned conditions.
+
+Additionally, if you take damage that would reduce you to 0 hit points, you can make a Constitution saving throw, the DC of which is equal to 5 + the amount of damage taken. If you succeed on this saving throw, you drop to 1 hit point instead of 0. Additionally, you cannot die due to taking massive damage.
 
 ### Unholy Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -151,9 +149,8 @@ A Lich uniquely has access to the [Boon of High Magic](boons.md#boon-of-high-mag
 
 You also gain advantage on saving throws against any effects that turn undead as well as on Charisma ability checks you make while interacting with undead creatures.
 				
-### Paralyzing Touch					
-At 25th level, *your soul's control over flesh and bone becomes able to disrupt the control others have over their body*.    
-As an Action you can make a Melee Spell Attack at a creature within 5ft. On a hit you deal 2d6 cold and 2d6 necrotic damage to the target and they must make a Constitution save versus your Spell DC or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+### Paralyzing Arcana
+At 25th level, the energy of the dead within you begins to strongly affect your magic. When you cast a spell, all creatures which either fail a saving throw against the spell or are hit by an attack roll from the spell must make a Constitution saving throw against your spell save DC. On a failed saving throw, a creature is paralyzed until the end of its next turn and takes 4d6 necrotic damage. You can use this ability once, regaining the ability to do so when you finish a short or long rest.
 
 ___
 
@@ -176,31 +173,35 @@ Any level 20 Ashford character that willingly binds themselves into the service 
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** none
-- **Skills:** Choose 1 from Insight or Perception. (If you are already proficient in both, you instead gain a proficiency in any skill of your choice).
+- **Saving Throws:** Choose one from Constitution, Wisdom, or Charisma.
+- **Skills:** Religion. If you already have proficiency in Religion, you double your proficiency bonus when you add it to a Religion check. If you already do so, you can add 1d4 to any Religion check you make.
 
-### Divine Blessing					
-At 21st level, you choose a benevolent god that grants you a sliver of their divinity. Choose a [blessing](blessings.md) that your patron grants you. 
+
+### Angelic Weapons					
+At 21st level, your attacks become shrouded in a sheath of divine light, as the power of your deity radiates out from your hands. When you deal damage by hitting with an attack roll, for a weapon attack or spell attack, all creatures within 5 feet of the target, including the original target, take 2d6 radiant damage.
 
 ### Endless Worship				
-Also at 21st level, *Your devotion to your patron can sustain you while you worship them*. At the end of each long rest you can perform a ritual of worship. When you do so, for the next 24 hours you are immune to the frightened condition, no longer need food or water, you pause your aging, and you can't be aged magically. If you perform this ritual on desecrated ground, it fails and you must wait until your next long rest to try again.
+Also at 21st level, your devotion to your patron has garnered special attention, even amongst their most ardent followers. As such, they grant you an additional measure of divine power. You always have the Bless and Death Ward spells cast upon you as if cast at 9th level, and you do not need to maintain concentration on this effect. If the Death Ward spell from this feature is activated, it is recast upon you after one minute or the conclusion of the combat.
 
 ### Healing Touch
-At 22nd level, *your touch can extend the benevolence of your god to fill others with vigor and life*. As an Action you can touch a creature other than yourself, the target magically regains 4d8 hit points and is freed from any curse, disease, poison, blindness, or deafness.
-
-You can use your Healing Touch a number of times equal to your proficiency bonus and you regain all expended uses when you finish a long rest.
+At 22nd level, your touch can extend the benevolence of your god to fill others with vigor and life. Once per turn when you move within 5 feet of a creature on your turn, you can grant it one of the following effects:
+- The creature regains 4d8 hit points.
+- The creature can immediately take the Attack or Multiattack action.
+- One condition the creature has upon itself is removed. You can only remove one level of exhaustion in this way at a time.
 
 ### Divine Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
-### Angelic Weapons					
-At 24th level, *your attacks become shrouded in a sheath of divine light, as the power of your deity radiates out from your hands*. When you deal damage by hitting with an attack roll, for a weapon attack or spell attack, that attack deals 1d6 additional radiant damage.
+### Divine Blessing					
+At 24th level, you choose a benevolent god that grants you a sliver of their divinity. Choose a [blessing](blessings.md) that your patron grants you. 
 
 ### Angelic Form
 At 25th level, you also become resistant to fire and radiant damage. 
 
-You also grow a pair of angelic wings, granting you a flying speed equal to your walking speed. You can use a bonus action to hide or manifest the wings. Any armor or clothing you wear must be designed to accomodate the wings or be torn apart when the wings are summoned. If you already had wings, this extra pair will appear behind your original and increases your existing flying speed by 10 feet.
+Additionally, you grow a pair of angelic wings, granting you a flying speed equal to your walking speed or 60 ft., whichever is higher. You can use a bonus action to hide or manifest these wings. Any armor or clothing you wear must be designed to accomodate the wings or be torn apart when the wings are summoned. If you already have wings, this extra pair will appear behind your original wings, and your flying speed is increased by 30 feet.
+
+When you summon these wings, all creatures of your choice within 60 feet of you must make a Wisdom saving throw against your spell save DC (or 8 + your Wisdom modifier + your proficiency bonus if you do not have one), becoming charmed or frightened by you on a failed saving throw. A creature affected in this way can repeat the saving throw at the end of each of its turns. On a successful saving throw, it is immune to this effect for 24 hours.
 
 ___
 
@@ -209,28 +210,40 @@ ___
 
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
-| Prestige | 450,000   | +7 | 1st Corrupted Boon |
-| 22       | 600,000   | +7 | Variable Resistance (1/day) |
+| Prestige | 450,000   | +7 | Demonic Strength |
+| 22       | 600,000   | +7 | Variable Resistance |
 | 23       | 805,000   | +7 | Ability Score Improvement	|
-| 24       | 1,100,000 | +7 | 2nd Corrupted Boon |
-| 25       | 1,500,000 | +8 | Variable Resistance (2/day) |
+| 24       | 1,100,000 | +7 | First Corrupted Boon |
+| 25       | 1,500,000 | +8 |  |
 		
 ### Prestige Class Prerequisites:					
 Any level 20 Ashford character that accepts a contract with a devil or decides to imbibe demonic ichor.
 
-There is no Alignment prerequisite for this Prestige Class, but power corrupts, eventually. It starts off very subtle, some champions manage to resist it for a long time. But the call gets gradually more persuasive and insidious. Will you live long enough to see yourself become the villain?
+There is no Alignment prerequisite for this Prestige Class, but power corrupts, shifting your alignment to Evil. 
 
 ##### Hit Points
 - **Hit Dice:** 1d8	
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** none
-- **Skills:** Choose 1 from Deception or Intimidation. (If you are already proficient in both, you instead gain a skill of your choice)
+- **Saving Throws:** Choose one from Constitution, Strength, or Charisma.
+- **Skills:** Choose one from Deception or Intimidation. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
-### 1st Corrupted Boon
-At 21st level, you may take one [boon](boons.md).
-Choose whether your boon comes from a deal with a devil or from being infected with demonic taint. Your new found fiendish power gives you a permanent magic aura detectable by effects like Divine Sense, hinting at your connection to the lower planes.  This also has a minor effect on your appearance. Choose (or roll) from the table below for what changes.
+### Demonic Strength
+At 21st level, you add your Charisma modifier (minimum 1) to any attack roll, saving throw, or ability check you make using your Strength modifier. Additionally, whenever you hit a creature with an attack, it must make a Wisdom 
+
+### Variable Resistance (1/Day)
+At 22nd level, as a reaction when you make a saving throw against an effect that deals acid, cold, fire, lightning, necrotic, poison or thunder damage, you can give yourself advantage on the saving throw. Additionally, you have advantage on any saving throw you make against any effect that does that same damage type until you finish a long rest. Finally, you have resistance to that damage type for the same duration.
+
+You can use this ability once and regain it when you finish a long rest.
+
+### Fiendish Ability Score Improvement					
+At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
+Alternatively, you can take a feat.	
+
+### Corrupted Boon
+At 24th level, you may take one [boon](boons.md).
+Choose whether your boon comes from a deal with a devil or from being infected with demonic taint. Your new found fiendish power gives you a permanent magic aura detectable by effects like Divine Sense, hinting at your connection to the lower planes. This also has a minor effect on your appearance. Choose (or roll) from the table below for what changes.
 
 
 <div style='column-count:2'>
@@ -253,45 +266,8 @@ Choose whether your boon comes from a deal with a devil or from being infected w
 
 </div>
 
-### Variable Resistance (1/day)
-At 22nd level, as a reaction when you make a saving throw against an effect or spell that deals acid, cold, fire, lightning, necrotic, poison or thunder damage, you can give yourself advantage on that save. When you use this reaction, you have advantage on all saves vs. effects or spells that deal that damage type until the end of your next long rest.
-
-You can use this ability once and regain it when you finish a long rest.
-
-### Fiendish Ability Score Improvement					
-At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
-Alternatively, you can take a feat.	
-
-### 2nd Corrupted Boon
-At 24th level, you may take an additional [boon](boons.md).
-
-Embracing your unholy gifts reflects your fiendish nature in your appearance even more. Using the type of fiend you chose at 21st level, pick from the relevant table below, or roll, to determine how your appearance changes.
-
-
-<div style='column-count:2'>
-
-|  d6 | Demonic Appearance |
-|:---:|:------------|
-|  1  | Single horn on forehead |
-|  2  | Three fingers (including thumb) |
-|  3  | Arms six inches longer than normal |
-|  4  | Extremely small nose |
-|  5  | Spiny ridges all over body |
-|  6  | Body covered in short fur or long hair |
-
-|  d6 | Devilish Looks |
-|:---:|:------------|
-|  1  | Horns on forehead/temples |
-|  2  | Six fingers (including thumb) |
-|  3  | Legs six inches longer than normal |
-|  4  | Extremely long nose |
-|  5  | Spiny ridge on back |
-|  6  | Fingers one inch longer than normal |
-
-</div>				
-
 ### Variable Resistance (2/day)
-At 25th level, you can use your Variable Resistance up to 3 times per long rest and regain all 3 uses when you finish a long rest. Each time you use it, you should choose a different damage type.
+At 25th level, you can use your Variable Resistance up to 3 times per long rest and regain all 3 uses when you finish a long rest. Each time you use it, you must choose a different damage type.
 
 
 ___
