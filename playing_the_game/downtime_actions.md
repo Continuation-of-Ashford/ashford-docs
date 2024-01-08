@@ -38,7 +38,7 @@ When multiple players contribute to the construction of a settlement or building
 A settlement can construct any building of it's own tier or lower.
 The first time any building has downtime spent building it, that character must pay the full listed cost of its construction.  No further payment is required to continue construction.
 
-Settlement buildings can also be destroyed. Doing so incurs a cost in gold and downtimes equal to 1/4th the building's original cost (minimum 1 downtime rounded up, minimum 125gp rounded up to nearest 5gp increment).
+Settlement buildings can also be destroyed. Doing so incurs a cost in gold and downtimes equal to 1/4th the building's original cost (minimum 1 downtime and 125 gp).
 
 The cost of destruction is paid by the settlement owner and distributed equally to any players other than the settlement owner who contributed to the building's original construction costs.
 
@@ -87,9 +87,9 @@ Copying a spell into your spellbook involves reproducing the basic form of the s
 
 For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
 
-You may spend up to `two (2)` hours per day copying spells into your spellbook *without consuming a downtime*, up to a `maximum of 14 hours per downtime`. 
+You may spend up to `2` hours per day copying spells into your spellbook *without consuming a downtime*, up to a `maximum of 14 hours per downtime`. If you choose to spend your downtime copying spells, you may spend up to `10` hours a day to a maximum of `70 hours per downtime`.
 
-If your character needs less than 8 hours of sleep, such as a character with Sentry's Rest, Trance or Undying Nature, you may add those hours to copying spells for 4 hours and 6 hours respectively, up to 32 hours or 42 hours. 
+If your character needs less than 8 hours of sleep, such as a character with Sentry's Rest, Trance or Undying Nature, you may add those extra hours you can spend awake to the number of hours per day you may spend copying spells. 
 
 If you wish to spend your downtime on copying spells, your base time increases to 56 hours, which can be further increased by not needing to sleep as above.
 
@@ -111,7 +111,7 @@ In addition, you may silver a non-magical weapon or ten pieces of non-magical am
 
 ### Education
 ###### Requires a University building in settlement
-You receive education at a university for a language or tool to gain proficiency. This typically takes 10 downtimes, but this time is reduced by a number of downtimes equal to your character's Intelligence modifier if positive at a minimum of 1 downtime. Education in these classes requires a fee of 25gp per downtime.
+You receive education at a university for a language or tool to gain proficiency. This takes a number of downtimes equal to `10 minus your intelligence modifier` (minimum 1 downtime). Education in these classes requires a fee of 25gp per downtime.
 
 ### Gambling
 ###### Optionally enabled by an Establishment's Demesne Effect
@@ -122,7 +122,7 @@ You spend a downtime mingling with those who find thrill or opportunity in games
   * `Charisma (Deception)`, 
   * and `Charisma (Intimidation)` or `Charisma (Persuasion)`. 
 * If the character has proficiency with a gaming set, one of the checks can be replaced with one using that tool. 
-* You can additionally roll a `Dexterity (Sleight of Hand)` which adds a +5 to the DC at levels 3 to 10 and a +10 at levels 11 to 20.
+* You can roll an additional check using `Dexterity (Sleight of Hand)` first. If you choose to do so, the DC for all the checks increases by +5, or by +10 if you are 11th level or higher.
 
 #### Skill Checks 
 The DCs are as follows per level bracket, rolled for each check independently by the DM:
@@ -190,37 +190,47 @@ Creatures you tame must live in the environment of the settlement you take the d
 
 ### Crafting a Magic Item
 ###### Requires the Enchanter or Arcane building relevant to item type
-You spend a downtime investing funds and attention into enchanting a magical item, doing so requires either proficiency in the Arcana skill or a relevant tool. 
+You spend a downtime investing funds and attention into enchanting a magical item.
 
-* Using the table below, buying materials for the item will cost ***half of the rolled price*** and items rare or higher require specific relevant components as well. 
+* Using the table below, buying materials for the item will cost the rolled price for the rarity of the item. This price must be paid before any downtimes can be spent to craft the item. Also note the Special Costs section.
   * After rolling a price you have the option to not pay it and not proceed with the crafting, but your downtime is spent.
 * If the item is an enchanted version of a non-magical item, that mundane item must also be provided as a component of the enchanting process. 
-* Common items or 2 consumable common items can be completed in one downtime without a skill check.
-* You cannot create Legendary items. 
+* Common items can be completed in one downtime without a skill check.
 
 #### Gold Cost
 
 | Rarity    | Price Formula     |
 | --------- | ----------------- |
-| Common    | `(1d8+2) * 10`    |
-| Uncommon  | `(1d10+2) * 50`   |
-| Rare      | `(2d10+2) * 250`  |
-| Very Rare | `(2d10+2) * 2500` |
+| Common    | `(1d8+2) * 5`    |
+| Uncommon  | `(1d10+2) * 25`   |
+| Rare      | `(2d10+2) * 125`  |
+| Very Rare | `(2d10+2) * 1250` |
 
 #### Special Costs
+* In addition to gold, Rare and Very Rare items require you to pay a component of equal rarity. These components may be recycled from other weapons (See Below) or received as loot for completing sessions.
 * Wondrous items cost an additional 1.5 * rolled price.
-* Ammunition items and weapons with the thrown property that lack a melee attack (Arrows, Bolts, Darts, Blowgun Darts, Sling Bullets, Renaissance Bullets) are crafted in batches of up to 20, at the cost of crafting a single consumable item of that rarity.
+* Ammunition items and weapons with the thrown property that lack a melee attack (Arrows, Bolts, Darts, Blowgun Darts, Sling Bullets, Renaissance Bullets) are crafted in batches of up to 20, at the cost of crafting a consumable item of that rarity.
 
 > * When you provide the non-magical item to enchant, in the form of a weapon or pieces of ammunition you can pay an additional `1000`gp to make it an Adamantine weapon or ammunition in addition to enchanting it.
 
 #### Downtime Cost
-Taking the original price, divide it by 25 for uncommon, 50 for rare or 200 for very rare. Keep track of this number. Each downtime used, you make a skill check using Arcana or a relevant tool and subtract it from the above, carrying this new number forward if it is not 0. When the number reaches 0 the item is complete.
+Taking the original price, divide it by 12.5 for uncommon, 25 for rare, or 100 for very rare. Keep track of this "Total Crafting DC." Each downtime used, you make a skill check using Arcana or a relevant tool and add it to the total progress you have made for crafting this item. When the total progress equals the Total Crafting DC, the item is complete.
+
+The appropriate tools are (generally) as follows. If you are not sure, ask the DM or a Big Mans for a ruling.
+* (Intelligence) Alchemist's Supplies: Poisons, Potions
+* (Constitution) Brewer's Supplies: Potions
+* (Dexterity) Cobbler's Tools: Footwear (i.e. Boots of Speed)
+* (Dexterity) Jeweler's Tools: Jewelry (i.e. rings of protection)
+* (Strength or Dexterity) Leatherworker's Tools: Saddles, Light Armor
+* (Strength) Smith's Tools: Heavy Armor, Medium Armor, Weapons, Shields, other metallic items (i.e. guantlets of ogre strength)
+* (Dexterity) Weaver's Tools: Items made predominantly from cloth (i.e. Robe of Eyes, Cloak of Protection)
+* (Strength or Dexterity) Woodcarver's Tools: Items made predominantly from wood (i.e., a broom of flying)
 
 ### Scrapping a Magic Item
 ###### Requires the Enchanter or Arcane building relevant to item type
 Occasionally, the party may find a magic item they can find no use or buyers for. In this case, it is prudent to extract its core components to recycle them into a more useful items.
 
- "Grinding up" an item into Residuum in such a way requires 3 downtimes for a rare item or 6 downtimes for a very rare item. It also costs gold equal to half the price required to craft an item of the same rarity (i.e., `(2d10+2) * 62.5` for Rare and `(2d10+2) * 625` for Very Rare).
+ "Grinding up" an item into Residuum in such a way requires 3 downtimes for a Rare item or 6 downtimes for a Very Rare item. You also must pay `(2d10+2) * 62.5` gold for a Rare item or `(2d10+2) * 625` for a Very Rare item.
 
 The resulting Residuum is a magical crafting component of an equal rarity to the item that was destroyed.
 
@@ -228,7 +238,7 @@ The resulting Residuum is a magical crafting component of an equal rarity to the
 ###### Requires the smith building relevant to the mundane item type
 ###### Requires the Enchanter or Arcane building relevant to the magic item type
 ###### Requires a guild feat or establishment in the settlement to provide artisans
-Sometimes a character lacks the talent (or the patience) to craft an item by themselves. In these cases, they may use their downtime to contract others to construct the item for them. This downtime can be used to hire crafters for mundane or magical items, though nothing can be done if the settlement lacks a building to allow that type of crafting. 
+Sometimes a character lacks the talent (or the patience) to craft an item by themselves. In these cases, they may use their downtime to contract others to construct the item for them. This downtime can be used to hire crafters for mundane or magical items on your behalf.
 Hiring artisans incurs additional fees on top of the normal crafting costs. 
 This functions the same as the [Crafting a Magic Item](#crafting-a-magic-item) and [Crafting a Mundane Item](crafting-a-mundane-item) downtimes, except you substitute the artisan's roll for your own when making progress towards the required total check result.
 
@@ -246,4 +256,4 @@ The quality of artisans willing to work for you depends on your level bracket.
 #### When a character reaches level 17, they can begin a search for a legendary magical item.
 To begin a legendary search, write a request in the [#Legendary Search Request Channel](https://discord.com/channels/638910062244528158/772629967087075338).  The request can be for any item of Legendary rarity.  Alternatively, with Big Mans approval, you can work with a DM to search for an upgraded version of an item of lesser rarity that would make it qualify as Legendary, an entirely homebrewed item, or something else of equal value.  
 Finding your legendary item will take 1d6+6 Legendary Search downtimes.  The DM that accepts your request will roll this number in secret.  Every 2-3 downtimes, the sponsoring DM will run a session for your character in their quest to find their item.  You cannot take any Legendary Search downtimes while until this session is completed.
-As an example, Joe Blow wants the CLoak of Invisibility.  He writes a request that is accepted by a DM, who then rolls that it will take 8 downtimes to find the item.  Joe completes 2 Legendary Search downtimes.  His DM tells him that he will have to complete a session to find a source of information for the item.  He cannot complete his 3rd Legendary Search downtime until that session is completed.  When Joe completes 5 downtimes, his DM tells him he needs to complete a session to find the temple where the cloak is hidden, and cannot complete any more downtimes until that session is completed.  When Joe completes his 8th Legendary Search downtime, his DM runs the final session where Joe goes into the temple and receives his prize.
+As an example, Joe Blow wants the CLoak of Invisibility.  He writes a request that is accepted by a DM, who then rolls that it will take 8 downtimes to find the item.  Joe completes 2 Legendary Search downtimes.  His DM tells him that he will have to complete a session to find a source of information for the location of the item.  He cannot complete his 3rd Legendary Search downtime until that session is completed.  When Joe completes 5 downtimes, his DM tells him he needs to complete a session to find the temple where the cloak is hidden, and cannot complete any more downtimes until that session is completed.  When Joe completes his 8th Legendary Search downtime, his DM runs the final session where Joe goes into the temple and receives his prize.
