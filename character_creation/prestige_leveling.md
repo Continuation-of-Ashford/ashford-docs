@@ -72,12 +72,12 @@ At 21st level, your magic items are bolstered by your legend. When you finish a 
 - While the magic item is on your person, when you take the Dash action, you can make one weapon attack with the item at the start or conclusion of your movement. 
 
 ### Immortality?
-A Legendary Hero has performed deeds worthy of legend. Their legend, will last forever. As the legend is retold and spreads it strengthens the hero's legacy for each person that hears it.
+Starting at 22nd level, your deeds are immortalized in legend. As the legend is retold and spreads it strengthens the hero's legacy for each person that hears it.
 
 Any creature which knows the Resurrection or True Resurrection spell can cast the spell, targeting a repository of your legend (determined by the DM, usually a tome or epic) instead of the body of a dead creature as long as you are willing or dead. When they do so, a creature using your stat block is created in an unoccupied space within 5 feet of the repository. You can choose to take control of this creature, relinquishing control of your current character if applicable. If you choose to take control of this creature, up to one magic item integral to your legend appears with this creature. If the original item still exists, it is destroyed.
 
 ### Additional Attack
-Once per turn when you make a weapon attack, you can make an additional weapon attack.
+Starting at 23rd level, once per turn when you make a weapon attack, you can make an additional weapon attack.
 
 ### Mythic Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -124,7 +124,7 @@ In order to become a lich you must bargain for the secret rituals with a being o
 At 21st level, you perform a ritual to kill your living body and trap your soul within a phylactery. You are now an Undead.   
 A phylactery is traditionally an amulet in the shape of a small box, but it can take the form of any item possessing an interior space into which arcane sigils of naming, binding, immortality, and dark magic are scribed in silver.
 
-If you are killed, your body reforms within your phylactery 2d10 days after your death, unless your phylactery is destroyed. During the next session your character participates in, you have disadvantage on any downtime checks to represent the time spent reforming your body.
+If you are killed, your body reforms within your phylactery 2d10 days after your death unless your phylactery is destroyed. During the next session your character participates in, you have disadvantage on any downtime checks to represent the time spent reforming your body.
 
 Because your phylactery is your soul's primary container, your body is expendable. At any time, you can use an action to cause  your body to self-destruct in an earth-shaking burst of pure Weave energy. At the end of your next turn, you are reduced to 0 hit points and your body is destroyed. This effect cannot be prevented through the Death Ward spell or similar effects. Additionally, all creatures within 30 feet of you when you take this action in this way must make a Charisma saving throw against your spell save DC. On a failed saving throw, a creature takes 20d6 force damage and is stunned until the end of its next turn. On a successful saving throw, the creature takes half damage and is not stunned. When you die in this way, your soul lingers in the area until the end of the session, upon which it returns to your phylactery. It cannot be removed from this state in any way, excepting by entering a reformed body after using your phylactery. While in this state, you you suffer the following effects:
 
@@ -467,8 +467,6 @@ Alternatively, you can take a feat.
 ### Craftable Boon
 At 24nd level, you upgrade your body to incorporate a [boon](boons.md).
 
-You can spend 1 downtime and a rare magic item component to swap this boon for a different boon. 
-
 ### You V.2
 At 25th level, *building on everything you've learned from overhauling your body the first time, there is still so much room for further improvements!* You upgrade each magic item within your body to a more efficient version. Gaining multiple benefits:
 
@@ -477,11 +475,61 @@ At 25th level, *building on everything you've learned from overhauling your body
 - For each unused attunement slot you possess you gain a +1 bonus to AC and Saving throws.
 - Choose one Transmutation spell that can only affect one creature and has a duration of at least one minute. That spell is permanently cast upon you cannot be dispelled, and does not require concentration.
 
-
 ____
 
-## Planned: Alchemical enhancement themed Prestige option
+## Lichenlich
+Rather than imprison their souls within a phylactery, some pursue immortalilty by giving up their souls to nature. In return, their undead remains are animated by moss, fungus, and other plants that feed on death. 
 
+<div class='classTable'>
+
+| Level    | XP Requirement   | PB | Features |
+|:--------:|----------:|---:|:---------|
+| Prestige | 450,000   | +7 | Undying Guardian |
+| 22       | 600,000   | +7 | Wrath of Nature |
+| 23       | 805,000   | +7 | Mossy Ability Score Improvement	|
+| 24       | 1,100,000 | +7 | Nature's Boon |
+| 25       | 1,500,000 | +8 | Spore Cloud |
+</div>
+
+###Prestige Class Prerequisites:
+Any level 20 Ashford character that has devoted their lives to defending nature.
+
+##### Hit Points
+- **Hit Dice:** 1d8	
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
+
+##### Bonus Proficiencies
+- **Saving Throws:** Choose one from Strength, Wisdom, or Intelligence. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Skills:** Choose one from Animal Handling, Medicine, Nature, or Survival. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
+
+### Undying Guardian
+At 21st level, your vitality has been integrated into your druid grove, up to one square mile of land you personally guard. You are now a Plant.
+
+If you are killed, your body reforms within your druid grove 2d10 days after your death unless your druid grove is destroyed. During the next session your character participates in, you have disadvantage on any downtime checks to represent the time spent reforming your body. Because you have already given your soul up to pursue this form of undeath, you are immune to any effect that would prevent your resurrection.
+
+Due to your form, you gain the following benefits.
+
+- You gain resistance to bludgeoning, piercing, and slashing damage from nonmagical sources.
+- If your body is in contact with the ground, you regenerate 1 hit point at the start of a turn.
+
+### Wrath of Nature
+Starting at 22nd level, you add your Wisdom modifier to any attack rolls, ability checks, or saving throws you make using your Strength or Consitution modifier. 
+
+Additionally, you can utilize the vines, branches, and roots on your body to make attacks. You gain access to the following attack. If you're able to make multiple attacks with the Attack action, this attack replaces one of them.
+
+##### Slam. Melee Weapon Attack: your proficiency bonus + your Strength modifier to hit, reach 30 ft., one target. Hit: 6d8 + your Strength modifier bludgeoning damage. On a hit, the target is grappled by you (escape DC equal to 8 + your Strength or Wisdom modifier (your choice) + your proficiency bonus). While grappled in this way, the target is restrained. 
+
+### Mossy Ability Score Improvement					
+At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1 by weaving additional powerful effects into your body. These ASI options can increase a score over 20.
+Alternatively, you can take a feat.	
+
+### Nature's Boon
+At 24nd level, the nature spirits you guard grant you a [boon](boons.md).
+
+### Spore Cloud
+Starting at 25th level, your body is host to fungi which produce necrotic spores. As a bonus action, you can cause these fungi to radiate spores in a 15-foot radius around you. When a creature enters this area for the first time on a turn or begins its turn within the area, it must make a Constitution saving throw, the DC of which is equal to your spell save DC, or if you do not have a spell save DC, 8 + your proficiency bonus + your Constitution modifier. On a failed saving throw, a creature takes 3d8 necrotic damage and is affected by the poisoned condition for one minute. On a successful saving throw, a creature takes half damage and is not poisoned. If a creature which was poisoned in this way ends its turn while not inside this area, it can repeat the saving throw, ending the condition on a successful saving throw. 
+
+As an action, you can cause these fungi to produce immunizing spores. All creatures of your choice within 30 feet of you when you take this action automatically succeed any saving throws against this feature and take no damage on a successful saving throw. In addition, immunized creatures have advantage on saving throws against the poisoned condition until they complete a long rest.
 ____
 
 ## Paths of Power
