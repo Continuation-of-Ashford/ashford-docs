@@ -61,26 +61,23 @@ Any level 20 Ashford character that is able to use downtimes. (You cannot choose
 
 ##### Bonus Proficiencies
 - **Saving Throws:** Choose one ability score whose saving throws you do not add your proficiency bonus to. You gain proficiency in that ability score.
-- **Skills:** Choose one skill you are not already proficient in. 
+- **Skills:** Choose one skill. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
-### Legendary Skill					
-At 21st level, you gain the skill and saving throw proficiencies listed above.   
-In addition, your prowess at one particular skill becomes renowned for your impossible feats. Choose one skill you are proficient in. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency. You cannot choose a skill that already adds double your proficiency bonus to it.
+### Legendary Item		
+At 21st level, your magic items are bolstered by your legend. When you finish a long rest, you can choose one magic item you possess, the rarity of which is increased to Legendary and you cannot be unattuned to the item. Additionally, the item gains one of the following benefits. 
+
+- When you make an weapon attack with the chosen magic item, you have advantage on the attack roll of you have an allied creature within 5 feet of you. Additionally, that allied creature has advantage on all weapon attack rolls they make while within 5 feet of you. 
+- The magic item chosen gains a number of charges equal to your proficiency bonus. When you cast a spell using the item as a spell focus, you can expend any number of charges. The spell is then upcast by an amount equal to the number of charges expended, up to 6th level. This magic item regains all charges when you complete a long rest.
+- While the magic item is on your person, your maximum and current hit points increase by 50.
+- While the magic item is on your person, when you take the Dash action, you can make one weapon attack with the item at the start or conclusion of your movement. 
 
 ### Immortality?
 A Legendary Hero has performed deeds worthy of legend. Their legend, will last forever. As the legend is retold and spreads it strengthens the hero's legacy for each person that hears it.
 
-Any creature which knows the Resurrection or True Resurrection spell can cast the spell, targeting a repository of your legend (determined by the DM, usually a tome or epic) instead of the body of a dead creature. When they do so, a creature using your stat block and one magic item you are known for using is created in an unoccupied space within 5 feet of the tome. You can choose to take control of this creature, relinquishing control of your current character if applicable. 
+Any creature which knows the Resurrection or True Resurrection spell can cast the spell, targeting a repository of your legend (determined by the DM, usually a tome or epic) instead of the body of a dead creature as long as you are willing or dead. When they do so, a creature using your stat block is created in an unoccupied space within 5 feet of the repository. You can choose to take control of this creature, relinquishing control of your current character if applicable. If you choose to take control of this creature, up to one magic item integral to your legend appears with this creature. If the original item still exists, it is destroyed.
 
-This new body is usually bolstered in one way by your legend, gaining one of the following benefits.
-- Attacks made using the magic weapon created through the usage of this feature 
-
-### Blessing					
-At 22nd level, you gain a [blessing](blessings.md). Some blessings are named who they came from. Unnamed blessings are most often bestowed by Celestials, but your Blessings might come from other sources, such as Fey, Fiends, Titans(giants) or Primordials(elementals). 
-
-When you gain this feature, choose where your blessing came from. 
-
-After you reveal the source of you blessing to a creature, you have advantage on Persuasion checks if its creature types matches the source of your blessing, or Intimidation checks if its creature type matches any of the others in this feature.
+### Additional Attack
+Once per turn when you make a weapon attack, you can make an additional weapon attack.
 
 ### Mythic Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -120,8 +117,8 @@ In order to become a lich you must bargain for the secret rituals with a being o
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Intelligence, Wisdom, or Charisma.
-- **Skills:** Arcana. If you already have proficiency in Arcana, you double your proficiency bonus when you add it to an Arcana check. If you already do so, you can add 1d4 to any Arcana check you make.
+- **Saving Throws:** Choose one from Intelligence, Wisdom, or Charisma. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Skills:** Choose one from Arcana, History, Medicine, or Religion. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Phylactery		
 At 21st level, you perform a ritual to kill your living body and trap your soul within a phylactery. You are now an Undead.   
@@ -177,8 +174,8 @@ Any level 20 Ashford character that willingly binds themselves into the service 
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Constitution, Wisdom, or Charisma.
-- **Skills:** Religion. If you already have proficiency in Religion, you double your proficiency bonus when you add it to a Religion check. If you already do so, you can add 1d4 to any Religion check you make.
+- **Saving Throws:** Choose one from Constitution, Wisdom, or Charisma. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Skills:** Choose one from History, Insight, or Religion. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 
 ### Angelic Weapons					
@@ -234,8 +231,8 @@ There is no Alignment prerequisite for this Prestige Class, but power corrupts, 
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Constitution, Strength, or Charisma.
-- **Skills:** Choose one from Deception or Intimidation. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
+- **Saving Throws:** Choose one from Constitution, Strength, or Charisma. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Skills:** Choose one from Deception or Intimidation. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Demonic Strength
 At 21st level, your Charisma score is increased to 20 if it is not already higher. Additionally, you add your Charisma modifier (minimum 1) to any melee attack attack roll, saving throw, or ability check you make using your Strength modifier. If you hit a creature with an attack roll that uses your Strength modifier for its attack and damage rolls, you can move the target up to 15 feet in a direction of your choice.
@@ -280,8 +277,8 @@ Any level 20 Ashford character that seeks power from primordial magic, embracing
 - **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Strength, Constitution, or Dexterity.
-- **Skills:** Choose one from Athletics, Acrobatics, or Survival. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
+- **Saving Throws:** Choose one from Strength, Constitution, or Dexterity. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Skills:** Choose one from Athletics, Acrobatics, or Survival. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Magnificent Beast
 At 21st level, your type changes to include shapechanger. As an Action, you can transform into a hybrid beast form, a fully bestial form, or back to your humanoid form. Your bestial form represents not a single animal, but the primordial of all predators, and incorporates aspects of every great beast at the same time. 
@@ -349,8 +346,8 @@ Any level 20 Ashford character that has an ally in one of the courts of the fey.
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Intelligence, Wisdom, or Charisma.
-- **Skills:** Choose one from Deception, Persuasion, Insight, or Performance. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
+- **Saving Throws:** Choose one from Intelligence, Wisdom, or Charisma. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Skills:** Choose one from Deception, Persuasion, Insight, or Performance. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Eternal King on an Eternal Throne
 At 21st level, when you die, an older and more regal version of yourself steps from the mists of time to take your place. This version of you from a possible future, and is a separate creature that appears within 5ft of you. This version of yourself then either absorbs your present self or allows your present self to absorb it. Regardless of the process, you instantly regain all hit points and can immediately take a turn. You can use this feature once per session.
@@ -394,29 +391,30 @@ Any level 20 Ashford character that can cast spells from the Illusion school at 
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose 1 from Charisma, Intelligence or Wisdom.
-- **Skills:** none
+- **Saving Throws:** Choose 1 from Charisma, Intelligence or Wisdom. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Skills:** Pick one from Deception or Performance. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Illusion of a Boon					
-At 21st level, creatures with truesight cannot see through your illusions.
+At 21st level, creatures with truesight cannot see through your illusions. 
+
+Additionally, you can use illusions to drag your enemies into an unreal world of fantasy. You learn the Silent Image spell and become able to cast the spell at will, using your spellcasting ability score to do so. When you cast the Silent Image spell, all creatures within the area affected by the spell must make a Wisdom saving throw against your spell save DC. On a failed saving throw, a target must take the Attack action against the nearest creature hostile to you which is not itself on each of its turns for the next minute. At the end of each of its turns, the creature can repeat this saving throw, ending this effect on a successful saving throw. If a creature succeeds a saving throw against this feature, it becomes immune to the feature for the next 24 hours. 
 
 ### Life's Illusion
-At 22nd level, When you die, you can choose for it to be a magical trick. *In fact, you only seemed to die. Your enemy killed a perfect illusion of you, while you stood at a safe distance.* Choose a space you can see that is exactly 50ft from where you died, the real you is in that space and you have full hit points. The illusion of the dead you then disappears. You can use this ability once per session.
+At 22nd level, you have set up many contingencies in the case of your fall in battle. Whenever you fall to 0 hit points, you can activate one of these contingencies, teleporting yourself to an unoccupied location within 50 feet of yourself, and causing an illusion of you to take your place. After teleporting, you become invisible and are hidden from creatures hostile to you until you take an action or one minute passes, whichever comes first.
+
+A creature which interacts with the illusion of you or takes an action to make an Investigation check to determine an illusion against your spell save DC is immediately aware that it is an illusion. 
+
+Once you use this feature, you cannot use it again until you roll initiative.
 
 ### Fake Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
-### Figment Step
-At 24th level, *The attack, the creature, and even your own physical form are not real. Change the story, and you change reality.*   
-When a creature you can see targets you with an attack or spell or includes you in an AoE, you can trick the creature as a reaction. 
-The action the creature was taking does nothing. Spell Slots or Charges spent on it are refunded. 
-This is not an illusion, but a deception. Creatures that cannot be deceived, or that are reading your mind, are immune to this effect.
-
-You can use this ability once, and regain use of it at the end of a long rest.
+### Illusory Boon
+At 24th level, you create an illusion of a blessing which fools the world into granting you the benefits of such. Choose a [blessing](blessings.md). 
 
 ### Never Really There
-At 25th level, you take no damage if you succeed on a saving throw against an effect that would deal half damage on a successful save.
+At 25th level, when you are subjected to an effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail. If you have the Evasion feature, you use a reaction when you make a Dexterity saving throw to grant that feature to all creatures of your choice within 30 feet.
 
 ____
 
@@ -428,9 +426,9 @@ ____
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Engine of Agony |
-| 22       | 600,000   | +7 | Craftable Boon |
+| 22       | 600,000   | +7 | Invulnerable Anatomy |
 | 23       | 805,000   | +7 | Ability Score Improvement	|
-| 24       | 1,100,000 | +7 | Invulnerable Anatomy |
+| 24       | 1,100,000 | +7 | Craftable Boon |
 | 25       | 1,500,000 | +8 | You V.2 |
 </div>
 		
@@ -439,39 +437,37 @@ Any level 20 Ashford character that can benefit from double their proficiency bo
 
 ##### Hit Points
 - **Hit Dice:** 1d10	
-- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per prestige level
+- **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** none
-- **Skills:** none
-- **Tools:** All Artisan's Tools
+- **Saving Throws:** Choose one from Strength, Constitution, or Intelligence. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Skills:** Choose one from Arcana, Investigation, or Medicine. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
-### Engine of Agony
-At 21st level, *you begin replacing parts of your body with magical items you've crafted.* These are magic items of Artifact rarity. Like any Artifact, they are unaffected by Anti-magic field and can be destroyed only using the tools that created them. *Upgrading everything will be a slow and very painful process* and the mundane parts of your body you have yet to replace remain susceptible to damage.
+### Mortal Engine
+At 21st level, you begin replacing parts of your body with magical items you've crafted. These are magic items of Artifact rarity. Like any Artifact, they are unaffected by Anti-magic fields and can be destroyed only using the tools that created them. The mundane parts of your body you have yet to replace remain susceptible to damage.
 
-Using the Activate Magic Item action your Artifact body allows you to reproduce the effects of several 1st and 2nd level spells. You cast 3 spells at once, from the list below. This does not require any spell slots and does not require concentration. Spells you cast in this way can only affect yourself.
-
-| 1st level spells | 2nd level spells | 
-|:-----------------|:-----------------|
-| 1st Comprehend Languages | 2nd Darkvision       | 
-| 1st Expeditious Retreat  | 2nd Enhance Ability  |
-| 1st Zephyr Strike        | 2nd Levitate         |
-| 1st Jump                 | 2nd See Invisibility |
-| 1st Longstrider          | 2nd Spider Climb     |
+Using the Activate Magic Item action your Artifact body allows you to reproduce the effects of several spells. You cast three 1st or 2nd level spells at once that have a range of touch or self and a duration of at least one minute. This does not require any spell slots and does not require concentration. Spells you cast in this way can only affect yourself.
 
 When you use this feature again, any lingering effects of the previous spells you cast this way end.
 
-### Craftable Boon
-At 22nd level, you upgrade your body to incorporate a [boon](boons.md).
+Finally, over the course of crafting innumerable magic items, your experience has granted you proficiency in all Artisan's Tools.
 
-You can spend 1 downtime and a rare magic item component to swap this boon for a different boon. 
+### Invulnerable Anatomy
+At 22th level, you have replaced enough of your organs to no longer have any that are considered 'vital'. You gain the following benefits.
+- You gain a +2 bonus to Armor Class and Saving Throws. 
+- Any critical hit against you becomes a normal hit.
+- You gain immunity to poison damage and the poisoned and diseased conditions
+- You no longer require food, water, or air to survive.
+- You no longer age.
 
 ### Artifact Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1 by weaving additional powerful effects into your body. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
-### Invulnerable Anatomy
-At 24th level, *you have replaced enough of your organs to no longer have any that are considered 'vital'.* Any critical hit against you becomes a normal hit and you gain immunity to poison damage and the poisoned and diseased conditions. You still can, but don't need to eat, drink, or breathe.
+### Craftable Boon
+At 24nd level, you upgrade your body to incorporate a [boon](boons.md).
+
+You can spend 1 downtime and a rare magic item component to swap this boon for a different boon. 
 
 ### You V.2
 At 25th level, *building on everything you've learned from overhauling your body the first time, there is still so much room for further improvements!* You upgrade each magic item within your body to a more efficient version. Gaining multiple benefits:
@@ -479,6 +475,7 @@ At 25th level, *building on everything you've learned from overhauling your body
 - You gain the Tough feat
 - You can attune to 1 additional item
 - For each unused attunement slot you possess you gain a +1 bonus to AC and Saving throws.
+- Choose one Transmutation spell that can only affect one creature and has a duration of at least one minute. That spell is permanently cast upon you cannot be dispelled, and does not require concentration.
 
 
 ____
