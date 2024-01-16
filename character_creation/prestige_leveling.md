@@ -60,16 +60,20 @@ Any level 20 Ashford character that is able to use downtimes. (You cannot choose
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** 1 saving throw you are not already proficient in
-- **Skills:** 1 skill you are not already proficient in. You can add 1d4 to any roll you make with that skill.
+- **Saving Throws:** Choose one ability score whose saving throws you do not add your proficiency bonus to. You gain proficiency in that ability score.
+- **Skills:** Choose one skill you are not already proficient in. 
 
 ### Legendary Skill					
 At 21st level, you gain the skill and saving throw proficiencies listed above.   
-In addition *your prowess at one particular skill becomes renowned for your impossible feats,* choose one skill you are proficient in. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency. You cannot choose a skill that already adds double your proficiency bonus to it.
+In addition, your prowess at one particular skill becomes renowned for your impossible feats. Choose one skill you are proficient in. Your proficiency bonus is doubled for any ability check you make that uses the chosen proficiency. You cannot choose a skill that already adds double your proficiency bonus to it.
 
 ### Immortality?
-A Legendary Hero has performed deeds worthy of legend. *Their legend, will last forever. As the legend is retold and spreads it strengthens the hero's legacy for each person that hears it.*   
-If the caster of Resurrection or True Resurrection knows your legend, they don't need your soul to resurrect you, *because the spell is able to forge a new soul based on your legend.* A caster that knows your legend also ignores how long you have been dead or undead when resurrecting you.
+A Legendary Hero has performed deeds worthy of legend. Their legend, will last forever. As the legend is retold and spreads it strengthens the hero's legacy for each person that hears it.
+
+Any creature which knows the Resurrection or True Resurrection spell can cast the spell, targeting a repository of your legend (determined by the DM, usually a tome or epic) instead of the body of a dead creature. When they do so, a creature using your stat block and one magic item you are known for using is created in an unoccupied space within 5 feet of the tome. You can choose to take control of this creature, relinquishing control of your current character if applicable. 
+
+This new body is usually bolstered in one way by your legend, gaining one of the following benefits.
+- Attacks made using the magic weapon created through the usage of this feature 
 
 ### Blessing					
 At 22nd level, you gain a [blessing](blessings.md). Some blessings are named who they came from. Unnamed blessings are most often bestowed by Celestials, but your Blessings might come from other sources, such as Fey, Fiends, Titans(giants) or Primordials(elementals). 
@@ -101,7 +105,7 @@ ___
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Phylactery |
 | 22       | 600,000   | +7 | Undead Resilience |
-| 23       | 805,000   | +7 | Ability Score Improvement	|
+| 23       | 805,000   | +7 | Unholy Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Unholy Blessing	 |
 | 25       | 1,500,000 | +8 | Paralyzing Arcana |
 
@@ -121,11 +125,11 @@ In order to become a lich you must bargain for the secret rituals with a being o
 
 ### Phylactery		
 At 21st level, you perform a ritual to kill your living body and trap your soul within a phylactery. You are now an Undead.   
-*A phylactery is traditionally an amulet in the shape of a small box, but it can take the form of any item possessing an interior space into which arcane sigils of naming, binding, immortality, and dark magic are scribed in silver.* 
+A phylactery is traditionally an amulet in the shape of a small box, but it can take the form of any item possessing an interior space into which arcane sigils of naming, binding, immortality, and dark magic are scribed in silver.
 
 If you are killed, your body reforms within your phylactery 2d10 days after your death, unless your phylactery is destroyed. During the next session your character participates in, you have disadvantage on any downtime checks to represent the time spent reforming your body.
 
-Because your phylactery is your soul's primary container, your body is expendable. At any time, you can choose for your body to self-destruct. At the end of your next turn, you die. This effect cannot be prevented through the Death Ward spell or similar effects. Additionally, all creatures within 30 feet of you when you die in this way must make a Charisma saving throw against your spell save DC. On a failed saving throw, a creature takes 20d6 force damage and is stunned until the end of its next turn. On a successful saving throw, the creature takes half damage and is not stunned. When you die in this way, your soul lingers in the area until the end of the session, upon which it returns to your phylactery. It cannot be removed from this state in any way, excepting a reformed body after using your phylactery. While in this state, you you suffer the following effects:
+Because your phylactery is your soul's primary container, your body is expendable. At any time, you can use an action to cause  your body to self-destruct in an earth-shaking burst of pure Weave energy. At the end of your next turn, you are reduced to 0 hit points and your body is destroyed. This effect cannot be prevented through the Death Ward spell or similar effects. Additionally, all creatures within 30 feet of you when you take this action in this way must make a Charisma saving throw against your spell save DC. On a failed saving throw, a creature takes 20d6 force damage and is stunned until the end of its next turn. On a successful saving throw, the creature takes half damage and is not stunned. When you die in this way, your soul lingers in the area until the end of the session, upon which it returns to your phylactery. It cannot be removed from this state in any way, excepting by entering a reformed body after using your phylactery. While in this state, you you suffer the following effects:
 
 - You are unable to cast spells of 6th level or higher.
 - You are vulnerable to all damage.
@@ -145,7 +149,7 @@ Alternatively, you can take a feat.
 ### Unholy Boon					
 At 24nd level, choose either Orcus or Vecna as your patron. Choose a [boon](boons.md) that your patron grants you. 
 
-A Lich uniquely has access to the [Boon of High Magic](boons.md#boon-of-high-magic--special).
+A Lich has access to the [Boon of High Magic](boons.md#boon-of-high-magic--special).
 
 You also gain advantage on saving throws against any effects that turn undead as well as on Charisma ability checks you make while interacting with undead creatures.
 				
@@ -161,7 +165,7 @@ ___
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Divine Blessing, Endless Worship |
 | 22       | 600,000   | +7 | Healing Touch |
-| 23       | 805,000   | +7 | Ability Score Improvement	|
+| 23       | 805,000   | +7 | Divine Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Angelic Weapons |
 | 25       | 1,500,000 | +8 | Angelic Form |
 		
@@ -178,16 +182,21 @@ Any level 20 Ashford character that willingly binds themselves into the service 
 
 
 ### Angelic Weapons					
-At 21st level, your attacks become shrouded in a sheath of divine light, as the power of your deity radiates out from your hands. When you deal damage by hitting with an attack roll, for a weapon attack or spell attack, all creatures within 5 feet of the target, including the original target, take 2d6 radiant damage.
+At 21st level, your attacks become shrouded in a sheath of divine light, as the power of your deity radiates out from your hands. When you deal damage by hitting with an attack roll, the target takes an additional 2d6 radiant damage.
+
+If you lack the Spellcasting and Pact Magic class features, the amount of radiant damage increases to 4d6 and is dealt to all creatures of your choice within 10 feet of the original target. In addition, if you meet this condition and hit a creature with an attack, you can pick one creature of your choice within 30 feet of yourself. That creature regains a number of hit points equal to your proficiency bonus.
+
+If you have the Spellcasting or Pact Magic class features, whenever you target a friendly creature with a spell, that creature regains 2d6 hit points.
 
 ### Endless Worship				
-Also at 21st level, your devotion to your patron has garnered special attention, even amongst their most ardent followers. As such, they grant you an additional measure of divine power. You always have the Bless and Death Ward spells cast upon you as if cast at 9th level, and you do not need to maintain concentration on this effect. If the Death Ward spell from this feature is activated, it is recast upon you after one minute or the conclusion of the combat.
+Also at 21st level, your devotion to your patron has garnered special attention, even amongst their most ardent followers. As such, they grant you an additional measure of divine power. You always have the benefits of a 9th level Death Ward spell cast upon you each day at dawn. If the Death Ward is consumed or dispelled, you regain it after one minute. While benefitting from a Death Ward spell, you do not age.
+
+Additionallly, you can entreat your deity to bless your party once per day. You can cast a special version of Bless at 9th level; this version has a duration of 1 hour, does not require your concentration, cannot be dispelled, and persists in anti-magic zones.
 
 ### Healing Touch
-At 22nd level, your touch can extend the benevolence of your god to fill others with vigor and life. Once per turn when you move within 5 feet of a creature on your turn, you can grant it one of the following effects:
-- The creature regains 4d8 hit points.
-- The creature can immediately take the Attack or Multiattack action.
-- One condition the creature has upon itself is removed. You can only remove one level of exhaustion in this way at a time.
+You learn the Healing Word, Cure Wounds, Revivify, and Mass Healing Word spells. Wisdom is your spellcasting abillity for these spells. You gain the ability to cast each of these spells once without using a spell slot. Once you do so, you must complete a short or long rest before you can do so again.
+
+When you cast one of these spells using this feature, you may end one condition affecting that creature and the amount of healing increases by your level, or twice your level if the target is dead.
 
 ### Divine Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -202,7 +211,6 @@ At 25th level, you also become resistant to fire and radiant damage.
 Additionally, you grow a pair of angelic wings, granting you a flying speed equal to your walking speed or 60 ft., whichever is higher. You can use a bonus action to hide or manifest these wings. Any armor or clothing you wear must be designed to accomodate the wings or be torn apart when the wings are summoned. If you already have wings, this extra pair will appear behind your original wings, and your flying speed is increased by 30 feet.
 
 When you summon these wings, all creatures of your choice within 60 feet of you must make a Wisdom saving throw against your spell save DC (or 8 + your Wisdom modifier + your proficiency bonus if you do not have one), becoming charmed or frightened by you on a failed saving throw. A creature affected in this way can repeat the saving throw at the end of each of its turns. On a successful saving throw, it is immune to this effect for 24 hours.
-
 ___
 
 ## Corrupted Champion
@@ -212,9 +220,9 @@ ___
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Demonic Strength |
 | 22       | 600,000   | +7 | Variable Resistance |
-| 23       | 805,000   | +7 | Ability Score Improvement	|
+| 23       | 805,000   | +7 | Fiendish Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | First Corrupted Boon |
-| 25       | 1,500,000 | +8 |  |
+| 25       | 1,500,000 | +8 | Aura of Corruption |
 		
 ### Prestige Class Prerequisites:					
 Any level 20 Ashford character that accepts a contract with a devil or decides to imbibe demonic ichor.
@@ -230,7 +238,7 @@ There is no Alignment prerequisite for this Prestige Class, but power corrupts, 
 - **Skills:** Choose one from Deception or Intimidation. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Demonic Strength
-At 21st level, you add your Charisma modifier (minimum 1) to any attack roll, saving throw, or ability check you make using your Strength modifier. Additionally, whenever you hit a creature with an attack, it must make a Wisdom 
+At 21st level, your Charisma score is increased to 20 if it is not already higher. Additionally, you add your Charisma modifier (minimum 1) to any melee attack attack roll, saving throw, or ability check you make using your Strength modifier. If you hit a creature with an attack roll that uses your Strength modifier for its attack and damage rolls, you can move the target up to 15 feet in a direction of your choice.
 
 ### Variable Resistance (1/Day)
 At 22nd level, as a reaction when you make a saving throw against an effect that deals acid, cold, fire, lightning, necrotic, poison or thunder damage, you can give yourself advantage on the saving throw. Additionally, you have advantage on any saving throw you make against any effect that does that same damage type until you finish a long rest. Finally, you have resistance to that damage type for the same duration.
@@ -243,31 +251,10 @@ Alternatively, you can take a feat.
 
 ### Corrupted Boon
 At 24th level, you may take one [boon](boons.md).
-Choose whether your boon comes from a deal with a devil or from being infected with demonic taint. Your new found fiendish power gives you a permanent magic aura detectable by effects like Divine Sense, hinting at your connection to the lower planes. This also has a minor effect on your appearance. Choose (or roll) from the table below for what changes.
+Choose whether your boon comes from a deal with a devil or from being infected with demonic taint. Your new found fiendish power gives you a permanent magic aura detectable by effects like Divine Sense, hinting at your connection to the lower planes. This boon likely changes your body in a permanent way, granting you fiend-like features such as permanently clammy skin, black voids for eyes, or demonic horns.
 
-
-<div style='column-count:2'>
-
-|  d4 | Demonic Appearance |
-|:---:|:------------|
-|  1  | Fangs in mouth |
-|  2  | Body covered in striped markings |
-|  3  | Body casts no shadow (equipment still does) |
-|  4  | Slightly darker skin, but lighter around joints |
-
-<br/>
-
-|  d4 | Devilish Looks |
-|:---:|:------------|
-|  1  | Forked tongue |
-|  2  | Pointed teeth |
-|  3  | Hairless body |
-|  4  | Long, thin face |
-
-</div>
-
-### Variable Resistance (2/day)
-At 25th level, you can use your Variable Resistance up to 3 times per long rest and regain all 3 uses when you finish a long rest. Each time you use it, you must choose a different damage type.
+### Aura of Corruption
+At 25th level, you gain the ability to force creatures to their knees in your presence. If a creature begins its turn within 15 feet of you, it must make a Wisdom saving throw against your spell save DC (or 8 + your Charisma modifier + your proficiency bonus if you do not have one). On a failed saving throw, it falls prone, kneeling. Additionally, whether the creature succeeds or fails, it takes 4d8 psychic or necrotic damage (your choice). You can retract or activate this aura as a bonus action. When you activate this aura, you can select any number of creatures to be unaffected.
 
 
 ___
@@ -280,7 +267,7 @@ ___
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Magnificent Beast |
 | 22       | 600,000   | +7 | Sovereign's Charge |
-| 23       | 805,000   | +7 | Ability Score Improvement	|
+| 23       | 805,000   | +7 | Bestial Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Bestial Boon |
 | 25       | 1,500,000 | +8 | Sovereign's Inheritance |
 </div>
@@ -293,29 +280,40 @@ Any level 20 Ashford character that seeks power from primordial magic, embracing
 - **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** none
-- **Skills:** none
+- **Saving Throws:** Choose one from Strength, Constitution, or Dexterity.
+- **Skills:** Choose one from Athletics, Acrobatics, or Survival. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Magnificent Beast
-At 21st level, your type changes to include shapechanger. As an Action you can transform into a hybrid beast form, a fully bestial form, or back to your humanoid form. *Your bestial form represents not a single animal, but the primordial of all predators, and incorporates aspects of every great beast at the same time*. 
+At 21st level, your type changes to include shapechanger. As an Action, you can transform into a hybrid beast form, a fully bestial form, or back to your humanoid form. Your bestial form represents not a single animal, but the primordial of all predators, and incorporates aspects of every great beast at the same time. 
 
-Your hybrid and bestial form, as well as any wild shape form you might take, now have multiple additional natural weapons:
+While not in your humanoid form, you have access to the following actions. You additionally gain the following Multiattack actions. 
 
-- 2 Claws, 2d8 Slashing Damage, Light property
-- Bite, 2d12 Piercing, advantage on grappled targets
-- Horns, 4d6 Piercing, Heavy Property
-- Tail Stinger, 2d4 Piercing + 2d4 Acid, Finesse and Reach properties
+##### Claw. Melee Weapon Attack: your proficiency bonus + your Strength modifier to hit, reach 5 ft., one target. Hit: 6d8 + your Strength modifier slashing damage.
 
-While you are transformed, any natural weapons you have are considered magical. When you use your action to transform or wildshape *you can strengthen aspects of your new form as needed*. Choose between (A) +2 AC, or (B) +2 to attack and damage with natural weapons, or (C) +1 AC and +1 to attack and damage with natural weapons.
+##### Bite. Melee Weapon Attack: your proficiency bonus + your Strength modifier to hit, reach 5 ft., one target. Hit: 6d12 + your Strength modifier piercing damage. If the target is grappled by you, you have advantage on the attack roll. 
 
-While in your hybrid from can use all of your equipment.
+##### Rock. Ranged Weapon Attack: your proficiency bonus + your Strength modifier to hit, reach 5 ft., one target. Hit: 8d8 + your Strength modifier bludgeoning damage. On a hit, the target is knocked prone. If you hit a prone creature with this attack, it must make a Strength saving throw against your spell save DC (or 8 + your Constitution modifier + your proficiency bonus). On a failed saving throw, the creature is stunned until the end of your next turn.
 
-While in your bestial form all of your speeds are increased by 20ft. But your bestial form does not have hands and is unable to benefit from any armor, helmets, boots or gloves fitted for humanoids and may need to drop those on the ground.
+##### Tail Stinger. Ranged Weapon Attack: your proficiency bonus + your Strength or Dexterity (your choice) modifier to hit, reach 10 ft., one target. Hit: 6d8 + your Strength modifier piercing damage. On a hit, the target takes an additional 6d6 poison damage and must make a Constitution saving throw against your spell save DC (or 8 + your Constitution modifier + your proficiency bonus). On a failed saving throw, the target is poisoned for one minute. It can repeat this saving throw at the end of each of its turns, ending the effect on a successful saving throw. If the target fails this repeated saving throw, it takes an additional 6d6 poison damage. 
+
+##### Acid Spray. All creatures in a 60-foot cone originating from your position must make a Dexterity saving throw. On a failed saving throw, a creature takes 12d8 acid damage, or half on a successful saving throw.
+
+##### Multiattack
+You make one Bite attack and two Claw attacks. 
+
+##### Multiattack
+You make one Rock attack and one Tail Stinger attack.
+
+Additionally, you gain effects specific to your Hybrid or Bestial form, as shown below. These effects end when you leave either form. 
+
+##### Hybrid
+While in your Hybrid form, you can use all of your equipment, and your Armor Class is increased by 2. Additionally, you regain 5 hit points at the start of each of your turns if you are not dead.
+
+##### Bestial
+While in your Bestial form, you can only use your worn equipment, as it merges into your bestial form. You are unable to use equipment you must hold with a hand or which require a command word to activate. Additionally, all of your speeds are increased by 20 ft., your Armor Class is increased by 2, your size increases by one size to a maximum of Gargantuan, and your Strength score is increased by 4, to a maximum of 30. 
 
 ### Sovereign's Charge
-At 22nd level, when you use your Action to transform, you can also make 1 natural weapon attack as part of that Action. 
-
-When you move at least 20 feet straight toward a target and then hit it with a natural weapon attack on the same turn, you triple the damage dice of the weapon used that attack. *(You do not triple any additional dice that might have been added to the attack)* You can only do this once per turn.
+At 22nd level, when you use your Action to transform, you can move up to your movement speed (post-transformation) and make two melee attacks. 
 
 ### Bestial Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -325,7 +323,7 @@ Alternatively, you can take a feat.
 At 24th level, you may take one [boon](boons.md).	
 
 ### Sovereign's Inheritance
-At 25th level, when you reduce a creature to 0hp, with an attack using a natural weapon; You regain hitpoints equal to 3 times the CR of that creature.
+At 25th level, when a creature within 5 feet of you is hit with a weapon attack, you gain regain hit points equal to your Constitution modifier. If you are at your maximum hit points, you instead gain an equal number of temporary hit points.
 
 ____
 
@@ -339,7 +337,7 @@ ____
 | Prestige | 450,000   | +7 | Fey Blessing |
 | 22       | 600,000   | +7 | Shields of the Eladrin Host |
 | 23       | 805,000   | +7 | Ability Score Improvement	|
-| 24       | 1,100,000 | +7 | Eternal King on an Eternal Throne |
+| 24       | 1,100,000 | +7 | Fey Blessing |
 | 25       | 1,500,000 | +8 | Dominion over the Mind |
 </div>
 		
@@ -351,33 +349,28 @@ Any level 20 Ashford character that has an ally in one of the courts of the fey.
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** none
-- **Skills:** Choose 1 from Deception, Persuasion, Insight.
+- **Saving Throws:** Choose one from Intelligence, Wisdom, or Charisma.
+- **Skills:** Choose one from Deception, Persuasion, Insight, or Performance. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
-### Fey Blessing					
-At 21st level, you draw power from the blood of Correlon that is in the soil of the Feywild. Choose a [blessing](blessings.md) that your domain in the Feywild grants you.
+### Eternal King on an Eternal Throne
+At 21st level, when you die, an older and more regal version of yourself steps from the mists of time to take your place. This version of you from a possible future, and is a separate creature that appears within 5ft of you. This version of yourself then either absorbs your present self or allows your present self to absorb it. Regardless of the process, you instantly regain all hit points and can immediately take a turn. You can use this feature once per session.
 
-### Shields of the Eladrin Host
-At 22nd level, *at your command, eladrin knights in golden armor teleport in from all sides, moving you and your allies from danger*. As a reaction when you or an ally you can see within 30 feet of you is the target of an attack or makes a saving throw. All creatures targeted by that action can teleport up to 30 feet to nearest space that is safe from the triggering action. 
-
-You can use the ability once, and regain use of it at the end of a short or long rest.
+### Shuffling of the Court
+At 22nd level, you can use your reaction to teleport a number of creatures you can see equal to your Charisma modifier up to 60 feet to unoccupied locations you can see in response to one of the teleported creatures being forced to make a saving throw or being targeted by a spell or attack roll. You can use this feature once before you must roll initiative again to use the feature again.
 
 ### Fey Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
-### Eternal King on an Eternal Throne
-At 24th level, Once per session, when you die, *an older, more regal version of yourself steps from the mists of time to take your place. This version of you from a possible future,* is a separate creature that appears within 5ft of you. It possesses all your statistics, features and copies of your magic items. Your future self just happens to have expended the same short and longrest resources as you do, for this day.
-If any of your magic items are removed from your corpse, the future version of that item will fade away.
-
-Your future self can cast Revivify once, requiring no spellslots or components. If your younger self is revived, your future self fades away. If for any reason you cannot be revived, you can continue to play as your future self, or retire them.
+### Fey Blessing					
+At 24th level, you draw power from the blood of Correlon that is in the soil of the Feywild. Choose a [blessing](blessings.md) that your domain in the Feywild grants you.
 
 ### Dominion over the Mind
-At 25th level, when a creature you can see fails an Intelligence, Wisdom or Charisma saving throw you can use your reaction to *weave fey magic into their misery.* Choose 1 of following effects:
-1. The creature that failed a save is blinded until the end or their next turn.
-1. The creature succeeds on the save instead, and the attacker that prompted the save becomes targeted by their own effect.
-
-You can use each option only once, and must take a long rest before you can re-use an option you've used since your last rest.
+At 25th level, when a creature you can see fails an Intelligence, Wisdom or Charisma saving throw against a feature to weave fey magic into their misery. Choose one of following effects:
+- The target is blinded for one minute.
+- The target succeeds on the saving throw instead of failing, and if a creature prompted the saving throw, that creature becomes targeted by their own effect, making the same saving throw. You can use this option once before you must complete a short or long rest to do so again.
+- The target is frightened or charmed (your choice) by you for one minute. It can repeat the triggering saving throw at the end of each of its turns, ending the condition on a successful saving throw.
+- One creature of your choice vanishes from the target's perception. The creature is granted full cover against the target, and its location is unknown to the target. The target can use its action to make an Intelligence (Perception) check, contested by the DC of the saving throw of the triggering saving throw. On a successful check, this effect ends. You can use this option once before you must complete a short or long rest to do so again.
 ____
 
 ## Parable
