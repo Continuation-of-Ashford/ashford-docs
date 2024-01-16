@@ -45,7 +45,7 @@ ___
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Legendary Skill, Immortality? |
 | 22       | 600,000   | +7 | Blessing |
-| 23       | 805,000   | +7 | Ability Score Improvement	|
+| 23       | 805,000   | +7 | Ability Score Improvement, Additional Attack	|
 | 24       | 1,100,000 | +7 | Boon |
 | 25       | 1,500,000 | +8 | Legendary resistance (1/day) |
 
@@ -101,7 +101,7 @@ ___
 | Prestige | 450,000   | +7 | Phylactery |
 | 22       | 600,000   | +7 | Undead Resilience |
 | 23       | 805,000   | +7 | Unholy Ability Score Improvement	|
-| 24       | 1,100,000 | +7 | Unholy Blessing	 |
+| 24       | 1,100,000 | +7 | Unholy Boon	 |
 | 25       | 1,500,000 | +8 | Paralyzing Arcana |
 
 		
@@ -158,10 +158,10 @@ ___
 
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
-| Prestige | 450,000   | +7 | Divine Blessing, Endless Worship |
+| Prestige | 450,000   | +7 | Angelic Weapons, Endless Worship |
 | 22       | 600,000   | +7 | Healing Touch |
 | 23       | 805,000   | +7 | Divine Ability Score Improvement	|
-| 24       | 1,100,000 | +7 | Angelic Weapons |
+| 24       | 1,100,000 | +7 | Divine Blessing |
 | 25       | 1,500,000 | +8 | Angelic Form |
 		
 ### Prestige Class Prerequisites:					
@@ -189,7 +189,7 @@ Also at 21st level, your devotion to your patron has garnered special attention,
 Additionallly, you can entreat your deity to bless your party once per day. You can cast a special version of Bless at 9th level; this version has a duration of 1 hour, does not require your concentration, cannot be dispelled, and persists in anti-magic zones.
 
 ### Healing Touch
-You learn the Healing Word, Cure Wounds, Revivify, and Mass Healing Word spells. Wisdom is your spellcasting abillity for these spells. You gain the ability to cast each of these spells once without using a spell slot. Once you do so, you must complete a short or long rest before you can do so again.
+You learn the Healing Word, Cure Wounds, Revivify, Mass Healing Word, and Heal spells. Wisdom is your spellcasting abillity for these spells. You gain the ability to cast each of these spells once without using a spell slot. Once you do so, you must complete a short or long rest before you can do so again.
 
 When you cast one of these spells using this feature, you may end one condition affecting that creature and the amount of healing increases by your level, or twice your level if the target is dead.
 
@@ -216,7 +216,7 @@ ___
 | Prestige | 450,000   | +7 | Demonic Strength |
 | 22       | 600,000   | +7 | Variable Resistance |
 | 23       | 805,000   | +7 | Fiendish Ability Score Improvement	|
-| 24       | 1,100,000 | +7 | First Corrupted Boon |
+| 24       | 1,100,000 | +7 | Corrupted Boon |
 | 25       | 1,500,000 | +8 | Aura of Corruption |
 		
 ### Prestige Class Prerequisites:					
@@ -235,7 +235,7 @@ There is no Alignment prerequisite for this Prestige Class, but power corrupts, 
 ### Demonic Strength
 At 21st level, your Charisma score is increased to 20 if it is not already higher. Additionally, you add your Charisma modifier (minimum 1) to any melee attack attack roll, saving throw, or ability check you make using your Strength modifier. If you hit a creature with an attack roll that uses your Strength modifier for its attack and damage rolls, you can move the target up to 15 feet in a direction of your choice.
 
-### Variable Resistance (1/Day)
+### Variable Resistance
 At 22nd level, as a reaction when you make a saving throw against an effect that deals acid, cold, fire, lightning, necrotic, poison or thunder damage, you can give yourself advantage on the saving throw. Additionally, you have advantage on any saving throw you make against any effect that does that same damage type until you finish a long rest. Finally, you have resistance to that damage type for the same duration.
 
 You can use this ability once and regain it when you finish a long rest.
@@ -249,7 +249,7 @@ At 24th level, you may take one [boon](boons.md).
 Choose whether your boon comes from a deal with a devil or from being infected with demonic taint. Your new found fiendish power gives you a permanent magic aura detectable by effects like Divine Sense, hinting at your connection to the lower planes. This boon likely changes your body in a permanent way, granting you fiend-like features such as permanently clammy skin, black voids for eyes, or demonic horns.
 
 ### Aura of Corruption
-At 25th level, you gain the ability to force creatures to their knees in your presence. If a creature begins its turn within 15 feet of you, it must make a Wisdom saving throw against your spell save DC (or 8 + your Charisma modifier + your proficiency bonus if you do not have one). On a failed saving throw, it falls prone, kneeling. Additionally, whether the creature succeeds or fails, it takes 4d8 psychic or necrotic damage (your choice). You can retract or activate this aura as a bonus action. When you activate this aura, you can select any number of creatures to be unaffected.
+At 25th level, you gain the ability to force creatures to their knees in your presence. If a creature begins its turn within 15 feet of you, it must make a Wisdom saving throw against your spell save DC (or 8 + your Charisma modifier + your proficiency bonus if you do not have one). On a failed saving throw, it falls prone, kneeling. Additionally, whether the creature succeeds or fails, it takes 4d8 psychic or necrotic damage (your choice). You can dispel or activate this aura as a bonus action. When you activate this aura, you can select any number of creatures to be unaffected.
 
 
 ___
@@ -283,28 +283,31 @@ At 21st level, your type changes to include shapechanger. As an Action, you can 
 
 While not in your humanoid form, you have access to the following actions. You additionally gain the following Multiattack actions. 
 
-##### Claw. Melee Weapon Attack: your proficiency bonus + your Strength modifier to hit, reach 5 ft., one target. Hit: 6d8 + your Strength modifier slashing damage.
-
-##### Bite. Melee Weapon Attack: your proficiency bonus + your Strength modifier to hit, reach 5 ft., one target. Hit: 6d12 + your Strength modifier piercing damage. If the target is grappled by you, you have advantage on the attack roll. 
-
-##### Rock. Ranged Weapon Attack: your proficiency bonus + your Strength modifier to hit, reach 5 ft., one target. Hit: 8d8 + your Strength modifier bludgeoning damage. On a hit, the target is knocked prone. If you hit a prone creature with this attack, it must make a Strength saving throw against your spell save DC (or 8 + your Constitution modifier + your proficiency bonus). On a failed saving throw, the creature is stunned until the end of your next turn.
-
-##### Tail Stinger. Ranged Weapon Attack: your proficiency bonus + your Strength or Dexterity (your choice) modifier to hit, reach 10 ft., one target. Hit: 6d8 + your Strength modifier piercing damage. On a hit, the target takes an additional 6d6 poison damage and must make a Constitution saving throw against your spell save DC (or 8 + your Constitution modifier + your proficiency bonus). On a failed saving throw, the target is poisoned for one minute. It can repeat this saving throw at the end of each of its turns, ending the effect on a successful saving throw. If the target fails this repeated saving throw, it takes an additional 6d6 poison damage. 
-
-##### Acid Spray. All creatures in a 60-foot cone originating from your position must make a Dexterity saving throw. On a failed saving throw, a creature takes 12d8 acid damage, or half on a successful saving throw.
-
-##### Multiattack
-You make one Bite attack and two Claw attacks. 
-
-##### Multiattack
-You make one Rock attack and one Tail Stinger attack.
-
 Additionally, you gain effects specific to your Hybrid or Bestial form, as shown below. These effects end when you leave either form. 
 
-##### Hybrid
+#### Multiattack
+You make one Bite attack and two Claw attacks. Alternatively, you make one Rock attack and one Tail Stinger attack. 
+
+##### Claw.
+ Melee Weapon Attack: your proficiency bonus + your Strength modifier to hit, reach 5 ft., one target. Hit: 6d8 + your Strength modifier slashing damage.
+
+##### Bite.
+ Melee Weapon Attack: your proficiency bonus + your Strength modifier to hit, reach 5 ft., one target. Hit: 6d12 + your Strength modifier piercing damage. If the target is grappled by you, you have advantage on the attack roll. 
+
+##### Rock. 
+Ranged Weapon Attack: your proficiency bonus + your Strength modifier to hit, reach 5 ft., one target. Hit: 8d8 + your Strength modifier bludgeoning damage. On a hit, the target is knocked prone. If you hit a prone creature with this attack, it must make a Strength saving throw against your spell save DC (or 8 + your Constitution modifier + your proficiency bonus). On a failed saving throw, the creature is stunned until the end of your next turn.
+
+##### Tail Stinger. 
+Ranged Weapon Attack: your proficiency bonus + your Strength or Dexterity (your choice) modifier to hit, reach 10 ft., one target. Hit: 6d8 + your Strength modifier piercing damage. On a hit, the target takes an additional 6d6 poison damage and must make a Constitution saving throw against your spell save DC (or 8 + your Constitution modifier + your proficiency bonus). On a failed saving throw, the target is poisoned for one minute. It can repeat this saving throw at the end of each of its turns, ending the effect on a successful saving throw. If the target fails this repeated saving throw, it takes an additional 6d6 poison damage. 
+
+##### Acid Spray. 
+All creatures in a 60-foot cone originating from your position must make a Dexterity saving throw. On a failed saving throw, a creature takes 12d8 acid damage, or half on a successful saving throw.
+
+
+#### Hybrid Form
 While in your Hybrid form, you can use all of your equipment, and your Armor Class is increased by 2. Additionally, you regain 5 hit points at the start of each of your turns if you are not dead.
 
-##### Bestial
+#### Bestial Form
 While in your Bestial form, you can only use your worn equipment, as it merges into your bestial form. You are unable to use equipment you must hold with a hand or which require a command word to activate. Additionally, all of your speeds are increased by 20 ft., your Armor Class is increased by 2, your size increases by one size to a maximum of Gargantuan, and your Strength score is increased by 4, to a maximum of 30. 
 
 ### Sovereign's Charge
@@ -329,7 +332,7 @@ ____
 
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
-| Prestige | 450,000   | +7 | Fey Blessing |
+| Prestige | 450,000   | +7 | Eternal King on an Eternal Throne |
 | 22       | 600,000   | +7 | Shields of the Eladrin Host |
 | 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Fey Blessing |
@@ -351,7 +354,7 @@ Any level 20 Ashford character that has an ally in one of the courts of the fey.
 At 21st level, when you die, an older and more regal version of yourself steps from the mists of time to take your place. This version of you from a possible future, and is a separate creature that appears within 5ft of you. This version of yourself then either absorbs your present self or allows your present self to absorb it. Regardless of the process, you instantly regain all hit points and can immediately take a turn. You can use this feature once per session.
 
 ### Shuffling of the Court
-At 22nd level, you can use your reaction to teleport a number of creatures you can see equal to your Charisma modifier up to 60 feet to unoccupied locations you can see in response to one of the teleported creatures being forced to make a saving throw or being targeted by a spell or attack roll. You can use this feature once before you must roll initiative again to use the feature again.
+At 22nd level, you can use your reaction to teleport a number of creatures you can see equal to your Charisma modifier up to 60 feet to unoccupied locations you can see in response to one of the teleported creatures being forced to make a saving throw or being targeted by a spell or attack roll. If this would place them outside the range of the attack or effect that forced the saving throw, they are unaffected by it. You can use this feature once before you must roll initiative again to use the feature again.
 
 ### Fey Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -374,10 +377,10 @@ ____
 
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
-| Prestige | 450,000   | +7 | Illusion of a Boon |
+| Prestige | 450,000   | +7 | Storyteller's Illusion  |
 | 22       | 600,000   | +7 | Life's Illusion |
 | 23       | 805,000   | +7 | Ability Score Improvement	|
-| 24       | 1,100,000 | +7 | Figment Step |
+| 24       | 1,100,000 | +7 | Illusory Blessing |
 | 25       | 1,500,000 | +8 | Never Really There |
 </div>
 		
@@ -392,7 +395,7 @@ Any level 20 Ashford character that can cast spells from the Illusion school at 
 - **Saving Throws:** Choose 1 from Charisma, Intelligence or Wisdom. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
 - **Skills:** Pick one from Deception or Performance. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
-### Illusion of a Boon					
+### Storyteller's Illusion					
 At 21st level, creatures with truesight cannot see through your illusions. 
 
 Additionally, you can use illusions to drag your enemies into an unreal world of fantasy. You learn the Silent Image spell and become able to cast the spell at will, using your spellcasting ability score to do so. When you cast the Silent Image spell, all creatures within the area affected by the spell must make a Wisdom saving throw against your spell save DC. On a failed saving throw, a target must take the Attack action against the nearest creature hostile to you which is not itself on each of its turns for the next minute. At the end of each of its turns, the creature can repeat this saving throw, ending this effect on a successful saving throw. If a creature succeeds a saving throw against this feature, it becomes immune to the feature for the next 24 hours. 
@@ -408,11 +411,11 @@ Once you use this feature, you cannot use it again until you roll initiative.
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
-### Illusory Boon
+### Illusory Blessing
 At 24th level, you create an illusion of a blessing which fools the world into granting you the benefits of such. Choose a [blessing](blessings.md). 
 
 ### Never Really There
-At 25th level, when you are subjected to an effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail. If you have the Evasion feature, you use a reaction when you make a Dexterity saving throw to grant that feature to all creatures of your choice within 30 feet.
+At 25th level, when you are subjected to an effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail. If you have the Evasion feature, you can use a reaction when you make a Dexterity saving throw to grant that feature to all creatures of your choice within 30 feet until the end of the current turn.
 
 ____
 
@@ -423,7 +426,7 @@ ____
 
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
-| Prestige | 450,000   | +7 | Engine of Agony |
+| Prestige | 450,000   | +7 | Mortal Engine |
 | 22       | 600,000   | +7 | Invulnerable Anatomy |
 | 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Craftable Boon |
@@ -434,7 +437,7 @@ ____
 Any level 20 Ashford character that can benefit from double their proficiency bonus to any type of Artisan's tools checks and/or Arcana skill checks when making Ability Checks during downtimes.
 
 ##### Hit Points
-- **Hit Dice:** 1d10	
+- **Hit Dice:** 1d12	
 - **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
@@ -471,12 +474,12 @@ At 25th level, *building on everything you've learned from overhauling your body
 - You gain the Tough feat
 - You can attune to 1 additional item
 - For each unused attunement slot you possess you gain a +1 bonus to AC and Saving throws.
-- Choose one Transmutation spell that can only affect one creature and has a duration of at least one minute. That spell is permanently cast upon you cannot be dispelled, and does not require concentration.
+- Choose one Transmutation spell of 6th level or lower that can only affect one creature and has a duration of at least one minute. That spell is permanently cast upon you,cannot be dispelled, and does not require concentration.
 
 ____
 
 ## Lichenlich
-Rather than imprison their souls within a phylactery, some pursue immortalilty by giving up their souls to nature. In return, their undead remains are animated by moss, fungus, and other plants that feed on death. 
+Rather than imprison their souls within a phylactery, some pursue immortalilty by giving up their souls to nature. In return, their undead bodies will be regrown by fungi in their chosen grove in the event of their death. 
 
 <div class='classTable'>
 
@@ -501,10 +504,10 @@ Any level 20 Ashford character that has devoted their lives to defending nature.
 - **Skills:** Choose one from Animal Handling, Medicine, Nature, or Survival. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Undying Guardian
-At 21st level, your vitality has been integrated into your druid grove, up to one square mile of land you personally guard. You are now a Plant.
+At 21st level, your vitality has been integrated into your grove, up to one square mile of land you personally guard. You are now a Plant.
 
-If you are killed, your body reforms within your druid grove 2d10 days after your death unless your druid grove is destroyed. During the next session your character participates in, you have disadvantage on any downtime checks to represent the time spent reforming your body. Because you have already given your soul up to pursue this form of undeath, you are immune to any effect that would prevent your resurrection.
-
+If you are killed, your body reforms within your grove 2d10 days after your death unless your grove is destroyed. During the next session your character participates in, you have disadvantage on any downtime checks to represent the time spent reforming your body. Because you have already given your soul up to pursue this form of undeath, you are immune to any effect that would prevent your resurrection.
+ 
 Due to your form, you gain the following benefits.
 
 - You gain resistance to bludgeoning, piercing, and slashing damage from nonmagical sources.
