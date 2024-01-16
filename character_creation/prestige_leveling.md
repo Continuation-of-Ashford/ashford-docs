@@ -28,9 +28,8 @@ ___
 - [Parable](#parable)
 - [Heart of Steel](#heart-of-steel)
 - [Lichenlich](#lichenlich)
-- [Ascendant](#ascendant)
-- [Mutant](#ascendant)
 - [Paths of Power](#paths-of-power)
+- [Transcendant](#Transcendant)
 - [Legendary Prankster](#legendary-prankster)
 - [Far Prophet](#far-prophet)
 - [Legendary Commander](#Legendary-Commander)
@@ -689,22 +688,7 @@ Attacks and spells that hit the body also hit the creature in the Ethereal plane
 
 While within the border Ethereal the target can see into the plane it was thrown out of. The only actions it can take are the Dash Action or reenter its body as an action if it is adjacent it. When it reenters the body, all of these effects end.  
 
-____
-
-## Planned: Far-realm mutant themed Prestige option
-
-____
-
-
-## Planned: True Polymorph on Self themed Prestige option
-
-____
-
-## Planned: Shadow Broker (Prestige option themed for having pacts with 10+ patrons, enabled by buying/selling souls in the infamous Shadowfell market)
-
-____
-
-## Joker
+## Legendary Prankster
 *You've got all these idiots, wasting so much on silly rituals to give themselves godlike powers, none of which could possibly work. Instead of all that effort trying to lift yourself up, just lower the bar. Come up with something you can do, but that a god can't do, and BOOM! More powerful than a god; easy right?*
 
 | Level    | XP Requirement   | PB | Features |
@@ -762,7 +746,6 @@ ___
 
 
 ## Far Prophet
-*.*
 
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
@@ -1078,3 +1061,4 @@ Using this ability reset the 10 minutes you can hold onto Fountain of Magic char
 At 25th level, you can cast the Dream of the Blue Veil spell as a ritual. 
 
 Additionally, once per session, when you are reduced to 0 hitpoints or immediately before you would suffer a 3rd failed death save, you can choose to teleport to one of your ritual circles from Ley Line Zoning Law. You arrive unconcious, but stable.
+## [← Beyond Level 3](4_beyond_level_3.md) | [Index](0_creation_guide.md)
