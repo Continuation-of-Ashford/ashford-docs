@@ -489,7 +489,7 @@ Rather than imprison their souls within a phylactery, some pursue immortalilty b
 | 25       | 1,500,000 | +8 | Spore Cloud |
 </div>
 
-###Prestige Class Prerequisites:
+### Prestige Class Prerequisites:
 Any level 20 Ashford character that has devoted their lives to defending nature.
 
 ##### Hit Points
