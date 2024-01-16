@@ -119,7 +119,7 @@ In order to become a lich you must bargain for the secret rituals with a being o
 
 ### Phylactery		
 At 21st level, you perform a ritual to kill your living body and trap your soul within a phylactery. You are now an Undead.   
-A phylactery is traditionally an amulet in the shape of a small box, but it can take the form of any item possessing an interior space into which arcane sigils of naming, binding, immortality, and dark magic are scribed in silver.
+A phylactery is traditionally an amulet in the shape of a small box, but it can take the form of any item possessing an interior space into which arcane sigils of naming, binding, immortality, and dark magic are scribed in silver. You are now Undead, though you still benefit from healing spells which would normally not affect Undead.
 
 If you are killed, your body reforms within your phylactery 2d10 days after your death unless your phylactery is destroyed. During the next session your character participates in, you have disadvantage on any downtime checks to represent the time spent reforming your body.
 
