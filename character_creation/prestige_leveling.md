@@ -62,7 +62,7 @@ Any level 20 Ashford character that is able to use downtimes. (You cannot choose
 - **Skills:** Choose one skill. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Legendary Item		
-At 21st level, your magic items are bolstered by your legend. When you finish a long rest, you can choose one magic item you possess, the rarity of which is increased to Legendary and you cannot be unattuned to the item. Additionally, the item gains one of the following benefits. 
+At 21st level, your magic items are bolstered by your legend. When you finish a long rest, you can choose one magic item you possess, the rarity of which is increased to Legendary and you cannot be unattuned to the item. If you choose a different item, Additionally, the item gains one of the following benefits. This benefit lasts until you choose a different magic item to benefit from this feature.
 
 - When you make an weapon attack with the chosen magic item, you have advantage on the attack roll of you have an allied creature within 5 feet of you. Additionally, that allied creature has advantage on all weapon attack rolls they make while within 5 feet of you. 
 - The magic item chosen gains a number of charges equal to your proficiency bonus. When you cast a spell using the item as a spell focus, you can expend any number of charges. The spell is then upcast by an amount equal to the number of charges expended, up to 6th level. This magic item regains all charges when you complete a long rest.
@@ -115,7 +115,7 @@ In order to become a lich you must bargain for the secret rituals with a being o
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Intelligence, Wisdom, or Charisma. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Saving Throws:** Choose one from Intelligence, Wisdom, or Charisma. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
 - **Skills:** Choose one from Arcana, History, Medicine, or Religion. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Phylactery		
@@ -172,7 +172,7 @@ Any level 20 Ashford character that willingly binds themselves into the service 
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Constitution, Wisdom, or Charisma. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Saving Throws:** Choose one from Constitution, Wisdom, or Charisma. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
 - **Skills:** Choose one from History, Insight, or Religion. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 
@@ -229,7 +229,7 @@ There is no Alignment prerequisite for this Prestige Class, but power corrupts, 
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Constitution, Strength, or Charisma. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Saving Throws:** Choose one from Constitution, Strength, or Charisma. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
 - **Skills:** Choose one from Deception or Intimidation. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Demonic Strength
@@ -275,7 +275,7 @@ Any level 20 Ashford character that seeks power from primordial magic, embracing
 - **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Strength, Constitution, or Dexterity. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Saving Throws:** Choose one from Strength, Constitution, or Dexterity. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
 - **Skills:** Choose one from Athletics, Acrobatics, or Survival. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Magnificent Beast
@@ -344,7 +344,7 @@ Any level 20 Ashford character that has an ally in one of the courts of the fey.
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Intelligence, Wisdom, or Charisma. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Saving Throws:** Choose one from Intelligence, Wisdom, or Charisma. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
 - **Skills:** Choose one from Deception, Persuasion, Insight, or Performance. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Eternal King on an Eternal Throne
@@ -389,7 +389,7 @@ Any level 20 Ashford character that can cast spells from the Illusion school at 
 - **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose 1 from Charisma, Intelligence or Wisdom. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Saving Throws:** Choose 1 from Charisma, Intelligence or Wisdom. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
 - **Skills:** Pick one from Deception or Performance. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Illusion of a Boon					
@@ -438,7 +438,7 @@ Any level 20 Ashford character that can benefit from double their proficiency bo
 - **Hit Points at Higher Levels:** 1d12 (or 7) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Strength, Constitution, or Intelligence. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Saving Throws:** Choose one from Strength, Constitution, or Intelligence. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
 - **Skills:** Choose one from Arcana, Investigation, or Medicine. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Mortal Engine
@@ -497,7 +497,7 @@ Any level 20 Ashford character that has devoted their lives to defending nature.
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Strength, Wisdom, or Intelligence. If you already have this proficiency, you instead gain proficiency in one saving throw of your choice.
+- **Saving Throws:** Choose one from Strength, Wisdom, or Intelligence. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
 - **Skills:** Choose one from Animal Handling, Medicine, Nature, or Survival. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Undying Guardian
@@ -532,7 +532,7 @@ As an action, you can cause these fungi to produce immunizing spores. All creatu
 ____
 
 ## Paths of Power
-*Do not be fooled that the schools of magic, that wizards so love to categorize spells into, are the be-all-end-all of magic. Genies have been perfecting their own magic for millennia before some Netherese bookworm even learned to read. Paths of power require endurance and dedication, as well as a gifted teacher to master. But can teach magic without any required reading.*
+*Choose one spell, and master it to its greatest potential.*
 
 <div class='classTable'>
 
@@ -546,72 +546,29 @@ ____
 </div>
 		
 ### Prestige Class Prerequisites:
-Any level 20 Ashford character that manages to find a teacher for a path of their choice.
-
-> Such sages are powerful and ancient extraplanar creatures, the kind that could grant a warlock pact. But you aren't looking for a pact, you want to follow the exact path they took to become powerful.
-> 
-> Usually this requires you to supplicate yourself to such a creature to gain access to their planar domain.   
-> However in the continent of Zakhara there exists secret schools where elementalists emulate the lives of former elemental princes. Usually such schools will require you swear loyalty to their cause, in order to receive their teachings. 
+Any level 20 Ashford character that can cast a cantrip.
 
 ##### Hit Points
 - **Hit Dice:** 1d8	
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** none
-- **Skills:** none
+- **Saving Throws:** Choose one from Constitution, Wisdom, or Intelligence. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
+- **Skills:** Choose one from Arcana, Religion, or Investigation. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ## Step onto the Path
-At 21st level, you move away from the traditional theories of magic and develop a different understanding.
+You have studied one cantrip, taking apart its inner workings and reassembling it to suit your purposes. At 21st level, choose one cantrip you know. If the cantrip does not involve dealing damage in any way, you gain the ability to use its magic in a way to bring harm to other creatures. When you cast that cantrip, you can make a spell attack roll against a creature within the range of that cantrip. On a hit, that creature takes 4d10 force damage.
 
-> The elemental planes and Elemental Chaos (including the many para-elemental planes where elements mix together) can be subdivided into provinces.    
-> Any path through such a *"province"* could seek its center, mastering the pure form of an element. Alternatively, a path could also visit the borders, mastering how to combine an element with others.
+Additionally, you then grant the chosen cantrip one of the following benefits. 
 
-| Province | Path to Power    | Damage Type  |
-|:--------:|:-----------------|:------------:|
-| Bone | Eternal youth and strength | Necrotic | 
-| Flame| [Brotherhood of the True Flame](https://forgottenrealms.fandom.com/wiki/Brotherhood_of_the_True_Flame) | Fire  | 
-| Flame | Fire and light to see clearly and provide insight | Radiant |
-| Flame | Protection of the Efreeti and controlling elementals | Fire | 
-| Sand | Sandman's path, inducing sleep and stillness | Cold |
-| Sand | Glassblower's path, using heat for transmutation | Fire |
-| Sand | Protection of the Dao and controlling elementals | Acid |
-| Sea | Using fog, water and ice to distract and attack | Cold  |
-| Sea | Protection of the Marid and controlling elementals | Cold |
-| Wind | Manipulating winds, air, sound and visibility | Thunder  |
-| Wind | Protection of the Djinni and controlling elementals | Lightning |
+- When you damage a creature using that cantrip, you deal additional damage equal to your spellcasting modifier.
+- When you damage a creature using that cantrip, you can move the target creature up to 10 feet directly towards or away from you.
+- You change the casting time of that cantrip to 1 bonus action.
+- Instead of scaling through dealing an additional damage dice, the chosen cantrip now scales through gaining an additional attack or saving throw. 
 
-> Theoretically more paths exist, but nobody has discovered them.
+## Minor Success
+In your pursuit of mastery over your chosen cantrip, your research has borne fruit, allowing you to gain ancilliary benefits when you cast the chosen cantrip. Starting at 22nd level, when you cast the cantrip chosen through your 21st level feature, you gain temporary hit points equal to your spellcasting modifier. Additionally, the cantrip functions even in an antimagic field. Finally, you gain resistance to one damage type the cantrip deals.
 
-You must find a teacher for a path to follow it, traveling to elemental planes and interacting with their high ranking denizens is usually your best bet for doing so. It doesn't hurt to find more than 1 teacher, should you wish to switch paths later.
-
-*Beginning your path to power you open your mind and soul to the influence of the province.* 
-- You have vulnerability to the damage type associated with your path. 
-- When you hit a creature with an attack, or when a creature fails a save against one of your spells or features you can choose to deal 2d6 damage, of that type, to the creature.
-
-## Close the Path
-Also at 21st level, as a reaction you can use when taking your chosen damage type, you can gain immunity to damage of that type until the end of your next turn. Including the triggering attack. **You lose the benefit of all features from this class so long as you have immunity to the damage type of your path.** 
-
-## Forking Paths
-At 22nd level, you can spend a downtime taking an extended rest at wherever a teacher for your paths resides. When you do, you can switch your current path for the one this teacher provides. 
-
-Your progress on the path now grants you the ability to cast a powerful spell.    
-If your class lets you learn and/or prepare spells, that spell is automatically know/prepared for each spellcasting class you have and doesn't count towards the limit of known/prepared spells for you.     
-You can also cast this spell once per long rest, without using a spell slot and not needing material components. When casting the spell in that manner, Constitution is your spellcasting ability for that spell.  
-
-| Path to Power    | Free Spell |
-|:-----------------|:----------:|
-| Eternal youth and strength | Soul Cage | 
-| [Brotherhood of the True Flame](https://forgottenrealms.fandom.com/wiki/Brotherhood_of_the_True_Flame) | Fire Storm | 
-| Fire and light to see clearly and provide insight | Find the Path |
-| Protection of the Efreeti and controlling elementals | Planar Ally | 
-| Sandman's path, inducing sleep and stillness | Mental Prison |
-| Glassblower's path, using heat for transmutation | Bones of the Earth |
-| Protection of the Dao and controlling elementals | Planar Ally |
-| Using fog, water and ice to distract and attack | Wall of Ice |
-| Protection of the Marid and controlling elementals | Planar Ally |
-| Manipulating winds, air, sound and visibility | Wind Walk  |
-| Protection of the Djinni and controlling elementals | Planar Ally |
 
 ### Ability Score Improvement	
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
