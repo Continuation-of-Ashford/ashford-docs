@@ -26,8 +26,8 @@ Abilities that scale solely off of character level (i.e. cantrip damage, a Drago
 ### Boons and Blessings
 When a prestige class allows you to take a boon or blessing, you can pick from the list on this wiki.
 
-[Blessings](\prestige_classes\blessings.md) <br>
-[Boons](\prestige_classes\boons.md)
+[Blessings](./prestige_classes/blessings.md) <br>
+[Boons](./prestige_classes/boons.md)
 
 ## Prestige Classes
 - [Colored Mana Ritualist](./prestige_classes/colored-mana-ritualist.md)
