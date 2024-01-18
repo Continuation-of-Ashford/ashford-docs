@@ -73,7 +73,7 @@ Either way, feel free to create a player guild!  Take a look at the [Guild Rules
 # Quick reference
 ### [Character Creation](character_creation/0_creation_guide.md)
 * [Core Character Creation](character_creation/2_core_character_creation.md)
-* [Prestige Characters](character_creation/prestige_leveling.md)
+* [Prestige Characters](character_creation/5_prestige_leveling.md)
 ### [Custom Rules](modified_mechanics/rules.md)
 ### [Downtimes](playing_the_game/downtime_actions.md)
 * [Magic item crafting](playing_the_game/downtime_actions.md#crafting-a-magic-item)
