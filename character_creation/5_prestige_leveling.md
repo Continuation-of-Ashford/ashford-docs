@@ -9,6 +9,20 @@ Legendary Hero is the *"legendary version of your class"* variant. It is broadly
 
 Other prestige options seek power that comes from outside sources, such as becoming a werewolf or embracing demonic corruption. These represent either a new focus of power for your character or a specialization into one aspect of them. They will present new and different powers to use that give you more options outside of your core class features.
 
+## Leveling Past 20
+
+| Level    | XP Requirement   | PB |
+|:--------:|----------:|:---:|
+| Prestige | 450,000   | +7 |
+| 22       | 600,000   | +7 |
+| 23       | 805,000   | +7 |
+| 24       | 1,100,000 | +7 |
+| 25       | 1,500,000 | +8 |
+
+You can reach up to 25th level when you acquire an amount of XP detailed on the table above.
+
+Abilities that scale solely off of character level (i.e. cantrip damage, a Dragonborn's breath weapon) scale again at 23rd level.
+
 ### Boons and Blessings
 When a prestige class allows you to take a boon or blessing, you can pick from the list on this wiki.
 
@@ -18,6 +32,7 @@ When a prestige class allows you to take a boon or blessing, you can pick from t
 ## Prestige Classes
 - [Colored Mana Ritualist](\prestige_classes\colored-mana-ritualist.md)
 - [Corrupted Champion](\prestige_classes\corrupted-champion.md)
+- [Dragon Disciple](\prestige_classes\dragon-disciple.md)
 - [Dread Lich](\prestige_classes\dread-lich.md)
 - [Exalted Saint](\prestige_classes\exalted-saint.md)
 - [Far Prophet](\prestige_classes\far-prophet.md)
@@ -31,7 +46,7 @@ When a prestige class allows you to take a boon or blessing, you can pick from t
 - [Paths of Power](\prestige_classes\paths-of-power.md)
 - [Primal Predator](\prestige_classes\primal-predator.md)
 - [Transcendant](\prestige_classes\transcendant.md)
-- [Ur Dragon Disciple](\prestige_classes\ur-dragon-disciple.md)
+
 
 
 ## [← Beyond Level 3](4_beyond_level_3.md) | [Index](0_creation_guide.md)

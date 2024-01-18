@@ -46,5 +46,5 @@ At 24th level, you may take one [boon](boons.md).
 
 A Legendary Hero uniquely has access to the [Boon of the Legendary Warrior](boons.md#boon-of-the-legendary-warrior--special) and [Boon of Spell Recall](boons.md#boon-of-spell-recall--special).
 					
-### Legendary Resistance (1/day)					
-At 25th level, once per day, when you fail a saving throw, you can choose to succeed instead.					
+### Legendary Resistance (2/day)					
+At 25th level, two times per day, when you fail a saving throw, you can choose to succeed instead. 					

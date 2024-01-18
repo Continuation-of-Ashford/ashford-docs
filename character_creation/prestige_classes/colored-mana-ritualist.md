@@ -13,7 +13,7 @@
 </div>
 
 ### Prestige Class Prerequisites: 
-Any level 20 Ashford character that learns how to use colored mana from a powerful caster in Ravnica, Zendikar, Innistrad, Kaladesh, Amonkhet, Ixalan, or Dominaria. Places that can be accessed using the Dream of the Blue Veil spell. 
+Any level 20 Ashford character that learns how to use colored mana from a powerful caster in Ravnica, Zendikar, Innistrad, Kaladesh, Amonkhet, Ixalan, or Dominaria. These places can be accessed using the Dream of the Blue Veil spell. 
 
 In order to benefit from this training a character must also have the ability to scribe rituals into a book, be it from the Ritual Caster feat, Book of Ancient Secrets invocation, or the Wizard version of the Ritual Casting feature.
 
@@ -28,9 +28,7 @@ In order to benefit from this training a character must also have the ability to
 ### Ley Line Zoning Law
 At 21st level, you learn a new ritual you can use to siphon magic from the ley lines of your home plane. Once started this ritual passively charges up magical energy, that you can then summon to your location when you need it.
 
-You can perform this ritual at a number of locations equal to `1 + your levels in this prestige class`. Each such location must be at least 30 miles from any other location where this ritual was performed, by ANY ritualist. 
-
-> If you perform the ritual at an invalid location you learn how far you are from the overlapping ritual. Though even if you can find the offending ritual circle, you'll need the ritualist that performed it to be either willing or dead before you can end their claim and put down your own.
+You can perform this ritual at a number of locations equal to `1 + your levels in this prestige class`. Each such location must be at least 30 miles from any other location where you performed this ritual. As an action, you may teleport yourself and up to six willing creatures to a location where you have performed this ritual. You must take a long rest before you can teleport with this feature again.
 
 From each location you perform this ritual you must take a single token that reminds you of the location, such as a jar of sand, an unusual rock or a vial of water. *(anything that would be considered an Associated Object for the Teleport spell)* The ritual imbues these tokens with a magical connection. *(they count as a magic items, including for the Dream of the Blue Veil spell)*
 
