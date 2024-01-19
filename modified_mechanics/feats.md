@@ -23,4 +23,7 @@ Now has an additional clause:
 
 ## Vital Sacrifice
 Now has an additional clause:
-> You can only have one blood boon at a time. 
+> You can only have one blood boon at a time.
+
+## Polearm Master
+Includes Lances in the list of weapons that function with the feat.
