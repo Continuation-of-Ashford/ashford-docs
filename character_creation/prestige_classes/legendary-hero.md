@@ -3,11 +3,11 @@
 
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
-| Prestige | 450,000   | +7 | Legendary Skill, Immortality? |
+| Prestige | 450,000   | +7 | Legendary Item |
 | 22       | 600,000   | +7 | Blessing |
 | 23       | 805,000   | +7 | Ability Score Improvement, Additional Attack	|
 | 24       | 1,100,000 | +7 | Boon |
-| 25       | 1,500,000 | +8 | Legendary resistance (1/day) |
+| 25       | 1,500,000 | +8 | Legendary resistance (2/day) |
 
 		
 ### Prestige Class Prerequisites:					
