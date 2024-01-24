@@ -31,7 +31,7 @@ Describe the type of dragon that has become your master.
 
 | Color | Area | Damage |
 |:------|:-----|-------:|
-|Amythyst   |30ft cone                  | force      |
+|Amethyst   |30ft cone                  | force      |
 |Black      |60ft long, 10ft wide line  | acid       |
 |Blue       |90ft long, 5ft wide line   | lightning  |
 |Brass      |60ft long, 10ft wide line  | fire       |
@@ -46,50 +46,26 @@ Describe the type of dragon that has become your master.
 |Moonstone  |60ft long, 5ft wide line   | psychic    |
 |Platinum   |60ft long, 5ft wide line   | radiant    |
 |Red        |90ft cone                  | fire       |
-|Sapphire   |30ft cone                  | Thunder    |
+|Sapphire   |30ft cone                  | thunder    |
 |Silver     |60ft cone                  | cold       |
 |Topaz      |90ft cone                  | necrotic   |
 |White      |60ft cone                  | cold       |
 
 
 ### Draconic Transformation
-At 21st level, your body transforms to embody the spirits of the dragons you honor. You gain the following benefits.
+At 21st level, your body transforms to embody the spirits of the dragons you honor. You gain a new resource called Draconic Essence. You start with an amount equal to your level plus any breath weapon charges you may already have and regain all expended Draconic Essence when you complete a short or long rest. At the start of each of your turns, you can choose one of the following options according to the following table, expending Draconic Essence according to the cost noted. The effects of these features end after one minute. The saving throw DC for any of the effects is equal to 8 + your Constitution modifier + your proficiency bonus.
 
-- You gain blindsight to a radius of 10 feet or increase your blindsight's radius by 10 feet if you already have blindsight and darkvision with a radius of 60 feet or increase your darkvision's radius by 60 feet if you already have darkvision.
-- You gain a fly speed of 60 feet. If you already had a fly speed, your fly speed increases by 30 feet as draconic wings grow below your normal wings.
-- Your Strength increases by 2.
-- You gain resistance to the damage type associated with the type of dragon you chose.
-- If you have a breath weapon that requires rest to recharge, you gain the Dragon's Breath Improvement feature.
-- If you do not have a breath weapon that recharges when resting, you instead gain the Dragon's Breath feature.
-- You gain two [Draconic Gifts](https://5e.tools/book.html#ftd,2,draconic%20gift%20descriptions,0) of Rare rarity or lower.
-
-
-#### Dragon's Breath Improvement
-If you have a breath weapon with expended charges, you regain 1 charge for 1 breath weapon of your choice when you roll initiative.
-
-Additionally, while any of your breath weapons have expended charges, you can roll a d6 at the end of each of your turns. If you roll a 6, one breath weapon of your choice regains 1 charge.
-
-When you use a breath weapon that requires charges, you can apply any of the following effects:
-
-- It deals `7d10` damage instead of its normal damage.
-- The area and damage type change to the area and damage type associated with the color you chose for your Draconic Influence feature.
-
-#### Dragon's Breath
-When you take the Attack action on your turn, you can replace one of the attacks with an exhalation of draconic energy in the shape associated with the color you chose for your Draconic Influence feature.  
-Each creature in that area must make a Dexterity saving throw (DC = 8 + your Constitution modifier + your proficiency bonus), taking `14d10` damage of the type associated with the color you chose for your Draconic Influence feature on a failed save, or half as much damage on a successful one.
-
-You can use your breath weapon once. You regain your breath when you roll initiative.
-While your breath is expended, at the end of each of your turns you roll a d6 and regain your breath on a roll of 6.
+| Name | Cost | Effect |
+|:------|:-----|-------:|
+|Draconic Flight| 4 Draconic Essence | You gain a 60 ft. fly speed. If you already have a fly speed, your fly speed increases by 30 ft. instead.      |
+| Breath Weapon | 2 Draconic Essence  | You charge a breath weapon, which takes the shape of either a 150-foot, 10-foot wide line or a 90-foot cone. You can then either immediately use your breath weapon, expelling the energy building within or continue gathering the same. When you use your weapon, all creatures within the area of the breath weapon must make a Dexterity saving throw. On a failed saving throw, a creature takes damage equal to a number of d10s equal the amount of Draconic Essence expended squared, or half as much on a successful saving throw. The type of the damage dealt must correspond to your Dragon Ancestry.
+| Claw of the Wyrm | 1 Draconic Essence | Your Strength score increases by 2, to a maximum of 30. You immediately make a melee attack roll against a creature within your reach. On a hit, the target takes magical slashing damage equal to 6d8 + your Strength modifier.  |
+| Frightful Presence      | 6 Draconic Essence | You make your full might apparent to all enemies. All creatures that can see or hear you within 120 feet of you must make a Wisdom saving throw. On a failed saving throw, a creature is frightened. A frightened creature can repeat this saving throw at the end of each of its turns. On a successful saving throw, a creature is no longer frightened. If you have the Dragon Fear feat, you can expend a usage of your Dragonborn Breath Weapon trait to force creatures to make this saving throw at disadvantage and to ignore immunity to the frightened condition.      |
+| Draconic Constitution     | 2 Draconic Essence   | Your Consitution score increases by 2, to a maximum of 30. Your size increases by one category, to a maximum of Gargantuan.   |
 
 
-### Draconic Might
-At 22nd level, you further embody the gifts of your draconic patron. You gain the following benefits.
-- When you hit a creature with an attack or deal damage to a creature with a spell, it takes an additional 2d6 damage of your dragon's type.
-- Your skin hardens into scales. Your armor class and Constitution increase by 2.
-- Your fly speed increases by 20 feet.
-- The damage from your Dragon's Breath Improvement increases by 1d10 or your Dragon's Breath feature increases by 2d10. Additionally, you regain 1 charge when you roll a 5 or 6 on the d6.
-- You gain one [Draconic Gift](https://5e.tools/book.html#ftd,2,draconic%20gift%20descriptions,0) of any rarity.
-
+### Maw, Claw, and Tail
+Starting at 22nd level, you deal an additional 2d6 damage, the type of which corresponds to your Dragon Ancestry, when you hit a target with an attack. Additionally, once per turn, when you hit a creature, you can knock the target prone or grapple it (escape DC equal to 8 + your COnstitution modifier + your proficiency bonus).
 
 ### Draconic Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -99,12 +75,3 @@ Alternatively, you can take a feat.
 At 24th level, your teacher imparts a [boon](boons.md) of your choice.
 
 ### Draconic Form
-You can transform into a draconic form that resembles your draconic teacher. This transformation lasts for one hour or until you dismiss it, no action required. While this transformation lasts, you gain the following benefits. You can use this feature once per day.
-- Your size increases to gargantuan.
-- The damage from your Dragon's Breath Improvement increases by 3d10 or your Dragon's Breath feature increases by 6d10. Additionally, you regain 1 charge when you roll a 4, 5, or 6 on the d6.
-- When you fail a saving throw, you can choose to succeed. You can use this feature once per day.
-- When rolling damage for an attack with a melee weapon, unarmed strike, or natural weapon, roll three times the normal number of dice for the weapon or unarmed strike.
-- You can use a bonus action to revert to your normal form or turn back into your draconic form.
-- You gain 100 temporary hit points.
-
-While you are not in your Draconic Form, draconic energy yearns to burst free from you. The damage from your Draconic Might feature increases to 3d6.
