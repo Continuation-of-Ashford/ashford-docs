@@ -28,25 +28,14 @@ You have studied one cantrip, taking apart its inner workings and reassembling i
 
 <div class='classTable'>
 
-|Cantrip Name   | 
-|:--------:|
-|Acid Splash | 
-| Chill Touch|
-| Eldritch Blast|
-| Fire Bolt|
-| Frostbite|
-| Infestation|
-| Lightning Lure|
-| Mind Sliver|
-| Poison Spray|
-| Produce Flame|
-| Ray of Frost|
-| Sacred Flame|
-| Sapping Sting|
-| Shocking Grasp|
-| Thorn Whip|
-| Toll the Dead|
-| Vicious Mockery|
+|Cantrip Name   | Cantrip Name|Cantrip Name|
+|:--------:|:--------:|:--------:|
+|Acid Splash | Chill Touch| Eldritch Blast|
+| Fire Bolt| Frostbite| Infestation|
+|Lightning Lure| Mind Sliver| Poison Spray|
+|Produce Flame| Ray of Frost| Sacred Flame|
+| Sapping Sting| Shocking Grasp|Thorn Whip|
+| Toll the Dead|Vicious Mockery||
 </div>
 
 - When you damage a creature using that cantrip, you deal additional damage equal to your spellcasting modifier.
