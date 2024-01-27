@@ -38,10 +38,8 @@ You stop aging. You are immune to any effect that would age you, and you can't d
 ## Boon of Invincibility  <sup>DMG p232</sup>
 When you take damage from any source, you can reduce that damage to 0. Once you use this boon, you can't use it again until you finish a short rest.
 	
-	
 ## Boon of Irresistible Offense  <sup>DMG p232</sup>
 You can bypass the damage resistances of any creature.
-
 
 ## Boon of Luck  <sup>Altered</sup>
 Once per session, you can reroll one d20 that someone rolled as an attack targeting you or that you rolled for an Attack, Save, Ability check, or Wild Magic activation. You then choose to keep the old result or use the reroll.
