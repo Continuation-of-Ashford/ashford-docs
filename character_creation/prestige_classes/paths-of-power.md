@@ -24,18 +24,41 @@ Any level 20 Ashford character that can cast a cantrip.
 - **Skills:** Choose one from Arcana, Religion, or Investigation. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ## Step onto the Path
-You have studied one cantrip, taking apart its inner workings and reassembling it to suit your purposes. At 21st level, choose one cantrip you know. If the cantrip does not involve dealing damage in any way, you gain the ability to use its magic in a way to bring harm to other creatures. When you cast that cantrip, you can make a spell attack roll against a creature within the range of that cantrip. On a hit, that creature takes 5d10 force damage.
+You have studied one cantrip, taking apart its inner workings and reassembling it to suit your purposes. At 21st level, choose one cantrip you know from the following list. You then grant the chosen cantrip the following benefits. 
 
-Additionally, you then grant the chosen cantrip one of the following benefits. 
+<div class='classTable'>
+
+|Cantrip Name   | 
+|:--------:|
+|Acid Splash | 
+| Chill Touch|
+| Eldritch Blast|
+| Fire Bolt|
+| Frostbite|
+| Infestation|
+| Lightning Lure|
+| Mind Sliver|
+| Poison Spray|
+| Produce Flame|
+| Ray of Frost|
+| Sacred Flame|
+| Sapping Sting|
+| Shocking Grasp|
+| Thorn Whip|
+| Toll the Dead|
+| Vicious Mockery|
+</div>
 
 - When you damage a creature using that cantrip, you deal additional damage equal to your spellcasting modifier.
 - When you damage a creature using that cantrip, you can move the target creature up to 10 feet directly towards or away from you.
 - You change the casting time of that cantrip to 1 bonus action.
-- Instead of scaling through dealing an additional damage dice, the chosen cantrip now scales through gaining an additional attack or saving throw. 
+- Instead of scaling through dealing an additional damage dice, the chosen cantrip now scales through gaining the ability to target an additional enemy.
+
+Alternatively, you can choose a cantrip from the following list. You then grant the chosen cantrip the following benefits.
+- 
 
 ## Minor Success
 In your pursuit of mastery over your chosen cantrip, your research has borne fruit, allowing you to gain ancilliary benefits when you cast the chosen cantrip. Starting at 22nd level, when you cast the cantrip chosen through your 21st level feature, you gain temporary hit points equal to your spellcasting modifier. Additionally, the cantrip functions even in an antimagic field. Finally, you gain resistance to one damage type the cantrip deals.
-
 
 ### Ability Score Improvement	
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
