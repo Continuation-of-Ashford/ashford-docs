@@ -52,7 +52,7 @@ Describe the type of dragon that has become your master.
 |White      |60ft cone                  | cold       |
 
 
-### Draconic Transformation
+### Imbue Aspect
 At 21st level, your body transforms to embody the spirits of the dragons you honor. You gain a new resource called Draconic Essence. You start with an amount equal to your level plus any breath weapon charges you may already have and regain all expended Draconic Essence when you complete a short or long rest. At the start of each of your turns, you can choose one of the following options according to the following table, expending Draconic Essence according to the cost noted. The effects of these features end after one minute. The saving throw DC for any of the effects is equal to 8 + your Constitution modifier + your proficiency bonus.
 
 | Name | Cost | Effect |
@@ -62,6 +62,7 @@ At 21st level, your body transforms to embody the spirits of the dragons you hon
 | Claw of the Wyrm | 1 Draconic Essence | Your Strength score increases by 2, to a maximum of 30. You immediately make a melee attack roll against a creature within your reach. On a hit, the target takes magical slashing damage equal to 6d8 + your Strength modifier.  |
 | Frightful Presence      | 6 Draconic Essence | You make your full might apparent to all enemies. All creatures that can see or hear you within 120 feet of you must make a Wisdom saving throw. On a failed saving throw, a creature is frightened. A frightened creature can repeat this saving throw at the end of each of its turns. On a successful saving throw, a creature is no longer frightened. If you have the Dragon Fear feat, you can expend a usage of your Dragonborn Breath Weapon trait to force creatures to make this saving throw at disadvantage and to ignore immunity to the frightened condition.      |
 | Draconic Constitution     | 2 Draconic Essence   | Your Consitution score increases by 2, to a maximum of 30. Your size increases by one category, to a maximum of Gargantuan.   |
+|Antimagic Burst| 3 Draconic Essence| You immediately stop one magical effect of your choice from affecting you. Alternatively, you can immediately destroy one creation of force within 15 feet of you.|
 
 
 ### Maw, Claw, and Tail
@@ -72,6 +73,11 @@ At 23rd level, you can increase one ability score of your choice by 2, or you ca
 Alternatively, you can take a feat.	
 
 ### Draconic Boon
-At 24th level, your teacher imparts a [boon](boons.md) of your choice.
+At 24th level, your patron imparts a [boon](boons.md) of your choice.
 
-### Draconic Form
+### Draconic Transformation
+Starting at 25th level, you become able to take on the form of your draconic patron. As a bonus action, you can transform for one minute and immediately use two options from your Imbue Aspect feature. While transformed in this way, you gain the following benefits for the duration of the transformation.
+- You grow by two sizes, to a maximum of Gargantuan.
+- Any melee weapon attack you deal has its base damage dice tripled. 
+- You gain temporary hit points equal to your level at the start of each of your turns.
+- If you fail a saving throw, you can expend five Draconic Essence to succeed instead.
