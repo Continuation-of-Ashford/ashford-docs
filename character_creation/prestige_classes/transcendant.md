@@ -12,20 +12,21 @@
 </div>
 		
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character that can cast the Astral projection or Planeshift spells (such as through the Monk's Empty Body feature). Or a character that is otherwise capable of solo planar travel to allow them to meditate in the Astral Sea, Ethereal Plane and Limbo over the course of a single day.
+Any level 20 Ashford character that has meditated in the Astral Sea, Ethereal Plane, and Limbo.
 
 ##### Hit Points
 - **Hit Dice:** 1d8
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Strength, Constitution, or Dexterity. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
-- **Skills:** Choose one from Arcana, Religion, History, Insight, or Perception. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
+- **Saving Throws:** Choose any one skill proficiency. 
+- **Skills:** Choose one from Arcana, Investigation, History, Insight, or Perception. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
-### Ascetic's Blessing
-At 21st level, *you understand enough about yourself and about the universe that you can grant a blessing*. Choose a [blessing](blessings.md) that you can grant to other creatures but cannot use yourself.
+### Immortal Arts
+At 21st level, you have gained understanding of some fundamental essence of this world. If an Immortal Art calls for a saving throw, it uses your Ki save DC. An Art’s Action Cost is the time you must spend activating the art, its Duration is how long its effects last. If it has a duration of a number of rounds, it lasts until the end of your next turn after the specified number of times initiative cycles back to the top. If an Art calls for an area of effect, use the Areas of Effect rules for spellcasting, PHB p. 204.
 
-During a long rest, you and one other creature can meditate on this blessing. After the long rest, they benefit from that blessing. This ability ends after you take a long rest or if you use an action to end it early.
+You can select one Immortal Art at each level you take in this class, with a list located at the end of this page. You must select an Art whose level requirement matches the level at which you are choosing the Art. You can use each Art once per long rest.
+
 
 
 ### Transcend Materialism
@@ -61,3 +62,213 @@ At 25th level, you can can make an special unarmed strike that deals no damage a
 Attacks and spells that hit the body also hit the creature in the Ethereal plane but items cannot be taken off the body.
 
 While within the border Ethereal the only actions the target can take are the Dash Action or reenter its body, ending this effect, if it is in the same relative position in the Ethereal Plane as its body is in the Material Plane. After a creature succeeds the saving throw or reenters its body, it is immune to this ability for 24 hours.
+
+### Immortal Arts
+
+#### Channeling Diagram
+
+##### Level: Level 11.
+##### Action Cost: 1 action.
+##### Duration: 10 minutes.
+
+You use yang and yin ki to isolate yourself from the surrounding world. For the duration of this Art, whenever you take damage, the diagram reduces the damage you take by an amount equal to your Monk level.
+
+#### Heaven Trampling
+
+##### Level: Level 11.
+##### Action Cost: 1 action.
+##### Duration: Instantaneous.
+
+Select a target within 90 feet of you. You grow to a massive size, large enough to crush the target like an ant underfoot. You do so. The target must make a Dexterity saving throw, taking 16d8+40 force damage on a failed saving throw, or half on a successful one.
+
+#### Mountains Crumble
+
+Level:
+    Level 11.
+Action Cost:
+    1 action.
+Duration:
+    Instantaneous.
+
+You summon an illusory volcano behind you, which erupts, crumbling to pieces in the process. All creatures of your choice within 60 feet of you must make a Constitution saving throw. On a failed saving throw, a creature takes 8d8 bludgeoning damage and is stunned. On a successful saving throw, it takes full damage, but is not stunned. 
+
+#### Soul Devouring Grasp
+
+Level:
+    Level 11.
+Action Cost:
+    1 reaction, which you take in response to a creature dying within 120 feet of you.
+Duration:
+    Instantaneous.
+
+You create an illusory hand using you ki, allowing it to stretch out and grab the soul of a creature as it dies. You then immediately devour the soul, recovering 8d8 hit points, removing all conditions affecting you, and causing the damage of the next weapon attack you make within the next minute to be increased by 5d10 force damage.
+
+#### World Shifting
+
+Level:
+    Level 11.
+Action Cost:
+    1 attack.
+Duration:
+    Instantaneous.
+
+You select a creature or object within your reach. You pick up the creature and throw it, moving it to a location within 90 feet of you. When it lands, it takes 2d6 bludgeoning damage for every 10 feet it was moved.
+
+#### Day and Night Incantation
+
+Level:
+    Level 13.
+Action Cost:
+    1 action.
+Duration:
+    1 minutes.
+
+You isolate a small chunk of the world. While a creature is within 120 feet of you, it appears to be either day or night, with astronomical phenomena reflecting your beliefs and powers, depending on whether your palm is up or down. Depending on whether it is Day or Night, creatures in the area have the following effects applied to them. As a bonus action, you can flip your palm, causing the effects to switch.
+
+Day
+    Positive ki rushes into creatures of your choice. Creatures chosen by you regain hit points equal to your monk level at the beginning of each of their turns.
+
+Night.
+    Negative ki shrouds creatures of your choice. Creatures chosen by you are granted half cover and can take the Hide action as a bonus action.
+
+#### Moonlight Cascade
+
+Level:
+    Level 13.
+Action Cost:
+    1 action.
+Duration:
+    Instantaneous.
+
+A full moon shines behind you, partially obscuring you from vision. You launch a cascade of strikes, slashing through the light as it reflects upon your armor and blade. Immediately make 12 attacks with a Dedicated Weapon, adding your Wisdom modifier to the attack rolls for each.
+
+#### Sea Forming Scripture
+
+Level:
+    Level 15.
+Action Cost:
+    1 action.
+Duration:
+    Instantaneous
+
+You create a roiling sea of water in a 100-foot radius around you. When the sea appears, all creatures of your choice within the sea must make a Strength saving throw. On a failed saving throw, a creature takes 6d10 bludgeoning damage and is pushed up to 30 feet in a direction of your choice. 
+
+#### Reverse Sky and Earth
+
+Level:
+    Level 15.
+Action Cost:
+    1 action.
+Duration:
+    1 minute.
+
+You cause one creature of your choice within 60 feet of you to be pulled into a demiplane where the sky and earth are reversed. The creature must make a Charisma saving throw. On a failed saving throw, the creature is pulled into the demiplane and begins falling away from the ground above it at a rate of 500 ft. per round, regardless of it having a Fly speed, the ability to hover, or spells it casts.
+
+For the duration of this Magic, you must use your action to maintain this effect. If you do not, it reappears at its former location, taking 20d6 bludgeoning damage, with an additional 20d6 bludgeoning damage for each action you spend maintaining this Magic.
+
+An object which is in the location the target reappears in is destroyed, as if a heavy object has fallen upon it from hundreds of feet in the air. A creature in the location the target reappears in must make a Dexterity saving throw, taking 10d6 bludgeoning damage on a failed saving throw.
+
+#### Call the Wind
+
+Level:
+    Level 15.
+Action Cost:
+    1 action.
+Duration:
+    1 minute.
+
+You create three black dragons out of howling wind stained black with cold. They use the Young White Dragon stat block, obey your verbal orders (no action required), and take their turn immediately after yours, taking the Dodge action if you give no orders. They disappear if they fall to 0 hit points or one minute passes.
+
+#### Hollow Palm
+
+Level:
+    Level 15.
+Action Cost:
+    None.
+Duration:
+    Instantaneous.
+
+You immediately make one attack with a Dedicated Weapon against a creature within your reach. If the creature cannot see invisible creatures, you automatically hit. On a hit, the creature takes an additional 20d10 force damage and must make a Charisma saving throw. On a failed saving throw, it is banished to a harmless demiplane until the end of its next turn.
+
+#### Abyss Gate
+
+Level:
+    Level 17.
+Action Cost:
+    1 action.
+Duration:
+    Instantaneous.
+
+You open a gate to the Astral Plane at a location within 120 feet of you. All creatures within 30 feet of the gate must make a Strength saving throw. On a failed saving throw, they are dragged into the gate. On a successful saving throw, they take 10d10 force damage. After all saving throws have been resolved, the gate closes.
+
+#### Commit Three Sins
+
+Level:
+    Level 17.
+Action Cost:
+    1 action.
+Duration:
+    Instantaneous.
+
+Choose three different creatures you can see within 30 feet of you.
+
+One creature must make a Constitution saving throw. On a failed saving throw, it falls into madness, becoming unable to speak clearly, cast spells with verbal components, or make attacks until it is targeted by a Greater Restoration, Heal, or Wish spell.
+
+One creature is instantly reduced to 0 hit points. IF it has Legendary Resistances, it is instead reduced to half of its current hit points, rounded down.
+
+One creature can immediately make four attacks against a creature within 5 feet of it.
+
+#### Solar Descent
+
+Level:
+    Level 17.
+Action Cost:
+    1 action.
+Duration:
+    1 minute.
+
+You create a miniature sun in the sky above you, the rays of which fry creatures below it. Choose a point within 500 feet of you. The sun appears 2000 feet above that point. All creatures within a 100 ft. radius, 2000-foot tall cylinder originating from the sun downwards must make a Constitution saving throw when the sun appears and when they begin their turn within the area or enter the area for the first time on a turn. On a failed saving throw, they take 10d8 radiant damage and are blinded. On a successful saving throw, they take half damage and are not blinded.
+
+#### Sundered Clouds
+
+Level:
+    Level 17.
+Action Cost:
+    1 action.
+Duration:
+    Instantaneous.
+
+You raise your hands to the sky, and summon a 100-foot long glowing sword in them, then bring it down upon your enemies. Make a melee weapon attack against each creature in a 100-foot long 5-foot wide line, adding your proficiency bonus to the attack rolls. On a hit, a creature has its current hit points reduced by half, rounded down. On a miss, a creature is knocked prone, and blinded until it recieves magical healing.
+
+#### Overlaying Stacks
+
+Level:
+    Level 20.
+Action Cost:
+    1 action.
+Duration:
+    Instantaneous.
+
+You immediately take 1d4 + 1 turns, then end your turn. Your movement speed is reduced to 0 until the end of any turns granted by this Magic, and all effects of those turns are resolved when you end your turn.
+
+#### Heaven Severing Blade
+
+Level:
+    Level 20.
+Action Cost:
+    1 action.
+Duration:
+    Instantaneous.
+
+All creatures within 15 feet of you of your choice which do not have Legendary Resistances die.
+
+#### Night’s End, Daybreak
+
+Level:
+    Level 20.
+Action Cost:
+    1 action.
+Duration:
+    Instantaneous.
+
+You plunge the world into darkness. All creatures of your choice within 60 feet of your are blinded until the end of their next turn. At the end of their next turn, a blinding sun rises in the darkness of their vision, causing them to take 20d6 radiant damage. The target creatures must make a Constitution saving throw. On a failed saving throw, their eyes are burned to ashes, and they are permanently blinded.
