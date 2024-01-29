@@ -65,7 +65,7 @@ While within the border Ethereal the only actions the target can take are the Da
 
 ### Immortal Arts
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Channeling Diagram
+#### Channeling Diagram
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Level: Level 11.
 
@@ -77,200 +77,186 @@ While within the border Ethereal the only actions the target can take are the Da
 
 #### Heaven Trampling
 
-##### Level: Level 11.
-##### Action Cost: 1 action.
-##### Duration: Instantaneous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 11.
 
-Select a target within 90 feet of you. You grow to a massive size, large enough to crush the target like an ant underfoot. You do so. The target must make a Dexterity saving throw, taking 16d8+40 force damage on a failed saving throw, or half on a successful one.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: 1 action.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Select a target within 90 feet of you. You grow to a massive size, large enough to crush the target like an ant underfoot. You do so. The target must make a Dexterity saving throw, taking 16d8+40 force damage on a failed saving throw, or half on a successful one.
 
 #### Mountains Crumble
 
-Level:
-    Level 11.
-Action Cost:
-    1 action.
-Duration:
-    Instantaneous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Level: Level 11.
 
-You summon an illusory volcano behind you, which erupts, crumbling to pieces in the process. All creatures of your choice within 60 feet of you must make a Constitution saving throw. On a failed saving throw, a creature takes 8d8 bludgeoning damage and is stunned. On a successful saving throw, it takes full damage, but is not stunned. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: 1 action.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You summon an illusory volcano behind you, which erupts, crumbling to pieces in the process. All creatures of your choice within 60 feet of you must make a Constitution saving throw. On a failed saving throw, a creature takes 8d8 bludgeoning damage and is stunned. On a successful saving throw, it takes full damage, but is not stunned. 
 
 #### Soul Devouring Grasp
 
-Level:
-    Level 11.
-Action Cost:
-    1 reaction, which you take in response to a creature dying within 120 feet of you.
-Duration:
-    Instantaneous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Level: Level 11.
 
-You create an illusory hand using you ki, allowing it to stretch out and grab the soul of a creature as it dies. You then immediately devour the soul, recovering 8d8 hit points, removing all conditions affecting you, and causing the damage of the next weapon attack you make within the next minute to be increased by 5d10 force damage.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action Cost: 1 reaction, which you take in response to a creature dying within 120 feet of you.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duration: Instantaneous.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You create an illusory hand using you ki, allowing it to stretch out and grab the soul of a creature as it dies. You then immediately devour the soul, recovering 8d8 hit points, removing all conditions affecting you, and causing the damage of the next weapon attack you make within the next minute to be increased by 5d10 force damage.
 
 #### World Shifting
 
-Level:
-    Level 11.
-Action Cost:
-    1 attack.
-Duration:
-    Instantaneous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Level: Level 11.
 
-You select a creature or object within your reach. You pick up the creature and throw it, moving it to a location within 90 feet of you. When it lands, it takes 2d6 bludgeoning damage for every 10 feet it was moved.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action Cost: 1 attack.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duration: Instantaneous.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You select a creature or object within your reach. You pick up the creature and throw it, moving it to a location within 90 feet of you. When it lands, it takes 2d6 bludgeoning damage for every 10 feet it was moved.
 
 #### Day and Night Incantation
 
-Level:
-    Level 13.
-Action Cost:
-    1 action.
-Duration:
-    1 minutes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 13.
 
-You isolate a small chunk of the world. While a creature is within 120 feet of you, it appears to be either day or night, with astronomical phenomena reflecting your beliefs and powers, depending on whether your palm is up or down. Depending on whether it is Day or Night, creatures in the area have the following effects applied to them. As a bonus action, you can flip your palm, causing the effects to switch.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action Cost: 1 action.
 
-Day
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duration: 1 minutes.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You isolate a small chunk of the world. While a creature is within 120 feet of you, it appears to be either day or night, with astronomical phenomena reflecting your beliefs and powers, depending on whether your palm is up or down. Depending on whether it is Day or Night, creatures in the area have the following effects applied to them. As a bonus action, you can flip your palm, causing the effects to switch.
+
+##### Day
     Positive ki rushes into creatures of your choice. Creatures chosen by you regain hit points equal to your monk level at the beginning of each of their turns.
 
-Night.
+##### Night.
     Negative ki shrouds creatures of your choice. Creatures chosen by you are granted half cover and can take the Hide action as a bonus action.
 
 #### Moonlight Cascade
 
-Level:
-    Level 13.
-Action Cost:
-    1 action.
-Duration:
-    Instantaneous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 13.
 
-A full moon shines behind you, partially obscuring you from vision. You launch a cascade of strikes, slashing through the light as it reflects upon your armor and blade. Immediately make 12 attacks with a Dedicated Weapon, adding your Wisdom modifier to the attack rolls for each.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action Cost: 1 action.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duration: Instantaneous.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A full moon shines behind you, partially obscuring you from vision. You launch a cascade of strikes, slashing through the light as it reflects upon your armor and blade. Immediately make 12 attacks with a Dedicated Weapon, adding your Wisdom modifier to the attack rolls for each.
 
 #### Sea Forming Scripture
 
-Level:
-    Level 15.
-Action Cost:
-    1 action.
-Duration:
-    Instantaneous
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 15.
 
-You create a roiling sea of water in a 100-foot radius around you. When the sea appears, all creatures of your choice within the sea must make a Strength saving throw. On a failed saving throw, a creature takes 6d10 bludgeoning damage and is pushed up to 30 feet in a direction of your choice. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: 1 action.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You create a roiling sea of water in a 100-foot radius around you. When the sea appears, all creatures of your choice within the sea must make a Strength saving throw. On a failed saving throw, a creature takes 6d10 bludgeoning damage and is pushed up to 30 feet in a direction of your choice. 
 
 #### Reverse Sky and Earth
 
-Level:
-    Level 15.
-Action Cost:
-    1 action.
-Duration:
-    1 minute.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 15.
 
-You cause one creature of your choice within 60 feet of you to be pulled into a demiplane where the sky and earth are reversed. The creature must make a Charisma saving throw. On a failed saving throw, the creature is pulled into the demiplane and begins falling away from the ground above it at a rate of 500 ft. per round, regardless of it having a Fly speed, the ability to hover, or spells it casts.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: 1 action.
 
-For the duration of this Magic, you must use your action to maintain this effect. If you do not, it reappears at its former location, taking 20d6 bludgeoning damage, with an additional 20d6 bludgeoning damage for each action you spend maintaining this Magic.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: 1 minute.
 
-An object which is in the location the target reappears in is destroyed, as if a heavy object has fallen upon it from hundreds of feet in the air. A creature in the location the target reappears in must make a Dexterity saving throw, taking 10d6 bludgeoning damage on a failed saving throw.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You cause one creature of your choice within 60 feet of you to be pulled into a demiplane where the sky and earth are reversed. The creature must make a Charisma saving throw. On a failed saving throw, the creature is pulled into the demiplane and begins falling away from the ground above it at a rate of 500 ft. per round, regardless of it having a Fly speed, the ability to hover, or spells it casts.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the duration of this Magic, you must use your action to maintain this effect. If you do not, it reappears at its former location, taking 20d6 bludgeoning damage, with an additional 20d6 bludgeoning damage for each action you spend maintaining this Magic.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An object which is in the location the target reappears in is destroyed, as if a heavy object has fallen upon it from hundreds of feet in the air. A creature in the location the target reappears in must make a Dexterity saving throw, taking 10d6 bludgeoning damage on a failed saving throw.
 
 #### Call the Wind
 
-Level:
-    Level 15.
-Action Cost:
-    1 action.
-Duration:
-    1 minute.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 15.
 
-You create three black dragons out of howling wind stained black with cold. They use the Young White Dragon stat block, obey your verbal orders (no action required), and take their turn immediately after yours, taking the Dodge action if you give no orders. They disappear if they fall to 0 hit points or one minute passes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: 1 action.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: 1 minute.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You create three black dragons out of howling wind stained black with cold. They use the Young White Dragon stat block, obey your verbal orders (no action required), and take their turn immediately after yours, taking the Dodge action if you give no orders. They disappear if they fall to 0 hit points or one minute passes.
 
 #### Hollow Palm
 
-Level:
-    Level 15.
-Action Cost:
-    None.
-Duration:
-    Instantaneous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 15.
 
-You immediately make one attack with a Dedicated Weapon against a creature within your reach. If the creature cannot see invisible creatures, you automatically hit. On a hit, the creature takes an additional 20d10 force damage and must make a Charisma saving throw. On a failed saving throw, it is banished to a harmless demiplane until the end of its next turn.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: None.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You immediately make one attack with a Dedicated Weapon against a creature within your reach. If the creature cannot see invisible creatures, you automatically hit. On a hit, the creature takes an additional 20d10 force damage and must make a Charisma saving throw. On a failed saving throw, it is banished to a harmless demiplane until the end of its next turn.
 
 #### Abyss Gate
 
-Level:
-    Level 17.
-Action Cost:
-    1 action.
-Duration:
-    Instantaneous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 17.
 
-You open a gate to the Astral Plane at a location within 120 feet of you. All creatures within 30 feet of the gate must make a Strength saving throw. On a failed saving throw, they are dragged into the gate. On a successful saving throw, they take 10d10 force damage. After all saving throws have been resolved, the gate closes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: 1 action.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You open a gate to the Astral Plane at a location within 120 feet of you. All creatures within 30 feet of the gate must make a Strength saving throw. On a failed saving throw, they are dragged into the gate. On a successful saving throw, they take 10d10 force damage. After all saving throws have been resolved, the gate closes.
 
 #### Commit Three Sins
 
-Level:
-    Level 17.
-Action Cost:
-    1 action.
-Duration:
-    Instantaneous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 17.
 
-Choose three different creatures you can see within 30 feet of you.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: 1 action.
 
-One creature must make a Constitution saving throw. On a failed saving throw, it falls into madness, becoming unable to speak clearly, cast spells with verbal components, or make attacks until it is targeted by a Greater Restoration, Heal, or Wish spell.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
 
-One creature is instantly reduced to 0 hit points. IF it has Legendary Resistances, it is instead reduced to half of its current hit points, rounded down.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Choose three different creatures you can see within 30 feet of you.
 
-One creature can immediately make four attacks against a creature within 5 feet of it.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One creature must make a Constitution saving throw. On a failed saving throw, it falls into madness, becoming unable to speak clearly, cast spells with verbal components, or make attacks until it is targeted by a Greater Restoration, Heal, or Wish spell.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One creature is instantly reduced to 0 hit points. IF it has Legendary Resistances, it is instead reduced to half of its current hit points, rounded down.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; One creature can immediately make four attacks against a creature within 5 feet of it.
 
 #### Solar Descent
 
-Level:
-    Level 17.
-Action Cost:
-    1 action.
-Duration:
-    1 minute.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 17.
 
-You create a miniature sun in the sky above you, the rays of which fry creatures below it. Choose a point within 500 feet of you. The sun appears 2000 feet above that point. All creatures within a 100 ft. radius, 2000-foot tall cylinder originating from the sun downwards must make a Constitution saving throw when the sun appears and when they begin their turn within the area or enter the area for the first time on a turn. On a failed saving throw, they take 10d8 radiant damage and are blinded. On a successful saving throw, they take half damage and are not blinded.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: 1 action.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: 1 minute.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You create a miniature sun in the sky above you, the rays of which fry creatures below it. Choose a point within 500 feet of you. The sun appears 2000 feet above that point. All creatures within a 100 ft. radius, 2000-foot tall cylinder originating from the sun downwards must make a Constitution saving throw when the sun appears and when they begin their turn within the area or enter the area for the first time on a turn. On a failed saving throw, they take 10d8 radiant damage and are blinded. On a successful saving throw, they take half damage and are not blinded.
 
 #### Sundered Clouds
 
-Level:
-    Level 17.
-Action Cost:
-    1 action.
-Duration:
-    Instantaneous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 17.
 
-You raise your hands to the sky, and summon a 100-foot long glowing sword in them, then bring it down upon your enemies. Make a melee weapon attack against each creature in a 100-foot long 5-foot wide line, adding your proficiency bonus to the attack rolls. On a hit, a creature has its current hit points reduced by half, rounded down. On a miss, a creature is knocked prone, and blinded until it recieves magical healing.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: 1 action.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You raise your hands to the sky, and summon a 100-foot long glowing sword in them, then bring it down upon your enemies. Make a melee weapon attack against each creature in a 100-foot long 5-foot wide line, adding your proficiency bonus to the attack rolls. On a hit, a creature has its current hit points reduced by half, rounded down. On a miss, a creature is knocked prone, and blinded until it recieves magical healing.
 
 #### Overlaying Stacks
 
-Level:
-    Level 20.
-Action Cost:
-    1 action.
-Duration:
-    Instantaneous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 20.
 
-You immediately take 1d4 + 1 turns, then end your turn. Your movement speed is reduced to 0 until the end of any turns granted by this Magic, and all effects of those turns are resolved when you end your turn.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: 1 action.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You immediately take 1d4 + 1 turns, then end your turn. Your movement speed is reduced to 0 until the end of any turns granted by this Magic, and all effects of those turns are resolved when you end your turn.
 
 #### Heaven Severing Blade
 
-Level:
-    Level 20.
-Action Cost:
-    1 action.
-Duration:
-    Instantaneous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 20.
 
-All creatures within 15 feet of you of your choice which do not have Legendary Resistances die.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: 1 action.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All creatures within 15 feet of you of your choice which do not have Legendary Resistances die.
 
 #### Night’s End, Daybreak
 
-Level:
-    Level 20.
-Action Cost:
-    1 action.
-Duration:
-    Instantaneous.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 20.
 
-You plunge the world into darkness. All creatures of your choice within 60 feet of your are blinded until the end of their next turn. At the end of their next turn, a blinding sun rises in the darkness of their vision, causing them to take 20d6 radiant damage. The target creatures must make a Constitution saving throw. On a failed saving throw, their eyes are burned to ashes, and they are permanently blinded.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Action Cost: 1 action.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You plunge the world into darkness. All creatures of your choice within 60 feet of your are blinded until the end of their next turn. At the end of their next turn, a blinding sun rises in the darkness of their vision, causing them to take 20d6 radiant damage. The target creatures must make a Constitution saving throw. On a failed saving throw, their eyes are burned to ashes, and they are permanently blinded.
