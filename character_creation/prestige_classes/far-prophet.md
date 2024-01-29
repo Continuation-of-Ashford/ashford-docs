@@ -9,7 +9,7 @@
 | 25       | 1,500,000 | +8 | Word Of The Prophet |
 
 ### Prestige Class Prerequisites: 
-Travel through the Far Realms for one week.
+A character who has traveled through the Far Realms for one week.
 
 ##### Hit Points
 - **Hit Dice:** 1d8	
