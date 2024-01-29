@@ -2,11 +2,11 @@
 
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
-| Prestige | 450,000   | +7 | Peer Beyond The Veil, Ear Against The Wall |
-| 22       | 600,000   | +7 | Blessing From Beyond The Stars |
+| Prestige | 450,000   | +7 | Ear Against The Wall |
+| 22       | 600,000   | +7 | Otherworldly Ascension |
 | 23       | 805,000   | +7 | Ability Score Improvement	|
-| 24       | 1,100,000 | +7 | Final Understanding |
-| 25       | 1,500,000 | +8 | Word Of The Prophet |
+| 24       | 1,100,000 | +7 | Far Blessing |
+| 25       | 1,500,000 | +8 | Final Understanding |
 
 ### Prestige Class Prerequisites: 
 A character who has traveled through the Far Realms for one week.
@@ -42,13 +42,13 @@ At 23rd level, you realize that your mortal shell is capable of far more than it
 
 Alternatively, you can take a feat.
 
-### Blessing From Beyond The Stars
+### Far Blessing
 At 24th level, you gain one [blessing](./blessings.md) from a Far Realm-infested Star.
 
 This blessing will often come with a form of indefinite madness, such as *"Your chosen star is a beacon of safety in a world gone mad."*
 
 ### Final Understanding
-At 24th level, you finally comprehend what the voices meant to tell you! You gain the following benefits.
+At 25th level, you finally comprehend what the voices meant to tell you! You gain the following benefits.
 - You gain proficiency in all skills. 
 - Pick one ability score. Ability checks made with that score are made at advantage.
 - When inflicting a creature with psychic damage or the charmed or frightened condition, you ignore the target's immunity or resistance to this damage type or conditions.

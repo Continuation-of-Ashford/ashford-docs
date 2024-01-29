@@ -5,11 +5,11 @@
 
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
-| Prestige | 450,000   | +7 | Step onto the Path, Close the Path |
-| 22       | 600,000   | +7 | Forking Paths |
+| Prestige | 450,000   | +7 | Arcane Specialty |
+| 22       | 600,000   | +7 | Minor Success |
 | 23       | 805,000   | +7 | Ability Score Improvement	|
-| 24       | 1,100,000 | +7 | Burn the Path |
-| 25       | 1,500,000 | +8 | Becoming Extraplanar |
+| 24       | 1,100,000 | +7 | Focused Boon |
+| 25       | 1,500,000 | +8 | Final Destination |
 </div>
 		
 ### Prestige Class Prerequisites:
