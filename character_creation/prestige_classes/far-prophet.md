@@ -19,42 +19,37 @@ A character who has traveled through the Far Realms for one week.
 - **Saving Throws:** Choose one from Intelligence, Wisdom, or Charisma. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
 - **Skills:** Choose one from Arcana, Deception, Insight, or Persuasion. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
-### Peer Beyond The Veil
-At 21st level, your powers of perception have exceeded those of mere mortals, allowing you to see the truths lying just beneath the surface.  You gain the following benefits.
-- You gain Truesight, Blindsight, and Tremorsense to a range of 30 feet. 
-- You know when you hear a lie and the answer to every riddle you hear.
-- You can know the location of every secret door, trap, and creature within 30 feet of you.
-
 ### Ear Against The Wall
-Also at 21st level, the voices of unknowable beings constantly whisper to you.  Sometimes they are even helpful!  You gain proficiency in one skill.  You can accept one random form of long-term madness to gain proficiency in another skill so long as you suffer from that form of madness. If you already have that madness, or if you do not wish to suffer that madness, you do not gain the proficiency or the madness. The madness and skill proficiency last until you take a long rest.  The madness received from this or similar features cannot be removed by magic like restoration. 
+At 21st level, you receive guidance from those who exist outside the boundaries of mortal perception or knowledge. You gain the following benefits.
+- You become immune to the paralyzed, frightened, exhaustion, deafened, charmed, and blinded conditions.
+- Once per combat, when you make a saving throw, attack roll, or ability check, you can roll another d20, choosing the outcome from all rolled d20s.
 
-You can use this feature once every ten minutes.
+### Otherworldly Ascension
+Beginning at 22nd level, you ensconse your mind in the Far Realm, instead using an avatar to interact with the mundane world. If you die, your body and equipment explodes into a reality-warping bubble of unreality, with a warped shadow of your mind in the center, which you take control of. All creatures within 30 feet of you when you die must make a Wisdom saving throw against your spell save DC (or 8 + your Wisdom modifier + your proficiency bonus if you do not have a spell save DC), taking 12d6 psychic damage on a failed saving throw, or half on a successful one. A creature which fails this saving throw is then pulled 15 feet towards the shadow of your mind on a failed saving throw. 
 
-You gain 1 form of indefinite madness: *"They are trying to get in they are trying to get in they are trying to get in they are trying to get in they are trying to get in-"*
+This shadow of your mind cannot be targeted by any means and has a 30 ft. fly speed with hover along with truesight to a range of 120 ft. and telepathy out to 120 ft. You remain in control of this shadow until it is targeted by a spell which would restore a creature from death to life or the session ends (see below). For one minute thereafter, a 30-foot radius around you is difficult terrain, and you can use a bonus action to teleport any number of creatures within this area to another location within this area. The only action you can take in this state is a Multiattack as shown below.
 
-### Blessing From Beyond The Stars
-At 22nd level, you gain one [blessing](./blessings.md) from a Far Realm-infested Star.
+#### Multiattack
+You make two Mind Blast attacks.
 
-You gain 1 form of indefinite madness: *"Your chosen star is a beacon of safety in a world gone mad."*
- 
+##### Mind Blast
+ Ranged Spell Attack: your proficiency bonus + your Intelligence, Wisdom, or Charisma (your choice) modifier to hit, reach 5 ft., one target. Hit: 6d8 + proficiency bonus psychic damage.
+
+If this shadow of your mind is targeted by a spell which would restore a creature to life, such as Revivify, Raise Dead, or True Resurrection within the appropriate timeframe of the spell, your avatar is returned to life as if you had died and been resurrected normally, with your body and equipment reforming intact. If the session ends without your shadow being targeted by one of these spells, you take disadvantage on your next downtime check in exchange for your body and equipment reforming intact as if you had been targeted by such a spell at the start of the next session you participate in.
+
 ### Ability Score Improvement
 At 23rd level, you realize that your mortal shell is capable of far more than it should be and resculpt it into what it should be. You can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
+
 Alternatively, you can take a feat.
+
+### Blessing From Beyond The Stars
+At 24th level, you gain one [blessing](./blessings.md) from a Far Realm-infested Star.
+
+This blessing will often come with a form of indefinite madness, such as *"Your chosen star is a beacon of safety in a world gone mad."*
 
 ### Final Understanding
 At 24th level, you finally comprehend what the voices meant to tell you! You gain the following benefits.
-- You gain proficiency in all skills. When you use your **Ear Against The Wall** feature, you instead gain expertise in the chosen skill.
-- Your weapon attacks and spells deal an additional 1d6 psychic damage per madness you are suffering.
+- You gain proficiency in all skills. 
 - Pick one ability score. Ability checks made with that score are made at advantage.
-
-In addition, while suffering from madness, you can ignore one enemy's resistance or immunity to psychic damage and immunities to the charmed and frightened conditions.  You can ignore the resistances and immunities of 4 creatures this way per long rest.
-
-You gain 1 form of indefinite madness: *"It is not you that is mad, it is everyone else."*
-
-### Word Of The Prophet
-At 25th level, your  mind serves as a gateway to the Far Realms. You gain the following benefits.
-- You can cast Gate once per day and make a Wisdom (Insight) check. The Gate can only lead to a location within the Far Realms. On the next round at initiative count 10, an aberration of your choice whose CR is less than half the result will emerge through the Gate. The aberration is friendly to you and will defend you and your allies to its best ability, but it is not under your control.
-
-- You can use a bonus action to tell a maddening truth to a creature within 60 feet of you that can hear you and understand a language you speak. It must make a Charisma saving throw against your spell save DC or 8 + your Wisdom modifier + your proficiency bonus if you do not have one. On a faillure, it becomes frightened by you. While frightened in this way, it cannot move and or use actions besides the Attack or Multiattack action, choosing itself as the target. A frightened creature can repeat the saving throw at the end of its turn if it has dealt at least 50 damage to itself that round, ending this effect on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to this ability for the next 24 hours. 
-
-You gain 1 form of indefinite madness: *"Only you can save this doomed world."*
+- When inflicting a creature with psychic damage or the charmed or frightened condition, you ignore the target's immunity or resistance to this damage type or conditions.
+- You can cast Gate once per day and make a Wisdom (Insight) check. The Gate can only lead to a location within the Far Realms. On the next round at initiative count 10, an aberration of your choice whose CR is less than half the result of the check will emerge through the Gate. The aberration will obey your requests, though it returns through the Gate when the spell ends.
