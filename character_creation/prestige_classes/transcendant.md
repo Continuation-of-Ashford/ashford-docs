@@ -125,10 +125,12 @@ While within the border Ethereal the only actions the target can take are the Da
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You isolate a small chunk of the world. While a creature is within 120 feet of you, it appears to be either day or night, with astronomical phenomena reflecting your beliefs and powers, depending on whether your palm is up or down. Depending on whether it is Day or Night, creatures in the area have the following effects applied to them. As a bonus action, you can flip your palm, causing the effects to switch.
 
-##### Day
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+#### Day
     Positive ki rushes into creatures of your choice. Creatures chosen by you regain hit points equal to your monk level at the beginning of each of their turns.
 
-##### Night.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+#### Night.
     Negative ki shrouds creatures of your choice. Creatures chosen by you are granted half cover and can take the Hide action as a bonus action.
 
 #### Moonlight Cascade
