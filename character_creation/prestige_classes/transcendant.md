@@ -65,11 +65,11 @@ While within the border Ethereal the only actions the target can take are the Da
 
 ### Immortal Arts
 
-> #### Channeling Diagram
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #### Channeling Diagram
 
-> ##### Level: Level 11.
-> ##### Action Cost: 1 action.
-> ##### Duration: 10 minutes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ##### Level: Level 11.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Action Cost: 1 action.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Duration: 10 minutes.
 
 > You use yang and yin ki to isolate yourself from the surrounding world. For the duration of this Art, whenever you take damage, the diagram reduces the damage you take by an amount equal to your Monk level.
 
