@@ -12,15 +12,15 @@
 </div>
 		
 ### Prestige Class Prerequisites:					
-Any level 20 Ashford character that can cast the Astral projection or Planeshift spells (such as through the Monk's Empty Body feature). Or a character that is otherwise capable of solo planar travel, to allow them to meditate in the Astral Sea, Ethereal Plane and Limbo over the course of a single day.
+Any level 20 Ashford character that can cast the Astral projection or Planeshift spells (such as through the Monk's Empty Body feature). Or a character that is otherwise capable of solo planar travel to allow them to meditate in the Astral Sea, Ethereal Plane and Limbo over the course of a single day.
 
 ##### Hit Points
 - **Hit Dice:** 1d8
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws:** Choose one from Intelligence, Wisdom, or Charisma. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
-- **Skills:** none
+- **Saving Throws:** Choose one from Strength, Constitution, or Dexterity. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
+- **Skills:** Choose one from Arcana, Religion, History, Insight, or Perception. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Ascetic's Blessing
 At 21st level, *you understand enough about yourself and about the universe that you can grant a blessing*. Choose a [blessing](blessings.md) that you can grant to other creatures but cannot use yourself.

@@ -20,7 +20,7 @@ Any level 20 Ashford character that seeks power from primordial magic, embracing
 
 ##### Bonus Proficiencies
 - **Saving Throws:** Choose one from Strength, Constitution, or Dexterity. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
-- **Skills:** Choose one from Athletics, Acrobatics, or Survival. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
+- **Skills:** Choose one from Athletics, Animal Handling, or Survival. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Magnificent Beast
 At 21st level, your type changes to include shapechanger. As an Action, you can transform into a hybrid beast form, a fully bestial form, or back to your humanoid form. Your bestial form represents not a single animal, but the primordial of all predators, and incorporates aspects of every great beast at the same time. 

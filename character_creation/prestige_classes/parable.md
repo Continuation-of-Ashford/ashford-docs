@@ -20,7 +20,7 @@ Any level 20 Ashford character that can cast spells from the Illusion school at 
 
 ##### Bonus Proficiencies
 - **Saving Throws:** Choose 1 from Charisma, Intelligence or Wisdom. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
-- **Skills:** Pick one from Deception or Performance. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
+- **Skills:** Pick one from Deception, Persuasion, Performance, or Sleight of Hand. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Storyteller's Illusion					
 At 21st level, creatures with truesight cannot see through your illusions. 
