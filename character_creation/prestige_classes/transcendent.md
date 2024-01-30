@@ -23,11 +23,9 @@ Any level 20 Ashford character that has meditated in the Astral Sea, Ethereal Pl
 - **Skills:** Choose one from Arcana, Investigation, History, Insight, or Perception. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Immortal Arts
-At 21st level, you have gained understanding of some fundamental essence of this world. If an Immortal Art calls for a saving throw, it uses your Ki save DC. An Art’s Action Cost is the time you must spend activating the art, its Duration is how long its effects last. If it has a duration of a number of rounds, it lasts until the end of your next turn after the specified number of times initiative cycles back to the top. If an Art calls for an area of effect, use the Areas of Effect rules for spellcasting, PHB p. 204.
+At 21st level, you have gained understanding of some fundamental essence of this world. If an Immortal Art calls for a saving throw, the DC is equal to 8 + your Wisdom modifier + your proficiency bonus. An Art’s Action Cost is the time you must spend activating the art, its Duration is how long its effects last. If it has a duration of a number of rounds, it lasts until the end of your next turn after the specified number of times initiative cycles back to the top. If an Art calls for an area of effect, use the Areas of Effect rules for spellcasting, PHB p. 204.
 
 You can select one Immortal Art at each level you take in this class, with a list located at the end of this page. You must select an Art whose level requirement matches the level at which you are choosing the Art. You can use each Art once per long rest.
-
-If an Immortal Art calls for a saving throw, the DC is equal to 8 + your Wisdom modifier + your proficiency bonus.
 
 ### Ascension of the Spirit
 At 22nd level, whenever you make a death saving throw and the outcome is greater than 15, you regain hit points equal to your level. If the outcome is greater than 10, but less than 15, you instead regain one hit point.
@@ -76,7 +74,7 @@ At 25th level, you can imbue a weapon or spellcasting focus with your soul, gran
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You summon an illusory volcano behind you, which erupts, crumbling to pieces in the process. All creatures of your choice within 60 feet of you must make a Constitution saving throw. On a failed saving throw, a creature takes 6d6 bludgeoning damage and 6d6 fire damage and is stunned until the end of its next turn. On a successful saving throw, it takes full damage, but is not stunned. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You summon an illusory volcano behind you, which erupts, crumbling to pieces in the process. All creatures of your choice within 60 feet of you must make a Constitution saving throw. All creatures of your choice within 60 feet of you take 6d6 bludgeoning damage and 6d6 fire damage. Additionally, they must make a Constitution saving throw or be stunned until the end of its next turn.
 
 #### Soul Devouring Grasp
 
@@ -86,7 +84,7 @@ At 25th level, you can imbue a weapon or spellcasting focus with your soul, gran
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You create an illusory hand using your ki, allowing it to stretch out and grab the soul of a creature as it dies. You then immediately devour the soul, recovering 8d8 hit points, removing all conditions affecting you, and causing the damage of the next weapon attack you make within the next minute to be increased by 5d10 force damage.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You create an illusory hand using your ki, allowing it to stretch out and grab the soul of a creature as it dies. You then immediately devour the soul, recovering 16d8 hit points, removing all conditions affecting you, and causing the damage of the next weapon attack you make within the next minute to be increased by 5d10 force damage.
 
 #### World Shifting
 
@@ -142,7 +140,7 @@ At 25th level, you can imbue a weapon or spellcasting focus with your soul, gran
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: 10 minutes.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You call upon the power of the storm giants. Lightning flashes and thunder booms as you grow to Huge size. As a free action for the duration of the transformation, you can conjure a lightning bolt into your hand as a melee weapon you are proficient in. It has the thrown (60/180) property, and its damage dice is 6d8 lightning damage. Your Strength score becomes 23 for the duration of this transformation, if it is not already higher.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You call upon the power of the storm giants. Lightning flashes and thunder booms as you grow to Huge size. At any time during the duration of the transformation, you can conjure a lightning bolt into your hand as a melee weapon you are proficient in. It has the thrown (60/180) property, and its damage dice is 6d8 lightning damage. Your Strength score becomes 23 for the duration of this transformation, if it is not already higher.
 
 #### Thunderous Destruction
 
@@ -174,7 +172,7 @@ At 25th level, you can imbue a weapon or spellcasting focus with your soul, gran
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You cause one creature of your choice within 60 feet of you to be pulled into a demiplane where the sky and earth are reversed. The creature must make a Charisma saving throw. On a failed saving throw, the creature is pulled into the demiplane and begins falling away from the ground above it at a rate of 500 ft. per round, regardless of it having a fly speed, the ability to hover, or spells it casts.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the duration of this Magic, you must use your action to maintain this effect. If you do not, the targetreappears at its former location, taking 20d6 bludgeoning damage, with an additional 20d6 bludgeoning damage for each action you spend maintaining this Magic.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the duration of this Magic, you must use your action to maintain this effect. If you do not, the target reappears at its former location, taking 20d6 bludgeoning damage, with an additional 20d6 bludgeoning damage for each action you spend maintaining this Magic.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An object which is in the location the target reappears in is destroyed, as if a heavy object has fallen upon it from hundreds of feet in the air. A creature in the location the target reappears in must make a Dexterity saving throw, taking 10d6 bludgeoning damage on a failed saving throw.
 
@@ -186,7 +184,7 @@ At 25th level, you can imbue a weapon or spellcasting focus with your soul, gran
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: 1 minute.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You a blood frenzy. For the duration of this Art, whenever you hit a creature, you deal an additional 3d10 necrotic damage, regaining a number of hit points equal to the amount of damage dealt. If you cannot regain hit points, you instead deal an additional 3d10 force to the next creature you hit. You can deal no more than 12d10 force damage in a single instance this way. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You enter a blood frenzy. For the duration of this Art, whenever you hit a creature, you deal an additional 3d10 necrotic damage, regaining a number of hit points equal to the amount of damage dealt. If you cannot regain hit points, you instead deal an additional 3d10 force damage to the next creature you hit. This bonus stacks with itself, to a maximum of 12d10 force damage. 
 
 #### Call the Wind
 
@@ -208,7 +206,7 @@ At 25th level, you can imbue a weapon or spellcasting focus with your soul, gran
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You immediately make one attack with an unarmed strike against a creature within your reach. If the creature cannot see invisible creatures, you automatically hit. On a hit, the creature takes an additional 20d12 force damage and must make a Charisma saving throw. On a failed saving throw, it is banished to a harmless demiplane until the end of its next turn.
 
-#### Abyss Gate
+#### Astral Gate
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Level: Level 24.
 
@@ -284,7 +282,7 @@ At 25th level, you can imbue a weapon or spellcasting focus with your soul, gran
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; All creatures within 15 feet of you of your choice which do not have Legendary Resistances die.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You conjure a blade which severs impure souls. All creatures within 15 feet of you of your choice which do not have Legendary Resistances die.
 
 #### Night’s End, Daybreak
 
@@ -305,7 +303,7 @@ At 25th level, you can imbue a weapon or spellcasting focus with your soul, gran
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duration: Instantaneous.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You summon a massive raindrop, hundreds of feet in size by any dimension. You condense it into a small drop of water in your hand, and use it to attack a target within 90 feet of you. Make a ranged weapon attack roll against a creature within 120 feet of you, adding your proficiency bonus to the attack roll. On a hit, the creature dies.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You summon a massive raindrop, hundreds of feet in size by any dimension. You condense it into a small drop of water in your hand, and use it to attack a target within 90 feet of you. Make a ranged weapon attack roll against a creature within 90 feet of you, adding your proficiency bonus to the attack roll. On a hit, the creature is shrunk and trapped within the droplet, which floats in the location the creature previously occupied. While trapped in this way, the creature has total cover and can use its action to attempt to escape, making a DC 20 Intelligence check. The creature cannot take any other action while trapped in this way. Additionally, while trapped, the creature takes 4d8 acid damage and 4d8 bludgeoning damage at the start of each of its turns. 
 
 ##### Memory of the Burning World
 
