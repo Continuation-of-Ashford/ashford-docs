@@ -3,7 +3,7 @@ Here in the Ashford server, characters aren't finished when they hit level 20. I
 
 We want you to continue to feel rewarded and to look forward to play the character we've all grown familiar with as much as you want. In order to keep XP feeling like a worthwhile reward, while at the same time helping DMs not over-use the Blessings and Boons as high-level rewards, Ashford characters of level 20 can pursue a Prestige Class.
 
-These prestige classes are homebrew classes with 5 levels. Similar to how multi-classing works, you choose one and gain levels in it. What is not similar is that these prestige classes have prerequisites. Dissimilar is that once you have chosen a prestige class, you cannot take levels in another prestige class.
+These prestige classes are homebrew classes with 5 levels. Similar to how multi-classing works, you choose one and gain levels in it. Dissimilar is that once you have chosen a prestige class, you cannot take levels in another prestige class.
 
 Legendary Hero is the *"legendary version of your class"* variant. It is broadly the best mechanical option for every class, without changing the flavor of your character. If you just want to be better at what your level 20 character is good at, then choose Legendary Hero. 
 
