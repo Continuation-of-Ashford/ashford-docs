@@ -30,7 +30,6 @@ When a prestige class allows you to take a boon or blessing, you can pick from t
 [Boons](./prestige_classes/boons.md)
 
 ## Prestige Classes
-- [Colored Mana Ritualist](./prestige_classes/colored-mana-ritualist.md)
 - [Corrupted Champion](./prestige_classes/corrupted-champion.md)
 - [Dragon Disciple](./prestige_classes/dragon-disciple.md)
 - [Dread Lich](./prestige_classes/dread-lich.md)
