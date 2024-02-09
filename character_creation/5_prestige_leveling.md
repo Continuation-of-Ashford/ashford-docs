@@ -45,7 +45,7 @@ When a prestige class allows you to take a boon or blessing, you can pick from t
 - [Parable](./prestige_classes/parable.md)
 - [Paths of Power](./prestige_classes/paths-of-power.md)
 - [Primal Predator](./prestige_classes/primal-predator.md)
-- [Transcendant](./prestige_classes/transcendant.md)
+- [Transcendent](./prestige_classes/transcendent.md)
 
 
 
