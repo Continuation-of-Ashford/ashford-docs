@@ -31,12 +31,12 @@ If you have the Spellcasting or Pact Magic class features, whenever you target a
 ### Endless Worship				
 Also at 21st level, your devotion to your patron has garnered special attention, even amongst their most ardent followers. As such, they grant you an additional measure of divine power. You always have the benefits of a 9th level Death Ward spell cast upon you each day at dawn. If the Death Ward is consumed or dispelled, you regain it after one minute. While benefitting from a Death Ward spell, you do not age.
 
-Additionallly, you can entreat your deity to bless your party once per day. You can cast a special version of Bless at 9th level; this version has a duration of 1 hour, does not require your concentration, cannot be dispelled, and persists in anti-magic zones.
+Additionally, you can entreat your deity to bless your party once per day. You can cast a special version of Bless at 9th level; this version has a duration of 1 hour, does not require your concentration, cannot be dispelled, and persists in anti-magic zones.
 
 ### Healing Touch
-You learn the Healing Word, Cure Wounds, Revivify, Mass Healing Word, and Heal spells. Wisdom is your spellcasting abillity for these spells. You gain the ability to cast each of these spells once without using a spell slot. Once you do so, you must complete a short or long rest before you can do so again.
+You learn the Healing Word, Cure Wounds, Revivify, Mass Cure Wounds, and Heal spells. Wisdom is your spellcasting abillity for these spells. You gain the ability to cast each of these spells once without using a spell slot. Once you do so, you must complete a short or long rest before you can do so again.
 
-When you cast one of these spells using this feature, you may end one condition affecting that creature and the amount of healing increases by your level, or twice your level if the target is dead.
+When you cast one of these spells using this feature, you may end one condition affecting that creature and the amount of healing increases by your level, or twice your level if the target is at zero hit points.
 
 ### Divine Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -46,8 +46,10 @@ Alternatively, you can take a feat.
 At 24th level, you choose a benevolent god that grants you a sliver of their divinity. Choose a [blessing](blessings.md) that your patron grants you. 
 
 ### Angelic Form
-At 25th level, you also become resistant to fire and radiant damage. 
+At 25th level, you become resistant to fire and radiant damage. 
 
 Additionally, you grow a pair of angelic wings, granting you a flying speed equal to your walking speed or 60 ft., whichever is higher. You can use a bonus action to hide or manifest these wings. Any armor or clothing you wear must be designed to accomodate the wings or be torn apart when the wings are summoned. If you already have wings, this extra pair will appear behind your original wings, and your flying speed is increased by 30 feet.
 
-When you summon these wings, all creatures of your choice within 60 feet of you must make a Wisdom saving throw against your spell save DC (or 8 + your Wisdom modifier + your proficiency bonus if you do not have one), becoming charmed or frightened by you on a failed saving throw. A creature affected in this way can repeat the saving throw at the end of each of its turns. On a successful saving throw, it is immune to this effect for 24 hours.
+When you summon these wings, all creatures of your choice within 60 feet of you must make a Wisdom saving throw against your spell save DC (or 8 + your Wisdom modifier + your proficiency bonus if you do not have one), becoming charmed or frightened by you on a failed saving throw. A creature affected in this way can repeat the saving throw at the end of each of its turns. On a successful saving throw, it is immune to this effect for 24 hours. 
+
+While charmed by you this way, a creature will follow your commands (no action required) as long as you do not order it to harm itself or its allies. Good and Evil-aligned creatures have disadvantage against the Charm and Frighten effects respectively from this feature.

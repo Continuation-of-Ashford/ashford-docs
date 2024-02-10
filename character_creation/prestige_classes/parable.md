@@ -6,7 +6,7 @@
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Storyteller's Illusion  |
 | 22       | 600,000   | +7 | Life's Illusion |
-| 23       | 805,000   | +7 | Ability Score Improvement	|
+| 23       | 805,000   | +7 | Fake Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Illusory Blessing |
 | 25       | 1,500,000 | +8 | Never Really There |
 </div>
@@ -28,7 +28,7 @@ At 21st level, creatures with truesight cannot see through your illusions.
 Additionally, you can use illusions to drag your enemies into an unreal world of fantasy. You learn the Silent Image spell and become able to cast the spell at will, using your spellcasting ability score to do so. When you cast the Silent Image spell, all creatures within the area affected by the spell must make a Wisdom saving throw against your spell save DC. On a failed saving throw, a target must take the Attack action against the nearest creature hostile to you which is not itself on each of its turns for the next minute, using its movement to move closer to the target of the Attack action. At the end of each of its turns, the creature can repeat this saving throw, ending this effect on a successful saving throw. If a creature succeeds a saving throw against this feature, it becomes immune to the feature for the next 24 hours. 
 
 ### Life's Illusion
-At 22nd level, you have set up many contingencies in the case of your fall in battle. Whenever you fall to 0 hit points or die, you can activate one of these contingencies, teleporting yourself to an unoccupied location within 50 feet of yourself, and causing an illusion of you to take your place. After teleporting, you become invisible and are hidden from creatures hostile to you until you take an action or one minute passes, whichever comes first.
+At 22nd level, you have set up many contingencies in the case of your fall in battle. Whenever you would fall to 0 hit points or die, you can activate one of these contingencies, instead teleporting yourself to an unoccupied location within 50 feet of yourself, and causing an illusion of you to take your place. After teleporting, you regain hit points equal to your level, become invisible, and are hidden from creatures hostile to you until you take an action or one minute passes, whichever comes first.
 
 A creature which interacts with the illusion of you or takes an action to make an Investigation check to determine an illusion against your spell save DC is immediately aware that it is an illusion. 
 

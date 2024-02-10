@@ -54,7 +54,7 @@ While in your Hybrid form, you can use all of your equipment, and your Armor Cla
 While in your Bestial form, you can only use your worn equipment, as it merges into your bestial form. You are unable to use equipment you must hold with a hand or which require a command word to activate. Additionally, all of your speeds are increased by 20 ft., your Armor Class is increased by 2, your size increases by one size to a maximum of Gargantuan, and your Strength score is increased by 4, to a maximum of 30. 
 
 ### Sovereign's Charge
-At 22nd level, when you use your Action to transform, you can move up to your movement speed (post-transformation) and make two melee attacks. 
+At 22nd level, when you use your Action to transform, you can move up to your movement speed (post-transformation) and make two melee attacks. These attacks deal additional damage equal to your level.
 
 ### Bestial Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -64,4 +64,4 @@ Alternatively, you can take a feat.
 At 24th level, you may take one [boon](boons.md).	
 
 ### Sovereign's Inheritance
-At 25th level, when you hit a creature with a weapon attack, you gain regain hit points equal to your Constitution modifier. If you are at your maximum hit points, you instead gain an equal number of temporary hit points.
+At 25th level, when you hit a creature with a natural weapon attack, you gain regain hit points equal to your Constitution modifier plus your Proficiency Bonus. If you are at your maximum hit points, you instead gain an equal number of temporary hit points.

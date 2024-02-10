@@ -5,7 +5,7 @@
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
 | Prestige | 450,000   | +7 | Eternal King on an Eternal Throne |
-| 22       | 600,000   | +7 | Shields of the Eladrin Host |
+| 22       | 600,000   | +7 | Shuffling of the Court |
 | 23       | 805,000   | +7 | Ability Score Improvement	|
 | 24       | 1,100,000 | +7 | Fey Blessing |
 | 25       | 1,500,000 | +8 | Dominion over the Mind |
@@ -28,7 +28,7 @@ At 21st level, when you die, an older and more regal version of yourself steps f
 Additionally, your every movement conveys your royal majesty. When you hit a creature with an attack roll, the creature must make a Wisdom saving throw against your spell save DC (or 8 + your Wisdom modifier + your proficiency bonus if you do not have a spell save DC) or become frightened for one minute. While frightened in this way, a creature must take the Dash action on its turn and use its movement to move away from you. At the end of each of its turns, a creature frightened in this way can repeat this saving throw, ending the effect on a successful saving throw.
 
 ### Shuffling of the Court
-At 22nd level, you can use your reaction to teleport a number of creatures you can see equal to your Charisma modifier up to 60 feet to unoccupied locations you can see in response to one of the teleported creatures being forced to make a saving throw or being targeted by a spell or attack roll. If this would place them outside the range of the attack or effect that forced the saving throw, they are unaffected by it. You can use this feature once before you must roll initiative again to use the feature again.
+At 22nd level, you can use your reaction to teleport a number of creatures you can see equal to your Wisdom modifier (minimum 1) up to 60 feet to unoccupied locations you can see in response to one of the teleported creatures being forced to make a saving throw or being targeted by a spell or attack roll. If this would place them outside the range of the attack or effect that forced the saving throw, they are unaffected by it. You can use this feature once before you must roll initiative again to use the feature again.
 
 ### Fey Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.

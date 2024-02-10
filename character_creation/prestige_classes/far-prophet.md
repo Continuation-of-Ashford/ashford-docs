@@ -21,19 +21,22 @@ A character who has traveled through the Far Realms for one week.
 
 ### Ear Against The Wall
 At 21st level, you receive guidance from those who exist outside the boundaries of mortal perception or knowledge. You gain the following benefits.
-- You become immune to the paralyzed, frightened, exhaustion, deafened, charmed, and blinded conditions.
+- You become immune to the paralyzed, frightened, deafened, charmed, and blinded conditions.
 - Once per combat, when you make a saving throw, attack roll, or ability check, you can roll another d20, choosing the outcome from all rolled d20s.
 
 ### Otherworldly Ascension
 Beginning at 22nd level, you ensconse your mind in the Far Realm, instead using an avatar to interact with the mundane world. If you die, your body and equipment explodes into a reality-warping bubble of unreality, with a warped shadow of your mind in the center, which you take control of. All creatures within 30 feet of you when you die must make a Wisdom saving throw against your spell save DC (or 8 + your Wisdom modifier + your proficiency bonus if you do not have a spell save DC), taking 12d6 psychic damage on a failed saving throw, or half on a successful one. A creature which fails this saving throw is then pulled 15 feet towards the shadow of your mind on a failed saving throw. 
 
-This shadow of your mind cannot be targeted by any means and has a 30 ft. fly speed with hover along with truesight to a range of 120 ft. and telepathy out to 120 ft. You remain in control of this shadow until it is targeted by a spell which would restore a creature from death to life or the session ends (see below). For one minute thereafter, a 30-foot radius around you is difficult terrain, and you can use a bonus action to teleport any number of creatures within this area to another location within this area. The only action you can take in this state is a Multiattack as shown below.
+This shadow of your mind cannot be targeted by any means, has a 30 ft. fly (hover) speed, truesight to a range of 120 ft., and telepathy out to 120 ft. You remain in control of this shadow until it is targeted by a spell which would restore a creature from death to life or the session ends (see below). For one minute thereafter, a 30-foot radius around your shadow is difficult terrain. The only action you can take in this state are Warp Reality and Multiattack, as shown below.  The shadow cannot move further than 60 feet from where your avatar died.
+
+#### Warp Reality
+As a bonus action to teleport any number of other creatures within 30 feet of you to another location within 30 feet of you. 
 
 #### Multiattack
 You make two Mind Blast attacks.
 
 ##### Mind Blast
- Ranged Spell Attack: your proficiency bonus + your Intelligence, Wisdom, or Charisma (your choice) modifier to hit, reach 5 ft., one target. Hit: 6d8 + proficiency bonus psychic damage.
+ Ranged Spell Attack: your proficiency bonus + your Intelligence, Wisdom, or Charisma (your choice) modifier to hit, reach 5 ft., one target. Hit: 6d8 + proficiency bonus psychic damage.  The target must succeed a Wisdom saving throw against your spell save DC (or 8 + your Wisdom modifier + your proficiency bonus if you do not have a spell save DC) or be charmed or frightened by your shadow until the end of your next turn.
 
 If this shadow of your mind is targeted by a spell which would restore a creature to life, such as Revivify, Raise Dead, or True Resurrection within the appropriate timeframe of the spell, your avatar is returned to life as if you had died and been resurrected normally, with your body and equipment reforming intact. If the session ends without your shadow being targeted by one of these spells, you take disadvantage on your next downtime check in exchange for your body and equipment reforming intact as if you had been targeted by such a spell at the start of the next session you participate in.
 
@@ -51,5 +54,5 @@ This blessing will often come with a form of indefinite madness, such as *"Your 
 At 25th level, you finally comprehend what the voices meant to tell you! You gain the following benefits.
 - You gain proficiency in all skills. 
 - Pick one ability score. Ability checks made with that score are made at advantage.
-- When inflicting a creature with psychic damage or the charmed or frightened condition, you ignore the target's immunity or resistance to this damage type or conditions.
+- You ignore a creature's resistance or immunity to pyschic damage and the charmed and frightened conditions. inflicting a creature with the charmed or frightened condition, you ignore the target's immunity or resistance.
 - You can cast Gate once per day and make a Wisdom (Insight) check. The Gate can only lead to a location within the Far Realms. On the next round at initiative count 10, an aberration of your choice whose CR is less than half the result of the check will emerge through the Gate. The aberration will obey your requests, though it returns through the Gate when the spell ends.

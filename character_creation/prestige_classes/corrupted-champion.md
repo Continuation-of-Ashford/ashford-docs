@@ -15,7 +15,7 @@ Any level 20 Ashford character that accepts a contract with a devil or decides t
 There is no Alignment prerequisite for this Prestige Class, but power corrupts, shifting your alignment to Evil. 
 
 ##### Hit Points
-- **Hit Dice:** 1d8	
+- **Hit Dice:** 1d10
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
@@ -26,9 +26,7 @@ There is no Alignment prerequisite for this Prestige Class, but power corrupts, 
 At 21st level, your Charisma score is increased to 20 if it is not already higher. Additionally, you add your Charisma modifier (minimum 1) to any melee attack attack roll, saving throw, or ability check you make using your Strength modifier. If you hit a creature with an attack roll that uses your Strength modifier for its attack and damage rolls, you can move the target up to 15 feet in a direction of your choice. This strength likely changes your body in a permanent way, granting you fiend-like features such as permanently clammy skin, black voids for eyes, or demonic horns.
 
 ### Variable Resistance
-At 22nd level, as a reaction when you make a saving throw against an effect that deals acid, cold, fire, lightning, necrotic, poison or thunder damage, you can give yourself advantage on the saving throw. Additionally, you have advantage on any saving throw you make against any effect that does that same damage type until you finish a long rest. Finally, you have resistance to that damage type for the same duration.
-
-You can use this ability once and regain it when you finish a long rest.
+At 22nd level, as a reaction when you make a saving throw against an effect that deals damage, you can give yourself advantage on the saving throw. Additionally, you have advantage on any saving throw you make against and resistance to damage from any effect that does that same damage type until you use this reaction again.
 
 ### Fiendish Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.

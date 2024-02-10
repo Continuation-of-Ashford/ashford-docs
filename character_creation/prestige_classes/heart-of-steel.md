@@ -26,7 +26,7 @@ Any level 20 Ashford character that can benefit from double their proficiency bo
 ### Mortal Engine
 At 21st level, you begin replacing parts of your body with magical items you've crafted. These magic items become Artifact rarity. Like any Artifact, they are unaffected by antimagic fields and can be destroyed only using the tools that created them. The mundane parts of your body you have yet to replace remain susceptible to damage.
 
-Using the Activate Magic Item action your Artifact body allows you to reproduce the effects of several spells. You cast three 1st or 2nd level spells at once that have a range of touch or self and a duration of at least one minute. This does not require any spell slots and does not require concentration. Spells you cast in this way can only affect yourself.
+Using the Activate Magic Item action your Artifact body allows you to reproduce the effects of several spells. You cast three 1st or 2nd level spells at once that have a range of touch or self and a duration of at least one minute. This does not require any spell slots and does not require concentration. Spells you cast in this way can only affect yourself. Even if you would not be able to cast spells for any reason (i.e. being outside the Crystal Sphere) you may still cast spells with your artifact body.
 
 When you use this feature again, any lingering effects of the previous spells you cast this way end.
 
@@ -50,7 +50,7 @@ At 24nd level, you upgrade your body to incorporate a [boon](boons.md).
 ### You V.2
 At 25th level, *building on everything you've learned from overhauling your body the first time, there is still so much room for further improvements!* You upgrade each magic item within your body to a more efficient version. Gaining multiple benefits:
 
-- You gain the Tough feat
-- You can attune to 1 additional item
+- Your hit point maximum increases by 50.
+- You can attune to 1 additional item.
 - For each unused attunement slot you possess you gain a +1 bonus to AC and Saving throws.
-- Choose one Transmutation spell of 6th level or lower that can only affect one creature and has a duration of at least one minute. That spell is permanently cast upon you,cannot be dispelled, and does not require concentration.
+- Choose one Transmutation spell of 6th level or lower that can only affect one creature and has a duration of at least one minute. That spell is permanently cast upon you, cannot be dispelled, and does not require concentration.

@@ -15,30 +15,30 @@
 Any level 20 Ashford character that possesses a fortress stronghold in which they can train their legion.
 
 ##### Hit Points
-- **Hit Dice: ** 1d8 
-- **Hit Points at Higher Levels: ** 1d8 (or 5) + your Constitution modifier per prestige level
+- **Hit Dice:** 1d8 
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
-- **Saving Throws: ** Choose one from Constitution, Wisdom, or Charisma. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
-- **Skills: ** Choose one from Insight, Perception, or Persuasion. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
+- **Saving Throws:** Choose one from Constitution, Wisdom, or Charisma. If you already have proficiency in all three, you instead gain proficiency in one saving throw of your choice.
+- **Skills:** Choose one from Insight, Perception, or Persuasion. You gain proficiency in that skill. If you already have proficiency in the chosen skill, you double your proficiency bonus when you add it to a check with that skill. If you already do so, you can add 1d4 to any ability check you make using that skill.
 
 ### Banner of the Legion
-At 21st level, you imbue one banner bearing the symbol of your legion with the courage and confidence of the legion. Turning into an artifact magic item. 
+At 21st level, you imbue one banner bearing the symbol of your legion with the courage and confidence of the legion. The banner turns into an artifact rarity magic item. 
 
-Like any Artifact, your banner is unaffected by effects that disable magic and is immune to damage. *The part of the cloth that contains the symbol is also magically self-cleaning.* However, when there is no living humanoid that was trained at your stronghold within 100ft of the banner, it loses this immunity. 
+Like any Artifact, your banner is unaffected by effects that disable magic and is immune to damage. The part of the cloth that contains the symbol is magically self-cleaning. 
 
 The banner can either be affixed to a polearm, used as a shield, or used as a cape.
- - While used as a shield, its shield bonus to AC equals two plus half your proficiency bonus. 
+ - While used as a shield, its shield bonus to AC equals 2 plus half your proficiency bonus. 
  - While affixed to a polearm, each time you hit a hostile creature with an attack with that weapon, one friendly creature you can see regains HP equal to your proficiency bonus.
  - While worn as a cape, you are immune to the charmed and frightened conditions. Additionally, you regain HP equal to your proficiency bonus at the start of your turn as long as one of your legionnaires is alive and within 100 feet of you.
 
- If you are mounting a creature, that creature also gains these benefits.
+ If you are mounting a creature, that creature can also gain the shield bonus to AC or the condition immunity and HP regeneration of the shield or cape form of the banner.
 
 ### Stand United
 *The word "legion" means "thousands", while it might not be entirely literal, you do have a lot of humanoids training at your stronghold.* You are free to bring a up to three legionnaires with you while adventuring, but most of your legion should always be busy making sure the number of them doesn't decrease.
 
 - If you have the Extra Attack feature, you may bring Knight Legionnaires.
-- If you have the spellcasting or pact magic features, you may bring Mage Legionnaires.
+- If you have the Spellcasting or Pact Magic features, you may bring Mage Legionnaires.
 - If you have the Sneak Attack or Favored Enemy/Foe features, you may bring Scout Legionnaires.
 
 ### We are Legion
@@ -56,12 +56,12 @@ Pick one condition or ongoing magical effect afflicting your allies. If the effe
 * ***Charge!***    
 Your Legionnaires and a number of your other allies up to your proficiency bonus can use their reaction to move up to their speed without provoking attacks of opportunity, then make a melee attack.
 * ***Bombard!***   
-Your Legionnaires and one or two of your other allies can use their reaction to take the attack action with a ranged weapon or cast an evocation spell of 4th level or lower.
+Your Legionnaires and one or two of your other allies can use their reaction to take the attack action with a ranged weapon or cast an evocation spell of 4th level or lower that deals damage.
 * ***On your feet!***   
 When an ally drops to 0 hit points or dies, you can use a reaction to shout encouraging words with such powerful conviction they rise again to keep fighting. The target immediately rises with HP equal to twice your level and loses the prone condition.
 This feature can't return to life a creature that has died of old age, nor can it restore any missing body parts.
 * ***Lock Shields!***
-Until the end of your next turn, your Legionaires and a number of other allies up to your proficiency bonus can use a reaction to double their shield's bonus to their AC for one turn when hit by an attack, potentially causing it to miss. If they do not wield a shield, a creature gains +2 AC instead.
+Until the end of your next turn, your Legionaires and a number of other allies up to your proficiency bonus can use a reaction to double their shield's bonus to their AC (or 2 if they do not wield a shield) for one turn when hit by an attack. The bonus to AC applies to the attack, potentially causing it to miss.
 * ***Brace for Impact!***
 Until the end of your next turn, your Legionaires and a number of other allies up to your proficiency bonus can use a reaction to brace themselves against an oncoming blow. Against an attack, they force it to roll at disadvantage and gain resistance to any damage caused by the attack. Against a saving throw, they gain advantage on the saving throw and take no damage if they succeed the saving throw and half as much damage if they fail.
 * ***Double Time!***
@@ -82,7 +82,7 @@ At 24th level, you gain a [Blessing](blessings.md).
 At 25th level, *your presence and leadership inspires those around you to greatness, including off the battlefield.* Every time you take a downtime at the settlement you built your stronghold in, your legion will work alongside you, effectively granting you one additional downtime.
 
 Additionally, when you take an action on your turn, your legionnaires can use a reaction to immediately take the same action themselves if it is possible for them to take that action.
-<hr>
+<br><br><hr>
 
 ## Knight Legionnaire
 *Medium Humanoid, Your Alignment*
@@ -105,17 +105,16 @@ Additionally, when you take an action on your turn, your legionnaires can use a 
 
 **Legion Training** The Legionnaire uses your proficiency bonus in place of its own.<br>
 **Weapon and Armor proficiency** The Knight shares your weapon and armor proficiencies.<br>
-**Legion tactics** The Knight has advantage on melee attack rolls in you or another Legionnaire is within 5 feet of its target.<br>
+**Legion tactics** The Knight has advantage on melee attack rolls if you or another Legionnaire is within 5 feet of its target.<br>
 **Legion Weapon Training** A melee or ranged weapon deals three extra die of its damage when the Legionnaire hits with it.
 <hr>
 
 ### Actions
 **Attack.** The Legionnaire makes an attack with a melee or ranged weapon it is wielding. It adds your proficiency bonus to its damage roll.
 
-<br><br><br>
+<br>
 <hr>
-<br><br><br>
-
+<br>
 
 ## Scout Legionnaire
 *Medium Humanoid, Your Alignment*
@@ -149,9 +148,9 @@ Additionally, when you take an action on your turn, your legionnaires can use a 
 1/day each: [Greater Invisibility](https://5e.tools/spells.html#greater%20invisibility_phb) (self only), [Pass without Trace](https://5e.tools/spells.html#pass%20without%20trace_phb), [Invisibility](https://5e.tools/spells.html#invisibility_phb)
 
 
-<br><br><br>
+<br>
 <hr>
-<br><br><br>
+<br>
 
 ## Mage Legionnaire
 *Medium Humanoid, Your Alignment*
@@ -186,4 +185,3 @@ Cantrips (at will): Your known cantrips.<br>
 1st level (4 slots): Your prepared 1st level spells<br>
 2nd level (3 slots): Your prepared 2nd level spells<br>
 3rd level (3 slots): Your prepared 3rd level spells<br>
-

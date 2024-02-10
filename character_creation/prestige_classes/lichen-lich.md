@@ -16,7 +16,7 @@ Rather than imprison their souls within a phylactery, some pursue immortalilty b
 Any level 20 Ashford character that has devoted their lives to defending nature.
 
 ##### Hit Points
-- **Hit Dice:** 1d8	
+- **Hit Dice:** 1d6
 - **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per prestige level
 
 ##### Bonus Proficiencies
@@ -41,8 +41,15 @@ Additionally, you can utilize the vines, branches, and roots on your body to mak
 ##### Slam. Melee Weapon Attack: your proficiency bonus + your Strength modifier to hit, reach 30 ft., one target. Hit: 6d8 + your Strength modifier bludgeoning damage. On a hit, the target is grappled by you (escape DC equal to 8 + your Strength or Wisdom modifier (your choice) + your proficiency bonus). While grappled in this way, the target is restrained, and the target takes 2d6 poison damage whenever it starts its turn. 
 
 ### Mossy Ability Score Improvement					
-At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1 by weaving additional powerful effects into your body. These ASI options can increase a score over 20.
-Alternatively, you can take a feat.	
+At 23rd level, by growing different colors of moss, you can increase one ability score of your choice. Your ability score increases by 2 if you grow one color of moss or by 1 if you grow two colors of moss. These ASI options can increase a score over 20.
+Alternatively, you can gain a feat by mixing the moss into a special potion and drinking it.
+
+* If you grow Red moss, you gain Strength.
+* If you grow Green moss, you gain Constitution.
+* If you grow Black moss, you gain Dexterity.
+* If you grow Blue moss, you gain Intelligence.
+* If you grow Yellow moss, you gain Wisdom.
+* If you grow Pink moss, you gain Charisma.
 
 ### Nature's Blessing
 At 24nd level, the nature spirits you guard grant you a [blessing](blessings.md).
