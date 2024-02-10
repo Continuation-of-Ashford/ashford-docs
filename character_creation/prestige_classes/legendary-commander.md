@@ -66,7 +66,7 @@ Until the end of your next turn, your Legionaires and a number of other allies u
 Until the end of your next turn, your Legionaires and a number of other allies up to your proficiency bonus can use a reaction to brace themselves against an oncoming blow. Against an attack, they force it to roll at disadvantage and gain resistance to any damage caused by the attack. Against a saving throw, they gain advantage on the saving throw and take no damage if they succeed the saving throw and half as much damage if they fail.
 * ***Double Time!***
 You can order those under your command to move at supernatural speeds. Outside of initiative, you can cast the Teleport spell targeting your Legionnaires and a number of your other allies up to your proficiency bonus.
-When used inside initiative, your Legionnaires and a number of your other allies up to your proficiency bonus can take the Dodge and Dash actions at no action cost.
+When used inside initiative, until the end of your next turn, your Legionnaires and a number of your other allies up to your proficiency bonus can take the Dodge and Dash actions at no action cost.
 
 You can give Perfect Commands a number of times equal to your proficiency bonus. Whenever you complete a long rest, you regain these uses.
 
