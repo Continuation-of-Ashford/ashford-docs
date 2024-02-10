@@ -56,7 +56,7 @@ Pick one condition or ongoing magical effect afflicting your allies. If the effe
 * ***Charge!***    
 Your Legionnaires and a number of your other allies up to your proficiency bonus can use their reaction to move up to their speed without provoking attacks of opportunity, then make a melee attack.
 * ***Bombard!***   
-Your Legionnaires and one or two of your other allies can use their reaction to take the attack action with a ranged weapon or cast an evocation spell of 4th level or lower that deals damage.
+Your Legionnaires and up to two of your other allies can use their reaction to take the attack action with a ranged weapon or cast an evocation spell of 4th level or lower that deals damage.
 * ***On your feet!***   
 When an ally drops to 0 hit points or dies, you can use a reaction to shout encouraging words with such powerful conviction they rise again to keep fighting. The target immediately rises with HP equal to twice your level and loses the prone condition.
 This feature can't return to life a creature that has died of old age, nor can it restore any missing body parts.
