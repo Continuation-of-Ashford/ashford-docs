@@ -94,4 +94,4 @@ At 24nd level, choose a [boon](boons.md) that your patron grants you.
 You also bypass resistances and immunities with your Arcane Specialty.
 
 ## Final Destination
-At 25th level, your research of your Arcane Specialty has reached a state of perfection, a state of both flexibility and strength, weight and agility. When you cast your Arcane Specialty, you can expend a spell slot of 5th level or lower. When you do so, you immediately cast the cantrip an additional number of times equal to half the level of the spell slot expended, rounded up.
+At 25th level, your research of your Arcane Specialty has reached a state of perfection, a state of both flexibility and strength, weight and agility. When you cast your Arcane Specialty, you can expend a spell slot of 5th level or lower. When you do so, you multiply the damage the spell deals by half the level of the expended spell slot, rounded up.
