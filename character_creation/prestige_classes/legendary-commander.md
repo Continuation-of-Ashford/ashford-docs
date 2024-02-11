@@ -48,25 +48,42 @@ If you are dead, any willing humanoid trained at your stronghold can use the ban
 
 ### Perfect Command
 At 22nd level, *the banner of the legion exudes such unity, that even the untrained begin moving in perfect formation.*   
-While holding your banner you can use a bonus action to give Perfect Commands to allied creatures that can hear you or see you.
+While holding your banner you can give Perfect Commands to allied creatures that can hear you or see you. The action cost and duration is listed below the Perfect Command.
 The Perfect Commands are as follows:
 
-* ***Shake it off!***    
-Pick one condition or ongoing magical effect afflicting your allies. If the effect can be ended by an ability check, allies affected by it get to make that check immediately without spending an action. If the effect was caused by failing a saving throw, affected allies can repeat the saving throw, ending the effect on a success. Saving throws and ability checks prompted by this ability receive a bonus equal to your proficiency bonus.  
-* ***Charge!***    
-Your Legionnaires and a number of your other allies up to your proficiency bonus can use their reaction to move up to their speed without provoking attacks of opportunity, then make a melee attack.
-* ***Bombard!***   
+#### Shake it off!
+ - 1 Bonus Action
+ - Instantaneous
+Pick one condition or ongoing magical effect afflicting your allies. If the effect can be ended by an ability check, allies affected by it get to make that check immediately without spending an action.  If the effect was caused by failing a saving throw, affected allies can repeat the saving throw, ending the effect on a success. Saving throws and ability checks prompted by this ability receive a bonus equal to your proficiency bonus.  
+#### Charge!
+ - Bonus Action
+ - Instantaneous
+Your Legionnaires and a number of your other allies up to your proficiency bonus can use their reaction to move up to their speed without provoking attacks of opportunity. They can make a melee attack at any point during their movement.
+#### Bombard!
+ - Bonus Action
+ - Instantaneous
 Your Legionnaires and up to two of your other allies can use their reaction to take the attack action with a ranged weapon or cast an evocation spell of 4th level or lower that deals damage.
-* ***On your feet!***   
-When an ally drops to 0 hit points or dies, you can use a reaction to shout encouraging words with such powerful conviction they rise again to keep fighting. The target immediately rises with HP equal to twice your level and loses the prone condition.
+#### On your feet!  
+ - Reaction
+ - Instantaneous
+When an ally drops to 0 hit points or dies, you can use a reaction to shout encouraging words with such powerful conviction they rise again to keep fighting. Instead of dying or falling unconscious, the target immediately rises with HP equal to twice your level without the prone condition, if it had it.
 This feature can't return to life a creature that has died of old age, nor can it restore any missing body parts.
-* ***Lock Shields!***
-Until the end of your next turn, your Legionaires and a number of other allies up to your proficiency bonus can use a reaction to double their shield's bonus to their AC (or 2 if they do not wield a shield) for one turn when hit by an attack. The bonus to AC applies to the attack, potentially causing it to miss.
-* ***Brace for Impact!***
-Until the end of your next turn, your Legionaires and a number of other allies up to your proficiency bonus can use a reaction to brace themselves against an oncoming blow. Against an attack, they force it to roll at disadvantage and gain resistance to any damage caused by the attack. Against a saving throw, they gain advantage on the saving throw and take no damage if they succeed the saving throw and half as much damage if they fail.
-* ***Double Time!***
+#### Lock Shields!
+ - Bonus Action
+ - One round (until the end of your next turn)
+You order grant your Legionaires and a number of other allies up to your proficiency bonus a spectral shield that guides their own shield or hovers around them if they do not wield a shield. When a creature with this spectral shield is hit by an attack, they can use a reaction to double their shield's bonus to their AC (or 2 if they do not wield a shield), including against the original attack, until the end of the turn.
+#### Brace for Impact!
+ - Bonus Action
+ - One round (until the end of your next turn)
+You order your Legionaires and a number of other allies up to your proficiency to brace themselves against an oncoming blow. When an ordered creature is hit by an attack, they can force the attacker to roll at disadvantage, potentially causing it to miss. If the attack hits, they have resistance to any damage caused by the attack. <br>
+Alternatively, if an ordered creature makes a saving throw, they gain advantage on the saving throw and take no damage if they succeed the saving throw or half as much damage if they fail. <br>
+A creature cannot use this reaction again until it is targeted by another Brace for Impact Perfect Command.
+
+#### Double Time!
+ - 1 Minute outside of initiative, 1 Bonus Action inside of initiative
+ - Instantaneous outside of initiative, one round (until the end of your next turn) inside initiative.
 You can order those under your command to move at supernatural speeds. Outside of initiative, you can cast the Teleport spell targeting your Legionnaires and a number of your other allies up to your proficiency bonus.
-When used inside initiative, until the end of your next turn, your Legionnaires and a number of your other allies up to your proficiency bonus can take the Dodge and Dash actions at no action cost.
+When used inside initiative, until the end of your next turn, your Legionnaires and a number of your other allies up to your proficiency bonus can take the Disengage and Dash actions at no action cost.
 
 You can give Perfect Commands a number of times equal to your proficiency bonus. Whenever you complete a long rest, you regain these uses.
 
