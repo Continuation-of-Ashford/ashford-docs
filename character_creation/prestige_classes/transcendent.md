@@ -4,11 +4,11 @@
 
 | Level    | XP Requirement   | PB | Features |
 |:--------:|----------:|---:|:---------|
-| Prestige | 450,000   | +7 | Ascetic's Blessing |
-| 22       | 600,000   | +7 | Transcend Materialism |
+| Prestige | 450,000   | +7 | Immortal Arts |
+| 22       | 600,000   | +7 | Ascension of the Spirit |
 | 23       | 805,000   | +7 | Ability Score Improvement	|
-| 24       | 1,100,000 | +7 | Spiritual Ascension |
-| 25       | 1,500,000 | +8 | Ascended Mastery |
+| 24       | 1,100,000 | +7 | Boon |
+| 25       | 1,500,000 | +8 | Soul Armaments |
 </div>
 		
 ### Prestige Class Prerequisites:					
@@ -32,11 +32,11 @@ At 22nd level, whenever you make a death saving throw and the outcome is greater
 
 Additionally, when you die, you can choose to instead regain hit points equal to half of your maximum hit points, reviving yourself in the process. You then immediately stand up from prone and take a turn. You must then complete a short or long rest before reviving yourself in this way again.
 
-### Enlightened Ability Score Improvement					
+### Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
 Alternatively, you can take a feat.	
 
-### Ascetic's Boon
+### Boon
 At 24th level, you may take one [boon](boons.md). You may choose for the creature that benefits from your Ascetic's blessing to benefit from this boon instead of you.
 
 ### Soul Armaments

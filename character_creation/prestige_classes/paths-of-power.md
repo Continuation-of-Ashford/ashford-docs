@@ -82,7 +82,7 @@ Alternatively, you can choose a cantrip from the following list. You must know t
 Regardless of the cantrip you choose, the cantrip chosen is called your Arcane Specialty.
 
 ## Minor Success
-In your pursuit of mastery over your chosen cantrip, your research has borne fruit, allowing you to gain ancilliary benefits when you cast the chosen cantrip. Starting at 22nd level, when you cast your Arcane Specialty, you increase your Armor Class by 2 until the start of your next turn. This bonus does not stack with itself. Additionally, the cantrip functions even in an antimagic field. Finally, you gain resistance to one damage type the cantrip deals.
+In your pursuit of mastery over your chosen cantrip, your research has borne fruit, allowing you to gain ancilliary benefits when you cast the chosen cantrip. Starting at 22nd level, when you cast your Arcane Specialty, you increase your Armor Class by 2 until the start of your next turn. This bonus does not stack with itself. Additionally, you can cast this cantrip even in environments in which you normally would not (such as the area of an Antimagic Field spell or the phlogiston). Finally, you gain resistance to one damage type the cantrip deals.
 
 ### Ability Score Improvement	
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
