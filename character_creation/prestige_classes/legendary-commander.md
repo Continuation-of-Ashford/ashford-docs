@@ -48,27 +48,55 @@ If you are dead, any willing humanoid trained at your stronghold can use the ban
 
 ### Perfect Command
 At 22nd level, *the banner of the legion exudes such unity, that even the untrained begin moving in perfect formation.*   
-While holding your banner you can use a bonus action to give Perfect Commands to allied creatures that can hear you or see you.
+While holding your banner you can give Perfect Commands to allied creatures that can hear or see you. The action cost and duration are listed under each Perfect Command. If the duration is 1 Round, it lasts until the start of your next turn. 
+
+You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses when you finish a long rest.
+
 The Perfect Commands are as follows:
 
-* ***Shake it off!***    
+#### Shake it off!
+- 1 action
+- Instantaneous
+
 Pick one condition or ongoing magical effect afflicting your allies. If the effect can be ended by an ability check, allies affected by it get to make that check immediately without spending an action. If the effect was caused by failing a saving throw, affected allies can repeat the saving throw, ending the effect on a success. Saving throws and ability checks prompted by this ability receive a bonus equal to your proficiency bonus.  
-* ***Charge!***    
+#### Charge!    
+- 1 bonus action
+- Instantaneous
+
 Your Legionnaires and a number of your other allies up to your proficiency bonus can use their reaction to move up to their speed without provoking attacks of opportunity, then make a melee attack.
-* ***Bombard!***   
-Your Legionnaires and one or two of your other allies can use their reaction to take the attack action with a ranged weapon or cast an evocation spell of 4th level or lower that deals damage.
-* ***On your feet!***   
+#### Bombard!   
+- 1 action
+- Instantaneous
+
+Your Legionnaires and up to two of your other allies can use their reaction to take the attack action with a ranged weapon or cast an evocation spell of 4th level or lower that deals damage.
+#### On your feet!   
+- 1 reaction
+- Instantaneous
+
 When an ally drops to 0 hit points or dies, you can use a reaction to shout encouraging words with such powerful conviction they rise again to keep fighting. The target immediately rises with HP equal to twice your level and loses the prone condition.
 This feature can't return to life a creature that has died of old age, nor can it restore any missing body parts.
-* ***Lock Shields!***
-Until the end of your next turn, your Legionaires and a number of other allies up to your proficiency bonus can use a reaction to double their shield's bonus to their AC (or 2 if they do not wield a shield) for one turn when hit by an attack. The bonus to AC applies to the attack, potentially causing it to miss.
-* ***Brace for Impact!***
-Until the end of your next turn, your Legionaires and a number of other allies up to your proficiency bonus can use a reaction to brace themselves against an oncoming blow. Against an attack, they force it to roll at disadvantage and gain resistance to any damage caused by the attack. Against a saving throw, they gain advantage on the saving throw and take no damage if they succeed the saving throw and half as much damage if they fail.
-* ***Double Time!***
-You can order those under your command to move at supernatural speeds. Outside of initiative, you can cast the Teleport spell targeting your Legionnaires and a number of your other allies up to your proficiency bonus.
-When used inside initiative, your Legionnaires and a number of your other allies up to your proficiency bonus can take the Dodge and Dash actions at no action cost.
+#### Lock Shields!
+- 1 bonus action
+- 1 round
 
-You can give Perfect Commands a number of times equal to your proficiency bonus. Whenever you complete a long rest, you regain these uses.
+Choose your Legionaires and a number of other allies up to your proficiency bonus to benefit from this command. While a creature benefits from this command, they can use a reaction when hit by an attack to double their shield's bonus to their AC (or add 2 if they do not wield a shield) until the end of the round, including against the triggering attack. 
+#### Brace for Impact!
+- 1 bonus action
+- 1 round
+
+Choose your Legionaires and a number of other allies up to your proficiency bonus to benefit from this command. While a creature benefits from this command, it can use a reaction to brace themselves against an oncoming blow. A creature has two ways to benefit from this command.
+ -  When they are hit by an attack, they force the creature to reroll the attack at disadvantage. If it hits, they gain resistance to any damage caused by the attack. 
+ - When they make a saving throw, they can they gain advantage on the saving throw. Additionally, the creature takes no damage if they succeed this saving throw and half as much damage if they fail.
+
+After using either option for this Command, the creature no longer benefits from this Command until you use it on that creature again.
+#### Double Time!
+- 1 minute (outside of initiative) or 1 bonus action (inside initiative)
+- Instantaneous (outside of initiative) or 1 minute (inside initiative)
+
+You can order those under your command to move at supernatural speeds. Outside of initiative, you can cast the Teleport spell targeting your Legionnaires and a number of your other allies up to your proficiency bonus.
+When used inside initiative, choose your Legionnaires and a number of your other allies up to your proficiency bonus to benefit from this command. A creature that benefits from this command can take the Disengage and Dash actions at the same time as a bonus action.
+
+
 
 ### Ability Score Improvement                   
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -138,14 +166,15 @@ Additionally, when you take an action on your turn, your legionnaires can use a 
 
 **Legion Training** The Legionnaire uses your proficiency bonus in place of its own.<br>
 **Weapon and Armor proficiency** The Scout Legionnaire shares your weapon and armor proficiencies.<br>
-**Sneak Attack** If the Scout hits an attack it made at advantage or its target is within 5 feet of an ally of the Scout, it deals an additional 5d6 damage.
+**Sneak Attack** If the Scout hits an attack, if the attack was made at advantage or its target is within 5 feet of an ally of the Scout, it deals an additional 5d6 damage.<br>
+**Stealth Training** The scout's allies have a +3 bonus to Dexterity (Stealth) checks while they are within 10 feet of it.
 
 <hr>
 
 ## Actions
 **Attack.** The Legionnaire makes an attack with a finesse or ranged weapon it is wielding. It adds your proficiency bonus to its damage roll.<br>
 **Spellcasting** The Scout casts one of the following spells, using Wisdom as its spellcasting ability.<br>
-1/day each: [Greater Invisibility](https://5e.tools/spells.html#greater%20invisibility_phb) (self only), [Pass without Trace](https://5e.tools/spells.html#pass%20without%20trace_phb), [Invisibility](https://5e.tools/spells.html#invisibility_phb)
+1/day each: [Greater Invisibility](https://5e.tools/spells.html#greater%20invisibility_phb) (self only), [Invisibility](https://5e.tools/spells.html#invisibility_phb)
 
 
 <br>

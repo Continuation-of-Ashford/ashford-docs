@@ -26,7 +26,7 @@ Any level 20 Ashford character that can benefit from double their proficiency bo
 ### Mortal Engine
 At 21st level, you begin replacing parts of your body with magical items you've crafted. These magic items become Artifact rarity. Like any Artifact, they are unaffected by antimagic fields and can be destroyed only using the tools that created them. The mundane parts of your body you have yet to replace remain susceptible to damage.
 
-Using the Activate Magic Item action your Artifact body allows you to reproduce the effects of several spells. You cast three 1st or 2nd level spells at once that have a range of touch or self and a duration of at least one minute. This does not require any spell slots and does not require concentration. Spells you cast in this way can only affect yourself. Even if you would not be able to cast spells for any reason (i.e. being outside the Crystal Sphere) you may still cast spells with your artifact body.
+Using the Activate Magic Item action your Artifact body allows you to reproduce the effects of several spells. You cast three 1st or 2nd level spells at once that have a range of touch or self and a duration of at least one minute. This does not require any spell slots and does not require concentration. Spells you cast in this way can only affect yourself. Even if you would not be able to cast spells for any reason (i.e. being outside the Crystal Sphere) you may still cast these spells with this feature.
 
 When you use this feature again, any lingering effects of the previous spells you cast this way end.
 
