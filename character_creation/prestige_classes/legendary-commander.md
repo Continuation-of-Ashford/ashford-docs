@@ -132,8 +132,8 @@ Additionally, when you take an action on your turn, your legionnaires can use a 
 **Challenge** -
 
 **Legion Training** The Legionnaire uses your proficiency bonus in place of its own.<br>
-**Weapon and Armor proficiency** The Knight shares your weapon and armor proficiencies.<br>
-**Legion tactics** The Knight has advantage on melee attack rolls if you or another Legionnaire is within 5 feet of its target.<br>
+**Weapon and Armor Proficiency** The Knight shares your weapon and armor proficiencies.<br>
+**Legion Tactics** The Knight has advantage on melee attack rolls if you or another Legionnaire is within 5 feet of its target.<br>
 **Legion Weapon Training** A melee or ranged weapon deals three extra die of its damage when the Legionnaire hits with it.
 <hr>
 
@@ -174,7 +174,7 @@ Additionally, when you take an action on your turn, your legionnaires can use a 
 ## Actions
 **Attack.** The Legionnaire makes an attack with a finesse or ranged weapon it is wielding. It adds your proficiency bonus to its damage roll.<br>
 **Spellcasting** The Scout casts one of the following spells, using Wisdom as its spellcasting ability.<br>
-1/day each: [Greater Invisibility](https://5e.tools/spells.html#greater%20invisibility_phb) (self only), [Invisibility](https://5e.tools/spells.html#invisibility_phb)
+1/day each: [Greater Invisibility](https://5e.tools/spells.html#greater%20invisibility_phb) (self only), and [Invisibility](https://5e.tools/spells.html#invisibility_phb)
 
 
 <br>
@@ -202,15 +202,15 @@ Additionally, when you take an action on your turn, your legionnaires can use a 
 <hr>
 
 **Legion Training** The Legionnaire uses your proficiency bonus in place of its own.<br>
-**Weapon and Armor proficiency** The Mage Legionnaire shares your weapon and armor proficiencies.<br>
+**Weapon and Armor Proficiency** The Mage Legionnaire shares your weapon and armor proficiencies.<br>
 
 <hr>
 
 ## Actions
 
-**Spellcasting** The Mage casts one of the following spells, using Intelligence as its spellcasting ability. If you have one Legionnaire, the Mage has its 1st, 2nd, and 3rd level spell slots. If you have two Legionnaires, the Mage has its 1st and 2nd level spell slots. If you have three Legionnaires, it only has its 1st level spell slots.
+**Spellcasting** The Mage is a 1st level caster. It can cast the following spells, using Intelligence as its spellcasting ability. If you have one Legionnaire, the Mage has its 1st, 2nd, and 3rd level spell slots. If you have two Legionnaires, the Mage has its 1st and 2nd level spell slots. If you have three Legionnaires, it only has its 1st level spell slots.
 
 Cantrips (at will): Your known cantrips.<br>
 1st level (4 slots): Your prepared 1st level spells<br>
 2nd level (3 slots): Your prepared 2nd level spells<br>
-3rd level (3 slots): Your prepared 3rd level spells<br>
+3rd level (2 slots): Your prepared 3rd level spells<br>
