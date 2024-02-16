@@ -1,4 +1,4 @@
-# Welcome to The Recolonization of Ashford!
+![image](https://github.com/Continuation-of-Ashford/ashford-docs/assets/61640469/008072f5-07f5-4dce-8691-dd36b284f997)# Welcome to The Recolonization of Ashford!
 You feel the energy of the portal that enveloped you close. You have taken the first step in starting your own adventure away from your previous life and found your way here at last. The last thing you remember is a bright flash of light, the portal enveloping you and whisking you away to a foreign land ripe with new opportunities. 
 You awake in the center of what seems to be a small hamlet- the cool salty air washes over your face, and the warm sun beats down on you from above as your eyes slowly focus more and more.
 Beneath you the ground is cold and hard- once you stand you notice it to be a large round disk of obsidian- carved into which are unrecognizable symbols.
@@ -76,6 +76,7 @@ Either way, feel free to create a player guild!  Take a look at the [Guild Rules
 * [Prestige Characters](character_creation/prestige_leveling.md)
 ### [Custom Rules](modified_mechanics/rules.md)
 ### [Downtimes](playing_the_game/downtime_actions.md)
+* [Downtime travel costs](/playing_the_game/downtime_actions.md#travel-costs)
 * [Magic item crafting](playing_the_game/downtime_actions.md#crafting-a-magic-item)
 ### [Settlements](playing_the_game/settlements.md)
 * [Buildings](playing_the_game/settlement_buildings.md)
