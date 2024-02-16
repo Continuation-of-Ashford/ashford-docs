@@ -252,6 +252,17 @@ The quality of artisans willing to work for you depends on your level bracket.
 | 13 - 16       | Journeyman  | `1d20+10`  | `+60%` of crafting price |
 | 17 - 20       | Master      | `1d20+20`  | `+80%` of crafting price |
 
+### Buying a Magical Potion
+###### Requires the Alchemist's Shack, House, Manor, or Mansion
+During your downtime, you can buy up to four potions. The cost per potion is shown below.
+
+| Rarity    | Price Formula     |
+| --------- | ----------------- |
+| Common    | `(1d8+2) * 5`    |
+| Uncommon  | `(1d10+2) * 25`   |
+| Rare      | `(2d10+2) * 125`  |
+| Very Rare | `(2d10+2) * 1250` |
+
 ### Legendary Search
 #### When a character reaches level 17, they can begin a search for a legendary magical item.
 To begin a legendary search, write a request in the [#Legendary Search Request Channel](https://discord.com/channels/638910062244528158/772629967087075338).  The request can be for any item of Legendary rarity.  Alternatively, with Big Mans approval, you can work with a DM to search for an upgraded version of an item of lesser rarity that would make it qualify as Legendary, an entirely homebrewed item, or something else of equal value.  
