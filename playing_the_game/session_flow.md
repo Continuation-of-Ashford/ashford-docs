@@ -23,12 +23,13 @@ A reward is given to players who give a sufficient report of the quest they part
 
 This reward changes per level as follows: 
 
-| Level | Reward                        |
-|------ | ----------------------------- |
-| 3-7   | 100 gp + 10% extra session xp |
-| 8-12  | 200 gp + 10% extra session xp |
-| 18-20 | 400 gp + 10% extra session xp |
+| Total reports written | Reward |
+|---------------------- | ------ |
+| 5                     | 1 uncommon item |
+| 10                    | 1 rare item component |
+| 15                    | 1 very rare item component |
 
+After 15 reports, the total number wraps back around, so you'd get 1 uncommon item after you write 5 more and so on and so forth.
 ## Disciplinary Actions
 If a player is disturbing the session, the `Dungeon Master` has the power to remove the player. 
 
