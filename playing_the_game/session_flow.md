@@ -21,7 +21,7 @@ At the start of the session, please inform your Dungeon Master of any effects wh
 ## Quest Reports
 A reward is given to players who give a sufficient report of the quest they participated in. 
 
-This reward changes per level as follows: 
+This reward changes depending on the number of reports you've written: 
 
 | Total reports written | Reward |
 |---------------------- | ------ |
@@ -29,7 +29,7 @@ This reward changes per level as follows:
 | 10                    | 1 rare item component |
 | 15                    | 1 very rare item component |
 
-After 15 reports, the total number wraps back around, so you'd get 1 uncommon item after you write 5 more and so on and so forth.
+After 15 reports, the total number wraps back around, so you'd get 1 uncommon item after you write 5 more (20 total) and so on and so forth.
 ## Disciplinary Actions
 If a player is disturbing the session, the `Dungeon Master` has the power to remove the player. 
 
