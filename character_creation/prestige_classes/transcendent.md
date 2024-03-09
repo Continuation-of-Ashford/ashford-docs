@@ -1,4 +1,4 @@
-## Transcendant
+## Transcendent
 *You have mastered your place in the universe. Expanded your being to commune with the essence of reality, which revealed to you how you could attain your ultimate self. Through calm, meditation and rejecting the material and transient, you have attained the peak of what is spiritual and eternal.*
 <div class='classTable'>
 
