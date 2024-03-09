@@ -48,9 +48,9 @@ Alternatively, you can take a feat.
 At 24nd level, you upgrade your body to incorporate a [boon](boons.md).
 
 ### You V.2
-At 25th level, *building on everything you've learned from overhauling your body the first time, there is still so much room for further improvements!* You upgrade each magic item within your body to a more efficient version. Gaining multiple benefits:
+At 25th level, *building on everything you've learned from overhauling your body the first time, there is still so much room for further improvements!* You upgrade each magic item within your body to a more efficient version. You gain the following benefits:
 
-- You gain the Tough feat
-- You can attune to 1 additional item
-- For each unused attunement slot you possess you gain a +1 bonus to AC and Saving throws.
-- Choose one Transmutation spell of 6th level or lower that can only affect one creature and has a duration of at least one minute. That spell is permanently cast upon you,cannot be dispelled, and does not require concentration.
+- Your maximum hit points increase by 50.
+- You can attune to 1 additional item.
+- For each unused attunement slot you possess, you gain a +1 bonus to AC and Saving throws.
+- Choose one Transmutation spell of 6th level or lower that can only affect one creature and has a duration of at least one minute. That spell is permanently cast upon you, cannot be dispelled or suppressed, and does not require concentration.
