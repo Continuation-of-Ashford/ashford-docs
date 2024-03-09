@@ -132,7 +132,7 @@ Additionally, when you take an action on your turn, your legionnaires can use a 
 **Challenge** -
 
 **Legion Training** The Legionnaire uses your proficiency bonus in place of its own.<br>
-**Weapon and Armor Proficiency** The Knight shares your weapon and armor proficiencies.<br>
+**Weapon and Armor Proficiency** The Knight shares your weapon and armor proficiencies. While wearing armor, it adds 1 to its AC. While wielding a weapon, it adds 1 to its attack rolls.<br>
 **Legion Tactics** The Knight has advantage on melee attack rolls if you or another Legionnaire is within 5 feet of its target.<br>
 **Legion Weapon Training** A melee or ranged weapon deals three extra die of its damage when the Legionnaire hits with it.
 <hr>
