@@ -59,6 +59,7 @@ Describe the type of dragon that has become your master.
 ### Draconic Transformation
 At 21st level, your body transforms to embody the spirits of the dragons you honor. You gain a new resource called Draconic Essence. You start with an amount equal to your level plus any breath weapon charges you may have and regain all expended Draconic Essence when you complete a short or long rest. At the start of each of your turns, you can choose one of the following options according to the following table, expending Draconic Essence according to the cost noted (no action required). The effects of these features end after one minute. Bonuses from using a transformation multiple times in one minute stack.
 
+
 | Name | Cost | Effect |
 |:------|:-----|:-------|
 |Draconic Flight| 4 Draconic Essence | You gain a 60 ft. fly speed. If you already have a fly speed, your fly speed increases by 30 ft. instead.      |
@@ -69,7 +70,7 @@ At 21st level, your body transforms to embody the spirits of the dragons you hon
 
 
 ### Maw, Claw, and Tail
-Starting at 22nd level, you deal an additional 2d6 damage, the type of which corresponds to your Dragon Ancestry, when you hit a target with an attack. Additionally, once per turn, when you hit a creature, you can knock the target prone or grapple it (escape DC equal to 8 + your Constitution modifier + your proficiency bonus).
+Starting at 22nd level, you deal an additional 2d6 damage, the type of which corresponds to your Dragon Ancestry, when you hit a target with an attack. Additionally, once per turn when you hit a creature, you can knock the target prone or grapple it (escape DC equal to 8 + your Constitution modifier + your proficiency bonus).
 
 ### Draconic Ability Score Improvement					
 At 23rd level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. These ASI options can increase a score over 20.
@@ -83,7 +84,7 @@ At 25th level, you better embody your draconic nature. The abilities from Dracon
 | Name |  Improvement |
 |:------|:-------|
 |Draconic Flight| When your fly speed reaches  90 ft., you do not provoke attacks of opportunity while flying. When it reaches 120 ft., you benefit from the effects of the Freedom of Movement spell.     |
-| Breath Weapon | You can expend 2-4 Draconic Essence per round you charge this ability. |
+| Breath Weapon | You can spend 2 or 3 Draconic Essence per round you charge this ability. |
 | Claw of the Wyrm | You can spend an additional Draconic Essence to make an additional Claw attack.  |
-| Frightful Presence      | You may choose to charm enemies instead of frightening them. While charmed, they will not harm you or your allies. You can direct a charmed creature to take an action of your choice (no action required). If they fail a Wisdom saving throw, they will carry out the command to the best of their ability on their next turn. If they succeed the saving throw, your Frightful Presence effect on them ends.       |
+| Frightful Presence      | You may choose to charm enemies instead of frightening them. While charmed, they will not harm you or your allies. When a creature charmed by this ability starts its turn, you can force a charmed creature to make a Wisdom saving throw (no action required).  If they fail, they will carry out the command to the best of their ability. If they succeed the saving throw, your Frightful Presence effect on them ends.       |
 | Draconic Constitution     |  When you use Draconic Constitution, as a reaction to being hit by an attack, you can spend 2 Draconic Essence to harden your scales. Until the start of your next turn, you add your Constitution modifier to your AC, including against the triggering attack.   |
