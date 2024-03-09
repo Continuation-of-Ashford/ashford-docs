@@ -42,6 +42,8 @@ You have studied one cantrip, taking apart its inner workings and reassembling i
 - When you damage a creature using that cantrip, you can move the target creature up to 10 feet directly towards or away from you.
 - Instead of scaling through dealing an additional damage dice, the chosen cantrip now scales through gaining the ability to target an additional enemy.
 
+I.e., when you cast firebolt, instead of one spell attack that deals 4d10 fire damage, you make four spell attacks that deal 1d10 + spellcasting modifier damage and can each move the creature.
+
 Alternatively, you can choose a cantrip from the following list. You must know the chosen cantrip. You then grant the chosen cantrip the following benefits.
 
 <div class='classTable'>

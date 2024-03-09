@@ -93,7 +93,7 @@ After using either option for this Command, the creature no longer benefits from
 - 1 minute (outside of initiative) or 1 bonus action (inside initiative)
 - Instantaneous (outside of initiative) or 1 minute (inside initiative)
 
-You can order those under your command to move at supernatural speeds. Outside of initiative, you can cast the Teleport spell targeting your Legionnaires and a number of your other allies up to your proficiency bonus.
+You can order those under your command to move at supernatural speeds. Outside of initiative, you can cast the Teleport spell (no components or spell slot required) targeting your Legionnaires and a number of your other allies up to your proficiency bonus.
 When used inside initiative, choose your Legionnaires and a number of your other allies up to your proficiency bonus to benefit from this command. A creature that benefits from this command can take the Disengage and Dash actions at the same time as a bonus action.
 
 
